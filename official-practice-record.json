@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "asOfSession": "2026-10-01",
-  "asOfAt": 1790899286982,
+  "asOfAt": 1790899538969,
   "sessionStatus": "in-progress",
-  "publishedAt": 1790899286982,
+  "publishedAt": 1790899538969,
   "startingCash": 10000,
   "valuationNote": "Includes recorded activity since 2026-10-02 through the time shown. Today's session is still open; open positions use the latest saved practice price.",
   "rows": [
@@ -124,6 +124,25 @@
     {
       "styleId": "five-boxes",
       "name": "Five Boxes",
+      "kind": "official",
+      "startedOn": "2026-10-02",
+      "startingCash": 10000,
+      "equity": 10000,
+      "upDollars": 0,
+      "upPct": 0,
+      "trades": 0,
+      "winPct": null,
+      "open": 0,
+      "positions": [],
+      "lastTrade": null,
+      "activity": {
+        "entries": 0,
+        "exits": 0
+      }
+    },
+    {
+      "styleId": "five-degrees-regular",
+      "name": "Five Degrees Regular Hours",
       "kind": "official",
       "startedOn": "2026-10-02",
       "startingCash": 10000,
