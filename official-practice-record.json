@@ -1,127 +1,144 @@
 {
   "schemaVersion": 1,
-  "asOfSession": "2026-09-29",
-  "asOfAt": 1790711124628,
+  "asOfSession": "2026-10-01",
+  "asOfAt": 1790899286982,
   "sessionStatus": "in-progress",
-  "publishedAt": 1790711124628,
+  "publishedAt": 1790899286982,
   "startingCash": 10000,
-  "valuationNote": "Includes September 28 and today's activity through the time shown. Today's session is still open; open positions use the latest saved practice price.",
+  "valuationNote": "Includes recorded activity since 2026-10-02 through the time shown. Today's session is still open; open positions use the latest saved practice price.",
   "rows": [
     {
       "styleId": "morning-box",
       "name": "Morning Box",
       "kind": "official",
-      "startedOn": "2026-09-28",
+      "startedOn": "2026-10-02",
       "startingCash": 10000,
-      "equity": 10014.76,
-      "upDollars": 14.76,
-      "upPct": 0.1,
-      "trades": 1,
-      "winPct": 100,
+      "equity": 10000,
+      "upDollars": 0,
+      "upPct": 0,
+      "trades": 0,
+      "winPct": null,
       "open": 0,
       "positions": [],
-      "lastTrade": {
-        "symbol": "IOVA",
-        "pnlDollars": 14.76,
-        "pnlPct": 1.5,
-        "at": 1790691473192,
-        "result": "up"
-      },
+      "lastTrade": null,
       "activity": {
-        "entries": 1,
-        "exits": 1
+        "entries": 0,
+        "exits": 0
       }
     },
     {
       "styleId": "pattern-follow",
       "name": "Pattern Follow",
       "kind": "official",
-      "startedOn": "2026-09-28",
+      "startedOn": "2026-10-02",
       "startingCash": 10000,
-      "equity": 9935.34,
-      "upDollars": -64.66,
-      "upPct": -0.6,
-      "trades": 1,
-      "winPct": 0,
+      "equity": 10000,
+      "upDollars": 0,
+      "upPct": 0,
+      "trades": 0,
+      "winPct": null,
       "open": 0,
       "positions": [],
-      "lastTrade": {
-        "symbol": "NAUT",
-        "pnlDollars": -64.66,
-        "pnlPct": -4,
-        "at": 1790709926654,
-        "result": "down"
-      },
+      "lastTrade": null,
       "activity": {
-        "entries": 1,
-        "exits": 1
+        "entries": 0,
+        "exits": 0
       }
     },
     {
       "styleId": "deal-day-pivot",
       "name": "Deal Day Pivot",
       "kind": "official",
-      "startedOn": "2026-09-28",
+      "startedOn": "2026-10-02",
       "startingCash": 10000,
-      "equity": 10095.93,
-      "upDollars": 95.93,
-      "upPct": 1,
-      "trades": 48,
-      "winPct": 23,
-      "open": 2,
-      "positions": [
-        {
-          "symbol": "CCL",
-          "shares": 20,
-          "entryPrice": 24.899999618530273,
-          "lastPrice": 25.184999465942383
-        },
-        {
-          "symbol": "AXTI",
-          "shares": 6,
-          "entryPrice": 77.9800033569336,
-          "lastPrice": 78.73999786376953
-        }
-      ],
-      "lastTrade": {
-        "symbol": "TURB",
-        "pnlDollars": -25.36,
-        "pnlPct": -5,
-        "at": 1790707923991,
-        "result": "down"
-      },
+      "equity": 10000,
+      "upDollars": 0,
+      "upPct": 0,
+      "trades": 0,
+      "winPct": null,
+      "open": 0,
+      "positions": [],
+      "lastTrade": null,
       "activity": {
-        "entries": 50,
-        "exits": 48
+        "entries": 0,
+        "exits": 0
       }
     },
     {
       "styleId": "five-percent",
-      "name": "five percent",
+      "name": "Five Degrees",
       "kind": "official",
-      "startedOn": "2026-09-28",
+      "startedOn": "2026-10-02",
       "startingCash": 10000,
-      "equity": 12476.42,
-      "upDollars": 2476.42,
-      "upPct": 24.8,
-      "trades": 26,
-      "winPct": 65,
+      "equity": 10000,
+      "upDollars": 0,
+      "upPct": 0,
+      "trades": 0,
+      "winPct": null,
       "open": 0,
       "positions": [],
-      "lastTrade": {
-        "symbol": "CCL",
-        "pnlDollars": -5.95,
-        "pnlPct": -0.3,
-        "at": 1790709030824,
-        "result": "down"
-      },
+      "lastTrade": null,
       "activity": {
-        "entries": 26,
-        "exits": 26
-      },
-      "provisional": true,
-      "qualification": "Shown while its carried practice record remains positive.",
-      "note": "Provisional: stays on the official record while its carried result remains green."
+        "entries": 0,
+        "exits": 0
+      }
+    },
+    {
+      "styleId": "five-pivots",
+      "name": "Five Pivots",
+      "kind": "official",
+      "startedOn": "2026-10-02",
+      "startingCash": 10000,
+      "equity": 10000,
+      "upDollars": 0,
+      "upPct": 0,
+      "trades": 0,
+      "winPct": null,
+      "open": 0,
+      "positions": [],
+      "lastTrade": null,
+      "activity": {
+        "entries": 0,
+        "exits": 0
+      }
+    },
+    {
+      "styleId": "five-patterns",
+      "name": "Five Patterns",
+      "kind": "official",
+      "startedOn": "2026-10-02",
+      "startingCash": 10000,
+      "equity": 10000,
+      "upDollars": 0,
+      "upPct": 0,
+      "trades": 0,
+      "winPct": null,
+      "open": 0,
+      "positions": [],
+      "lastTrade": null,
+      "activity": {
+        "entries": 0,
+        "exits": 0
+      }
+    },
+    {
+      "styleId": "five-boxes",
+      "name": "Five Boxes",
+      "kind": "official",
+      "startedOn": "2026-10-02",
+      "startingCash": 10000,
+      "equity": 10000,
+      "upDollars": 0,
+      "upPct": 0,
+      "trades": 0,
+      "winPct": null,
+      "open": 0,
+      "positions": [],
+      "lastTrade": null,
+      "activity": {
+        "entries": 0,
+        "exits": 0
+      }
     }
   ]
 }
