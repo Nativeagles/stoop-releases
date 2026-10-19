@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-19",
- "asOfAt": 1792445429086,
+ "asOfAt": 1792446331015,
  "sessionStatus": "in-progress",
- "publishedAt": 1792445429086,
+ "publishedAt": 1792446331015,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10172.01,
-   "upDollars": 172.01,
+   "equity": 10172.98,
+   "upDollars": 172.98,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.58
+     "lastPrice": 19.5994
     }
    ],
    "lastTrade": null
@@ -60,64 +60,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-full",
-   "name": "Cookie Monster (all readings)",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 10025.35,
-   "upDollars": 25.35,
-   "upPct": 0.3,
-   "trades": 0,
-   "winPct": null,
-   "open": 7,
-   "positions": [
-    {
-     "symbol": "EOSE",
-     "shares": 503,
-     "entryPrice": 1.97,
-     "lastPrice": 1.81
-    },
-    {
-     "symbol": "AXTI",
-     "shares": 17,
-     "entryPrice": 57.81,
-     "lastPrice": 57.11
-    },
-    {
-     "symbol": "CLF",
-     "shares": 71,
-     "entryPrice": 13.87,
-     "lastPrice": 14.14
-    },
-    {
-     "symbol": "NAUT",
-     "shares": 410,
-     "entryPrice": 2.44,
-     "lastPrice": 2.63
-    },
-    {
-     "symbol": "ARQT",
-     "shares": 30,
-     "entryPrice": 32.79,
-     "lastPrice": 32.2
-    },
-    {
-     "symbol": "ANNX",
-     "shares": 256,
-     "entryPrice": 3.88,
-     "lastPrice": 4.06
-    },
-    {
-     "symbol": "RBBN",
-     "shares": 334,
-     "entryPrice": 1.52,
-     "lastPrice": 1.4969
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "short-lane-rebreak3",
    "name": "PRETEND - Short the third breakout",
    "kind": "official",
@@ -130,6 +72,64 @@
    "winPct": 67,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-full",
+   "name": "Cookie Monster (all readings)",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 10010.34,
+   "upDollars": 10.34,
+   "upPct": 0.1,
+   "trades": 0,
+   "winPct": null,
+   "open": 7,
+   "positions": [
+    {
+     "symbol": "EOSE",
+     "shares": 503,
+     "entryPrice": 1.97,
+     "lastPrice": 1.8001
+    },
+    {
+     "symbol": "AXTI",
+     "shares": 17,
+     "entryPrice": 57.81,
+     "lastPrice": 57.11
+    },
+    {
+     "symbol": "CLF",
+     "shares": 71,
+     "entryPrice": 13.87,
+     "lastPrice": 14.15
+    },
+    {
+     "symbol": "NAUT",
+     "shares": 410,
+     "entryPrice": 2.44,
+     "lastPrice": 2.64
+    },
+    {
+     "symbol": "ARQT",
+     "shares": 30,
+     "entryPrice": 32.79,
+     "lastPrice": 32.32
+    },
+    {
+     "symbol": "ANNX",
+     "shares": 256,
+     "entryPrice": 3.88,
+     "lastPrice": 4.01
+    },
+    {
+     "symbol": "RBBN",
+     "shares": 334,
+     "entryPrice": 1.52,
+     "lastPrice": 1.48
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -248,8 +248,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9962.54,
-   "upDollars": -37.46,
+   "equity": 9961.71,
+   "upDollars": -38.29,
    "upPct": -0.4,
    "trades": 141,
    "winPct": 43,
@@ -259,13 +259,13 @@
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 82.75,
-     "lastPrice": 81.92
+     "lastPrice": 81.995
     },
     {
      "symbol": "BSX",
      "shares": 21,
      "entryPrice": 44.21,
-     "lastPrice": 45.07
+     "lastPrice": 45.08
     },
     {
      "symbol": "NOW",
@@ -277,43 +277,43 @@
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 92.6999
+     "lastPrice": 92.66
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 92.94,
-     "lastPrice": 92.75
+     "lastPrice": 92.69
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 106.58,
-     "lastPrice": 106.65
+     "lastPrice": 106.6
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.68,
-     "lastPrice": 143.9436
+     "lastPrice": 143.9
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 93.55,
-     "lastPrice": 93.4699
+     "lastPrice": 93.4512
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 121.87,
-     "lastPrice": 121.85
+     "lastPrice": 121.8493
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 147.36,
-     "lastPrice": 147.36
+     "lastPrice": 147.35
     }
    ],
    "lastTrade": null
@@ -744,8 +744,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8614.57,
-   "upDollars": -1385.43,
+   "equity": 8607.51,
+   "upDollars": -1392.49,
    "upPct": -13.9,
    "trades": 37,
    "winPct": 24,
@@ -755,7 +755,7 @@
      "symbol": "FUFU",
      "shares": 685,
      "entryPrice": 1.26,
-     "lastPrice": 1.3003
+     "lastPrice": 1.29
     }
    ],
    "lastTrade": null
