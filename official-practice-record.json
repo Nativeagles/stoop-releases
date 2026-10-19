@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-19",
- "asOfAt": 1792449036866,
+ "asOfAt": 1792449938925,
  "sessionStatus": "in-progress",
- "publishedAt": 1792449036866,
+ "publishedAt": 1792449938925,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10171.3,
-   "upDollars": 171.3,
+   "equity": 10171.51,
+   "upDollars": 171.51,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.5657
+     "lastPrice": 19.57
     }
    ],
    "lastTrade": null
@@ -65,8 +65,8 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 10026.54,
-   "upDollars": 26.54,
+   "equity": 10031.34,
+   "upDollars": 31.34,
    "upPct": 0.3,
    "trades": 1,
    "winPct": 0,
@@ -76,13 +76,13 @@
      "symbol": "AXTI",
      "shares": 17,
      "entryPrice": 57.81,
-     "lastPrice": 57.55
+     "lastPrice": 57.6
     },
     {
      "symbol": "CLF",
      "shares": 71,
      "entryPrice": 13.87,
-     "lastPrice": 14.1884
+     "lastPrice": 14.15
     },
     {
      "symbol": "NAUT",
@@ -106,7 +106,7 @@
      "symbol": "RBBN",
      "shares": 334,
      "entryPrice": 1.52,
-     "lastPrice": 1.48
+     "lastPrice": 1.5
     }
    ],
    "lastTrade": null
@@ -242,9 +242,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9967.82,
-   "upDollars": -32.18,
-   "upPct": -0.3,
+   "equity": 9964.64,
+   "upDollars": -35.36,
+   "upPct": -0.4,
    "trades": 141,
    "winPct": 43,
    "open": 10,
@@ -253,13 +253,13 @@
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 82.75,
-     "lastPrice": 82
+     "lastPrice": 81.9604
     },
     {
      "symbol": "BSX",
      "shares": 21,
      "entryPrice": 44.21,
-     "lastPrice": 45.091
+     "lastPrice": 45.02
     },
     {
      "symbol": "NOW",
@@ -271,25 +271,25 @@
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 92.66
+     "lastPrice": 92.68
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 92.94,
-     "lastPrice": 93.02
+     "lastPrice": 92.89
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 106.58,
-     "lastPrice": 106.6988
+     "lastPrice": 106.6999
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.68,
-     "lastPrice": 143.9366
+     "lastPrice": 143.7001
     },
     {
      "symbol": "KO",
@@ -301,13 +301,13 @@
      "symbol": "C",
      "shares": 8,
      "entryPrice": 121.87,
-     "lastPrice": 121.869
+     "lastPrice": 121.9
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 147.36,
-     "lastPrice": 147.35
+     "lastPrice": 147.5
     }
    ],
    "lastTrade": null
