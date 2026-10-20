@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-20",
- "asOfAt": 1792500391821,
+ "asOfAt": 1792501294153,
  "sessionStatus": "in-progress",
- "publishedAt": 1792500391821,
+ "publishedAt": 1792501294153,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -23,35 +23,13 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10180.9,
-   "upDollars": 180.9,
-   "upPct": 1.8,
-   "trades": 3,
-   "winPct": 33,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "WORX",
-     "shares": 131,
-     "entryPrice": 3.89,
-     "lastPrice": 4.09
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-takeoff",
    "name": "Takeoff",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10173,
-   "upDollars": 173,
+   "equity": 10172.67,
+   "upDollars": 172.67,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -67,7 +45,105 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.49
+     "lastPrice": 45.46
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10154.72,
+   "upDollars": 154.72,
+   "upPct": 1.5,
+   "trades": 3,
+   "winPct": 33,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "WORX",
+     "shares": 131,
+     "entryPrice": 3.89,
+     "lastPrice": 3.8901
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10005.07,
+   "upDollars": 5.07,
+   "upPct": 0.1,
+   "trades": 141,
+   "winPct": 43,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "WFC",
+     "shares": 11,
+     "entryPrice": 82.75,
+     "lastPrice": 81.81
+    },
+    {
+     "symbol": "BSX",
+     "shares": 21,
+     "entryPrice": 44.21,
+     "lastPrice": 45.45
+    },
+    {
+     "symbol": "NOW",
+     "shares": 6,
+     "entryPrice": 148.31,
+     "lastPrice": 147.21
+    },
+    {
+     "symbol": "CVS",
+     "shares": 9,
+     "entryPrice": 92.43,
+     "lastPrice": 93.6
+    },
+    {
+     "symbol": "MDT",
+     "shares": 9,
+     "entryPrice": 92.94,
+     "lastPrice": 93.45
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 9,
+     "entryPrice": 106.58,
+     "lastPrice": 106.42
+    },
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 143.68,
+     "lastPrice": 144.8
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 93.55,
+     "lastPrice": 93.92
+    },
+    {
+     "symbol": "C",
+     "shares": 8,
+     "entryPrice": 121.87,
+     "lastPrice": 121.6756
+    },
+    {
+     "symbol": "TJX",
+     "shares": 6,
+     "entryPrice": 147.36,
+     "lastPrice": 147.68
     }
    ],
    "lastTrade": null
@@ -119,82 +195,6 @@
    "winPct": null,
    "open": 0,
    "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10003.75,
-   "upDollars": 3.75,
-   "upPct": 0,
-   "trades": 141,
-   "winPct": 43,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "WFC",
-     "shares": 11,
-     "entryPrice": 82.75,
-     "lastPrice": 81.69
-    },
-    {
-     "symbol": "BSX",
-     "shares": 21,
-     "entryPrice": 44.21,
-     "lastPrice": 45.45
-    },
-    {
-     "symbol": "NOW",
-     "shares": 6,
-     "entryPrice": 148.31,
-     "lastPrice": 146.8
-    },
-    {
-     "symbol": "CVS",
-     "shares": 9,
-     "entryPrice": 92.43,
-     "lastPrice": 93.4
-    },
-    {
-     "symbol": "MDT",
-     "shares": 9,
-     "entryPrice": 92.94,
-     "lastPrice": 93.6082
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 106.58,
-     "lastPrice": 106.39
-    },
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 143.68,
-     "lastPrice": 144.75
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 93.55,
-     "lastPrice": 93.9
-    },
-    {
-     "symbol": "C",
-     "shares": 8,
-     "entryPrice": 121.87,
-     "lastPrice": 121.7
-    },
-    {
-     "symbol": "TJX",
-     "shares": 6,
-     "entryPrice": 147.36,
-     "lastPrice": 148.25
-    }
-   ],
    "lastTrade": null
   },
   {
@@ -264,9 +264,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 9956.93,
-   "upDollars": -43.07,
-   "upPct": -0.4,
+   "equity": 9950.93,
+   "upDollars": -49.07,
+   "upPct": -0.5,
    "trades": 9,
    "winPct": 67,
    "open": 1,
@@ -275,7 +275,7 @@
      "symbol": "FRTT (short)",
      "shares": -750,
      "entryPrice": 0.6682659,
-     "lastPrice": 0.7619
+     "lastPrice": 0.7699
     }
    ],
    "lastTrade": null
@@ -373,58 +373,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-full",
-   "name": "Cookie Monster (all readings)",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9889.28,
-   "upDollars": -110.72,
-   "upPct": -1.1,
-   "trades": 1,
-   "winPct": 0,
-   "open": 6,
-   "positions": [
-    {
-     "symbol": "AXTI",
-     "shares": 17,
-     "entryPrice": 57.81,
-     "lastPrice": 54.52
-    },
-    {
-     "symbol": "CLF",
-     "shares": 71,
-     "entryPrice": 13.87,
-     "lastPrice": 13.76
-    },
-    {
-     "symbol": "NAUT",
-     "shares": 410,
-     "entryPrice": 2.44,
-     "lastPrice": 2.5589
-    },
-    {
-     "symbol": "ARQT",
-     "shares": 30,
-     "entryPrice": 32.79,
-     "lastPrice": 31.87
-    },
-    {
-     "symbol": "ANNX",
-     "shares": 256,
-     "entryPrice": 3.88,
-     "lastPrice": 4.0099
-    },
-    {
-     "symbol": "RBBN",
-     "shares": 334,
-     "entryPrice": 1.52,
-     "lastPrice": 1.48
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -496,6 +444,58 @@
      "shares": 17,
      "entryPrice": 57.9,
      "lastPrice": 57.875
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-full",
+   "name": "Cookie Monster (all readings)",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9882.21,
+   "upDollars": -117.79,
+   "upPct": -1.2,
+   "trades": 1,
+   "winPct": 0,
+   "open": 6,
+   "positions": [
+    {
+     "symbol": "AXTI",
+     "shares": 17,
+     "entryPrice": 57.81,
+     "lastPrice": 54.51
+    },
+    {
+     "symbol": "CLF",
+     "shares": 71,
+     "entryPrice": 13.87,
+     "lastPrice": 13.76
+    },
+    {
+     "symbol": "NAUT",
+     "shares": 410,
+     "entryPrice": 2.44,
+     "lastPrice": 2.54
+    },
+    {
+     "symbol": "ARQT",
+     "shares": 30,
+     "entryPrice": 32.79,
+     "lastPrice": 31.9
+    },
+    {
+     "symbol": "ANNX",
+     "shares": 256,
+     "entryPrice": 3.88,
+     "lastPrice": 4.0097
+    },
+    {
+     "symbol": "RBBN",
+     "shares": 334,
+     "entryPrice": 1.52,
+     "lastPrice": 1.48
     }
    ],
    "lastTrade": null
@@ -773,20 +773,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6609.06,
-   "upDollars": -3390.94,
+   "equity": 6607.52,
+   "upDollars": -3392.48,
    "upPct": -33.9,
-   "trades": 28,
-   "winPct": 11,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "BRZE",
-     "shares": 14,
-     "entryPrice": 45.49,
-     "lastPrice": 45.5
-    }
-   ],
+   "trades": 29,
+   "winPct": 10,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
