@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-20",
- "asOfAt": 1792485060650,
+ "asOfAt": 1792485962410,
  "sessionStatus": "in-progress",
- "publishedAt": 1792485060650,
+ "publishedAt": 1792485962410,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -23,35 +23,13 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10188.87,
-   "upDollars": 188.87,
-   "upPct": 1.9,
-   "trades": 3,
-   "winPct": 33,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "WORX",
-     "shares": 131,
-     "entryPrice": 3.89,
-     "lastPrice": 4.1508
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-takeoff",
    "name": "Takeoff",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10172.01,
-   "upDollars": 172.01,
+   "equity": 10172.51,
+   "upDollars": 172.51,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -61,7 +39,29 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.58
+     "lastPrice": 19.59
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10133.68,
+   "upDollars": 133.68,
+   "upPct": 1.3,
+   "trades": 3,
+   "winPct": 33,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "WORX",
+     "shares": 131,
+     "entryPrice": 3.89,
+     "lastPrice": 3.7295
     }
    ],
    "lastTrade": null
@@ -136,8 +136,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10001.45,
-   "upDollars": 1.45,
+   "equity": 10001.93,
+   "upDollars": 1.93,
    "upPct": 0,
    "trades": 141,
    "winPct": 43,
@@ -153,13 +153,13 @@
      "symbol": "BSX",
      "shares": 21,
      "entryPrice": 44.21,
-     "lastPrice": 45.21
+     "lastPrice": 45.26
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 148.31,
-     "lastPrice": 146.3
+     "lastPrice": 146.28
     },
     {
      "symbol": "CVS",
@@ -177,7 +177,7 @@
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 106.58,
-     "lastPrice": 106.5
+     "lastPrice": 106.55
     },
     {
      "symbol": "MRK",
@@ -189,7 +189,7 @@
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 93.55,
-     "lastPrice": 94.02
+     "lastPrice": 93.93
     },
     {
      "symbol": "C",
@@ -273,9 +273,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9962.23,
-   "upDollars": -37.77,
-   "upPct": -0.4,
+   "equity": 9950.79,
+   "upDollars": -49.21,
+   "upPct": -0.5,
    "trades": 1,
    "winPct": 0,
    "open": 6,
@@ -284,19 +284,19 @@
      "symbol": "AXTI",
      "shares": 17,
      "entryPrice": 57.81,
-     "lastPrice": 54.68
+     "lastPrice": 54.72
     },
     {
      "symbol": "CLF",
      "shares": 71,
      "entryPrice": 13.87,
-     "lastPrice": 13.97
+     "lastPrice": 13.87
     },
     {
      "symbol": "NAUT",
      "shares": 410,
      "entryPrice": 2.44,
-     "lastPrice": 2.58
+     "lastPrice": 2.5865
     },
     {
      "symbol": "ARQT",
@@ -308,7 +308,7 @@
      "symbol": "ANNX",
      "shares": 256,
      "entryPrice": 3.88,
-     "lastPrice": 4.1
+     "lastPrice": 4.07
     },
     {
      "symbol": "RBBN",
@@ -745,20 +745,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8487.69,
-   "upDollars": -1512.31,
-   "upPct": -15.1,
-   "trades": 39,
-   "winPct": 26,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "WORX",
-     "shares": 217,
-     "entryPrice": 3.89,
-     "lastPrice": 4.1508
-    }
-   ],
+   "equity": 8452.8,
+   "upDollars": -1547.2,
+   "upPct": -15.5,
+   "trades": 40,
+   "winPct": 28,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -767,20 +760,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7087.48,
-   "upDollars": -2912.52,
-   "upPct": -29.1,
-   "trades": 22,
-   "winPct": 14,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "WORX",
-     "shares": 181,
-     "entryPrice": 3.89,
-     "lastPrice": 4.1508
-    }
-   ],
+   "equity": 7036.66,
+   "upDollars": -2963.34,
+   "upPct": -29.6,
+   "trades": 23,
+   "winPct": 13,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
