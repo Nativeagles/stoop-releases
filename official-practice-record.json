@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-20",
- "asOfAt": 1792492275170,
+ "asOfAt": 1792493177359,
  "sessionStatus": "in-progress",
- "publishedAt": 1792492275170,
+ "publishedAt": 1792493177359,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10171.56,
-   "upDollars": 171.56,
+   "equity": 10172.01,
+   "upDollars": 172.01,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.571
+     "lastPrice": 19.58
     }
    ],
    "lastTrade": null
@@ -50,9 +50,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10138.98,
-   "upDollars": 138.98,
-   "upPct": 1.4,
+   "equity": 10161.08,
+   "upDollars": 161.08,
+   "upPct": 1.6,
    "trades": 3,
    "winPct": 33,
    "open": 1,
@@ -61,7 +61,7 @@
      "symbol": "WORX",
      "shares": 131,
      "entryPrice": 3.89,
-     "lastPrice": 3.77
+     "lastPrice": 3.9387
     }
    ],
    "lastTrade": null
@@ -136,8 +136,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9996.28,
-   "upDollars": -3.72,
+   "equity": 9997.8,
+   "upDollars": -2.2,
    "upPct": 0,
    "trades": 141,
    "winPct": 43,
@@ -153,19 +153,19 @@
      "symbol": "BSX",
      "shares": 21,
      "entryPrice": 44.21,
-     "lastPrice": 45.35
+     "lastPrice": 45.25
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 148.31,
-     "lastPrice": 147.2
+     "lastPrice": 146.91
     },
     {
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 93.25
+     "lastPrice": 93.39
     },
     {
      "symbol": "MDT",
@@ -177,7 +177,7 @@
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 106.58,
-     "lastPrice": 106.44
+     "lastPrice": 106.2
     },
     {
      "symbol": "MRK",
@@ -189,13 +189,13 @@
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 93.55,
-     "lastPrice": 94.08
+     "lastPrice": 94.05
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 121.87,
-     "lastPrice": 121.25
+     "lastPrice": 122.07
     },
     {
      "symbol": "TJX",
@@ -313,9 +313,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9918.5,
-   "upDollars": -81.5,
-   "upPct": -0.8,
+   "equity": 9912.02,
+   "upDollars": -87.98,
+   "upPct": -0.9,
    "trades": 1,
    "winPct": 0,
    "open": 6,
@@ -324,7 +324,7 @@
      "symbol": "AXTI",
      "shares": 17,
      "entryPrice": 57.81,
-     "lastPrice": 54.3
+     "lastPrice": 54.16
     },
     {
      "symbol": "CLF",
@@ -336,7 +336,7 @@
      "symbol": "NAUT",
      "shares": 410,
      "entryPrice": 2.44,
-     "lastPrice": 2.56
+     "lastPrice": 2.55
     },
     {
      "symbol": "ARQT",
