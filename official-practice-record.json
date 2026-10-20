@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-20",
- "asOfAt": 1792536640086,
+ "asOfAt": 1792537543121,
  "sessionStatus": "in-progress",
- "publishedAt": 1792536640086,
+ "publishedAt": 1792537543121,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10174.9,
-   "upDollars": 174.9,
-   "upPct": 1.7,
+   "equity": 10175,
+   "upDollars": 175,
+   "upPct": 1.8,
    "trades": 3,
    "winPct": 67,
    "open": 2,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.4807
+     "lastPrice": 45.49
     }
    ],
    "lastTrade": null
@@ -56,10 +56,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10120.56,
-   "upDollars": 120.56,
+   "equity": 10121.98,
+   "upDollars": 121.98,
    "upPct": 1.2,
-   "trades": 152,
+   "trades": 153,
    "winPct": 45,
    "open": 10,
    "positions": [
@@ -67,7 +67,7 @@
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 94.48
+     "lastPrice": 94.52
     },
     {
      "symbol": "UBER",
@@ -79,37 +79,37 @@
      "symbol": "T",
      "shares": 40,
      "entryPrice": 23.42,
-     "lastPrice": 23.6
+     "lastPrice": 23.59
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 134.01,
-     "lastPrice": 133.2
+     "lastPrice": 133.12
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.43,
-     "lastPrice": 80.36
+     "lastPrice": 80.35
     },
     {
      "symbol": "BABA",
      "shares": 8,
      "entryPrice": 108.63,
-     "lastPrice": 108.955
+     "lastPrice": 109.12
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 78.89,
-     "lastPrice": 78.91
+     "lastPrice": 78.9099
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 99.12,
-     "lastPrice": 99
+     "lastPrice": 98.8797
     },
     {
      "symbol": "SCHW",
@@ -118,10 +118,10 @@
      "lastPrice": 91.06
     },
     {
-     "symbol": "SPCX",
-     "shares": 6,
-     "entryPrice": 155.12,
-     "lastPrice": 159.05
+     "symbol": "INTC",
+     "shares": 10,
+     "entryPrice": 94.85,
+     "lastPrice": 94.53
     }
    ],
    "lastTrade": null
@@ -476,9 +476,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9917.6,
-   "upDollars": -82.4,
-   "upPct": -0.8,
+   "equity": 9908.22,
+   "upDollars": -91.78,
+   "upPct": -0.9,
    "trades": 1,
    "winPct": 0,
    "open": 6,
@@ -487,19 +487,19 @@
      "symbol": "AXTI",
      "shares": 17,
      "entryPrice": 57.81,
-     "lastPrice": 59.94
+     "lastPrice": 59.64
     },
     {
      "symbol": "CLF",
      "shares": 71,
      "entryPrice": 13.87,
-     "lastPrice": 13.6891
+     "lastPrice": 13.6501
     },
     {
      "symbol": "NAUT",
      "shares": 410,
      "entryPrice": 2.44,
-     "lastPrice": 2.57
+     "lastPrice": 2.5418
     },
     {
      "symbol": "ARQT",
@@ -517,7 +517,7 @@
      "symbol": "RBBN",
      "shares": 334,
      "entryPrice": 1.52,
-     "lastPrice": 1.41
+     "lastPrice": 1.4401
     }
    ],
    "lastTrade": null
