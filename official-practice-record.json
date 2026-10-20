@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-20",
- "asOfAt": 1792494079325,
+ "asOfAt": 1792494981078,
  "sessionStatus": "in-progress",
- "publishedAt": 1792494079325,
+ "publishedAt": 1792494981078,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -23,13 +23,35 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10182.21,
+   "upDollars": 182.21,
+   "upPct": 1.8,
+   "trades": 3,
+   "winPct": 33,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "WORX",
+     "shares": 131,
+     "entryPrice": 3.89,
+     "lastPrice": 4.1
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-takeoff",
    "name": "Takeoff",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10171.51,
-   "upDollars": 171.51,
+   "equity": 10171.52,
+   "upDollars": 171.52,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -39,29 +61,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.57
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10135.66,
-   "upDollars": 135.66,
-   "upPct": 1.4,
-   "trades": 3,
-   "winPct": 33,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "WORX",
-     "shares": 131,
-     "entryPrice": 3.89,
-     "lastPrice": 3.7446
+     "lastPrice": 19.5701
     }
    ],
    "lastTrade": null
@@ -136,8 +136,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10001.26,
-   "upDollars": 1.26,
+   "equity": 9995.09,
+   "upDollars": -4.91,
    "upPct": 0,
    "trades": 141,
    "winPct": 43,
@@ -147,7 +147,7 @@
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 82.75,
-     "lastPrice": 81.74
+     "lastPrice": 82.15
     },
     {
      "symbol": "BSX",
@@ -159,49 +159,49 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 148.31,
-     "lastPrice": 146.92
+     "lastPrice": 147
     },
     {
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 93.39
+     "lastPrice": 92.68
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 92.94,
-     "lastPrice": 93.45
+     "lastPrice": 93.15
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 106.58,
-     "lastPrice": 106.4
+     "lastPrice": 106.19
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.68,
-     "lastPrice": 144.65
+     "lastPrice": 144.67
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 93.55,
-     "lastPrice": 94.06
+     "lastPrice": 94.18
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 121.87,
-     "lastPrice": 122.07
+     "lastPrice": 122
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 147.36,
-     "lastPrice": 147.9
+     "lastPrice": 147.744
     }
    ],
    "lastTrade": null
@@ -268,58 +268,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-full",
-   "name": "Cookie Monster (all readings)",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9944.56,
-   "upDollars": -55.44,
-   "upPct": -0.6,
-   "trades": 1,
-   "winPct": 0,
-   "open": 6,
-   "positions": [
-    {
-     "symbol": "AXTI",
-     "shares": 17,
-     "entryPrice": 57.81,
-     "lastPrice": 54.2282
-    },
-    {
-     "symbol": "CLF",
-     "shares": 71,
-     "entryPrice": 13.87,
-     "lastPrice": 13.8254
-    },
-    {
-     "symbol": "NAUT",
-     "shares": 410,
-     "entryPrice": 2.44,
-     "lastPrice": 2.6
-    },
-    {
-     "symbol": "ARQT",
-     "shares": 30,
-     "entryPrice": 32.79,
-     "lastPrice": 32.17
-    },
-    {
-     "symbol": "ANNX",
-     "shares": 256,
-     "entryPrice": 3.88,
-     "lastPrice": 4.1
-    },
-    {
-     "symbol": "RBBN",
-     "shares": 334,
-     "entryPrice": 1.52,
-     "lastPrice": 1.5
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-nine-cross-daily",
    "name": "Five Nine Cross (daily)",
    "kind": "official",
@@ -355,6 +303,58 @@
      "shares": 24,
      "entryPrice": 40.68,
      "lastPrice": 40.605000000000004
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-full",
+   "name": "Cookie Monster (all readings)",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9907.74,
+   "upDollars": -92.26,
+   "upPct": -0.9,
+   "trades": 1,
+   "winPct": 0,
+   "open": 6,
+   "positions": [
+    {
+     "symbol": "AXTI",
+     "shares": 17,
+     "entryPrice": 57.81,
+     "lastPrice": 54.15
+    },
+    {
+     "symbol": "CLF",
+     "shares": 71,
+     "entryPrice": 13.87,
+     "lastPrice": 13.76
+    },
+    {
+     "symbol": "NAUT",
+     "shares": 410,
+     "entryPrice": 2.44,
+     "lastPrice": 2.56
+    },
+    {
+     "symbol": "ARQT",
+     "shares": 30,
+     "entryPrice": 32.79,
+     "lastPrice": 32.03
+    },
+    {
+     "symbol": "ANNX",
+     "shares": 256,
+     "entryPrice": 3.88,
+     "lastPrice": 4.06
+    },
+    {
+     "symbol": "RBBN",
+     "shares": 334,
+     "entryPrice": 1.52,
+     "lastPrice": 1.5
     }
    ],
    "lastTrade": null
@@ -715,11 +715,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9282.02,
-   "upDollars": -717.98,
-   "upPct": -7.2,
-   "trades": 18,
-   "winPct": 22,
+   "equity": 9208.78,
+   "upDollars": -791.22,
+   "upPct": -7.9,
+   "trades": 19,
+   "winPct": 21,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -760,10 +760,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6877.01,
-   "upDollars": -3122.99,
-   "upPct": -31.2,
-   "trades": 25,
+   "equity": 6822.75,
+   "upDollars": -3177.25,
+   "upPct": -31.8,
+   "trades": 26,
    "winPct": 12,
    "open": 0,
    "positions": [],
