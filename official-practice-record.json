@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-20",
- "asOfAt": 1792530313643,
+ "asOfAt": 1792531220515,
  "sessionStatus": "in-progress",
- "publishedAt": 1792530313643,
+ "publishedAt": 1792531220515,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10174.4,
-   "upDollars": 174.4,
+   "equity": 10174.79,
+   "upDollars": 174.79,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -39,13 +39,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.61
+     "lastPrice": 19.62
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.4805
+     "lastPrice": 45.4706
     }
    ],
    "lastTrade": null
@@ -71,9 +71,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10091.62,
-   "upDollars": 91.62,
-   "upPct": 0.9,
+   "equity": 10101.69,
+   "upDollars": 101.69,
+   "upPct": 1,
    "trades": 151,
    "winPct": 44,
    "open": 10,
@@ -82,61 +82,61 @@
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 94.7299
+     "lastPrice": 94.71
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 68.93,
-     "lastPrice": 69.003
+     "lastPrice": 69.06
     },
     {
      "symbol": "T",
      "shares": 40,
      "entryPrice": 23.42,
-     "lastPrice": 23.49
+     "lastPrice": 23.4
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 134.01,
-     "lastPrice": 133.85
+     "lastPrice": 133.72
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.43,
-     "lastPrice": 80.1
+     "lastPrice": 80.63
     },
     {
      "symbol": "BABA",
      "shares": 8,
      "entryPrice": 108.63,
-     "lastPrice": 108.83
+     "lastPrice": 108.8248
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 78.89,
-     "lastPrice": 78.91
+     "lastPrice": 78.99
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 99.12,
-     "lastPrice": 99.4445
+     "lastPrice": 99.23
     },
     {
      "symbol": "SCHW",
      "shares": 10,
      "entryPrice": 90.76,
-     "lastPrice": 90.9225
+     "lastPrice": 91.0988
     },
     {
      "symbol": "INTC",
      "shares": 10,
      "entryPrice": 93.56,
-     "lastPrice": 94.18
+     "lastPrice": 94.8699
     }
    ],
    "lastTrade": null
@@ -476,8 +476,8 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9909.75,
-   "upDollars": -90.25,
+   "equity": 9911,
+   "upDollars": -89,
    "upPct": -0.9,
    "trades": 1,
    "winPct": 0,
@@ -487,13 +487,13 @@
      "symbol": "AXTI",
      "shares": 17,
      "entryPrice": 57.81,
-     "lastPrice": 59
+     "lastPrice": 59.08
     },
     {
      "symbol": "CLF",
      "shares": 71,
      "entryPrice": 13.87,
-     "lastPrice": 13.6516
+     "lastPrice": 13.65
     },
     {
      "symbol": "NAUT",
@@ -810,13 +810,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8063,
-   "upDollars": -1937,
-   "upPct": -19.4,
+   "equity": 8031.89,
+   "upDollars": -1968.11,
+   "upPct": -19.7,
    "trades": 49,
    "winPct": 27,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "WFF",
+     "shares": 8642,
+     "entryPrice": 0.1,
+     "lastPrice": 0.0964
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -825,13 +832,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5997.93,
-   "upDollars": -4002.07,
-   "upPct": -40,
+   "equity": 5974.79,
+   "upDollars": -4025.21,
+   "upPct": -40.3,
    "trades": 48,
    "winPct": 13,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "WFF",
+     "shares": 6428,
+     "entryPrice": 0.1,
+     "lastPrice": 0.0964
+    }
+   ],
    "lastTrade": null
   }
  ]
