@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-20",
- "asOfAt": 1792493177359,
+ "asOfAt": 1792494079325,
  "sessionStatus": "in-progress",
- "publishedAt": 1792493177359,
+ "publishedAt": 1792494079325,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10172.01,
-   "upDollars": 172.01,
+   "equity": 10171.51,
+   "upDollars": 171.51,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.58
+     "lastPrice": 19.57
     }
    ],
    "lastTrade": null
@@ -50,9 +50,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10161.08,
-   "upDollars": 161.08,
-   "upPct": 1.6,
+   "equity": 10135.66,
+   "upDollars": 135.66,
+   "upPct": 1.4,
    "trades": 3,
    "winPct": 33,
    "open": 1,
@@ -61,7 +61,7 @@
      "symbol": "WORX",
      "shares": 131,
      "entryPrice": 3.89,
-     "lastPrice": 3.9387
+     "lastPrice": 3.7446
     }
    ],
    "lastTrade": null
@@ -136,8 +136,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9997.8,
-   "upDollars": -2.2,
+   "equity": 10001.26,
+   "upDollars": 1.26,
    "upPct": 0,
    "trades": 141,
    "winPct": 43,
@@ -159,7 +159,7 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 148.31,
-     "lastPrice": 146.91
+     "lastPrice": 146.92
     },
     {
      "symbol": "CVS",
@@ -177,19 +177,19 @@
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 106.58,
-     "lastPrice": 106.2
+     "lastPrice": 106.4
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.68,
-     "lastPrice": 144.4
+     "lastPrice": 144.65
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 93.55,
-     "lastPrice": 94.05
+     "lastPrice": 94.06
     },
     {
      "symbol": "C",
@@ -268,6 +268,58 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-full",
+   "name": "Cookie Monster (all readings)",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9944.56,
+   "upDollars": -55.44,
+   "upPct": -0.6,
+   "trades": 1,
+   "winPct": 0,
+   "open": 6,
+   "positions": [
+    {
+     "symbol": "AXTI",
+     "shares": 17,
+     "entryPrice": 57.81,
+     "lastPrice": 54.2282
+    },
+    {
+     "symbol": "CLF",
+     "shares": 71,
+     "entryPrice": 13.87,
+     "lastPrice": 13.8254
+    },
+    {
+     "symbol": "NAUT",
+     "shares": 410,
+     "entryPrice": 2.44,
+     "lastPrice": 2.6
+    },
+    {
+     "symbol": "ARQT",
+     "shares": 30,
+     "entryPrice": 32.79,
+     "lastPrice": 32.17
+    },
+    {
+     "symbol": "ANNX",
+     "shares": 256,
+     "entryPrice": 3.88,
+     "lastPrice": 4.1
+    },
+    {
+     "symbol": "RBBN",
+     "shares": 334,
+     "entryPrice": 1.52,
+     "lastPrice": 1.5
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-nine-cross-daily",
    "name": "Five Nine Cross (daily)",
    "kind": "official",
@@ -303,58 +355,6 @@
      "shares": 24,
      "entryPrice": 40.68,
      "lastPrice": 40.605000000000004
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-full",
-   "name": "Cookie Monster (all readings)",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9912.02,
-   "upDollars": -87.98,
-   "upPct": -0.9,
-   "trades": 1,
-   "winPct": 0,
-   "open": 6,
-   "positions": [
-    {
-     "symbol": "AXTI",
-     "shares": 17,
-     "entryPrice": 57.81,
-     "lastPrice": 54.16
-    },
-    {
-     "symbol": "CLF",
-     "shares": 71,
-     "entryPrice": 13.87,
-     "lastPrice": 13.7803
-    },
-    {
-     "symbol": "NAUT",
-     "shares": 410,
-     "entryPrice": 2.44,
-     "lastPrice": 2.55
-    },
-    {
-     "symbol": "ARQT",
-     "shares": 30,
-     "entryPrice": 32.79,
-     "lastPrice": 32.17
-    },
-    {
-     "symbol": "ANNX",
-     "shares": 256,
-     "entryPrice": 3.88,
-     "lastPrice": 4.07
-    },
-    {
-     "symbol": "RBBN",
-     "shares": 334,
-     "entryPrice": 1.52,
-     "lastPrice": 1.5
     }
    ],
    "lastTrade": null
