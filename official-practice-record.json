@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-20",
- "asOfAt": 1792496784465,
+ "asOfAt": 1792497686265,
  "sessionStatus": "in-progress",
- "publishedAt": 1792496784465,
+ "publishedAt": 1792497686265,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10171.58,
-   "upDollars": 171.58,
+   "equity": 10172.01,
+   "upDollars": 172.01,
    "upPct": 1.7,
    "trades": 3,
    "winPct": 67,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.5713
+     "lastPrice": 19.58
     }
    ],
    "lastTrade": null
@@ -50,9 +50,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10167.74,
-   "upDollars": 167.74,
-   "upPct": 1.7,
+   "equity": 10153.46,
+   "upDollars": 153.46,
+   "upPct": 1.5,
    "trades": 3,
    "winPct": 33,
    "open": 1,
@@ -61,24 +61,9 @@
      "symbol": "WORX",
      "shares": 131,
      "entryPrice": 3.89,
-     "lastPrice": 3.9895
+     "lastPrice": 3.8805
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 10027.15,
-   "upDollars": 27.15,
-   "upPct": 0.3,
-   "trades": 9,
-   "winPct": 67,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
@@ -116,6 +101,28 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 10010.48,
+   "upDollars": 10.48,
+   "upPct": 0.1,
+   "trades": 9,
+   "winPct": 67,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "FRTT (short)",
+     "shares": -750,
+     "entryPrice": 0.6682659,
+     "lastPrice": 0.6905
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-gap-fill",
    "name": "Gap-Down Fill",
    "kind": "official",
@@ -136,8 +143,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10002.39,
-   "upDollars": 2.39,
+   "equity": 10001.71,
+   "upDollars": 1.71,
    "upPct": 0,
    "trades": 141,
    "winPct": 43,
@@ -147,19 +154,19 @@
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 82.75,
-     "lastPrice": 82.1
+     "lastPrice": 81.7635
     },
     {
      "symbol": "BSX",
      "shares": 21,
      "entryPrice": 44.21,
-     "lastPrice": 45.35
+     "lastPrice": 45.46
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 148.31,
-     "lastPrice": 147.2
+     "lastPrice": 147.7677
     },
     {
      "symbol": "CVS",
@@ -171,7 +178,7 @@
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 92.94,
-     "lastPrice": 93.5392
+     "lastPrice": 93.54
     },
     {
      "symbol": "CSCO",
@@ -183,25 +190,25 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.68,
-     "lastPrice": 144.5968
+     "lastPrice": 144.6004
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 93.55,
-     "lastPrice": 94.04
+     "lastPrice": 94.1
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 121.87,
-     "lastPrice": 121.6765
+     "lastPrice": 121.2612
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 147.36,
-     "lastPrice": 147.6801
+     "lastPrice": 147.68
     }
    ],
    "lastTrade": null
@@ -313,9 +320,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9922.7,
-   "upDollars": -77.3,
-   "upPct": -0.8,
+   "equity": 9910.15,
+   "upDollars": -89.85,
+   "upPct": -0.9,
    "trades": 1,
    "winPct": 0,
    "open": 6,
@@ -324,31 +331,31 @@
      "symbol": "AXTI",
      "shares": 17,
      "entryPrice": 57.81,
-     "lastPrice": 54.25
+     "lastPrice": 53.95
     },
     {
      "symbol": "CLF",
      "shares": 71,
      "entryPrice": 13.87,
-     "lastPrice": 13.85
+     "lastPrice": 13.74
     },
     {
      "symbol": "NAUT",
      "shares": 410,
      "entryPrice": 2.44,
-     "lastPrice": 2.5542
+     "lastPrice": 2.56
     },
     {
      "symbol": "ARQT",
      "shares": 30,
      "entryPrice": 32.79,
-     "lastPrice": 32.338
+     "lastPrice": 32.1
     },
     {
      "symbol": "ANNX",
      "shares": 256,
      "entryPrice": 3.88,
-     "lastPrice": 4.06
+     "lastPrice": 4.08
     },
     {
      "symbol": "RBBN",
