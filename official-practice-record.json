@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792586209295,
+ "asOfAt": 1792587112069,
  "sessionStatus": "in-progress",
- "publishedAt": 1792586209295,
+ "publishedAt": 1792587112069,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10112.93,
-   "upDollars": 112.93,
+   "equity": 10112.82,
+   "upDollars": 112.82,
    "upPct": 1.1,
    "trades": 4,
    "winPct": 50,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.6039
+     "lastPrice": 19.6018
     },
     {
      "symbol": "BRZE",
@@ -71,10 +71,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10048.58,
-   "upDollars": 48.58,
+   "equity": 10053.61,
+   "upDollars": 53.61,
    "upPct": 0.5,
-   "trades": 167,
+   "trades": 168,
    "winPct": 44,
    "open": 10,
    "positions": [
@@ -82,49 +82,49 @@
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 94.3688
+     "lastPrice": 95.01
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 68.93,
-     "lastPrice": 69.13
+     "lastPrice": 69.15
     },
     {
      "symbol": "T",
      "shares": 40,
      "entryPrice": 23.42,
-     "lastPrice": 22.23
+     "lastPrice": 22.1773
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 134.01,
-     "lastPrice": 132.91
+     "lastPrice": 133.0832
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.43,
-     "lastPrice": 81.2
+     "lastPrice": 81.3143
     },
     {
      "symbol": "BABA",
      "shares": 8,
      "entryPrice": 108.63,
-     "lastPrice": 106.05
+     "lastPrice": 106.1869
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 78.89,
-     "lastPrice": 79.34
+     "lastPrice": 79.4629
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 99.12,
-     "lastPrice": 98.82
+     "lastPrice": 98.78
     },
     {
      "symbol": "SCHW",
@@ -133,10 +133,10 @@
      "lastPrice": 91.12
     },
     {
-     "symbol": "NFLX",
-     "shares": 14,
-     "entryPrice": 64.14,
-     "lastPrice": 64
+     "symbol": "INTC",
+     "shares": 10,
+     "entryPrice": 93.71,
+     "lastPrice": 93.3415
     }
    ],
    "lastTrade": null
@@ -471,6 +471,34 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-full",
+   "name": "Cookie Monster (all readings)",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9910.07,
+   "upDollars": -89.93,
+   "upPct": -0.9,
+   "trades": 5,
+   "winPct": 40,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "CLF",
+     "shares": 71,
+     "entryPrice": 13.87,
+     "lastPrice": 13.6958
+    },
+    {
+     "symbol": "ARQT",
+     "shares": 30,
+     "entryPrice": 32.79,
+     "lastPrice": 33.4
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
@@ -536,34 +564,6 @@
      "shares": 17,
      "entryPrice": 57.9,
      "lastPrice": 59.015
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-full",
-   "name": "Cookie Monster (all readings)",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9891.63,
-   "upDollars": -108.37,
-   "upPct": -1.1,
-   "trades": 5,
-   "winPct": 40,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "CLF",
-     "shares": 71,
-     "entryPrice": 13.87,
-     "lastPrice": 13.6727
-    },
-    {
-     "symbol": "ARQT",
-     "shares": 30,
-     "entryPrice": 32.79,
-     "lastPrice": 32.84
     }
    ],
    "lastTrade": null
