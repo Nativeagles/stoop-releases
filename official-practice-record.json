@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792581695288,
+ "asOfAt": 1792582598122,
  "sessionStatus": "in-progress",
- "publishedAt": 1792581695288,
+ "publishedAt": 1792582598122,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10113.87,
-   "upDollars": 113.87,
+   "equity": 10112.93,
+   "upDollars": 112.93,
    "upPct": 1.1,
    "trades": 4,
    "winPct": 50,
@@ -39,13 +39,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.6139
+     "lastPrice": 19.6039
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.5
+     "lastPrice": 45.46
     }
    ],
    "lastTrade": null
@@ -56,72 +56,72 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10045.37,
-   "upDollars": 45.37,
-   "upPct": 0.5,
-   "trades": 163,
-   "winPct": 44,
+   "equity": 10058.27,
+   "upDollars": 58.27,
+   "upPct": 0.6,
+   "trades": 164,
+   "winPct": 45,
    "open": 10,
    "positions": [
     {
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 94.91
+     "lastPrice": 94.63
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 68.93,
-     "lastPrice": 69.1653
+     "lastPrice": 69.0335
     },
     {
      "symbol": "T",
      "shares": 40,
      "entryPrice": 23.42,
-     "lastPrice": 22.3
+     "lastPrice": 22.5758
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 134.01,
-     "lastPrice": 133.4288
+     "lastPrice": 133.1086
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.43,
-     "lastPrice": 80.51
+     "lastPrice": 81.3287
     },
     {
      "symbol": "BABA",
      "shares": 8,
      "entryPrice": 108.63,
-     "lastPrice": 106
+     "lastPrice": 105.9699
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 78.89,
-     "lastPrice": 79.16
+     "lastPrice": 79.23
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 99.12,
-     "lastPrice": 98.85
+     "lastPrice": 98.57
     },
     {
      "symbol": "SCHW",
      "shares": 10,
      "entryPrice": 90.76,
-     "lastPrice": 91.15
+     "lastPrice": 91.0975
     },
     {
-     "symbol": "INTC",
-     "shares": 10,
-     "entryPrice": 93.55,
-     "lastPrice": 93.6691
+     "symbol": "CRWV",
+     "shares": 15,
+     "entryPrice": 63.87,
+     "lastPrice": 63.7
     }
    ],
    "lastTrade": null
@@ -132,8 +132,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10052.35,
-   "upDollars": 52.35,
+   "equity": 10050.73,
+   "upDollars": 50.73,
    "upPct": 0.5,
    "trades": 9,
    "winPct": 44,
@@ -143,7 +143,7 @@
      "symbol": "SHFS",
      "shares": 3246,
      "entryPrice": 0.1736,
-     "lastPrice": 0.1517
+     "lastPrice": 0.1512
     }
    ],
    "lastTrade": null
@@ -553,8 +553,8 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9892.53,
-   "upDollars": -107.48,
+   "equity": 9891.74,
+   "upDollars": -108.26,
    "upPct": -1.1,
    "trades": 5,
    "winPct": 40,
@@ -564,13 +564,13 @@
      "symbol": "CLF",
      "shares": 71,
      "entryPrice": 13.87,
-     "lastPrice": 13.66
+     "lastPrice": 13.67
     },
     {
      "symbol": "ARQT",
      "shares": 30,
      "entryPrice": 32.79,
-     "lastPrice": 32.9
+     "lastPrice": 32.85
     }
    ],
    "lastTrade": null
@@ -808,20 +808,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5747.97,
-   "upDollars": -4252.03,
-   "upPct": -42.5,
-   "trades": 54,
+   "equity": 5712.12,
+   "upDollars": -4287.88,
+   "upPct": -42.9,
+   "trades": 55,
    "winPct": 11,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "YMAT",
-     "shares": 239,
-     "entryPrice": 2.57,
-     "lastPrice": 2.6
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
