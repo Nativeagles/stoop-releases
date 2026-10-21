@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792575375772,
+ "asOfAt": 1792576278559,
  "sessionStatus": "in-progress",
- "publishedAt": 1792575375772,
+ "publishedAt": 1792576278559,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -23,35 +23,51 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10120.52,
+   "upDollars": 120.52,
+   "upPct": 1.2,
+   "trades": 9,
+   "winPct": 44,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SHFS",
+     "shares": 3246,
+     "entryPrice": 0.1736,
+     "lastPrice": 0.1727
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-takeoff",
    "name": "Takeoff",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10176.64,
-   "upDollars": 176.64,
-   "upPct": 1.8,
-   "trades": 3,
-   "winPct": 67,
-   "open": 3,
+   "equity": 10114.67,
+   "upDollars": 114.67,
+   "upPct": 1.1,
+   "trades": 4,
+   "winPct": 50,
+   "open": 2,
    "positions": [
     {
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.6022
+     "lastPrice": 19.63
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.4963
-    },
-    {
-     "symbol": "RBNE",
-     "shares": 277,
-     "entryPrice": 1.73,
-     "lastPrice": 1.7389
+     "lastPrice": 45.5
     }
    ],
    "lastTrade": null
@@ -62,11 +78,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10104.17,
-   "upDollars": 104.17,
-   "upPct": 1,
-   "trades": 159,
-   "winPct": 45,
+   "equity": 10094.12,
+   "upDollars": 94.12,
+   "upPct": 0.9,
+   "trades": 160,
+   "winPct": 44,
    "open": 10,
    "positions": [
     {
@@ -85,13 +101,13 @@
      "symbol": "T",
      "shares": 40,
      "entryPrice": 23.42,
-     "lastPrice": 23.7
+     "lastPrice": 23.6
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 134.01,
-     "lastPrice": 133.2
+     "lastPrice": 133.11
     },
     {
      "symbol": "APH",
@@ -103,19 +119,19 @@
      "symbol": "BABA",
      "shares": 8,
      "entryPrice": 108.63,
-     "lastPrice": 105.99
+     "lastPrice": 106.08
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 78.89,
-     "lastPrice": 79.1
+     "lastPrice": 79.2
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 99.12,
-     "lastPrice": 98.87
+     "lastPrice": 99.02
     },
     {
      "symbol": "SCHW",
@@ -124,32 +140,10 @@
      "lastPrice": 91.07
     },
     {
-     "symbol": "SPCX",
-     "shares": 6,
-     "entryPrice": 161.94,
-     "lastPrice": 161.9444
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10079.29,
-   "upDollars": 79.29,
-   "upPct": 0.8,
-   "trades": 9,
-   "winPct": 44,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 3246,
-     "entryPrice": 0.1736,
-     "lastPrice": 0.16
+     "symbol": "IREN",
+     "shares": 34,
+     "entryPrice": 27.42,
+     "lastPrice": 27.19
     }
    ],
    "lastTrade": null
