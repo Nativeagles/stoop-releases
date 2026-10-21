@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792578986844,
+ "asOfAt": 1792579889664,
  "sessionStatus": "in-progress",
- "publishedAt": 1792578986844,
+ "publishedAt": 1792579889664,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -56,18 +56,18 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10066.03,
-   "upDollars": 66.03,
-   "upPct": 0.7,
+   "equity": 10064.91,
+   "upDollars": 64.91,
+   "upPct": 0.6,
    "trades": 161,
    "winPct": 44,
-   "open": 9,
+   "open": 10,
    "positions": [
     {
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 94.48
+     "lastPrice": 94.2492
     },
     {
      "symbol": "UBER",
@@ -79,13 +79,13 @@
      "symbol": "T",
      "shares": 40,
      "entryPrice": 23.42,
-     "lastPrice": 22.9995
+     "lastPrice": 22.9809
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 134.01,
-     "lastPrice": 133.23
+     "lastPrice": 133.27
     },
     {
      "symbol": "APH",
@@ -97,25 +97,31 @@
      "symbol": "BABA",
      "shares": 8,
      "entryPrice": 108.63,
-     "lastPrice": 106.0949
+     "lastPrice": 106.25
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 78.89,
-     "lastPrice": 79.24
+     "lastPrice": 78.9
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 99.12,
-     "lastPrice": 98.98
+     "lastPrice": 98.95
     },
     {
      "symbol": "SCHW",
      "shares": 10,
      "entryPrice": 90.76,
      "lastPrice": 91.07
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 6,
+     "entryPrice": 159.63,
+     "lastPrice": 160.3858
     }
    ],
    "lastTrade": null
@@ -126,9 +132,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10053.97,
-   "upDollars": 53.97,
-   "upPct": 0.5,
+   "equity": 10033.52,
+   "upDollars": 33.52,
+   "upPct": 0.3,
    "trades": 9,
    "winPct": 44,
    "open": 1,
@@ -137,7 +143,7 @@
      "symbol": "SHFS",
      "shares": 3246,
      "entryPrice": 0.1736,
-     "lastPrice": 0.1522
+     "lastPrice": 0.1459
     }
    ],
    "lastTrade": null
