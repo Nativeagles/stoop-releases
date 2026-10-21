@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792617822632,
+ "asOfAt": 1792618725473,
  "sessionStatus": "in-progress",
- "publishedAt": 1792617822632,
+ "publishedAt": 1792618725473,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10213.5,
-   "upDollars": 213.5,
+   "equity": 10212.09,
+   "upDollars": 212.09,
    "upPct": 2.1,
    "trades": 5,
    "winPct": 60,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.69
+     "lastPrice": 45.5618
     }
    ],
    "lastTrade": null
@@ -239,6 +239,82 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10009.24,
+   "upDollars": 9.24,
+   "upPct": 0.1,
+   "trades": 183,
+   "winPct": 45,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "ORCL",
+     "shares": 7,
+     "entryPrice": 129.21,
+     "lastPrice": 129.01
+    },
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 93.09,
+     "lastPrice": 93
+    },
+    {
+     "symbol": "WMT",
+     "shares": 8,
+     "entryPrice": 117.79,
+     "lastPrice": 117.5417
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.87,
+     "lastPrice": 50.84
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 9,
+     "entryPrice": 107.31,
+     "lastPrice": 107.26
+    },
+    {
+     "symbol": "NKE",
+     "shares": 26,
+     "entryPrice": 37.55,
+     "lastPrice": 37.4
+    },
+    {
+     "symbol": "NOW",
+     "shares": 6,
+     "entryPrice": 153.03,
+     "lastPrice": 154.35
+    },
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 149.83,
+     "lastPrice": 149.5
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 92.81,
+     "lastPrice": 92.84
+    },
+    {
+     "symbol": "C",
+     "shares": 8,
+     "entryPrice": 123.82,
+     "lastPrice": 124
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-steps-daily",
    "name": "Five Steps (daily)",
    "kind": "official",
@@ -338,82 +414,6 @@
      "shares": 61,
      "entryPrice": 16.14,
      "lastPrice": 16.14
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10003.44,
-   "upDollars": 3.44,
-   "upPct": 0,
-   "trades": 183,
-   "winPct": 45,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "ORCL",
-     "shares": 7,
-     "entryPrice": 129.21,
-     "lastPrice": 129
-    },
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 93.09,
-     "lastPrice": 93
-    },
-    {
-     "symbol": "WMT",
-     "shares": 8,
-     "entryPrice": 117.79,
-     "lastPrice": 117.4317
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.87,
-     "lastPrice": 50.84
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 107.31,
-     "lastPrice": 107.15
-    },
-    {
-     "symbol": "NKE",
-     "shares": 26,
-     "entryPrice": 37.55,
-     "lastPrice": 37.36
-    },
-    {
-     "symbol": "NOW",
-     "shares": 6,
-     "entryPrice": 153.03,
-     "lastPrice": 154.279
-    },
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 149.83,
-     "lastPrice": 149.4999
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 92.81,
-     "lastPrice": 92.68
-    },
-    {
-     "symbol": "C",
-     "shares": 8,
-     "entryPrice": 123.82,
-     "lastPrice": 123.9
     }
    ],
    "lastTrade": null
@@ -540,20 +540,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9961.69,
-   "upDollars": -38.31,
-   "upPct": -0.4,
-   "trades": 18,
-   "winPct": 39,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SDEV",
-     "shares": 412,
-     "entryPrice": 1.24,
-     "lastPrice": 1.1018
-    }
-   ],
+   "equity": 9940.35,
+   "upDollars": -59.65,
+   "upPct": -0.6,
+   "trades": 19,
+   "winPct": 37,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -753,20 +746,13 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 9765.1,
-   "upDollars": -234.9,
-   "upPct": -2.3,
-   "trades": 6,
-   "winPct": 0,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 5747,
-     "entryPrice": 0.1707,
-     "lastPrice": 0.1707
-    }
-   ],
+   "equity": 9784.07,
+   "upDollars": -215.93,
+   "upPct": -2.2,
+   "trades": 7,
+   "winPct": 14,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -845,20 +831,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8887.87,
-   "upDollars": -1112.13,
-   "upPct": -11.1,
-   "trades": 28,
-   "winPct": 18,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 5245,
-     "entryPrice": 0.1707,
-     "lastPrice": 0.1661
-    }
-   ],
+   "equity": 8929.31,
+   "upDollars": -1070.69,
+   "upPct": -10.7,
+   "trades": 29,
+   "winPct": 21,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -882,24 +861,18 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7639.79,
-   "upDollars": -2360.21,
-   "upPct": -23.6,
-   "trades": 64,
-   "winPct": 23,
-   "open": 2,
+   "equity": 7695.14,
+   "upDollars": -2304.86,
+   "upPct": -23,
+   "trades": 65,
+   "winPct": 25,
+   "open": 1,
    "positions": [
     {
      "symbol": "AHT",
      "shares": 298,
      "entryPrice": 2.6149999999999998,
-     "lastPrice": 2.54
-    },
-    {
-     "symbol": "SHFS",
-     "shares": 4508,
-     "entryPrice": 0.1707,
-     "lastPrice": 0.1661
+     "lastPrice": 2.52
     }
    ],
    "lastTrade": null
@@ -910,20 +883,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5390.71,
-   "upDollars": -4609.29,
-   "upPct": -46.1,
-   "trades": 69,
-   "winPct": 12,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 3181,
-     "entryPrice": 0.1707,
-     "lastPrice": 0.1661
-    }
-   ],
+   "equity": 5415.84,
+   "upDollars": -4584.16,
+   "upPct": -45.8,
+   "trades": 70,
+   "winPct": 13,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
