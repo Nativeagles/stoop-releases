@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792573570159,
+ "asOfAt": 1792574473023,
  "sessionStatus": "in-progress",
- "publishedAt": 1792573570159,
+ "publishedAt": 1792574473023,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10160.52,
-   "upDollars": 160.52,
-   "upPct": 1.6,
+   "equity": 10188.43,
+   "upDollars": 188.43,
+   "upPct": 1.9,
    "trades": 3,
    "winPct": 67,
    "open": 3,
@@ -39,19 +39,19 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.6
+     "lastPrice": 19.6022
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.4963
+     "lastPrice": 45.5
     },
     {
      "symbol": "RBNE",
      "shares": 277,
      "entryPrice": 1.73,
-     "lastPrice": 1.6811
+     "lastPrice": 1.7813
     }
    ],
    "lastTrade": null
@@ -62,36 +62,36 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10083.1,
-   "upDollars": 83.1,
-   "upPct": 0.8,
-   "trades": 158,
-   "winPct": 44,
-   "open": 10,
+   "equity": 10091.23,
+   "upDollars": 91.23,
+   "upPct": 0.9,
+   "trades": 159,
+   "winPct": 45,
+   "open": 9,
    "positions": [
     {
      "symbol": "CVS",
      "shares": 9,
      "entryPrice": 92.43,
-     "lastPrice": 94.44
+     "lastPrice": 94.75
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 68.93,
-     "lastPrice": 69.09
+     "lastPrice": 69.07
     },
     {
      "symbol": "T",
      "shares": 40,
      "entryPrice": 23.42,
-     "lastPrice": 23.58
+     "lastPrice": 23.57
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 134.01,
-     "lastPrice": 133
+     "lastPrice": 133.1
     },
     {
      "symbol": "APH",
@@ -103,13 +103,13 @@
      "symbol": "BABA",
      "shares": 8,
      "entryPrice": 108.63,
-     "lastPrice": 105.67
+     "lastPrice": 105.83
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 78.89,
-     "lastPrice": 79.24
+     "lastPrice": 79.52
     },
     {
      "symbol": "SBUX",
@@ -122,12 +122,6 @@
      "shares": 10,
      "entryPrice": 90.76,
      "lastPrice": 91.04
-    },
-    {
-     "symbol": "SKHY",
-     "shares": 6,
-     "entryPrice": 144,
-     "lastPrice": 144
     }
    ],
    "lastTrade": null
@@ -138,9 +132,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10082.54,
-   "upDollars": 82.54,
-   "upPct": 0.8,
+   "equity": 10052.03,
+   "upDollars": 52.03,
+   "upPct": 0.5,
    "trades": 9,
    "winPct": 44,
    "open": 1,
@@ -149,7 +143,7 @@
      "symbol": "SHFS",
      "shares": 3246,
      "entryPrice": 0.1736,
-     "lastPrice": 0.161
+     "lastPrice": 0.1516
     }
    ],
    "lastTrade": null
@@ -559,9 +553,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9874.82,
-   "upDollars": -125.18,
-   "upPct": -1.3,
+   "equity": 9887.72,
+   "upDollars": -112.28,
+   "upPct": -1.1,
    "trades": 5,
    "winPct": 40,
    "open": 2,
@@ -576,7 +570,7 @@
      "symbol": "ARQT",
      "shares": 30,
      "entryPrice": 32.79,
-     "lastPrice": 32.57
+     "lastPrice": 33
     }
    ],
    "lastTrade": null
@@ -799,13 +793,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7856.78,
-   "upDollars": -2143.22,
-   "upPct": -21.4,
+   "equity": 7847.18,
+   "upDollars": -2152.82,
+   "upPct": -21.5,
    "trades": 53,
    "winPct": 25,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SPHL",
+     "shares": 240,
+     "entryPrice": 3.35,
+     "lastPrice": 3.31
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -814,13 +815,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5828.52,
-   "upDollars": -4171.48,
-   "upPct": -41.7,
+   "equity": 5821.4,
+   "upDollars": -4178.6,
+   "upPct": -41.8,
    "trades": 52,
    "winPct": 12,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SPHL",
+     "shares": 178,
+     "entryPrice": 3.35,
+     "lastPrice": 3.31
+    }
+   ],
    "lastTrade": null
   }
  ]
