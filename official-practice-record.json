@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792618725473,
+ "asOfAt": 1792619628430,
  "sessionStatus": "in-progress",
- "publishedAt": 1792618725473,
+ "publishedAt": 1792619628430,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -239,82 +239,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10009.24,
-   "upDollars": 9.24,
-   "upPct": 0.1,
-   "trades": 183,
-   "winPct": 45,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "ORCL",
-     "shares": 7,
-     "entryPrice": 129.21,
-     "lastPrice": 129.01
-    },
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 93.09,
-     "lastPrice": 93
-    },
-    {
-     "symbol": "WMT",
-     "shares": 8,
-     "entryPrice": 117.79,
-     "lastPrice": 117.5417
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.87,
-     "lastPrice": 50.84
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 107.31,
-     "lastPrice": 107.26
-    },
-    {
-     "symbol": "NKE",
-     "shares": 26,
-     "entryPrice": 37.55,
-     "lastPrice": 37.4
-    },
-    {
-     "symbol": "NOW",
-     "shares": 6,
-     "entryPrice": 153.03,
-     "lastPrice": 154.35
-    },
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 149.83,
-     "lastPrice": 149.5
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 92.81,
-     "lastPrice": 92.84
-    },
-    {
-     "symbol": "C",
-     "shares": 8,
-     "entryPrice": 123.82,
-     "lastPrice": 124
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-steps-daily",
    "name": "Five Steps (daily)",
    "kind": "official",
@@ -414,6 +338,82 @@
      "shares": 61,
      "entryPrice": 16.14,
      "lastPrice": 16.14
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9997.86,
+   "upDollars": -2.14,
+   "upPct": 0,
+   "trades": 183,
+   "winPct": 45,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "ORCL",
+     "shares": 7,
+     "entryPrice": 129.21,
+     "lastPrice": 128.7
+    },
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 93.09,
+     "lastPrice": 92.72
+    },
+    {
+     "symbol": "WMT",
+     "shares": 8,
+     "entryPrice": 117.79,
+     "lastPrice": 117.5515
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.87,
+     "lastPrice": 50.8762
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 9,
+     "entryPrice": 107.31,
+     "lastPrice": 107.22
+    },
+    {
+     "symbol": "NKE",
+     "shares": 26,
+     "entryPrice": 37.55,
+     "lastPrice": 37.4
+    },
+    {
+     "symbol": "NOW",
+     "shares": 6,
+     "entryPrice": 153.03,
+     "lastPrice": 154
+    },
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 149.83,
+     "lastPrice": 149
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 92.81,
+     "lastPrice": 92.7
+    },
+    {
+     "symbol": "C",
+     "shares": 8,
+     "entryPrice": 123.82,
+     "lastPrice": 123.96
     }
    ],
    "lastTrade": null
@@ -535,21 +535,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9940.35,
-   "upDollars": -59.65,
-   "upPct": -0.6,
-   "trades": 19,
-   "winPct": 37,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
@@ -562,6 +547,28 @@
    "winPct": 43,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9901.8,
+   "upDollars": -98.2,
+   "upPct": -1,
+   "trades": 19,
+   "winPct": 37,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "POM",
+     "shares": 292,
+     "entryPrice": 3.43,
+     "lastPrice": 3.298
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -746,11 +753,11 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 9784.07,
-   "upDollars": -215.93,
-   "upPct": -2.2,
-   "trades": 7,
-   "winPct": 14,
+   "equity": 9706.58,
+   "upDollars": -293.42,
+   "upPct": -2.9,
+   "trades": 8,
+   "winPct": 13,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -831,11 +838,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8929.31,
-   "upDollars": -1070.69,
-   "upPct": -10.7,
-   "trades": 29,
-   "winPct": 21,
+   "equity": 8809.61,
+   "upDollars": -1190.39,
+   "upPct": -11.9,
+   "trades": 30,
+   "winPct": 20,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -861,18 +868,18 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7695.14,
-   "upDollars": -2304.86,
-   "upPct": -23,
-   "trades": 65,
-   "winPct": 25,
+   "equity": 7655.17,
+   "upDollars": -2344.83,
+   "upPct": -23.4,
+   "trades": 66,
+   "winPct": 24,
    "open": 1,
    "positions": [
     {
-     "symbol": "AHT",
-     "shares": 298,
-     "entryPrice": 2.6149999999999998,
-     "lastPrice": 2.52
+     "symbol": "POM",
+     "shares": 229,
+     "entryPrice": 3.6,
+     "lastPrice": 3.4645
     }
    ],
    "lastTrade": null
@@ -883,10 +890,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5415.84,
-   "upDollars": -4584.16,
-   "upPct": -45.8,
-   "trades": 70,
+   "equity": 5343.39,
+   "upDollars": -4656.61,
+   "upPct": -46.6,
+   "trades": 71,
    "winPct": 13,
    "open": 0,
    "positions": [],
