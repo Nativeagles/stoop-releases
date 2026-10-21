@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792616919619,
+ "asOfAt": 1792617822632,
  "sessionStatus": "in-progress",
- "publishedAt": 1792616919619,
+ "publishedAt": 1792617822632,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10211.63,
-   "upDollars": 211.63,
+   "equity": 10213.5,
+   "upDollars": 213.5,
    "upPct": 2.1,
    "trades": 5,
    "winPct": 60,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.52
+     "lastPrice": 45.69
     }
    ],
    "lastTrade": null
@@ -348,8 +348,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10003.99,
-   "upDollars": 3.99,
+   "equity": 10003.44,
+   "upDollars": 3.44,
    "upPct": 0,
    "trades": 183,
    "winPct": 45,
@@ -359,7 +359,7 @@
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 129.21,
-     "lastPrice": 128.987
+     "lastPrice": 129
     },
     {
      "symbol": "MDT",
@@ -371,49 +371,49 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 117.79,
-     "lastPrice": 117.348
+     "lastPrice": 117.4317
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.87,
-     "lastPrice": 50.86
+     "lastPrice": 50.84
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 107.31,
-     "lastPrice": 107.1002
+     "lastPrice": 107.15
     },
     {
      "symbol": "NKE",
      "shares": 26,
      "entryPrice": 37.55,
-     "lastPrice": 37.4
+     "lastPrice": 37.36
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 153.03,
-     "lastPrice": 154.3626
+     "lastPrice": 154.279
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 149.4
+     "lastPrice": 149.4999
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.81,
-     "lastPrice": 92.6525
+     "lastPrice": 92.68
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 123.82,
-     "lastPrice": 123.9887
+     "lastPrice": 123.9
     }
    ],
    "lastTrade": null
@@ -540,24 +540,18 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9932.88,
-   "upDollars": -67.12,
-   "upPct": -0.7,
-   "trades": 17,
-   "winPct": 35,
-   "open": 2,
+   "equity": 9961.69,
+   "upDollars": -38.31,
+   "upPct": -0.4,
+   "trades": 18,
+   "winPct": 39,
+   "open": 1,
    "positions": [
     {
      "symbol": "SDEV",
      "shares": 412,
      "entryPrice": 1.24,
-     "lastPrice": 1.1422
-    },
-    {
-     "symbol": "NCPL",
-     "shares": 505,
-     "entryPrice": 1.94,
-     "lastPrice": 1.86
+     "lastPrice": 1.1018
     }
    ],
    "lastTrade": null
@@ -764,8 +758,15 @@
    "upPct": -2.3,
    "trades": 6,
    "winPct": 0,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SHFS",
+     "shares": 5747,
+     "entryPrice": 0.1707,
+     "lastPrice": 0.1707
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -844,13 +845,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8912,
-   "upDollars": -1088,
-   "upPct": -10.9,
+   "equity": 8887.87,
+   "upDollars": -1112.13,
+   "upPct": -11.1,
    "trades": 28,
    "winPct": 18,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SHFS",
+     "shares": 5245,
+     "entryPrice": 0.1707,
+     "lastPrice": 0.1661
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -874,18 +882,24 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7672.45,
-   "upDollars": -2327.55,
-   "upPct": -23.3,
+   "equity": 7639.79,
+   "upDollars": -2360.21,
+   "upPct": -23.6,
    "trades": 64,
    "winPct": 23,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "AHT",
      "shares": 298,
      "entryPrice": 2.6149999999999998,
-     "lastPrice": 2.58
+     "lastPrice": 2.54
+    },
+    {
+     "symbol": "SHFS",
+     "shares": 4508,
+     "entryPrice": 0.1707,
+     "lastPrice": 0.1661
     }
    ],
    "lastTrade": null
@@ -896,13 +910,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5405.34,
-   "upDollars": -4594.66,
-   "upPct": -45.9,
+   "equity": 5390.71,
+   "upDollars": -4609.29,
+   "upPct": -46.1,
    "trades": 69,
    "winPct": 12,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SHFS",
+     "shares": 3181,
+     "entryPrice": 0.1707,
+     "lastPrice": 0.1661
+    }
+   ],
    "lastTrade": null
   }
  ]
