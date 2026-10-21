@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792623240173,
+ "asOfAt": 1792624143179,
  "sessionStatus": "in-progress",
- "publishedAt": 1792623240173,
+ "publishedAt": 1792624143179,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10210.92,
-   "upDollars": 210.92,
+   "equity": 10211.73,
+   "upDollars": 211.73,
    "upPct": 2.1,
    "trades": 5,
    "winPct": 60,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.5462
+     "lastPrice": 45.62
     }
    ],
    "lastTrade": null
@@ -394,8 +394,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9991.8,
-   "upDollars": -8.2,
+   "equity": 9989.62,
+   "upDollars": -10.38,
    "upPct": -0.1,
    "trades": 183,
    "winPct": 45,
@@ -405,61 +405,61 @@
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 129.21,
-     "lastPrice": 128.39
+     "lastPrice": 128.09
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 93.09,
-     "lastPrice": 93
+     "lastPrice": 93.04
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 117.79,
-     "lastPrice": 117.78
+     "lastPrice": 117.72
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.87,
-     "lastPrice": 50.78
+     "lastPrice": 50.75
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 107.31,
-     "lastPrice": 107.28
+     "lastPrice": 107.18
     },
     {
      "symbol": "NKE",
      "shares": 26,
      "entryPrice": 37.55,
-     "lastPrice": 37.4172
+     "lastPrice": 37.38
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 153.03,
-     "lastPrice": 152.75
+     "lastPrice": 152.6
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 149.2671
+     "lastPrice": 149.93
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.81,
-     "lastPrice": 92.73
+     "lastPrice": 92.7297
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 123.82,
-     "lastPrice": 123.7
+     "lastPrice": 123.62
     }
    ],
    "lastTrade": null
