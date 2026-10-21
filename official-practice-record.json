@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-21",
- "asOfAt": 1792613306949,
+ "asOfAt": 1792614210238,
  "sessionStatus": "in-progress",
- "publishedAt": 1792613306949,
+ "publishedAt": 1792614210238,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10214.23,
-   "upDollars": 214.23,
-   "upPct": 2.1,
+   "equity": 10215.99,
+   "upDollars": 215.99,
+   "upPct": 2.2,
    "trades": 5,
    "winPct": 60,
    "open": 2,
@@ -45,24 +45,9 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.62
+     "lastPrice": 45.78
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10043.26,
-   "upDollars": 43.26,
-   "upPct": 0.4,
-   "trades": 15,
-   "winPct": 40,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
@@ -166,6 +151,34 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10021.42,
+   "upDollars": 21.42,
+   "upPct": 0.2,
+   "trades": 15,
+   "winPct": 40,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "SPHL",
+     "shares": 136,
+     "entryPrice": 3.68,
+     "lastPrice": 3.58
+    },
+    {
+     "symbol": "SDEV",
+     "shares": 412,
+     "entryPrice": 1.24,
+     "lastPrice": 1.22
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-nine-cross-daily",
    "name": "Five Nine Cross (daily)",
    "kind": "official",
@@ -249,6 +262,82 @@
      "shares": 12,
      "entryPrice": 40.88,
      "lastPrice": 40.785
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10011.74,
+   "upDollars": 11.74,
+   "upPct": 0.1,
+   "trades": 183,
+   "winPct": 45,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "ORCL",
+     "shares": 7,
+     "entryPrice": 129.21,
+     "lastPrice": 128.9981
+    },
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 93.09,
+     "lastPrice": 93
+    },
+    {
+     "symbol": "WMT",
+     "shares": 8,
+     "entryPrice": 117.79,
+     "lastPrice": 117.5796
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.87,
+     "lastPrice": 50.8294
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 9,
+     "entryPrice": 107.31,
+     "lastPrice": 107.26
+    },
+    {
+     "symbol": "NKE",
+     "shares": 26,
+     "entryPrice": 37.55,
+     "lastPrice": 37.44
+    },
+    {
+     "symbol": "NOW",
+     "shares": 6,
+     "entryPrice": 153.03,
+     "lastPrice": 154.42
+    },
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 149.83,
+     "lastPrice": 149.8
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 92.81,
+     "lastPrice": 92.81
+    },
+    {
+     "symbol": "C",
+     "shares": 8,
+     "entryPrice": 123.82,
+     "lastPrice": 123.94
     }
    ],
    "lastTrade": null
@@ -358,82 +447,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10000.05,
-   "upDollars": 0.05,
-   "upPct": 0,
-   "trades": 183,
-   "winPct": 45,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "ORCL",
-     "shares": 7,
-     "entryPrice": 129.21,
-     "lastPrice": 129.03
-    },
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 93.09,
-     "lastPrice": 93.03
-    },
-    {
-     "symbol": "WMT",
-     "shares": 8,
-     "entryPrice": 117.79,
-     "lastPrice": 117.7045
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.87,
-     "lastPrice": 50.78
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 107.31,
-     "lastPrice": 107.26
-    },
-    {
-     "symbol": "NKE",
-     "shares": 26,
-     "entryPrice": 37.55,
-     "lastPrice": 37.53
-    },
-    {
-     "symbol": "NOW",
-     "shares": 6,
-     "entryPrice": 153.03,
-     "lastPrice": 153.12
-    },
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 149.83,
-     "lastPrice": 149.0001
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 92.81,
-     "lastPrice": 92.68
-    },
-    {
-     "symbol": "C",
-     "shares": 8,
-     "entryPrice": 123.82,
-     "lastPrice": 123.85
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-pattern-follow-tc",
    "name": "Pattern Follow (chart-pattern lists)",
    "kind": "official",
@@ -477,21 +490,6 @@
      "lastPrice": 51.52
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-10-21",
-   "startingCash": 10000,
-   "equity": 10000,
-   "upDollars": 0,
-   "upPct": 0,
-   "trades": 0,
-   "winPct": null,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
@@ -560,6 +558,34 @@
      "shares": 37,
      "entryPrice": 26.94,
      "lastPrice": 27.314999999999998
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-six-degrees-spread",
+   "name": "Six Degrees (spread check)",
+   "kind": "official",
+   "startedOn": "2026-10-21",
+   "startingCash": 10000,
+   "equity": 9955.47,
+   "upDollars": -44.53,
+   "upPct": -0.4,
+   "trades": 0,
+   "winPct": null,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "SPHL",
+     "shares": 272,
+     "entryPrice": 3.68,
+     "lastPrice": 3.57
+    },
+    {
+     "symbol": "SDEV",
+     "shares": 821,
+     "entryPrice": 1.24,
+     "lastPrice": 1.2222
     }
    ],
    "lastTrade": null
@@ -861,13 +887,26 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7823.88,
-   "upDollars": -2176.12,
-   "upPct": -21.8,
+   "equity": 7791.87,
+   "upDollars": -2208.13,
+   "upPct": -22.1,
    "trades": 60,
    "winPct": 25,
-   "open": 0,
-   "positions": [],
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "SPHL",
+     "shares": 213,
+     "entryPrice": 3.67,
+     "lastPrice": 3.58
+    },
+    {
+     "symbol": "SDEV",
+     "shares": 642,
+     "entryPrice": 1.24,
+     "lastPrice": 1.22
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -876,13 +915,26 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5580.04,
-   "upDollars": -4419.96,
-   "upPct": -44.2,
+   "equity": 5557.2,
+   "upDollars": -4442.8,
+   "upPct": -44.4,
    "trades": 62,
    "winPct": 13,
-   "open": 0,
-   "positions": [],
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "SPHL",
+     "shares": 152,
+     "entryPrice": 3.67,
+     "lastPrice": 3.58
+    },
+    {
+     "symbol": "SDEV",
+     "shares": 458,
+     "entryPrice": 1.24,
+     "lastPrice": 1.22
+    }
+   ],
    "lastTrade": null
   }
  ]
