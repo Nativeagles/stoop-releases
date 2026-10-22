@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792670109985,
+ "asOfAt": 1792671012872,
  "sessionStatus": "in-progress",
- "publishedAt": 1792670109985,
+ "publishedAt": 1792671012872,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10183.51,
-   "upDollars": 183.51,
-   "upPct": 1.8,
+   "equity": 10192.5,
+   "upDollars": 192.5,
+   "upPct": 1.9,
    "trades": 5,
    "winPct": 60,
    "open": 3,
@@ -45,13 +45,13 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.64
+     "lastPrice": 45.624
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.64
+     "lastPrice": 2.6898
     }
    ],
    "lastTrade": null
@@ -470,8 +470,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9976.73,
-   "upDollars": -23.27,
+   "equity": 9979.49,
+   "upDollars": -20.51,
    "upPct": -0.2,
    "trades": 183,
    "winPct": 45,
@@ -481,61 +481,61 @@
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 129.21,
-     "lastPrice": 125.4621
+     "lastPrice": 125.4
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 93.09,
-     "lastPrice": 93.13
+     "lastPrice": 92.88
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 117.79,
-     "lastPrice": 119.3915
+     "lastPrice": 119.05
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.87,
-     "lastPrice": 50.43
+     "lastPrice": 50.4985
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 107.31,
-     "lastPrice": 106
+     "lastPrice": 106.02
     },
     {
      "symbol": "NKE",
      "shares": 26,
      "entryPrice": 37.55,
-     "lastPrice": 37.26
+     "lastPrice": 37.24
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 153.03,
-     "lastPrice": 152.27
+     "lastPrice": 153.5
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 151.38
+     "lastPrice": 151
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.81,
-     "lastPrice": 93.9714
+     "lastPrice": 94
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 123.82,
-     "lastPrice": 122.61
+     "lastPrice": 122.87
     }
    ],
    "lastTrade": null
@@ -546,9 +546,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9918.45,
-   "upDollars": -81.55,
-   "upPct": -0.8,
+   "equity": 9941.2,
+   "upDollars": -58.8,
+   "upPct": -0.6,
    "trades": 22,
    "winPct": 36,
    "open": 1,
@@ -557,7 +557,7 @@
      "symbol": "STAK",
      "shares": 325,
      "entryPrice": 1.55,
-     "lastPrice": 1.53
+     "lastPrice": 1.6
     }
    ],
    "lastTrade": null
