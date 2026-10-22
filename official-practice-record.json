@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792676430661,
+ "asOfAt": 1792677333650,
  "sessionStatus": "in-progress",
- "publishedAt": 1792676430661,
+ "publishedAt": 1792677333650,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10215.72,
-   "upDollars": 215.72,
-   "upPct": 2.2,
+   "equity": 10195.14,
+   "upDollars": 195.14,
+   "upPct": 2,
    "trades": 5,
    "winPct": 60,
    "open": 3,
@@ -39,253 +39,19 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.67
+     "lastPrice": 19.68
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.755
+     "lastPrice": 45.83
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.8
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-five-nine-cross-daily",
-   "name": "Five Nine Cross (daily)",
-   "kind": "official",
-   "startedOn": "2026-10-16",
-   "startingCash": 10000,
-   "equity": 10028.21,
-   "upDollars": 28.21,
-   "upPct": 0.3,
-   "trades": 1,
-   "winPct": 100,
-   "open": 12,
-   "positions": [
-    {
-     "symbol": "CMCSA",
-     "shares": 45,
-     "entryPrice": 21.84,
-     "lastPrice": 22.655
-    },
-    {
-     "symbol": "USB",
-     "shares": 17,
-     "entryPrice": 58.39,
-     "lastPrice": 59.04999923706055
-    },
-    {
-     "symbol": "JHX",
-     "shares": 38,
-     "entryPrice": 25.74,
-     "lastPrice": 26.299999237060547
-    },
-    {
-     "symbol": "BMY",
-     "shares": 8,
-     "entryPrice": 61.69,
-     "lastPrice": 61.119998931884766
-    },
-    {
-     "symbol": "SWKS",
-     "shares": 6,
-     "entryPrice": 82.13,
-     "lastPrice": 82.22000122070312
-    },
-    {
-     "symbol": "PATH",
-     "shares": 37,
-     "entryPrice": 13.38,
-     "lastPrice": 13.710000038146973
-    },
-    {
-     "symbol": "PCAR",
-     "shares": 4,
-     "entryPrice": 110.01,
-     "lastPrice": 110.22000122070312
-    },
-    {
-     "symbol": "FITB",
-     "shares": 9,
-     "entryPrice": 52.5,
-     "lastPrice": 52.810001373291016
-    },
-    {
-     "symbol": "DKNG",
-     "shares": 24,
-     "entryPrice": 20.5,
-     "lastPrice": 20.530000686645508
-    },
-    {
-     "symbol": "MCHP",
-     "shares": 6,
-     "entryPrice": 77.45,
-     "lastPrice": 77.1500015258789
-    },
-    {
-     "symbol": "CFG",
-     "shares": 7,
-     "entryPrice": 64.88,
-     "lastPrice": 64.87999725341797
-    },
-    {
-     "symbol": "B",
-     "shares": 12,
-     "entryPrice": 40.88,
-     "lastPrice": 40.7599983215332
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10006.09,
-   "upDollars": 6.09,
-   "upPct": 0.1,
-   "trades": 183,
-   "winPct": 45,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "ORCL",
-     "shares": 7,
-     "entryPrice": 129.21,
-     "lastPrice": 126.83
-    },
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 93.09,
-     "lastPrice": 93.595
-    },
-    {
-     "symbol": "WMT",
-     "shares": 8,
-     "entryPrice": 117.79,
-     "lastPrice": 118.2
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.87,
-     "lastPrice": 50.83
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 107.31,
-     "lastPrice": 106.23
-    },
-    {
-     "symbol": "NKE",
-     "shares": 26,
-     "entryPrice": 37.55,
-     "lastPrice": 37.255
-    },
-    {
-     "symbol": "NOW",
-     "shares": 6,
-     "entryPrice": 153.03,
-     "lastPrice": 154.415
-    },
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 149.83,
-     "lastPrice": 151.475
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 92.81,
-     "lastPrice": 93.66
-    },
-    {
-     "symbol": "C",
-     "shares": 8,
-     "entryPrice": 123.82,
-     "lastPrice": 123.2098
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-five-steps-daily",
-   "name": "Five Steps (daily)",
-   "kind": "official",
-   "startedOn": "2026-10-16",
-   "startingCash": 10000,
-   "equity": 10011.43,
-   "upDollars": 11.43,
-   "upPct": 0.1,
-   "trades": 0,
-   "winPct": null,
-   "open": 9,
-   "positions": [
-    {
-     "symbol": "BSX",
-     "shares": 22,
-     "entryPrice": 44.36,
-     "lastPrice": 44.81
-    },
-    {
-     "symbol": "USB",
-     "shares": 17,
-     "entryPrice": 58.39,
-     "lastPrice": 59.04999923706055
-    },
-    {
-     "symbol": "DVN",
-     "shares": 9,
-     "entryPrice": 50.85,
-     "lastPrice": 49.869998931884766
-    },
-    {
-     "symbol": "CCL",
-     "shares": 18,
-     "entryPrice": 27.16,
-     "lastPrice": 27.299999237060547
-    },
-    {
-     "symbol": "RBLX",
-     "shares": 9,
-     "entryPrice": 52.28,
-     "lastPrice": 52.54999923706055
-    },
-    {
-     "symbol": "EQT",
-     "shares": 9,
-     "entryPrice": 54.89,
-     "lastPrice": 54.06999969482422
-    },
-    {
-     "symbol": "RF",
-     "shares": 17,
-     "entryPrice": 27.89,
-     "lastPrice": 28.049999237060547
-    },
-    {
-     "symbol": "MET",
-     "shares": 4,
-     "entryPrice": 102.33,
-     "lastPrice": 102.18000030517578
-    },
-    {
-     "symbol": "VMRK",
-     "shares": 8,
-     "entryPrice": 62.06,
-     "lastPrice": 61.9900016784668
+     "lastPrice": 2.681
     }
    ],
    "lastTrade": null
@@ -296,9 +62,9 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 10005.16,
-   "upDollars": 5.16,
-   "upPct": 0.1,
+   "equity": 10057.24,
+   "upDollars": 57.24,
+   "upPct": 0.6,
    "trades": 2,
    "winPct": 0,
    "open": 10,
@@ -307,61 +73,323 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 148.1355,
-     "lastPrice": 155.26
+     "lastPrice": 156.02499999999998
     },
     {
      "symbol": "SOFI",
      "shares": 66,
      "entryPrice": 15.02,
-     "lastPrice": 14.899999618530273
+     "lastPrice": 14.955
     },
     {
      "symbol": "CBRE",
      "shares": 7,
      "entryPrice": 133.2498,
-     "lastPrice": 134.64999389648438
+     "lastPrice": 130.255
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 79.17,
-     "lastPrice": 78.27999877929688
+     "lastPrice": 79.78
     },
     {
      "symbol": "PSQ",
      "shares": 38,
      "entryPrice": 25.58,
-     "lastPrice": 25.3700008392334
+     "lastPrice": 25.835
     },
     {
      "symbol": "QID",
      "shares": 70,
      "entryPrice": 13.97,
-     "lastPrice": 13.739999771118164
+     "lastPrice": 14.235
     },
     {
      "symbol": "EXC",
      "shares": 23,
      "entryPrice": 42.71,
-     "lastPrice": 43.04999923706055
+     "lastPrice": 43.445
     },
     {
      "symbol": "USB",
      "shares": 17,
      "entryPrice": 57.9,
-     "lastPrice": 59.04999923706055
+     "lastPrice": 59.515
     },
     {
      "symbol": "CCL",
      "shares": 37,
      "entryPrice": 26.94,
-     "lastPrice": 27.299999237060547
+     "lastPrice": 27.47
     },
     {
      "symbol": "RIG",
      "shares": 165,
      "entryPrice": 6.01,
-     "lastPrice": 6.01
+     "lastPrice": 5.895
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10041.55,
+   "upDollars": 41.55,
+   "upPct": 0.4,
+   "trades": 183,
+   "winPct": 45,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "ORCL",
+     "shares": 7,
+     "entryPrice": 129.21,
+     "lastPrice": 126.93
+    },
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 93.09,
+     "lastPrice": 93.965
+    },
+    {
+     "symbol": "WMT",
+     "shares": 8,
+     "entryPrice": 117.79,
+     "lastPrice": 118.45
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.87,
+     "lastPrice": 50.93
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 9,
+     "entryPrice": 107.31,
+     "lastPrice": 105.9
+    },
+    {
+     "symbol": "NKE",
+     "shares": 26,
+     "entryPrice": 37.55,
+     "lastPrice": 37.5473
+    },
+    {
+     "symbol": "NOW",
+     "shares": 6,
+     "entryPrice": 153.03,
+     "lastPrice": 156.35
+    },
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 149.83,
+     "lastPrice": 152.656
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 92.81,
+     "lastPrice": 94.015
+    },
+    {
+     "symbol": "C",
+     "shares": 8,
+     "entryPrice": 123.82,
+     "lastPrice": 123.245
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-five-steps-daily",
+   "name": "Five Steps (daily)",
+   "kind": "official",
+   "startedOn": "2026-10-16",
+   "startingCash": 10000,
+   "equity": 10039.58,
+   "upDollars": 39.58,
+   "upPct": 0.4,
+   "trades": 0,
+   "winPct": null,
+   "open": 9,
+   "positions": [
+    {
+     "symbol": "BSX",
+     "shares": 22,
+     "entryPrice": 44.36,
+     "lastPrice": 44.925
+    },
+    {
+     "symbol": "USB",
+     "shares": 17,
+     "entryPrice": 58.39,
+     "lastPrice": 59.515
+    },
+    {
+     "symbol": "DVN",
+     "shares": 9,
+     "entryPrice": 50.85,
+     "lastPrice": 49.93
+    },
+    {
+     "symbol": "CCL",
+     "shares": 18,
+     "entryPrice": 27.16,
+     "lastPrice": 27.47
+    },
+    {
+     "symbol": "RBLX",
+     "shares": 9,
+     "entryPrice": 52.28,
+     "lastPrice": 53.26
+    },
+    {
+     "symbol": "EQT",
+     "shares": 9,
+     "entryPrice": 54.89,
+     "lastPrice": 53.925
+    },
+    {
+     "symbol": "RF",
+     "shares": 17,
+     "entryPrice": 27.89,
+     "lastPrice": 28.305
+    },
+    {
+     "symbol": "MET",
+     "shares": 4,
+     "entryPrice": 102.33,
+     "lastPrice": 102.11500000000001
+    },
+    {
+     "symbol": "VMRK",
+     "shares": 8,
+     "entryPrice": 62.06,
+     "lastPrice": 62.61
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-five-nine-cross-daily",
+   "name": "Five Nine Cross (daily)",
+   "kind": "official",
+   "startedOn": "2026-10-16",
+   "startingCash": 10000,
+   "equity": 10021.42,
+   "upDollars": 21.42,
+   "upPct": 0.2,
+   "trades": 1,
+   "winPct": 100,
+   "open": 12,
+   "positions": [
+    {
+     "symbol": "CMCSA",
+     "shares": 45,
+     "entryPrice": 21.84,
+     "lastPrice": 22.705
+    },
+    {
+     "symbol": "USB",
+     "shares": 17,
+     "entryPrice": 58.39,
+     "lastPrice": 59.515
+    },
+    {
+     "symbol": "JHX",
+     "shares": 38,
+     "entryPrice": 25.74,
+     "lastPrice": 26.445
+    },
+    {
+     "symbol": "BMY",
+     "shares": 8,
+     "entryPrice": 61.69,
+     "lastPrice": 61.41
+    },
+    {
+     "symbol": "SWKS",
+     "shares": 6,
+     "entryPrice": 82.13,
+     "lastPrice": 81.38
+    },
+    {
+     "symbol": "PATH",
+     "shares": 37,
+     "entryPrice": 13.38,
+     "lastPrice": 13.77
+    },
+    {
+     "symbol": "PCAR",
+     "shares": 4,
+     "entryPrice": 110.01,
+     "lastPrice": 108.74
+    },
+    {
+     "symbol": "FITB",
+     "shares": 9,
+     "entryPrice": 52.5,
+     "lastPrice": 53.16
+    },
+    {
+     "symbol": "DKNG",
+     "shares": 24,
+     "entryPrice": 20.5,
+     "lastPrice": 20.979999999999997
+    },
+    {
+     "symbol": "MCHP",
+     "shares": 6,
+     "entryPrice": 77.45,
+     "lastPrice": 74.595
+    },
+    {
+     "symbol": "CFG",
+     "shares": 7,
+     "entryPrice": 64.88,
+     "lastPrice": 65.4
+    },
+    {
+     "symbol": "B",
+     "shares": 12,
+     "entryPrice": 40.88,
+     "lastPrice": 39.235
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10005.87,
+   "upDollars": 5.87,
+   "upPct": 0.1,
+   "trades": 24,
+   "winPct": 42,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "SAIQ",
+     "shares": 66,
+     "entryPrice": 7.64,
+     "lastPrice": 8.0001
+    },
+    {
+     "symbol": "XLAB",
+     "shares": 141,
+     "entryPrice": 3.67,
+     "lastPrice": 3.43
     }
    ],
    "lastTrade": null
@@ -471,21 +499,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9963.95,
-   "upDollars": -36.05,
-   "upPct": -0.4,
-   "trades": 23,
-   "winPct": 39,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
@@ -506,8 +519,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9902.66,
-   "upDollars": -97.34,
+   "equity": 9901.62,
+   "upDollars": -98.38,
    "upPct": -1,
    "trades": 5,
    "winPct": 0,
@@ -517,55 +530,55 @@
      "symbol": "CBRE",
      "shares": 7,
      "entryPrice": 133.2498,
-     "lastPrice": 131.485
+     "lastPrice": 129.735
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 79.17,
-     "lastPrice": 79.815
+     "lastPrice": 79.78
     },
     {
      "symbol": "PSQ",
      "shares": 38,
      "entryPrice": 25.58,
-     "lastPrice": 25.785
+     "lastPrice": 25.835
     },
     {
      "symbol": "QID",
      "shares": 70,
      "entryPrice": 13.97,
-     "lastPrice": 14.184999999999999
+     "lastPrice": 14.235
     },
     {
      "symbol": "SRE",
      "shares": 11,
      "entryPrice": 82.485,
-     "lastPrice": 83.83500000000001
+     "lastPrice": 84.015
     },
     {
      "symbol": "EXC",
      "shares": 23,
      "entryPrice": 42.71,
-     "lastPrice": 43.04999923706055
+     "lastPrice": 43.445
     },
     {
      "symbol": "USB",
      "shares": 17,
      "entryPrice": 57.9,
-     "lastPrice": 59.04999923706055
+     "lastPrice": 59.515
     },
     {
      "symbol": "CCL",
      "shares": 36,
      "entryPrice": 26.94,
-     "lastPrice": 27.299999237060547
+     "lastPrice": 27.47
     },
     {
      "symbol": "RIG",
      "shares": 164,
      "entryPrice": 6.01,
-     "lastPrice": 6.01
+     "lastPrice": 5.895
     }
    ],
    "lastTrade": null
@@ -576,9 +589,9 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9896.1,
-   "upDollars": -103.9,
-   "upPct": -1,
+   "equity": 9880.86,
+   "upDollars": -119.14,
+   "upPct": -1.2,
    "trades": 21,
    "winPct": 14,
    "open": 14,
@@ -587,102 +600,115 @@
      "symbol": "PATH",
      "shares": 75,
      "entryPrice": 13.15,
-     "lastPrice": 13.77
+     "lastPrice": 13.715
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 148.3,
-     "lastPrice": 150.445
+     "lastPrice": 151.91
     },
     {
      "symbol": "SMCI",
      "shares": 15,
      "entryPrice": 32.76,
-     "lastPrice": 34.585
+     "lastPrice": 34.115
     },
     {
      "symbol": "PCAR",
      "shares": 4,
      "entryPrice": 110.03,
-     "lastPrice": 109.375
+     "lastPrice": 108.74
     },
     {
      "symbol": "GLW",
      "shares": 3,
      "entryPrice": 134.78,
-     "lastPrice": 128.635
+     "lastPrice": 127
     },
     {
      "symbol": "P",
      "shares": 3,
      "entryPrice": 132.67,
-     "lastPrice": 126.395
+     "lastPrice": 125.36500000000001
     },
     {
      "symbol": "WMB",
      "shares": 6,
      "entryPrice": 72.5,
-     "lastPrice": 72.85
+     "lastPrice": 71.55000000000001
     },
     {
      "symbol": "STM",
      "shares": 10,
      "entryPrice": 47.14,
-     "lastPrice": 45.370000000000005
+     "lastPrice": 45.28
     },
     {
      "symbol": "WFC",
      "shares": 6,
      "entryPrice": 82.29,
-     "lastPrice": 81.985
+     "lastPrice": 82.71000000000001
     },
     {
      "symbol": "C",
      "shares": 4,
      "entryPrice": 123.33,
-     "lastPrice": 122.04499999999999
+     "lastPrice": 123.265
     },
     {
      "symbol": "NOK",
      "shares": 54,
      "entryPrice": 9.19,
-     "lastPrice": 8.545
+     "lastPrice": 8.355
     },
     {
      "symbol": "ONDS",
      "shares": 81,
      "entryPrice": 6.19,
-     "lastPrice": 6.13
+     "lastPrice": 6.1850000000000005
     },
     {
      "symbol": "INTC",
      "shares": 5,
      "entryPrice": 92.78,
-     "lastPrice": 87.53999999999999
+     "lastPrice": 87.67
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 99.08,
-     "lastPrice": 99.05000000000001
+     "lastPrice": 99.50999999999999
     }
    ],
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble-pmh",
-   "name": "Down Bubble — premarket high",
+   "styleId": "auto-practice-six-degrees-spread",
+   "name": "Six Degrees (spread check)",
    "kind": "official",
-   "startedOn": "2026-10-15",
+   "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 9852.63,
-   "upDollars": -147.37,
+   "equity": 9850.05,
+   "upDollars": -149.95,
    "upPct": -1.5,
-   "trades": 4,
-   "winPct": 0,
-   "open": 0,
-   "positions": [],
+   "trades": 14,
+   "winPct": 21,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "MLTX",
+     "shares": 87,
+     "entryPrice": 12.05,
+     "lastPrice": 12.5599
+    },
+    {
+     "symbol": "SAIQ",
+     "shares": 129,
+     "entryPrice": 7.64,
+     "lastPrice": 8.0001
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -701,14 +727,36 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble-pmh",
+   "name": "Down Bubble — premarket high",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9787.59,
+   "upDollars": -212.41,
+   "upPct": -2.1,
+   "trades": 4,
+   "winPct": 0,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "XLAB",
+     "shares": 271,
+     "entryPrice": 3.65,
+     "lastPrice": 3.41
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-pattern-follow-daily",
    "name": "Pattern Follow (daily)",
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9759.18,
-   "upDollars": -240.82,
-   "upPct": -2.4,
+   "equity": 9784.48,
+   "upDollars": -215.52,
+   "upPct": -2.2,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -717,78 +765,63 @@
      "symbol": "NFLX",
      "shares": 13,
      "entryPrice": 71.06,
-     "lastPrice": 66.245
+     "lastPrice": 66.49000000000001
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 118.82,
-     "lastPrice": 117.80000305175781
+     "lastPrice": 118.47999999999999
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 153.79,
-     "lastPrice": 153.1199951171875
+     "lastPrice": 156
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.96,
-     "lastPrice": 92.68000030517578
+     "lastPrice": 93.89
     },
     {
      "symbol": "FCX",
      "shares": 14,
      "entryPrice": 69.85,
-     "lastPrice": 68.9000015258789
+     "lastPrice": 65.595
     },
     {
      "symbol": "DAL",
      "shares": 12,
      "entryPrice": 78.54,
-     "lastPrice": 77.66999816894531
+     "lastPrice": 78.14
     },
     {
      "symbol": "PYPL",
      "shares": 17,
      "entryPrice": 57.57,
-     "lastPrice": 57.20000076293945
+     "lastPrice": 57.335
     },
     {
      "symbol": "RBLX",
      "shares": 19,
      "entryPrice": 51.7,
-     "lastPrice": 52.54999923706055
+     "lastPrice": 53.26
     },
     {
      "symbol": "F",
      "shares": 81,
      "entryPrice": 12.46,
-     "lastPrice": 11.899999618530273
+     "lastPrice": 11.95
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 122.11,
-     "lastPrice": 122.11
+     "lastPrice": 123.265
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-10-21",
-   "startingCash": 10000,
-   "equity": 9755.42,
-   "upDollars": -244.58,
-   "upPct": -2.4,
-   "trades": 12,
-   "winPct": 17,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
@@ -797,9 +830,9 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9537.81,
-   "upDollars": -462.19,
-   "upPct": -4.6,
+   "equity": 9558.63,
+   "upDollars": -441.37,
+   "upPct": -4.4,
    "trades": 8,
    "winPct": 0,
    "open": 10,
@@ -808,61 +841,61 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 118.7,
-     "lastPrice": 118.65
+     "lastPrice": 118.625
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.89,
-     "lastPrice": 92.68000030517578
+     "lastPrice": 93.89
     },
     {
      "symbol": "PYPL",
      "shares": 17,
      "entryPrice": 57.32,
-     "lastPrice": 57.20000076293945
+     "lastPrice": 57.335
     },
     {
      "symbol": "SBUX",
      "shares": 10,
      "entryPrice": 97.48,
-     "lastPrice": 99.08000183105469
+     "lastPrice": 99.50999999999999
     },
     {
      "symbol": "NEM",
      "shares": 8,
      "entryPrice": 118.17,
-     "lastPrice": 117.18000030517578
+     "lastPrice": 112.985
     },
     {
      "symbol": "MO",
      "shares": 13,
      "entryPrice": 74.21,
-     "lastPrice": 73.83000183105469
+     "lastPrice": 74.835
     },
     {
      "symbol": "BSX",
      "shares": 21,
      "entryPrice": 45.48,
-     "lastPrice": 44.5099983215332
+     "lastPrice": 44.875
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 37.74,
-     "lastPrice": 37.529998779296875
+     "lastPrice": 37.41
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 122.11,
-     "lastPrice": 122.11
+     "lastPrice": 123.265
     },
     {
      "symbol": "RF",
      "shares": 33,
      "entryPrice": 28,
-     "lastPrice": 28
+     "lastPrice": 28.305
     }
    ],
    "lastTrade": null
@@ -903,13 +936,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7551.29,
-   "upDollars": -2448.71,
-   "upPct": -24.5,
-   "trades": 71,
-   "winPct": 24,
-   "open": 0,
-   "positions": [],
+   "equity": 7583.53,
+   "upDollars": -2416.47,
+   "upPct": -24.2,
+   "trades": 73,
+   "winPct": 25,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SAIQ",
+     "shares": 100,
+     "entryPrice": 7.64,
+     "lastPrice": 8.0001
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -918,13 +958,26 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5335.91,
-   "upDollars": -4664.09,
+   "equity": 5342.22,
+   "upDollars": -4657.78,
    "upPct": -46.6,
-   "trades": 75,
-   "winPct": 13,
-   "open": 0,
-   "positions": [],
+   "trades": 78,
+   "winPct": 14,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "MLTX",
+     "shares": 48,
+     "entryPrice": 12.05,
+     "lastPrice": 12.5599
+    },
+    {
+     "symbol": "SAIQ",
+     "shares": 71,
+     "entryPrice": 7.64,
+     "lastPrice": 8.0001
+    }
+   ],
    "lastTrade": null
   }
  ]
