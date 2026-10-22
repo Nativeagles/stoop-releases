@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792658371616,
+ "asOfAt": 1792659274443,
  "sessionStatus": "in-progress",
- "publishedAt": 1792658371616,
+ "publishedAt": 1792659274443,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10212.23,
-   "upDollars": 212.23,
-   "upPct": 2.1,
+   "equity": 10216.32,
+   "upDollars": 216.32,
+   "upPct": 2.2,
    "trades": 5,
    "winPct": 60,
    "open": 3,
@@ -45,13 +45,35 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.5627
+     "lastPrice": 45.6
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.8
+     "lastPrice": 2.82
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10053.89,
+   "upDollars": 53.89,
+   "upPct": 0.5,
+   "trades": 20,
+   "winPct": 35,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SHFS",
+     "shares": 4264,
+     "entryPrice": 0.23,
+     "lastPrice": 0.2895
     }
    ],
    "lastTrade": null
@@ -470,9 +492,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9961.38,
-   "upDollars": -38.62,
-   "upPct": -0.4,
+   "equity": 9979.76,
+   "upDollars": -20.24,
+   "upPct": -0.2,
    "trades": 183,
    "winPct": 45,
    "open": 10,
@@ -481,37 +503,37 @@
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 129.21,
-     "lastPrice": 125.8747
+     "lastPrice": 125.6662
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 93.09,
-     "lastPrice": 93.32
+     "lastPrice": 93.952
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 117.79,
-     "lastPrice": 118.74
+     "lastPrice": 118.637
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.87,
-     "lastPrice": 50.55
+     "lastPrice": 50.793
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 107.31,
-     "lastPrice": 105.8
+     "lastPrice": 105.7452
     },
     {
      "symbol": "NKE",
      "shares": 26,
      "entryPrice": 37.55,
-     "lastPrice": 37.32
+     "lastPrice": 37.3026
     },
     {
      "symbol": "NOW",
@@ -523,19 +545,41 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 150.5
+     "lastPrice": 150.8167
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.81,
-     "lastPrice": 93.5004
+     "lastPrice": 93.7659
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 123.82,
-     "lastPrice": 122.69
+     "lastPrice": 123.4555
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-six-degrees-spread",
+   "name": "Six Degrees (spread check)",
+   "kind": "official",
+   "startedOn": "2026-10-21",
+   "startingCash": 10000,
+   "equity": 9938.45,
+   "upDollars": -61.55,
+   "upPct": -0.6,
+   "trades": 9,
+   "winPct": 11,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SHFS",
+     "shares": 4208,
+     "entryPrice": 0.23,
+     "lastPrice": 0.2936
     }
    ],
    "lastTrade": null
@@ -641,28 +685,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9845.38,
-   "upDollars": -154.62,
-   "upPct": -1.5,
-   "trades": 20,
-   "winPct": 35,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 4264,
-     "entryPrice": 0.23,
-     "lastPrice": 0.2406
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "short-lane-rebreak3",
    "name": "PRETEND - Short the third breakout",
    "kind": "official",
@@ -749,28 +771,6 @@
      "shares": 81,
      "entryPrice": 12.46,
      "lastPrice": 11.895
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-10-21",
-   "startingCash": 10000,
-   "equity": 9715.42,
-   "upDollars": -284.58,
-   "upPct": -2.8,
-   "trades": 9,
-   "winPct": 11,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 4208,
-     "entryPrice": 0.23,
-     "lastPrice": 0.2406
     }
    ],
    "lastTrade": null
@@ -881,9 +881,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7578.57,
-   "upDollars": -2421.43,
-   "upPct": -24.2,
+   "equity": 7752.67,
+   "upDollars": -2247.33,
+   "upPct": -22.5,
    "trades": 68,
    "winPct": 24,
    "open": 1,
@@ -892,7 +892,7 @@
      "symbol": "SHFS",
      "shares": 3285,
      "entryPrice": 0.232,
-     "lastPrice": 0.2406
+     "lastPrice": 0.2936
     }
    ],
    "lastTrade": null
@@ -903,9 +903,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5318.23,
-   "upDollars": -4681.77,
-   "upPct": -46.8,
+   "equity": 5440.4,
+   "upDollars": -4559.6,
+   "upPct": -45.6,
    "trades": 72,
    "winPct": 13,
    "open": 1,
@@ -914,7 +914,7 @@
      "symbol": "SHFS",
      "shares": 2305,
      "entryPrice": 0.232,
-     "lastPrice": 0.2406
+     "lastPrice": 0.2936
     }
    ],
    "lastTrade": null
