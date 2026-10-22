@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792704439214,
+ "asOfAt": 1792705342184,
  "sessionStatus": "in-progress",
- "publishedAt": 1792704439214,
+ "publishedAt": 1792705342184,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10226.93,
-   "upDollars": 226.93,
+   "equity": 10232.39,
+   "upDollars": 232.39,
    "upPct": 2.3,
    "trades": 5,
    "winPct": 60,
@@ -45,13 +45,13 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.9735
+     "lastPrice": 45.9666
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.8902
+     "lastPrice": 2.9203
     }
    ],
    "lastTrade": null
@@ -250,8 +250,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10054.49,
-   "upDollars": 54.49,
+   "equity": 10053.28,
+   "upDollars": 53.28,
    "upPct": 0.5,
    "trades": 192,
    "winPct": 46,
@@ -261,55 +261,55 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 147.69
+     "lastPrice": 147.66
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 138.55
+     "lastPrice": 138.53
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.75
+     "lastPrice": 14.76
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 147.3489
+     "lastPrice": 147.38
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.7085
+     "lastPrice": 82.97
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 68.7
+     "lastPrice": 68.751
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.9
+     "lastPrice": 45.715
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.89
+     "lastPrice": 81.76
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.87
+     "lastPrice": 101.76
     },
     {
      "symbol": "PFE",
@@ -815,18 +815,24 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9739.82,
-   "upDollars": -260.18,
+   "equity": 9737.53,
+   "upDollars": -262.47,
    "upPct": -2.6,
    "trades": 31,
    "winPct": 39,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "RNG",
      "shares": 10,
      "entryPrice": 91.2,
-     "lastPrice": 90
+     "lastPrice": 90.54
+    },
+    {
+     "symbol": "SAIQ",
+     "shares": 155,
+     "entryPrice": 6.37,
+     "lastPrice": 6.3204
     }
    ],
    "lastTrade": null
@@ -907,18 +913,24 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 9465.53,
-   "upDollars": -534.47,
-   "upPct": -5.3,
+   "equity": 9464.55,
+   "upDollars": -535.45,
+   "upPct": -5.4,
    "trades": 27,
    "winPct": 22,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "RNG",
      "shares": 10,
      "entryPrice": 91.2,
-     "lastPrice": 90
+     "lastPrice": 90.6462
+    },
+    {
+     "symbol": "SAIQ",
+     "shares": 150,
+     "entryPrice": 6.37,
+     "lastPrice": 6.3204
     }
    ],
    "lastTrade": null
@@ -944,13 +956,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8456.11,
-   "upDollars": -1543.89,
-   "upPct": -15.4,
+   "equity": 8449.46,
+   "upDollars": -1550.54,
+   "upPct": -15.5,
    "trades": 36,
    "winPct": 17,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SAIQ",
+     "shares": 134,
+     "entryPrice": 6.37,
+     "lastPrice": 6.3204
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -959,18 +978,24 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6964.97,
-   "upDollars": -3035.03,
+   "equity": 6964.03,
+   "upDollars": -3035.97,
    "upPct": -30.4,
    "trades": 86,
    "winPct": 22,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "RNG",
      "shares": 7,
      "entryPrice": 91.2,
-     "lastPrice": 90
+     "lastPrice": 90.6462
+    },
+    {
+     "symbol": "SAIQ",
+     "shares": 110,
+     "entryPrice": 6.37,
+     "lastPrice": 6.3204
     }
    ],
    "lastTrade": null
@@ -981,13 +1006,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 4518.51,
-   "upDollars": -5481.49,
-   "upPct": -54.8,
+   "equity": 4514.98,
+   "upDollars": -5485.02,
+   "upPct": -54.9,
    "trades": 100,
    "winPct": 13,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SAIQ",
+     "shares": 71,
+     "entryPrice": 6.37,
+     "lastPrice": 6.3204
+    }
+   ],
    "lastTrade": null
   }
  ]
