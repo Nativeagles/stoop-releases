@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792699020325,
+ "asOfAt": 1792699923118,
  "sessionStatus": "in-progress",
- "publishedAt": 1792699020325,
+ "publishedAt": 1792699923118,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10203.24,
-   "upDollars": 203.24,
+   "equity": 10204.82,
+   "upDollars": 204.82,
    "upPct": 2,
    "trades": 5,
    "winPct": 60,
@@ -39,19 +39,19 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.645
+     "lastPrice": 19.6497
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.9
+     "lastPrice": 45.86
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.7303
+     "lastPrice": 2.74
     }
    ],
    "lastTrade": null
@@ -250,8 +250,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10061.16,
-   "upDollars": 61.16,
+   "equity": 10055.9,
+   "upDollars": 55.9,
    "upPct": 0.6,
    "trades": 192,
    "winPct": 46,
@@ -261,61 +261,61 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 147.69
+     "lastPrice": 147.24
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 138.71
+     "lastPrice": 138.83
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.695
+     "lastPrice": 14.76
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 147.355
+     "lastPrice": 147.1185
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 83.055
+     "lastPrice": 83.1
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 69.06
+     "lastPrice": 68.7031
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.985
+     "lastPrice": 46.01
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82
+     "lastPrice": 82.07
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.885
+     "lastPrice": 101.04
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.365
+     "lastPrice": 30.42
     }
    ],
    "lastTrade": null
@@ -628,36 +628,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble-pmh",
-   "name": "Down Bubble — premarket high",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9879.86,
-   "upDollars": -120.14,
-   "upPct": -1.2,
-   "trades": 5,
-   "winPct": 0,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "KPTI",
-     "shares": 2013,
-     "entryPrice": 0.49,
-     "lastPrice": 0.5493
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-nine-cross-hourly-swing",
    "name": "Five Nine Cross (hourly swing)",
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9863.15,
-   "upDollars": -136.85,
-   "upPct": -1.4,
+   "equity": 9866.04,
+   "upDollars": -133.96,
+   "upPct": -1.3,
    "trades": 34,
    "winPct": 15,
    "open": 10,
@@ -666,63 +644,78 @@
      "symbol": "WFC",
      "shares": 6,
      "entryPrice": 82.29,
-     "lastPrice": 83.02000000000001
+     "lastPrice": 83.03500366210938
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 99.08,
-     "lastPrice": 101.78
+     "lastPrice": 101.905
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 118.99,
-     "lastPrice": 121.03999999999999
+     "lastPrice": 121.005
     },
     {
      "symbol": "NKE",
      "shares": 26,
      "entryPrice": 37.68,
-     "lastPrice": 38.165
+     "lastPrice": 38.195
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 94.31,
-     "lastPrice": 95.345
+     "lastPrice": 95.245
     },
     {
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 44.67,
-     "lastPrice": 45.195
+     "lastPrice": 45.155
     },
     {
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 80.6,
-     "lastPrice": 81.905
+     "lastPrice": 81.985
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.24,
-     "lastPrice": 30.405
+     "lastPrice": 30.384999999999998
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.97,
-     "lastPrice": 50.995000000000005
+     "lastPrice": 51.004999999999995
     },
     {
      "symbol": "NFLX",
      "shares": 14,
      "entryPrice": 67.24,
-     "lastPrice": 66.72999999999999
+     "lastPrice": 66.945
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble-pmh",
+   "name": "Down Bubble — premarket high",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9861.14,
+   "upDollars": -138.86,
+   "upPct": -1.4,
+   "trades": 6,
+   "winPct": 17,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -967,20 +960,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 4914.96,
-   "upDollars": -5085.04,
+   "equity": 4905.36,
+   "upDollars": -5094.64,
    "upPct": -50.9,
-   "trades": 91,
+   "trades": 92,
    "winPct": 14,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "EXYN",
-     "shares": 160,
-     "entryPrice": 2.97,
-     "lastPrice": 2.89
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
