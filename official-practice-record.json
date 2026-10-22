@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792701729204,
+ "asOfAt": 1792702633092,
  "sessionStatus": "in-progress",
- "publishedAt": 1792701729204,
+ "publishedAt": 1792702633092,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10210.9,
-   "upDollars": 210.9,
+   "equity": 10205.87,
+   "upDollars": 205.87,
    "upPct": 2.1,
    "trades": 5,
    "winPct": 60,
@@ -39,19 +39,19 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.6584
+     "lastPrice": 19.5142
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.72
+     "lastPrice": 45.7357
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.7791
+     "lastPrice": 2.79
     }
    ],
    "lastTrade": null
@@ -250,8 +250,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10062.69,
-   "upDollars": 62.69,
+   "equity": 10062.12,
+   "upDollars": 62.12,
    "upPct": 0.6,
    "trades": 192,
    "winPct": 46,
@@ -261,61 +261,61 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 148.55
+     "lastPrice": 148
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 138.629
+     "lastPrice": 138.65
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.78
+     "lastPrice": 14.73
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 147.6
+     "lastPrice": 147.3582
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 83.01
+     "lastPrice": 83.2
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 68.8
+     "lastPrice": 68.9
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.6469
+     "lastPrice": 45.91
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.8
+     "lastPrice": 82.1
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.91
+     "lastPrice": 101.81
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.38
+     "lastPrice": 30.3
     }
    ],
    "lastTrade": null
@@ -815,24 +815,18 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9730.74,
-   "upDollars": -269.26,
-   "upPct": -2.7,
-   "trades": 30,
-   "winPct": 40,
-   "open": 2,
+   "equity": 9739.89,
+   "upDollars": -260.11,
+   "upPct": -2.6,
+   "trades": 31,
+   "winPct": 39,
+   "open": 1,
    "positions": [
     {
      "symbol": "RNG",
      "shares": 10,
      "entryPrice": 91.2,
-     "lastPrice": 91.28
-    },
-    {
-     "symbol": "STAK",
-     "shares": 547,
-     "entryPrice": 1.76,
-     "lastPrice": 1.71
+     "lastPrice": 90.0066
     }
    ],
    "lastTrade": null
@@ -913,30 +907,18 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 9562.28,
-   "upDollars": -437.72,
-   "upPct": -4.4,
-   "trades": 24,
-   "winPct": 21,
-   "open": 3,
+   "equity": 9465.6,
+   "upDollars": -534.4,
+   "upPct": -5.3,
+   "trades": 26,
+   "winPct": 23,
+   "open": 1,
    "positions": [
     {
      "symbol": "RNG",
      "shares": 10,
      "entryPrice": 91.2,
-     "lastPrice": 91.28
-    },
-    {
-     "symbol": "BKYI",
-     "shares": 347,
-     "entryPrice": 2.77,
-     "lastPrice": 2.7791
-    },
-    {
-     "symbol": "XLAB",
-     "shares": 195,
-     "entryPrice": 4.89,
-     "lastPrice": 4.68
+     "lastPrice": 90.0066
     }
    ],
    "lastTrade": null
@@ -962,20 +944,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8469.87,
-   "upDollars": -1530.13,
-   "upPct": -15.3,
+   "equity": 8456.11,
+   "upDollars": -1543.89,
+   "upPct": -15.4,
    "trades": 35,
    "winPct": 17,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "XLAB",
-     "shares": 172,
-     "entryPrice": 4.89,
-     "lastPrice": 4.68
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -984,10 +959,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7036.5,
-   "upDollars": -2963.5,
-   "upPct": -29.6,
-   "trades": 85,
+   "equity": 6965.01,
+   "upDollars": -3034.99,
+   "upPct": -30.3,
+   "trades": 86,
    "winPct": 22,
    "open": 1,
    "positions": [
@@ -995,7 +970,7 @@
      "symbol": "RNG",
      "shares": 7,
      "entryPrice": 91.2,
-     "lastPrice": 91.14
+     "lastPrice": 90.0066
     }
    ],
    "lastTrade": null
@@ -1006,26 +981,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 4599.45,
-   "upDollars": -5400.55,
-   "upPct": -54,
-   "trades": 97,
+   "equity": 4518.51,
+   "upDollars": -5481.49,
+   "upPct": -54.8,
+   "trades": 99,
    "winPct": 13,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "BKYI",
-     "shares": 170,
-     "entryPrice": 2.77,
-     "lastPrice": 2.7981
-    },
-    {
-     "symbol": "XLAB",
-     "shares": 93,
-     "entryPrice": 4.89,
-     "lastPrice": 4.68
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
