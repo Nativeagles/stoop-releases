@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792660177527,
+ "asOfAt": 1792661080302,
  "sessionStatus": "in-progress",
- "publishedAt": 1792660177527,
+ "publishedAt": 1792661080302,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10212.46,
-   "upDollars": 212.46,
-   "upPct": 2.1,
+   "equity": 10197.85,
+   "upDollars": 197.85,
+   "upPct": 2,
    "trades": 5,
    "winPct": 60,
    "open": 3,
@@ -51,7 +51,7 @@
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.7994
+     "lastPrice": 2.72
     }
    ],
    "lastTrade": null
@@ -395,28 +395,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9993.53,
-   "upDollars": -6.47,
-   "upPct": -0.1,
-   "trades": 21,
-   "winPct": 38,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "STAK",
-     "shares": 325,
-     "entryPrice": 1.55,
-     "lastPrice": 1.4889
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -487,13 +465,35 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9983.78,
+   "upDollars": -16.22,
+   "upPct": -0.2,
+   "trades": 21,
+   "winPct": 38,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "STAK",
+     "shares": 325,
+     "entryPrice": 1.55,
+     "lastPrice": 1.4589
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9969.7,
-   "upDollars": -30.3,
+   "equity": 9968.05,
+   "upDollars": -31.95,
    "upPct": -0.3,
    "trades": 183,
    "winPct": 45,
@@ -503,61 +503,61 @@
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 129.21,
-     "lastPrice": 125.58
+     "lastPrice": 125.76
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 93.09,
-     "lastPrice": 93.952
+     "lastPrice": 93.32
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 117.79,
-     "lastPrice": 118.68
+     "lastPrice": 118.75
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.87,
-     "lastPrice": 50.5
+     "lastPrice": 50.56
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 107.31,
-     "lastPrice": 105.78
+     "lastPrice": 105.9
     },
     {
      "symbol": "NKE",
      "shares": 26,
      "entryPrice": 37.55,
-     "lastPrice": 37.29
+     "lastPrice": 37.2725
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 153.03,
-     "lastPrice": 151.3
+     "lastPrice": 151.9
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 150.53
+     "lastPrice": 150.58
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.81,
-     "lastPrice": 93.7
+     "lastPrice": 93.65
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 123.82,
-     "lastPrice": 123
+     "lastPrice": 122.71
     }
    ],
    "lastTrade": null
@@ -874,20 +874,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7649.32,
-   "upDollars": -2350.68,
-   "upPct": -23.5,
-   "trades": 69,
-   "winPct": 25,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "STAK",
-     "shares": 498,
-     "entryPrice": 1.55,
-     "lastPrice": 1.4889
-    }
-   ],
+   "equity": 7624.97,
+   "upDollars": -2375.03,
+   "upPct": -23.8,
+   "trades": 70,
+   "winPct": 24,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
