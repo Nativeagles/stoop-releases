@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792656565304,
+ "asOfAt": 1792657468416,
  "sessionStatus": "in-progress",
- "publishedAt": 1792656565304,
+ "publishedAt": 1792657468416,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10210.03,
-   "upDollars": 210.03,
+   "equity": 10211.02,
+   "upDollars": 211.02,
    "upPct": 2.1,
    "trades": 5,
    "winPct": 60,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.59
+     "lastPrice": 45.68
     }
    ],
    "lastTrade": null
@@ -464,8 +464,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9960.25,
-   "upDollars": -39.75,
+   "equity": 9956.07,
+   "upDollars": -43.93,
    "upPct": -0.4,
    "trades": 183,
    "winPct": 45,
@@ -475,61 +475,61 @@
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 129.21,
-     "lastPrice": 125.5
+     "lastPrice": 125.97
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 93.09,
-     "lastPrice": 93.07
+     "lastPrice": 93.32
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 117.79,
-     "lastPrice": 118.8
+     "lastPrice": 118.582
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.87,
-     "lastPrice": 50.6422
+     "lastPrice": 50.55
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 107.31,
-     "lastPrice": 105.75
+     "lastPrice": 105.72
     },
     {
      "symbol": "NKE",
      "shares": 26,
      "entryPrice": 37.55,
-     "lastPrice": 37.3112
+     "lastPrice": 37.3244
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 153.03,
-     "lastPrice": 150.3093
+     "lastPrice": 150.4
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 150.624
+     "lastPrice": 150.4
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.81,
-     "lastPrice": 93.48
+     "lastPrice": 93.51
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 123.82,
-     "lastPrice": 123.4457
+     "lastPrice": 122.69
     }
    ],
    "lastTrade": null
@@ -746,11 +746,11 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 9706.58,
-   "upDollars": -293.42,
-   "upPct": -2.9,
-   "trades": 8,
-   "winPct": 13,
+   "equity": 9670.82,
+   "upDollars": -329.18,
+   "upPct": -3.3,
+   "trades": 9,
+   "winPct": 11,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -861,10 +861,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7594.6,
-   "upDollars": -2405.4,
-   "upPct": -24.1,
-   "trades": 67,
+   "equity": 7550.32,
+   "upDollars": -2449.68,
+   "upPct": -24.5,
+   "trades": 68,
    "winPct": 24,
    "open": 0,
    "positions": [],
@@ -876,10 +876,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 5343.39,
-   "upDollars": -4656.61,
-   "upPct": -46.6,
-   "trades": 71,
+   "equity": 5298.41,
+   "upDollars": -4701.59,
+   "upPct": -47,
+   "trades": 72,
    "winPct": 13,
    "open": 0,
    "positions": [],
