@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792708051291,
+ "asOfAt": 1792708954424,
  "sessionStatus": "in-progress",
- "publishedAt": 1792708051291,
+ "publishedAt": 1792708954424,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10234.43,
-   "upDollars": 234.43,
-   "upPct": 2.3,
+   "equity": 10261.24,
+   "upDollars": 261.24,
+   "upPct": 2.6,
    "trades": 5,
    "winPct": 60,
    "open": 3,
@@ -39,19 +39,19 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.5037
+     "lastPrice": 19.6001
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.87
+     "lastPrice": 45.72
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.94
+     "lastPrice": 3.0685
     }
    ],
    "lastTrade": null
@@ -250,8 +250,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10069.69,
-   "upDollars": 69.69,
+   "equity": 10068.19,
+   "upDollars": 68.19,
    "upPct": 0.7,
    "trades": 192,
    "winPct": 46,
@@ -261,25 +261,25 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 148.5
+     "lastPrice": 149
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 138.5
+     "lastPrice": 138.7695
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.84
+     "lastPrice": 14.779
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 147.59
+     "lastPrice": 147.54
     },
     {
      "symbol": "WFC",
@@ -291,31 +291,31 @@
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 68.9399
+     "lastPrice": 68.92
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 46.01
+     "lastPrice": 45.8
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.9
+     "lastPrice": 81.76
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.76
+     "lastPrice": 101.9
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.3515
+     "lastPrice": 30.35
     }
    ],
    "lastTrade": null
@@ -815,8 +815,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9721.47,
-   "upDollars": -278.53,
+   "equity": 9723.5,
+   "upDollars": -276.5,
    "upPct": -2.8,
    "trades": 31,
    "winPct": 39,
@@ -826,13 +826,13 @@
      "symbol": "RNG",
      "shares": 10,
      "entryPrice": 91.2,
-     "lastPrice": 90.8
+     "lastPrice": 90.84
     },
     {
      "symbol": "SAIQ",
      "shares": 155,
      "entryPrice": 6.37,
-     "lastPrice": 6.2
+     "lastPrice": 6.2105
     }
    ],
    "lastTrade": null
@@ -913,8 +913,8 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 9410.03,
-   "upDollars": -589.97,
+   "equity": 9413.93,
+   "upDollars": -586.07,
    "upPct": -5.9,
    "trades": 28,
    "winPct": 21,
@@ -924,7 +924,7 @@
      "symbol": "RNG",
      "shares": 10,
      "entryPrice": 91.2,
-     "lastPrice": 90.45
+     "lastPrice": 90.84
     }
    ],
    "lastTrade": null
@@ -965,8 +965,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6958.22,
-   "upDollars": -3041.78,
+   "equity": 6960,
+   "upDollars": -3040,
    "upPct": -30.4,
    "trades": 87,
    "winPct": 22,
@@ -976,7 +976,7 @@
      "symbol": "RNG",
      "shares": 7,
      "entryPrice": 91.2,
-     "lastPrice": 90.45
+     "lastPrice": 90.7044
     }
    ],
    "lastTrade": null
