@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-22",
- "asOfAt": 1792661983459,
+ "asOfAt": 1792662886355,
  "sessionStatus": "in-progress",
- "publishedAt": 1792661983459,
+ "publishedAt": 1792662886355,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10227.69,
-   "upDollars": 227.69,
+   "equity": 10226.33,
+   "upDollars": 226.33,
    "upPct": 2.3,
    "trades": 5,
    "winPct": 60,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.6412
+     "lastPrice": 19.65
     },
     {
      "symbol": "BRZE",
@@ -51,7 +51,7 @@
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.8798
+     "lastPrice": 2.87
     }
    ],
    "lastTrade": null
@@ -245,28 +245,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10010.36,
-   "upDollars": 10.36,
-   "upPct": 0.1,
-   "trades": 21,
-   "winPct": 38,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "STAK",
-     "shares": 325,
-     "entryPrice": 1.55,
-     "lastPrice": 1.5407
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-steps-daily",
    "name": "Five Steps (daily)",
    "kind": "official",
@@ -417,6 +395,28 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9996.78,
+   "upDollars": -3.22,
+   "upPct": 0,
+   "trades": 21,
+   "winPct": 38,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "STAK",
+     "shares": 325,
+     "entryPrice": 1.55,
+     "lastPrice": 1.4989
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -492,9 +492,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9966.99,
-   "upDollars": -33.01,
-   "upPct": -0.3,
+   "equity": 9959.49,
+   "upDollars": -40.51,
+   "upPct": -0.4,
    "trades": 183,
    "winPct": 45,
    "open": 10,
@@ -503,7 +503,7 @@
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 129.21,
-     "lastPrice": 125.7997
+     "lastPrice": 125.54
     },
     {
      "symbol": "MDT",
@@ -515,49 +515,49 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 117.79,
-     "lastPrice": 118.66
+     "lastPrice": 118.76
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.87,
-     "lastPrice": 50.5396
+     "lastPrice": 50.4025
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 107.31,
-     "lastPrice": 105.9
+     "lastPrice": 105.66
     },
     {
      "symbol": "NKE",
      "shares": 26,
      "entryPrice": 37.55,
-     "lastPrice": 37.2742
+     "lastPrice": 37.25
     },
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 153.03,
-     "lastPrice": 151.82
+     "lastPrice": 151.71
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 150.64
+     "lastPrice": 150.78
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.81,
-     "lastPrice": 93.6352
+     "lastPrice": 93.6758
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 123.82,
-     "lastPrice": 122.71
+     "lastPrice": 122.5
     }
    ],
    "lastTrade": null
