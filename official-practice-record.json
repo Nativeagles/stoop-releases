@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792754912080,
+ "asOfAt": 1792755815955,
  "sessionStatus": "in-progress",
- "publishedAt": 1792754912080,
+ "publishedAt": 1792755815955,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10266.36,
-   "upDollars": 266.36,
+   "equity": 10265.27,
+   "upDollars": 265.27,
    "upPct": 2.7,
    "trades": 5,
    "winPct": 60,
@@ -39,19 +39,19 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.7
+     "lastPrice": 19.6317
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.8735
+     "lastPrice": 45.75
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 3.06
+     "lastPrice": 3.08
     }
    ],
    "lastTrade": null
@@ -496,8 +496,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10031.69,
-   "upDollars": 31.69,
+   "equity": 10029.15,
+   "upDollars": 29.15,
    "upPct": 0.3,
    "trades": 192,
    "winPct": 46,
@@ -507,37 +507,37 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 146.1339
+     "lastPrice": 146.49
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 138.0172
+     "lastPrice": 138
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.6
+     "lastPrice": 14.6015
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 147.36
+     "lastPrice": 145.4501
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.97
+     "lastPrice": 82.9899
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 68.75
+     "lastPrice": 68.7
     },
     {
      "symbol": "BSX",
@@ -549,19 +549,19 @@
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.7
+     "lastPrice": 81.76
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.3372
+     "lastPrice": 101.5
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.23
+     "lastPrice": 30.2346
     }
    ],
    "lastTrade": null
@@ -930,20 +930,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8390.16,
-   "upDollars": -1609.84,
-   "upPct": -16.1,
-   "trades": 37,
+   "equity": 8363.73,
+   "upDollars": -1636.27,
+   "upPct": -16.4,
+   "trades": 38,
    "winPct": 16,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "BKYI",
-     "shares": 277,
-     "entryPrice": 3.18,
-     "lastPrice": 3.1354
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -952,20 +945,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6588.03,
-   "upDollars": -3411.97,
-   "upPct": -34.1,
-   "trades": 93,
+   "equity": 6578.18,
+   "upDollars": -3421.82,
+   "upPct": -34.2,
+   "trades": 94,
    "winPct": 20,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "BKYI",
-     "shares": 217,
-     "entryPrice": 3.18,
-     "lastPrice": 3.1354
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -974,20 +960,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 4306.66,
-   "upDollars": -5693.34,
-   "upPct": -56.9,
-   "trades": 106,
+   "equity": 4293.11,
+   "upDollars": -5706.89,
+   "upPct": -57.1,
+   "trades": 107,
    "winPct": 12,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "BKYI",
-     "shares": 142,
-     "entryPrice": 3.18,
-     "lastPrice": 3.1354
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
