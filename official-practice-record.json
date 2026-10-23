@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792792838354,
+ "asOfAt": 1792793741347,
  "sessionStatus": "in-progress",
- "publishedAt": 1792792838354,
+ "publishedAt": 1792793741347,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -344,8 +344,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10006.36,
-   "upDollars": 6.36,
+   "equity": 10006.25,
+   "upDollars": 6.25,
    "upPct": 0.1,
    "trades": 193,
    "winPct": 46,
@@ -355,25 +355,25 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 145.4882
+     "lastPrice": 145.37
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.86
+     "lastPrice": 135.75
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 145
+     "lastPrice": 145.03
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.4
+     "lastPrice": 82.32
     },
     {
      "symbol": "UBER",
@@ -397,19 +397,19 @@
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 100.022
+     "lastPrice": 100.1364
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.0201
+     "lastPrice": 30.03
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 95.1744
+     "lastPrice": 95.25
     }
    ],
    "lastTrade": null
@@ -945,9 +945,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9045.5,
-   "upDollars": -954.5,
-   "upPct": -9.5,
+   "equity": 9062.22,
+   "upDollars": -937.78,
+   "upPct": -9.4,
    "trades": 44,
    "winPct": 32,
    "open": 1,
@@ -956,7 +956,7 @@
      "symbol": "YMAT",
      "shares": 418,
      "entryPrice": 2.18,
-     "lastPrice": 2.16
+     "lastPrice": 2.2
     }
    ],
    "lastTrade": null
