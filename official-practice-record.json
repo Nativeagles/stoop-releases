@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792750397565,
+ "asOfAt": 1792751300501,
  "sessionStatus": "in-progress",
- "publishedAt": 1792750397565,
+ "publishedAt": 1792751300501,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10218.53,
-   "upDollars": 218.53,
+   "equity": 10216.61,
+   "upDollars": 216.61,
    "upPct": 2.2,
    "trades": 5,
    "winPct": 60,
@@ -51,7 +51,7 @@
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.7983
+     "lastPrice": 2.7879
     }
    ],
    "lastTrade": null
@@ -496,9 +496,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10030.03,
-   "upDollars": 30.03,
-   "upPct": 0.3,
+   "equity": 10018.91,
+   "upDollars": 18.91,
+   "upPct": 0.2,
    "trades": 192,
    "winPct": 46,
    "open": 10,
@@ -507,19 +507,19 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 146.02
+     "lastPrice": 146.01
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 137.99
+     "lastPrice": 137.98
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.74
+     "lastPrice": 14.6657
     },
     {
      "symbol": "TJX",
@@ -531,13 +531,13 @@
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 83.01
+     "lastPrice": 81.5
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 68.68
+     "lastPrice": 68.7647
     },
     {
      "symbol": "BSX",
@@ -549,19 +549,19 @@
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.62
+     "lastPrice": 81.64
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.33
+     "lastPrice": 101.6386
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.166
+     "lastPrice": 30.1742
     }
    ],
    "lastTrade": null
