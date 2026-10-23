@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792797352818,
+ "asOfAt": 1792798255770,
  "sessionStatus": "in-progress",
- "publishedAt": 1792797352818,
+ "publishedAt": 1792798255770,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10355.75,
-   "upDollars": 355.75,
+   "equity": 10358.75,
+   "upDollars": 358.75,
    "upPct": 3.6,
    "trades": 7,
    "winPct": 71,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.6
+     "lastPrice": 19.66
     },
     {
      "symbol": "BRZE",
@@ -344,8 +344,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10001.75,
-   "upDollars": 1.75,
+   "equity": 10004.68,
+   "upDollars": 4.68,
    "upPct": 0,
    "trades": 193,
    "winPct": 46,
@@ -355,13 +355,13 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 145.3723
+     "lastPrice": 145.4
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.73
+     "lastPrice": 135.87
     },
     {
      "symbol": "TJX",
@@ -373,25 +373,25 @@
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.47
+     "lastPrice": 82.4241
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.88
+     "lastPrice": 66.98
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.75
+     "lastPrice": 45.79
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.5
+     "lastPrice": 81.65
     },
     {
      "symbol": "SBUX",
@@ -403,7 +403,7 @@
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.0201
+     "lastPrice": 30.03
     },
     {
      "symbol": "MDT",
@@ -945,9 +945,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9032.96,
-   "upDollars": -967.04,
-   "upPct": -9.7,
+   "equity": 9024.18,
+   "upDollars": -975.82,
+   "upPct": -9.8,
    "trades": 44,
    "winPct": 32,
    "open": 1,
@@ -956,7 +956,7 @@
      "symbol": "YMAT",
      "shares": 418,
      "entryPrice": 2.18,
-     "lastPrice": 2.13
+     "lastPrice": 2.109
     }
    ],
    "lastTrade": null
@@ -1012,8 +1012,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6605.95,
-   "upDollars": -3394.05,
+   "equity": 6609.48,
+   "upDollars": -3390.52,
    "upPct": -33.9,
    "trades": 108,
    "winPct": 20,
@@ -1023,7 +1023,7 @@
      "symbol": "WGS",
      "shares": 10,
      "entryPrice": 62.38,
-     "lastPrice": 61.0469
+     "lastPrice": 61.4
     }
    ],
    "lastTrade": null
