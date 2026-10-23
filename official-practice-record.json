@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792758524618,
+ "asOfAt": 1792759427582,
  "sessionStatus": "in-progress",
- "publishedAt": 1792758524618,
+ "publishedAt": 1792759427582,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10268.38,
-   "upDollars": 268.38,
-   "upPct": 2.7,
+   "equity": 10297.67,
+   "upDollars": 297.67,
+   "upPct": 3,
    "trades": 5,
    "winPct": 60,
    "open": 4,
@@ -45,19 +45,19 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.8599
+     "lastPrice": 45.7708
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 3.0562
+     "lastPrice": 3.09
     },
     {
      "symbol": "AIXI",
      "shares": 189,
      "entryPrice": 2.79,
-     "lastPrice": 2.8227
+     "lastPrice": 2.95
     }
    ],
    "lastTrade": null
@@ -134,6 +134,64 @@
      "shares": 165,
      "entryPrice": 6.01,
      "lastPrice": 6.095
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-gap-fill",
+   "name": "Gap-Down Fill",
+   "kind": "official",
+   "startedOn": "2026-10-21",
+   "startingCash": 10000,
+   "equity": 10154.34,
+   "upDollars": 154.34,
+   "upPct": 1.5,
+   "trades": 2,
+   "winPct": 100,
+   "open": 7,
+   "positions": [
+    {
+     "symbol": "HSAI",
+     "shares": 75,
+     "entryPrice": 13.18,
+     "lastPrice": 13.18
+    },
+    {
+     "symbol": "FPS",
+     "shares": 37,
+     "entryPrice": 26.8,
+     "lastPrice": 26.8
+    },
+    {
+     "symbol": "NOK",
+     "shares": 118,
+     "entryPrice": 8.46,
+     "lastPrice": 8.46
+    },
+    {
+     "symbol": "OII",
+     "shares": 25,
+     "entryPrice": 38.47,
+     "lastPrice": 38.47
+    },
+    {
+     "symbol": "GGG",
+     "shares": 13,
+     "entryPrice": 72.62,
+     "lastPrice": 72.62
+    },
+    {
+     "symbol": "SPCM",
+     "shares": 59,
+     "entryPrice": 16.89,
+     "lastPrice": 16.89
+    },
+    {
+     "symbol": "LRCX",
+     "shares": 4,
+     "entryPrice": 232.18,
+     "lastPrice": 232.18
     }
    ],
    "lastTrade": null
@@ -363,70 +421,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-gap-fill",
-   "name": "Gap-Down Fill",
-   "kind": "official",
-   "startedOn": "2026-10-21",
-   "startingCash": 10000,
-   "equity": 10040.88,
-   "upDollars": 40.88,
-   "upPct": 0.4,
-   "trades": 1,
-   "winPct": 100,
-   "open": 8,
-   "positions": [
-    {
-     "symbol": "HSAI",
-     "shares": 75,
-     "entryPrice": 13.18,
-     "lastPrice": 13.18
-    },
-    {
-     "symbol": "REAX",
-     "shares": 61,
-     "entryPrice": 16.14,
-     "lastPrice": 16.14
-    },
-    {
-     "symbol": "FPS",
-     "shares": 37,
-     "entryPrice": 26.8,
-     "lastPrice": 26.8
-    },
-    {
-     "symbol": "NOK",
-     "shares": 118,
-     "entryPrice": 8.46,
-     "lastPrice": 8.46
-    },
-    {
-     "symbol": "OII",
-     "shares": 25,
-     "entryPrice": 38.47,
-     "lastPrice": 38.47
-    },
-    {
-     "symbol": "GGG",
-     "shares": 13,
-     "entryPrice": 72.62,
-     "lastPrice": 72.62
-    },
-    {
-     "symbol": "SPCM",
-     "shares": 59,
-     "entryPrice": 16.89,
-     "lastPrice": 16.89
-    },
-    {
-     "symbol": "LRCX",
-     "shares": 4,
-     "entryPrice": 232.18,
-     "lastPrice": 232.18
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
@@ -502,9 +496,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10030.01,
-   "upDollars": 30.01,
-   "upPct": 0.3,
+   "equity": 10023.28,
+   "upDollars": 23.28,
+   "upPct": 0.2,
    "trades": 192,
    "winPct": 46,
    "open": 10,
@@ -513,37 +507,37 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 145.66
+     "lastPrice": 146
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 138.13
+     "lastPrice": 138.085
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.6585
+     "lastPrice": 14.57
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 148
+     "lastPrice": 145.8237
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.57
+     "lastPrice": 82.76
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 68.6045
+     "lastPrice": 68.6
     },
     {
      "symbol": "BSX",
@@ -555,19 +549,19 @@
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.56
+     "lastPrice": 81.55
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.44
+     "lastPrice": 101.53
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.23
+     "lastPrice": 30.22
     }
    ],
    "lastTrade": null
