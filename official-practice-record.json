@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792756718872,
+ "asOfAt": 1792757621746,
  "sessionStatus": "in-progress",
- "publishedAt": 1792756718872,
+ "publishedAt": 1792757621746,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10267,
-   "upDollars": 267,
-   "upPct": 2.7,
+   "equity": 10283.03,
+   "upDollars": 283.03,
+   "upPct": 2.8,
    "trades": 5,
    "winPct": 60,
    "open": 3,
@@ -45,13 +45,13 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.74
+     "lastPrice": 45.8599
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 3.09
+     "lastPrice": 3.17
     }
    ],
    "lastTrade": null
@@ -421,82 +421,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10035.23,
-   "upDollars": 35.23,
-   "upPct": 0.4,
-   "trades": 192,
-   "winPct": 46,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 149.83,
-     "lastPrice": 146.5
-    },
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 138.71,
-     "lastPrice": 138
-    },
-    {
-     "symbol": "NU",
-     "shares": 40,
-     "entryPrice": 14.7,
-     "lastPrice": 14.5999
-    },
-    {
-     "symbol": "TJX",
-     "shares": 3,
-     "entryPrice": 147.35,
-     "lastPrice": 147
-    },
-    {
-     "symbol": "WFC",
-     "shares": 7,
-     "entryPrice": 83.04,
-     "lastPrice": 82.9899
-    },
-    {
-     "symbol": "UBER",
-     "shares": 8,
-     "entryPrice": 69.08,
-     "lastPrice": 68.8
-    },
-    {
-     "symbol": "BSX",
-     "shares": 12,
-     "entryPrice": 45.98,
-     "lastPrice": 45.89
-    },
-    {
-     "symbol": "NEE",
-     "shares": 7,
-     "entryPrice": 82,
-     "lastPrice": 81.64
-    },
-    {
-     "symbol": "SBUX",
-     "shares": 5,
-     "entryPrice": 101.89,
-     "lastPrice": 101.3446
-    },
-    {
-     "symbol": "PFE",
-     "shares": 19,
-     "entryPrice": 30.37,
-     "lastPrice": 30.25
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
@@ -562,6 +486,82 @@
      "shares": 164,
      "entryPrice": 6.01,
      "lastPrice": 6.095
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10024.75,
+   "upDollars": 24.75,
+   "upPct": 0.2,
+   "trades": 192,
+   "winPct": 46,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 149.83,
+     "lastPrice": 146.07
+    },
+    {
+     "symbol": "PEP",
+     "shares": 4,
+     "entryPrice": 138.71,
+     "lastPrice": 138.16
+    },
+    {
+     "symbol": "NU",
+     "shares": 40,
+     "entryPrice": 14.7,
+     "lastPrice": 14.6
+    },
+    {
+     "symbol": "TJX",
+     "shares": 3,
+     "entryPrice": 147.35,
+     "lastPrice": 146
+    },
+    {
+     "symbol": "WFC",
+     "shares": 7,
+     "entryPrice": 83.04,
+     "lastPrice": 82.6
+    },
+    {
+     "symbol": "UBER",
+     "shares": 8,
+     "entryPrice": 69.08,
+     "lastPrice": 68.5
+    },
+    {
+     "symbol": "BSX",
+     "shares": 12,
+     "entryPrice": 45.98,
+     "lastPrice": 45.9
+    },
+    {
+     "symbol": "NEE",
+     "shares": 7,
+     "entryPrice": 82,
+     "lastPrice": 81.5
+    },
+    {
+     "symbol": "SBUX",
+     "shares": 5,
+     "entryPrice": 101.89,
+     "lastPrice": 101.51
+    },
+    {
+     "symbol": "PFE",
+     "shares": 19,
+     "entryPrice": 30.37,
+     "lastPrice": 30.23
     }
    ],
    "lastTrade": null
@@ -900,13 +900,20 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 9232.83,
-   "upDollars": -767.17,
-   "upPct": -7.7,
+   "equity": 9223.68,
+   "upDollars": -776.32,
+   "upPct": -7.8,
    "trades": 31,
    "winPct": 19,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AIXI",
+     "shares": 300,
+     "entryPrice": 3.19,
+     "lastPrice": 3.1595
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -960,13 +967,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 4234.26,
-   "upDollars": -5765.74,
+   "equity": 4230.08,
+   "upDollars": -5769.92,
    "upPct": -57.7,
    "trades": 108,
    "winPct": 12,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AIXI",
+     "shares": 137,
+     "entryPrice": 3.19,
+     "lastPrice": 3.1595
+    }
+   ],
    "lastTrade": null
   }
  ]
