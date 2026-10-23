@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792786517646,
+ "asOfAt": 1792787420573,
  "sessionStatus": "in-progress",
- "publishedAt": 1792786517646,
+ "publishedAt": 1792787420573,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -344,9 +344,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10003.04,
-   "upDollars": 3.04,
-   "upPct": 0,
+   "equity": 10011.69,
+   "upDollars": 11.69,
+   "upPct": 0.1,
    "trades": 193,
    "winPct": 46,
    "open": 10,
@@ -355,13 +355,13 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 145.28
+     "lastPrice": 145.9899
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.66
+     "lastPrice": 135.85
     },
     {
      "symbol": "TJX",
@@ -373,37 +373,37 @@
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.25
+     "lastPrice": 82.39
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.9582
+     "lastPrice": 67
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.23
+     "lastPrice": 45.47
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82.16
+     "lastPrice": 82.1
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 100.8
+     "lastPrice": 100.79
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.025
+     "lastPrice": 30.02
     },
     {
      "symbol": "MDT",
@@ -945,13 +945,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9116.04,
-   "upDollars": -883.96,
-   "upPct": -8.8,
+   "equity": 9111.86,
+   "upDollars": -888.14,
+   "upPct": -8.9,
    "trades": 42,
    "winPct": 31,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "YMAT",
+     "shares": 418,
+     "entryPrice": 2.18,
+     "lastPrice": 2.17
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -960,13 +967,20 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 8971.46,
-   "upDollars": -1028.54,
-   "upPct": -10.3,
-   "trades": 42,
-   "winPct": 21,
-   "open": 0,
-   "positions": [],
+   "equity": 8956.35,
+   "upDollars": -1043.65,
+   "upPct": -10.4,
+   "trades": 44,
+   "winPct": 20,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "CLRO",
+     "shares": 216,
+     "entryPrice": 4.2,
+     "lastPrice": 4.4162
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -993,8 +1007,8 @@
    "equity": 8278.06,
    "upDollars": -1721.94,
    "upPct": -17.2,
-   "trades": 46,
-   "winPct": 20,
+   "trades": 47,
+   "winPct": 19,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -1005,13 +1019,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6716.64,
-   "upDollars": -3283.36,
-   "upPct": -32.8,
-   "trades": 104,
+   "equity": 6709.6,
+   "upDollars": -3290.4,
+   "upPct": -32.9,
+   "trades": 105,
    "winPct": 21,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "WGS",
+     "shares": 10,
+     "entryPrice": 62.38,
+     "lastPrice": 61.676
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1020,13 +1041,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3985.8,
-   "upDollars": -6014.2,
-   "upPct": -60.1,
-   "trades": 122,
+   "equity": 3977.19,
+   "upDollars": -6022.81,
+   "upPct": -60.2,
+   "trades": 124,
    "winPct": 12,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "CLRO",
+     "shares": 96,
+     "entryPrice": 4.22,
+     "lastPrice": 4.4162
+    }
+   ],
    "lastTrade": null
   }
  ]
