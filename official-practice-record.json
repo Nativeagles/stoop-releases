@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792760331622,
+ "asOfAt": 1792761234645,
  "sessionStatus": "in-progress",
- "publishedAt": 1792760331622,
+ "publishedAt": 1792761234645,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10354.63,
-   "upDollars": 354.63,
-   "upPct": 3.5,
+   "equity": 10394.05,
+   "upDollars": 394.05,
+   "upPct": 3.9,
    "trades": 5,
    "winPct": 60,
    "open": 4,
@@ -45,19 +45,19 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.7846
+     "lastPrice": 45.8083
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 3.1599
+     "lastPrice": 3.27
     },
     {
      "symbol": "AIXI",
      "shares": 189,
      "entryPrice": 2.79,
-     "lastPrice": 3.18
+     "lastPrice": 3.28
     }
    ],
    "lastTrade": null
@@ -496,8 +496,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10026.05,
-   "upDollars": 26.05,
+   "equity": 10025.1,
+   "upDollars": 25.1,
    "upPct": 0.3,
    "trades": 192,
    "winPct": 46,
@@ -513,13 +513,13 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 138.15
+     "lastPrice": 138.1706
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.59
+     "lastPrice": 14.63
     },
     {
      "symbol": "TJX",
@@ -531,37 +531,37 @@
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.76
+     "lastPrice": 82.69
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 68.6
+     "lastPrice": 68.5387
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.8101
+     "lastPrice": 45.8657
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.5
+     "lastPrice": 81.07
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.48
+     "lastPrice": 101.58
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.29
+     "lastPrice": 30.3
     }
    ],
    "lastTrade": null
