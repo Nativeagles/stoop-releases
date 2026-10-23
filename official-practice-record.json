@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792795547094,
+ "asOfAt": 1792796449992,
  "sessionStatus": "in-progress",
- "publishedAt": 1792795547094,
+ "publishedAt": 1792796449992,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -344,8 +344,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10014.47,
-   "upDollars": 14.47,
+   "equity": 10010.82,
+   "upDollars": 10.82,
    "upPct": 0.1,
    "trades": 193,
    "winPct": 46,
@@ -355,13 +355,13 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 145.5
+     "lastPrice": 145.37
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.6319
+     "lastPrice": 135.72
     },
     {
      "symbol": "TJX",
@@ -379,7 +379,7 @@
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 67.09
+     "lastPrice": 67
     },
     {
      "symbol": "BSX",
@@ -403,13 +403,13 @@
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.0201
+     "lastPrice": 30.02
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 95.97
+     "lastPrice": 95.72
     }
    ],
    "lastTrade": null
@@ -945,9 +945,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9095.62,
-   "upDollars": -904.38,
-   "upPct": -9,
+   "equity": 9045.54,
+   "upDollars": -954.46,
+   "upPct": -9.5,
    "trades": 44,
    "winPct": 32,
    "open": 1,
@@ -956,7 +956,7 @@
      "symbol": "YMAT",
      "shares": 418,
      "entryPrice": 2.18,
-     "lastPrice": 2.2799
+     "lastPrice": 2.1601
     }
    ],
    "lastTrade": null
@@ -1012,8 +1012,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6605.48,
-   "upDollars": -3394.52,
+   "equity": 6609.58,
+   "upDollars": -3390.42,
    "upPct": -33.9,
    "trades": 108,
    "winPct": 20,
@@ -1023,7 +1023,7 @@
      "symbol": "WGS",
      "shares": 10,
      "entryPrice": 62.38,
-     "lastPrice": 61
+     "lastPrice": 61.41
     }
    ],
    "lastTrade": null
