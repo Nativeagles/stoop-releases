@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792785614452,
+ "asOfAt": 1792786517646,
  "sessionStatus": "in-progress",
- "publishedAt": 1792785614452,
+ "publishedAt": 1792786517646,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10359.77,
-   "upDollars": 359.77,
+   "equity": 10360.02,
+   "upDollars": 360.02,
    "upPct": 3.6,
    "trades": 7,
    "winPct": 71,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.665
+     "lastPrice": 19.67
     },
     {
      "symbol": "BRZE",
@@ -344,9 +344,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10009.94,
-   "upDollars": 9.94,
-   "upPct": 0.1,
+   "equity": 10003.04,
+   "upDollars": 3.04,
+   "upPct": 0,
    "trades": 193,
    "winPct": 46,
    "open": 10,
@@ -355,61 +355,61 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 145.2675
+     "lastPrice": 145.28
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.8
+     "lastPrice": 135.66
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 144.945
+     "lastPrice": 145.06
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.405
+     "lastPrice": 82.25
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.9
+     "lastPrice": 66.9582
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.69
+     "lastPrice": 45.23
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82.1
+     "lastPrice": 82.16
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 100.82
+     "lastPrice": 100.8
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.035
+     "lastPrice": 30.025
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 95.485
+     "lastPrice": 95.41
     }
    ],
    "lastTrade": null
@@ -730,82 +730,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-five-nine-cross-hourly-swing",
-   "name": "Five Nine Cross (hourly swing)",
-   "kind": "official",
-   "startedOn": "2026-10-16",
-   "startingCash": 10000,
-   "equity": 9737.64,
-   "upDollars": -262.36,
-   "upPct": -2.6,
-   "trades": 46,
-   "winPct": 15,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "NEE",
-     "shares": 12,
-     "entryPrice": 80.6,
-     "lastPrice": 82.08500000000001
-    },
-    {
-     "symbol": "DVN",
-     "shares": 19,
-     "entryPrice": 50.84,
-     "lastPrice": 51.254999999999995
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 106.49,
-     "lastPrice": 106.46000000000001
-    },
-    {
-     "symbol": "WMB",
-     "shares": 13,
-     "entryPrice": 72.24,
-     "lastPrice": 71.625
-    },
-    {
-     "symbol": "ORCL",
-     "shares": 7,
-     "entryPrice": 127.49,
-     "lastPrice": 126.095
-    },
-    {
-     "symbol": "TEM",
-     "shares": 14,
-     "entryPrice": 66.31,
-     "lastPrice": 67.36500000000001
-    },
-    {
-     "symbol": "CBRS",
-     "shares": 8,
-     "entryPrice": 113.6,
-     "lastPrice": 111.295
-    },
-    {
-     "symbol": "VYLR",
-     "shares": 13,
-     "entryPrice": 73.05,
-     "lastPrice": 74.50999999999999
-    },
-    {
-     "symbol": "USB",
-     "shares": 16,
-     "entryPrice": 59.63,
-     "lastPrice": 59.7
-    },
-    {
-     "symbol": "VALE",
-     "shares": 78,
-     "entryPrice": 12.41,
-     "lastPrice": 12.375
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-pattern-follow-daily",
    "name": "Pattern Follow (daily)",
    "kind": "official",
@@ -877,6 +801,64 @@
      "shares": 7,
      "entryPrice": 122.11,
      "lastPrice": 121.135
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-five-nine-cross-hourly-swing",
+   "name": "Five Nine Cross (hourly swing)",
+   "kind": "official",
+   "startedOn": "2026-10-16",
+   "startingCash": 10000,
+   "equity": 9710.42,
+   "upDollars": -289.58,
+   "upPct": -2.9,
+   "trades": 49,
+   "winPct": 14,
+   "open": 7,
+   "positions": [
+    {
+     "symbol": "NEE",
+     "shares": 12,
+     "entryPrice": 80.6,
+     "lastPrice": 82.11000061035156
+    },
+    {
+     "symbol": "DVN",
+     "shares": 19,
+     "entryPrice": 50.84,
+     "lastPrice": 51.3849983215332
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 9,
+     "entryPrice": 106.49,
+     "lastPrice": 106.48999786376953
+    },
+    {
+     "symbol": "WMB",
+     "shares": 13,
+     "entryPrice": 72.24,
+     "lastPrice": 71.68499755859375
+    },
+    {
+     "symbol": "TEM",
+     "shares": 14,
+     "entryPrice": 66.31,
+     "lastPrice": 67.61499786376953
+    },
+    {
+     "symbol": "VYLR",
+     "shares": 13,
+     "entryPrice": 73.05,
+     "lastPrice": 74.52999877929688
+    },
+    {
+     "symbol": "VALE",
+     "shares": 78,
+     "entryPrice": 12.41,
+     "lastPrice": 12.385000000000002
     }
    ],
    "lastTrade": null
