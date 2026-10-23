@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792745883134,
+ "asOfAt": 1792746786031,
  "sessionStatus": "in-progress",
- "publishedAt": 1792745883134,
+ "publishedAt": 1792746786031,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10208.77,
-   "upDollars": 208.77,
+   "equity": 10212.45,
+   "upDollars": 212.45,
    "upPct": 2.1,
    "trades": 5,
    "winPct": 60,
@@ -51,7 +51,7 @@
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.78
+     "lastPrice": 2.8
     }
    ],
    "lastTrade": null
@@ -245,82 +245,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10052.19,
-   "upDollars": 52.19,
-   "upPct": 0.5,
-   "trades": 192,
-   "winPct": 46,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 149.83,
-     "lastPrice": 146.48
-    },
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 138.71,
-     "lastPrice": 137.35
-    },
-    {
-     "symbol": "NU",
-     "shares": 40,
-     "entryPrice": 14.7,
-     "lastPrice": 14.9622
-    },
-    {
-     "symbol": "TJX",
-     "shares": 3,
-     "entryPrice": 147.35,
-     "lastPrice": 146.89
-    },
-    {
-     "symbol": "WFC",
-     "shares": 7,
-     "entryPrice": 83.04,
-     "lastPrice": 83.255
-    },
-    {
-     "symbol": "UBER",
-     "shares": 8,
-     "entryPrice": 69.08,
-     "lastPrice": 68.827
-    },
-    {
-     "symbol": "BSX",
-     "shares": 12,
-     "entryPrice": 45.98,
-     "lastPrice": 45.88
-    },
-    {
-     "symbol": "NEE",
-     "shares": 7,
-     "entryPrice": 82,
-     "lastPrice": 81.9972
-    },
-    {
-     "symbol": "SBUX",
-     "shares": 5,
-     "entryPrice": 101.89,
-     "lastPrice": 101.7475
-    },
-    {
-     "symbol": "PFE",
-     "shares": 19,
-     "entryPrice": 30.37,
-     "lastPrice": 30.2
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-nine-cross-daily",
    "name": "Five Nine Cross (daily)",
    "kind": "official",
@@ -492,6 +416,82 @@
      "shares": 4,
      "entryPrice": 232.18,
      "lastPrice": 232.18
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10038.57,
+   "upDollars": 38.57,
+   "upPct": 0.4,
+   "trades": 192,
+   "winPct": 46,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 149.83,
+     "lastPrice": 146.54
+    },
+    {
+     "symbol": "PEP",
+     "shares": 4,
+     "entryPrice": 138.71,
+     "lastPrice": 137.315
+    },
+    {
+     "symbol": "NU",
+     "shares": 40,
+     "entryPrice": 14.7,
+     "lastPrice": 14.8
+    },
+    {
+     "symbol": "TJX",
+     "shares": 3,
+     "entryPrice": 147.35,
+     "lastPrice": 146.89
+    },
+    {
+     "symbol": "WFC",
+     "shares": 7,
+     "entryPrice": 83.04,
+     "lastPrice": 83.255
+    },
+    {
+     "symbol": "UBER",
+     "shares": 8,
+     "entryPrice": 69.08,
+     "lastPrice": 68.82
+    },
+    {
+     "symbol": "BSX",
+     "shares": 12,
+     "entryPrice": 45.98,
+     "lastPrice": 45.5
+    },
+    {
+     "symbol": "NEE",
+     "shares": 7,
+     "entryPrice": 82,
+     "lastPrice": 81.9972
+    },
+    {
+     "symbol": "SBUX",
+     "shares": 5,
+     "entryPrice": 101.89,
+     "lastPrice": 101.2
+    },
+    {
+     "symbol": "PFE",
+     "shares": 19,
+     "entryPrice": 30.37,
+     "lastPrice": 30.2
     }
    ],
    "lastTrade": null
@@ -885,9 +885,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9553.65,
-   "upDollars": -446.35,
-   "upPct": -4.5,
+   "equity": 9539.41,
+   "upDollars": -460.59,
+   "upPct": -4.6,
    "trades": 33,
    "winPct": 36,
    "open": 1,
@@ -896,7 +896,7 @@
      "symbol": "GPUS",
      "shares": 6471,
      "entryPrice": 0.1499,
-     "lastPrice": 0.1422
+     "lastPrice": 0.14
     }
    ],
    "lastTrade": null
