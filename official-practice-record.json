@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-23",
- "asOfAt": 1792747688883,
+ "asOfAt": 1792748591763,
  "sessionStatus": "in-progress",
- "publishedAt": 1792747688883,
+ "publishedAt": 1792748591763,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10203.25,
-   "upDollars": 203.25,
+   "equity": 10204.72,
+   "upDollars": 204.72,
    "upPct": 2,
    "trades": 5,
    "winPct": 60,
@@ -45,13 +45,13 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.6091
+     "lastPrice": 45.9109
     },
     {
      "symbol": "BKYI",
      "shares": 184,
      "entryPrice": 2.8,
-     "lastPrice": 2.75
+     "lastPrice": 2.74
     }
    ],
    "lastTrade": null
@@ -426,8 +426,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10042.82,
-   "upDollars": 42.82,
+   "equity": 10038.33,
+   "upDollars": 38.33,
    "upPct": 0.4,
    "trades": 192,
    "winPct": 46,
@@ -437,19 +437,19 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 146.42
+     "lastPrice": 146.0267
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 137.554
+     "lastPrice": 137.7353
     },
     {
      "symbol": "NU",
      "shares": 40,
      "entryPrice": 14.7,
-     "lastPrice": 14.8
+     "lastPrice": 14.73
     },
     {
      "symbol": "TJX",
@@ -467,13 +467,13 @@
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 68.7
+     "lastPrice": 68.76
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.94
+     "lastPrice": 45.8
     },
     {
      "symbol": "NEE",
@@ -491,7 +491,7 @@
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.22
+     "lastPrice": 30.28
     }
    ],
    "lastTrade": null
@@ -885,20 +885,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9520.64,
-   "upDollars": -479.36,
-   "upPct": -4.8,
-   "trades": 33,
-   "winPct": 36,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GPUS",
-     "shares": 6471,
-     "entryPrice": 0.1499,
-     "lastPrice": 0.1371
-    }
-   ],
+   "equity": 9493.47,
+   "upDollars": -506.53,
+   "upPct": -5.1,
+   "trades": 34,
+   "winPct": 35,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
