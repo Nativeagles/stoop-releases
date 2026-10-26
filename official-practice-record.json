@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-26",
- "asOfAt": 1793019269108,
+ "asOfAt": 1793020172021,
  "sessionStatus": "in-progress",
- "publishedAt": 1793019269108,
+ "publishedAt": 1793020172021,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10279.86,
-   "upDollars": 279.86,
+   "equity": 10280.31,
+   "upDollars": 280.31,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.651
+     "lastPrice": 19.66
     },
     {
      "symbol": "BRZE",
@@ -189,8 +189,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10003.57,
-   "upDollars": 3.57,
+   "equity": 10003.81,
+   "upDollars": 3.81,
    "upPct": 0,
    "trades": 0,
    "winPct": null,
@@ -200,19 +200,19 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 145.39
+     "lastPrice": 145.8
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.5
+     "lastPrice": 135.65
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 145.58
+     "lastPrice": 145
     },
     {
      "symbol": "WFC",
@@ -224,37 +224,37 @@
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.65
+     "lastPrice": 66.77
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.15
+     "lastPrice": 45.31
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 81.8676
+     "lastPrice": 81.8429
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 100.99
+     "lastPrice": 101
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 29.98
+     "lastPrice": 30.0095
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 95.49
+     "lastPrice": 95.05
     }
    ],
    "lastTrade": null
@@ -815,21 +815,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-10-21",
-   "startingCash": 10000,
-   "equity": 8701.78,
-   "upDollars": -1298.22,
-   "upPct": -13,
-   "trades": 51,
-   "winPct": 24,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "short-lane",
    "name": "PRETEND - Short the premarket spike",
    "kind": "official",
@@ -845,15 +830,30 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-six-degrees-spread",
+   "name": "Six Degrees (spread check)",
+   "kind": "official",
+   "startedOn": "2026-10-21",
+   "startingCash": 10000,
+   "equity": 8608.01,
+   "upDollars": -1391.99,
+   "upPct": -13.9,
+   "trades": 52,
+   "winPct": 23,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-six-degrees-near-line",
    "name": "Six Degrees (near its line)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8302.88,
-   "upDollars": -1697.12,
-   "upPct": -17,
-   "trades": 50,
+   "equity": 8289.18,
+   "upDollars": -1710.82,
+   "upPct": -17.1,
+   "trades": 51,
    "winPct": 22,
    "open": 0,
    "positions": [],
@@ -880,10 +880,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3809.44,
-   "upDollars": -6190.56,
-   "upPct": -61.9,
-   "trades": 132,
+   "equity": 3803.16,
+   "upDollars": -6196.84,
+   "upPct": -62,
+   "trades": 133,
    "winPct": 14,
    "open": 0,
    "positions": [],
