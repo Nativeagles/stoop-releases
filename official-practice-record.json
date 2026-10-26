@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-26",
- "asOfAt": 1793018365975,
+ "asOfAt": 1793019269108,
  "sessionStatus": "in-progress",
- "publishedAt": 1793018365975,
+ "publishedAt": 1793019269108,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10281.51,
-   "upDollars": 281.51,
+   "equity": 10279.86,
+   "upDollars": 279.86,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46
+     "lastPrice": 45.85
     }
    ],
    "lastTrade": null
@@ -169,82 +169,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10007.27,
-   "upDollars": 7.27,
-   "upPct": 0.1,
-   "trades": 0,
-   "winPct": null,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 149.83,
-     "lastPrice": 145.41
-    },
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 138.71,
-     "lastPrice": 135.7
-    },
-    {
-     "symbol": "TJX",
-     "shares": 3,
-     "entryPrice": 147.35,
-     "lastPrice": 145.58
-    },
-    {
-     "symbol": "WFC",
-     "shares": 7,
-     "entryPrice": 83.04,
-     "lastPrice": 82.28
-    },
-    {
-     "symbol": "UBER",
-     "shares": 8,
-     "entryPrice": 69.08,
-     "lastPrice": 66.9077
-    },
-    {
-     "symbol": "BSX",
-     "shares": 12,
-     "entryPrice": 45.98,
-     "lastPrice": 45.4962
-    },
-    {
-     "symbol": "NEE",
-     "shares": 7,
-     "entryPrice": 82,
-     "lastPrice": 81.87
-    },
-    {
-     "symbol": "SBUX",
-     "shares": 5,
-     "entryPrice": 101.89,
-     "lastPrice": 101
-    },
-    {
-     "symbol": "PFE",
-     "shares": 19,
-     "entryPrice": 30.37,
-     "lastPrice": 29.97
-    },
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 95.58,
-     "lastPrice": 95.49
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-gap-fill",
    "name": "Gap-Down Fill",
    "kind": "official",
@@ -257,6 +181,82 @@
    "winPct": null,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10003.57,
+   "upDollars": 3.57,
+   "upPct": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 149.83,
+     "lastPrice": 145.39
+    },
+    {
+     "symbol": "PEP",
+     "shares": 4,
+     "entryPrice": 138.71,
+     "lastPrice": 135.5
+    },
+    {
+     "symbol": "TJX",
+     "shares": 3,
+     "entryPrice": 147.35,
+     "lastPrice": 145.58
+    },
+    {
+     "symbol": "WFC",
+     "shares": 7,
+     "entryPrice": 83.04,
+     "lastPrice": 82.7542
+    },
+    {
+     "symbol": "UBER",
+     "shares": 8,
+     "entryPrice": 69.08,
+     "lastPrice": 66.65
+    },
+    {
+     "symbol": "BSX",
+     "shares": 12,
+     "entryPrice": 45.98,
+     "lastPrice": 45.15
+    },
+    {
+     "symbol": "NEE",
+     "shares": 7,
+     "entryPrice": 82,
+     "lastPrice": 81.8676
+    },
+    {
+     "symbol": "SBUX",
+     "shares": 5,
+     "entryPrice": 101.89,
+     "lastPrice": 100.99
+    },
+    {
+     "symbol": "PFE",
+     "shares": 19,
+     "entryPrice": 30.37,
+     "lastPrice": 29.98
+    },
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 95.58,
+     "lastPrice": 95.49
+    }
+   ],
    "lastTrade": null
   },
   {
