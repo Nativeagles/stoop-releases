@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-26",
- "asOfAt": 1793049051419,
+ "asOfAt": 1793049953229,
  "sessionStatus": "in-progress",
- "publishedAt": 1793049051419,
+ "publishedAt": 1793049953229,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -494,9 +494,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9953.68,
-   "upDollars": -46.32,
-   "upPct": -0.5,
+   "equity": 9961.97,
+   "upDollars": -38.03,
+   "upPct": -0.4,
    "trades": 0,
    "winPct": null,
    "open": 10,
@@ -505,61 +505,61 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.5
+     "lastPrice": 135.499
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 142.49
+     "lastPrice": 143.24
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.65
+     "lastPrice": 82.7
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.063
+     "lastPrice": 66.08
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.61
+     "lastPrice": 45.6482
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82.0759
+     "lastPrice": 82.2
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 102.48
+     "lastPrice": 102.43
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 29.7531
+     "lastPrice": 29.79
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 94
+     "lastPrice": 94.37
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 120.32,
-     "lastPrice": 120.29
+     "lastPrice": 120.3
     }
    ],
    "lastTrade": null
@@ -828,9 +828,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8305.98,
-   "upDollars": -1694.02,
-   "upPct": -16.9,
+   "equity": 8278.78,
+   "upDollars": -1721.22,
+   "upPct": -17.2,
    "trades": 9,
    "winPct": 11,
    "open": 1,
@@ -839,7 +839,7 @@
      "symbol": "CLRO",
      "shares": 160,
      "entryPrice": 5.13,
-     "lastPrice": 5.17
+     "lastPrice": 5
     }
    ],
    "lastTrade": null
@@ -850,9 +850,9 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 8262.51,
-   "upDollars": -1737.49,
-   "upPct": -17.4,
+   "equity": 8237.93,
+   "upDollars": -1762.07,
+   "upPct": -17.6,
    "trades": 66,
    "winPct": 20,
    "open": 1,
@@ -861,7 +861,7 @@
      "symbol": "CLRO",
      "shares": 159,
      "entryPrice": 5.13,
-     "lastPrice": 5.17
+     "lastPrice": 5.0154
     }
    ],
    "lastTrade": null
@@ -872,9 +872,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8183.35,
-   "upDollars": -1816.65,
-   "upPct": -18.2,
+   "equity": 8158.93,
+   "upDollars": -1841.07,
+   "upPct": -18.4,
    "trades": 55,
    "winPct": 22,
    "open": 1,
@@ -883,7 +883,7 @@
      "symbol": "CLRO",
      "shares": 158,
      "entryPrice": 5.13,
-     "lastPrice": 5.17
+     "lastPrice": 5.0154
     }
    ],
    "lastTrade": null
@@ -894,20 +894,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6325.91,
-   "upDollars": -3674.09,
-   "upPct": -36.7,
-   "trades": 121,
+   "equity": 6303.95,
+   "upDollars": -3696.05,
+   "upPct": -37,
+   "trades": 122,
    "winPct": 19,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "CLRO",
-     "shares": 122,
-     "entryPrice": 5.13,
-     "lastPrice": 5.17
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -916,9 +909,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3611.76,
-   "upDollars": -6388.24,
-   "upPct": -63.9,
+   "equity": 3601.09,
+   "upDollars": -6398.91,
+   "upPct": -64,
    "trades": 148,
    "winPct": 13,
    "open": 2,
@@ -933,7 +926,7 @@
      "symbol": "CLRO",
      "shares": 69,
      "entryPrice": 5.13,
-     "lastPrice": 5.17
+     "lastPrice": 5.0154
     }
    ],
    "lastTrade": null
