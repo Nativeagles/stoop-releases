@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-26",
- "asOfAt": 1793016560188,
+ "asOfAt": 1793017463142,
  "sessionStatus": "in-progress",
- "publishedAt": 1793016560188,
+ "publishedAt": 1793017463142,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,30 +28,24 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10354.74,
-   "upDollars": 354.74,
-   "upPct": 3.5,
-   "trades": 0,
-   "winPct": null,
-   "open": 3,
+   "equity": 10281.46,
+   "upDollars": 281.46,
+   "upPct": 2.8,
+   "trades": 1,
+   "winPct": 0,
+   "open": 2,
    "positions": [
     {
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.6513
+     "lastPrice": 19.65
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
      "lastPrice": 46
-    },
-    {
-     "symbol": "VBIO",
-     "shares": 493,
-     "entryPrice": 1.15,
-     "lastPrice": 1.1385
     }
    ],
    "lastTrade": null
@@ -180,9 +174,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10016.2,
-   "upDollars": 16.2,
-   "upPct": 0.2,
+   "equity": 10010.3,
+   "upDollars": 10.3,
+   "upPct": 0.1,
    "trades": 0,
    "winPct": null,
    "open": 10,
@@ -191,49 +185,49 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 145.15
+     "lastPrice": 145.38
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.53
+     "lastPrice": 135.68
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 145.95
+     "lastPrice": 145.36
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.48
+     "lastPrice": 82.51
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 67.0052
+     "lastPrice": 66.87
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.6
+     "lastPrice": 45.42
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82.11
+     "lastPrice": 82
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.1268
+     "lastPrice": 101.6056
     },
     {
      "symbol": "PFE",
@@ -245,7 +239,7 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 95.96
+     "lastPrice": 95.49
     }
    ],
    "lastTrade": null
@@ -811,20 +805,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8780.11,
-   "upDollars": -1219.89,
-   "upPct": -12.2,
-   "trades": 1,
+   "equity": 8718.54,
+   "upDollars": -1281.46,
+   "upPct": -12.8,
+   "trades": 2,
    "winPct": 0,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "TGL",
-     "shares": 2463,
-     "entryPrice": 0.36,
-     "lastPrice": 0.3447
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -833,20 +820,13 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 8749.15,
-   "upDollars": -1250.85,
-   "upPct": -12.5,
-   "trades": 50,
+   "equity": 8701.78,
+   "upDollars": -1298.22,
+   "upPct": -13,
+   "trades": 51,
    "winPct": 24,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "TGL",
-     "shares": 2454,
-     "entryPrice": 0.36,
-     "lastPrice": 0.3447
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -870,20 +850,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8348.06,
-   "upDollars": -1651.94,
-   "upPct": -16.5,
-   "trades": 49,
+   "equity": 8302.88,
+   "upDollars": -1697.12,
+   "upPct": -17,
+   "trades": 50,
    "winPct": 22,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "TGL",
-     "shares": 2341,
-     "entryPrice": 0.36,
-     "lastPrice": 0.3447
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -907,20 +880,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3830.17,
-   "upDollars": -6169.83,
-   "upPct": -61.7,
-   "trades": 131,
+   "equity": 3809.44,
+   "upDollars": -6190.56,
+   "upPct": -61.9,
+   "trades": 132,
    "winPct": 14,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "TGL",
-     "shares": 1074,
-     "entryPrice": 0.36,
-     "lastPrice": 0.3447
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
