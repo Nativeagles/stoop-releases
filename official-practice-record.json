@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-26",
- "asOfAt": 1793058071539,
+ "asOfAt": 1793058974257,
  "sessionStatus": "in-progress",
- "publishedAt": 1793058071539,
+ "publishedAt": 1793058974257,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -494,9 +494,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9964.57,
-   "upDollars": -35.43,
-   "upPct": -0.4,
+   "equity": 9954.09,
+   "upDollars": -45.91,
+   "upPct": -0.5,
    "trades": 0,
    "winPct": null,
    "open": 10,
@@ -505,43 +505,43 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.5
+     "lastPrice": 135.35
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 143.5
+     "lastPrice": 143.3
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.68
+     "lastPrice": 82.54
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.0817
+     "lastPrice": 66.11
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.65
+     "lastPrice": 45.58
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82.02
+     "lastPrice": 82.04
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 102.43
+     "lastPrice": 102.6
     },
     {
      "symbol": "PFE",
@@ -553,13 +553,13 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 94.79
+     "lastPrice": 94
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 120.32,
-     "lastPrice": 120.1975
+     "lastPrice": 120.1
     }
    ],
    "lastTrade": null
@@ -828,9 +828,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8249.98,
-   "upDollars": -1750.02,
-   "upPct": -17.5,
+   "equity": 8233.98,
+   "upDollars": -1766.02,
+   "upPct": -17.7,
    "trades": 9,
    "winPct": 11,
    "open": 1,
@@ -839,7 +839,7 @@
      "symbol": "CLRO",
      "shares": 160,
      "entryPrice": 5.13,
-     "lastPrice": 4.82
+     "lastPrice": 4.72
     }
    ],
    "lastTrade": null
