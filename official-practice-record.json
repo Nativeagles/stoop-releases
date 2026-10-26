@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-26",
- "asOfAt": 1793011132493,
+ "asOfAt": 1793012036384,
  "sessionStatus": "in-progress",
- "publishedAt": 1793011132493,
+ "publishedAt": 1793012036384,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -174,8 +174,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10019.84,
-   "upDollars": 19.84,
+   "equity": 10019.34,
+   "upDollars": 19.34,
    "upPct": 0.2,
    "trades": 0,
    "winPct": null,
@@ -185,13 +185,13 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.83,
-     "lastPrice": 144.66
+     "lastPrice": 144.69
     },
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 136.2403
+     "lastPrice": 136.5957
     },
     {
      "symbol": "TJX",
@@ -203,13 +203,13 @@
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.84
+     "lastPrice": 82.7
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.97
+     "lastPrice": 66.9727
     },
     {
      "symbol": "BSX",
@@ -221,25 +221,25 @@
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82.5
+     "lastPrice": 82.0155
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 101.3
+     "lastPrice": 101.47
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 30.0326
+     "lastPrice": 30.05
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 95.3929
+     "lastPrice": 95.5
     }
    ],
    "lastTrade": null
