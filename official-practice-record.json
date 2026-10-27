@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793138860322,
+ "asOfAt": 1793139763248,
  "sessionStatus": "in-progress",
- "publishedAt": 1793138860322,
+ "publishedAt": 1793139763248,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -578,8 +578,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9932.61,
-   "upDollars": -67.39,
+   "equity": 9931.35,
+   "upDollars": -68.65,
    "upPct": -0.7,
    "trades": 1,
    "winPct": 0,
@@ -595,43 +595,43 @@
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.71,
-     "lastPrice": 50.657
+     "lastPrice": 50.7
     },
     {
      "symbol": "CSCO",
      "shares": 8,
      "entryPrice": 111.41,
-     "lastPrice": 111.9465
+     "lastPrice": 111.8
     },
     {
      "symbol": "MRK",
      "shares": 7,
      "entryPrice": 141.89,
-     "lastPrice": 142.03
+     "lastPrice": 142.04
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 91.56,
-     "lastPrice": 91.32
+     "lastPrice": 91.34
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.9692
+     "lastPrice": 20.9498
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 122.81,
-     "lastPrice": 122.69
+     "lastPrice": 122.8271
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 103.35,
-     "lastPrice": 103.5179
+     "lastPrice": 103.1
     },
     {
      "symbol": "TMUS",
@@ -643,7 +643,7 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 78.7
+     "lastPrice": 78.9
     }
    ],
    "lastTrade": null
@@ -930,9 +930,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8136.34,
-   "upDollars": -1863.66,
-   "upPct": -18.6,
+   "equity": 8157.96,
+   "upDollars": -1842.04,
+   "upPct": -18.4,
    "trades": 66,
    "winPct": 21,
    "open": 1,
@@ -941,7 +941,7 @@
      "symbol": "GPUS",
      "shares": 3794,
      "entryPrice": 0.2144,
-     "lastPrice": 0.2265
+     "lastPrice": 0.2322
     }
    ],
    "lastTrade": null
@@ -952,24 +952,24 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 8021.97,
-   "upDollars": -1978.03,
-   "upPct": -19.8,
-   "trades": 82,
-   "winPct": 20,
+   "equity": 8039.48,
+   "upDollars": -1960.52,
+   "upPct": -19.6,
+   "trades": 83,
+   "winPct": 19,
    "open": 2,
    "positions": [
     {
      "symbol": "GPUS",
      "shares": 3752,
      "entryPrice": 0.2144,
-     "lastPrice": 0.2265
+     "lastPrice": 0.2322
     },
     {
-     "symbol": "BRAI",
-     "shares": 219,
-     "entryPrice": 3.69,
-     "lastPrice": 3.578
+     "symbol": "DAVI",
+     "shares": 191,
+     "entryPrice": 4.29,
+     "lastPrice": 4.2101
     }
    ],
    "lastTrade": null
@@ -980,20 +980,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7599.23,
-   "upDollars": -2400.77,
-   "upPct": -24,
-   "trades": 18,
+   "equity": 7610.05,
+   "upDollars": -2389.95,
+   "upPct": -23.9,
+   "trades": 19,
    "winPct": 11,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "BRAI",
-     "shares": 208,
-     "entryPrice": 3.69,
-     "lastPrice": 3.578
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1017,24 +1010,24 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3344.21,
-   "upDollars": -6655.79,
-   "upPct": -66.6,
-   "trades": 170,
-   "winPct": 14,
+   "equity": 3356.87,
+   "upDollars": -6643.13,
+   "upPct": -66.4,
+   "trades": 171,
+   "winPct": 13,
    "open": 2,
    "positions": [
     {
      "symbol": "GPUS",
      "shares": 1599,
      "entryPrice": 0.2144,
-     "lastPrice": 0.2265
+     "lastPrice": 0.2354
     },
     {
-     "symbol": "BRAI",
-     "shares": 91,
-     "entryPrice": 3.69,
-     "lastPrice": 3.578
+     "symbol": "DAVI",
+     "shares": 79,
+     "entryPrice": 4.29,
+     "lastPrice": 4.2101
     }
    ],
    "lastTrade": null
