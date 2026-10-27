@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793095894028,
+ "asOfAt": 1793096795771,
  "sessionStatus": "in-progress",
- "publishedAt": 1793095894028,
+ "publishedAt": 1793096795771,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10287.25,
-   "upDollars": 287.25,
+   "equity": 10287.23,
+   "upDollars": 287.23,
    "upPct": 2.9,
    "trades": 1,
    "winPct": 0,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.5522
+     "lastPrice": 45.55
     }
    ],
    "lastTrade": null
@@ -494,8 +494,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9962.55,
-   "upDollars": -37.45,
+   "equity": 9961.48,
+   "upDollars": -38.52,
    "upPct": -0.4,
    "trades": 0,
    "winPct": null,
@@ -505,7 +505,7 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.3427
+     "lastPrice": 135.24
     },
     {
      "symbol": "TJX",
@@ -517,19 +517,19 @@
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 82.99
+     "lastPrice": 82.82
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.18
+     "lastPrice": 66.15
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.5645
+     "lastPrice": 45.62
     },
     {
      "symbol": "NEE",
@@ -541,7 +541,7 @@
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 102.51
+     "lastPrice": 102.37
     },
     {
      "symbol": "PFE",
@@ -559,7 +559,7 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 120.32,
-     "lastPrice": 119.75
+     "lastPrice": 119.85
     }
    ],
    "lastTrade": null
