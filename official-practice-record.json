@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793104913173,
+ "asOfAt": 1793105814982,
  "sessionStatus": "in-progress",
- "publishedAt": 1793104913173,
+ "publishedAt": 1793105814982,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10282.2,
-   "upDollars": 282.2,
+   "equity": 10283.7,
+   "upDollars": 283.7,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.7
+     "lastPrice": 19.73
     },
     {
      "symbol": "BRZE",
@@ -307,82 +307,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9967.99,
-   "upDollars": -32.01,
-   "upPct": -0.3,
-   "trades": 0,
-   "winPct": null,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 138.71,
-     "lastPrice": 134.56
-    },
-    {
-     "symbol": "TJX",
-     "shares": 3,
-     "entryPrice": 147.35,
-     "lastPrice": 144
-    },
-    {
-     "symbol": "WFC",
-     "shares": 7,
-     "entryPrice": 83.04,
-     "lastPrice": 83.26
-    },
-    {
-     "symbol": "UBER",
-     "shares": 8,
-     "entryPrice": 69.08,
-     "lastPrice": 66.5
-    },
-    {
-     "symbol": "BSX",
-     "shares": 12,
-     "entryPrice": 45.98,
-     "lastPrice": 45.48
-    },
-    {
-     "symbol": "NEE",
-     "shares": 7,
-     "entryPrice": 82,
-     "lastPrice": 82.5
-    },
-    {
-     "symbol": "SBUX",
-     "shares": 5,
-     "entryPrice": 101.89,
-     "lastPrice": 102.58
-    },
-    {
-     "symbol": "PFE",
-     "shares": 19,
-     "entryPrice": 30.37,
-     "lastPrice": 29.6742
-    },
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 95.58,
-     "lastPrice": 94.8
-    },
-    {
-     "symbol": "WMT",
-     "shares": 8,
-     "entryPrice": 120.32,
-     "lastPrice": 119.9606
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
@@ -560,6 +484,82 @@
      "shares": 4,
      "entryPrice": 120.13,
      "lastPrice": 134.345
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9959,
+   "upDollars": -41,
+   "upPct": -0.4,
+   "trades": 0,
+   "winPct": null,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "PEP",
+     "shares": 4,
+     "entryPrice": 138.71,
+     "lastPrice": 134.4567
+    },
+    {
+     "symbol": "TJX",
+     "shares": 3,
+     "entryPrice": 147.35,
+     "lastPrice": 143
+    },
+    {
+     "symbol": "WFC",
+     "shares": 7,
+     "entryPrice": 83.04,
+     "lastPrice": 83.27
+    },
+    {
+     "symbol": "UBER",
+     "shares": 8,
+     "entryPrice": 69.08,
+     "lastPrice": 66.4357
+    },
+    {
+     "symbol": "BSX",
+     "shares": 12,
+     "entryPrice": 45.98,
+     "lastPrice": 45.49
+    },
+    {
+     "symbol": "NEE",
+     "shares": 7,
+     "entryPrice": 82,
+     "lastPrice": 82
+    },
+    {
+     "symbol": "SBUX",
+     "shares": 5,
+     "entryPrice": 101.89,
+     "lastPrice": 102.5938
+    },
+    {
+     "symbol": "PFE",
+     "shares": 19,
+     "entryPrice": 30.37,
+     "lastPrice": 29.659
+    },
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 95.58,
+     "lastPrice": 94.8
+    },
+    {
+     "symbol": "WMT",
+     "shares": 8,
+     "entryPrice": 120.32,
+     "lastPrice": 119.77
     }
    ],
    "lastTrade": null
@@ -813,9 +813,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8543.72,
-   "upDollars": -1456.28,
-   "upPct": -14.6,
+   "equity": 8563.98,
+   "upDollars": -1436.02,
+   "upPct": -14.4,
    "trades": 8,
    "winPct": 25,
    "open": 2,
@@ -824,13 +824,13 @@
      "symbol": "CLRO (short)",
      "shares": -153,
      "entryPrice": 5.605592,
-     "lastPrice": 6.051
+     "lastPrice": 5.9395
     },
     {
      "symbol": "SOFI (short)",
      "shares": -53,
      "entryPrice": 15.980748000000002,
-     "lastPrice": 16.1003
+     "lastPrice": 16.04
     }
    ],
    "lastTrade": null
