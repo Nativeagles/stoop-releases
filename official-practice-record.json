@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793094089882,
+ "asOfAt": 1793094991887,
  "sessionStatus": "in-progress",
- "publishedAt": 1793094089882,
+ "publishedAt": 1793094991887,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -494,8 +494,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9960.75,
-   "upDollars": -39.25,
+   "equity": 9963.15,
+   "upDollars": -36.85,
    "upPct": -0.4,
    "trades": 0,
    "winPct": null,
@@ -505,13 +505,13 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 135.29
+     "lastPrice": 135.2
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 142.4212
+     "lastPrice": 143.01
     },
     {
      "symbol": "WFC",
@@ -523,7 +523,7 @@
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.1831
+     "lastPrice": 66.24
     },
     {
      "symbol": "BSX",
@@ -541,7 +541,7 @@
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 102.43
+     "lastPrice": 102.51
     },
     {
      "symbol": "PFE",
@@ -559,7 +559,7 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 120.32,
-     "lastPrice": 119.77
+     "lastPrice": 119.7873
     }
    ],
    "lastTrade": null
@@ -858,20 +858,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7826.95,
-   "upDollars": -2173.05,
-   "upPct": -21.7,
-   "trades": 10,
-   "winPct": 10,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 7404,
-     "entryPrice": 0.1061,
-     "lastPrice": 0.0991
-    }
-   ],
+   "equity": 7789.93,
+   "upDollars": -2210.07,
+   "upPct": -22.1,
+   "trades": 11,
+   "winPct": 9,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
