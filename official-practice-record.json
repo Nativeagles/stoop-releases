@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793106716916,
+ "asOfAt": 1793107618807,
  "sessionStatus": "in-progress",
- "publishedAt": 1793106716916,
+ "publishedAt": 1793107618807,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10284.26,
-   "upDollars": 284.26,
+   "equity": 10283.7,
+   "upDollars": 283.7,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.8907
+     "lastPrice": 45.84
     }
    ],
    "lastTrade": null
@@ -494,9 +494,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9957.54,
-   "upDollars": -42.46,
-   "upPct": -0.4,
+   "equity": 9951.89,
+   "upDollars": -48.11,
+   "upPct": -0.5,
    "trades": 0,
    "winPct": null,
    "open": 10,
@@ -505,13 +505,13 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 134.34
+     "lastPrice": 134.19
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 143.78
+     "lastPrice": 143.2
     },
     {
      "symbol": "WFC",
@@ -523,43 +523,43 @@
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.37
+     "lastPrice": 66.4799
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.469
+     "lastPrice": 45.31
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82.35
+     "lastPrice": 82.57
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 102.4304
+     "lastPrice": 102.99
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 29.5677
+     "lastPrice": 29.5277
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 94.69
+     "lastPrice": 94.2
     },
     {
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 120.32,
-     "lastPrice": 119.6
+     "lastPrice": 119.48
     }
    ],
    "lastTrade": null
@@ -813,9 +813,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8561.9,
-   "upDollars": -1438.1,
-   "upPct": -14.4,
+   "equity": 8571.18,
+   "upDollars": -1428.82,
+   "upPct": -14.3,
    "trades": 8,
    "winPct": 25,
    "open": 2,
@@ -824,13 +824,13 @@
      "symbol": "CLRO (short)",
      "shares": -153,
      "entryPrice": 5.605592,
-     "lastPrice": 5.96
+     "lastPrice": 5.9652
     },
     {
      "symbol": "SOFI (short)",
      "shares": -53,
      "entryPrice": 15.980748000000002,
-     "lastPrice": 16.02
+     "lastPrice": 15.83
     }
    ],
    "lastTrade": null
