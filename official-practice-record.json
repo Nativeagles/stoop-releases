@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793093188091,
+ "asOfAt": 1793094089882,
  "sessionStatus": "in-progress",
- "publishedAt": 1793093188091,
+ "publishedAt": 1793094089882,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -307,82 +307,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9969.35,
-   "upDollars": -30.65,
-   "upPct": -0.3,
-   "trades": 0,
-   "winPct": null,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 138.71,
-     "lastPrice": 135.6128
-    },
-    {
-     "symbol": "TJX",
-     "shares": 3,
-     "entryPrice": 147.35,
-     "lastPrice": 142.4212
-    },
-    {
-     "symbol": "WFC",
-     "shares": 7,
-     "entryPrice": 83.04,
-     "lastPrice": 83.1
-    },
-    {
-     "symbol": "UBER",
-     "shares": 8,
-     "entryPrice": 69.08,
-     "lastPrice": 66.15
-    },
-    {
-     "symbol": "BSX",
-     "shares": 12,
-     "entryPrice": 45.98,
-     "lastPrice": 45.7
-    },
-    {
-     "symbol": "NEE",
-     "shares": 7,
-     "entryPrice": 82,
-     "lastPrice": 82.725
-    },
-    {
-     "symbol": "SBUX",
-     "shares": 5,
-     "entryPrice": 101.89,
-     "lastPrice": 102.6647
-    },
-    {
-     "symbol": "PFE",
-     "shares": 19,
-     "entryPrice": 30.37,
-     "lastPrice": 29.828
-    },
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 95.58,
-     "lastPrice": 94.6255
-    },
-    {
-     "symbol": "WMT",
-     "shares": 8,
-     "entryPrice": 120.32,
-     "lastPrice": 119.96
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
@@ -560,6 +484,82 @@
      "shares": 4,
      "entryPrice": 120.13,
      "lastPrice": 134.345
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9960.75,
+   "upDollars": -39.25,
+   "upPct": -0.4,
+   "trades": 0,
+   "winPct": null,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "PEP",
+     "shares": 4,
+     "entryPrice": 138.71,
+     "lastPrice": 135.29
+    },
+    {
+     "symbol": "TJX",
+     "shares": 3,
+     "entryPrice": 147.35,
+     "lastPrice": 142.4212
+    },
+    {
+     "symbol": "WFC",
+     "shares": 7,
+     "entryPrice": 83.04,
+     "lastPrice": 83.1
+    },
+    {
+     "symbol": "UBER",
+     "shares": 8,
+     "entryPrice": 69.08,
+     "lastPrice": 66.1831
+    },
+    {
+     "symbol": "BSX",
+     "shares": 12,
+     "entryPrice": 45.98,
+     "lastPrice": 45.5645
+    },
+    {
+     "symbol": "NEE",
+     "shares": 7,
+     "entryPrice": 82,
+     "lastPrice": 82.39
+    },
+    {
+     "symbol": "SBUX",
+     "shares": 5,
+     "entryPrice": 101.89,
+     "lastPrice": 102.43
+    },
+    {
+     "symbol": "PFE",
+     "shares": 19,
+     "entryPrice": 30.37,
+     "lastPrice": 29.78
+    },
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 95.58,
+     "lastPrice": 94.6255
+    },
+    {
+     "symbol": "WMT",
+     "shares": 8,
+     "entryPrice": 120.32,
+     "lastPrice": 119.77
     }
    ],
    "lastTrade": null
@@ -823,28 +823,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-10-21",
-   "startingCash": 10000,
-   "equity": 8211.63,
-   "upDollars": -1788.37,
-   "upPct": -17.9,
-   "trades": 67,
-   "winPct": 19,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 7717,
-     "entryPrice": 0.1061,
-     "lastPrice": 0.1061
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-six-degrees-near-line",
    "name": "Six Degrees (near its line)",
    "kind": "official",
@@ -860,14 +838,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-six-degrees-spread",
+   "name": "Six Degrees (spread check)",
+   "kind": "official",
+   "startedOn": "2026-10-21",
+   "startingCash": 10000,
+   "equity": 8133.69,
+   "upDollars": -1866.31,
+   "upPct": -18.7,
+   "trades": 68,
+   "winPct": 19,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-down-bubble",
    "name": "Down Bubble — box",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7878.78,
-   "upDollars": -2121.22,
-   "upPct": -21.2,
+   "equity": 7826.95,
+   "upDollars": -2173.05,
+   "upPct": -21.7,
    "trades": 10,
    "winPct": 10,
    "open": 1,
@@ -876,7 +869,7 @@
      "symbol": "SHFS",
      "shares": 7404,
      "entryPrice": 0.1061,
-     "lastPrice": 0.1061
+     "lastPrice": 0.0991
     }
    ],
    "lastTrade": null
@@ -887,20 +880,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6303.95,
-   "upDollars": -3696.05,
-   "upPct": -37,
-   "trades": 122,
+   "equity": 6277.89,
+   "upDollars": -3722.11,
+   "upPct": -37.2,
+   "trades": 123,
    "winPct": 19,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 5924,
-     "entryPrice": 0.1061,
-     "lastPrice": 0.1061
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -909,20 +895,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3571.08,
-   "upDollars": -6428.92,
-   "upPct": -64.3,
-   "trades": 150,
+   "equity": 3537.19,
+   "upDollars": -6462.81,
+   "upPct": -64.6,
+   "trades": 151,
    "winPct": 13,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SHFS",
-     "shares": 3356,
-     "entryPrice": 0.1061,
-     "lastPrice": 0.1061
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
