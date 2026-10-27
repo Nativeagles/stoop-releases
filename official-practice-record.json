@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793104011371,
+ "asOfAt": 1793104913173,
  "sessionStatus": "in-progress",
- "publishedAt": 1793104011371,
+ "publishedAt": 1793104913173,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -312,8 +312,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9970.79,
-   "upDollars": -29.21,
+   "equity": 9967.99,
+   "upDollars": -32.01,
    "upPct": -0.3,
    "trades": 0,
    "winPct": null,
@@ -323,49 +323,49 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 138.71,
-     "lastPrice": 134.91
+     "lastPrice": 134.56
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 147.35,
-     "lastPrice": 144.1
+     "lastPrice": 144
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 83.04,
-     "lastPrice": 83.3426
+     "lastPrice": 83.26
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 69.08,
-     "lastPrice": 66.4557
+     "lastPrice": 66.5
     },
     {
      "symbol": "BSX",
      "shares": 12,
      "entryPrice": 45.98,
-     "lastPrice": 45.49
+     "lastPrice": 45.48
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 82,
-     "lastPrice": 82.44
+     "lastPrice": 82.5
     },
     {
      "symbol": "SBUX",
      "shares": 5,
      "entryPrice": 101.89,
-     "lastPrice": 102.71
+     "lastPrice": 102.58
     },
     {
      "symbol": "PFE",
      "shares": 19,
      "entryPrice": 30.37,
-     "lastPrice": 29.69
+     "lastPrice": 29.6742
     },
     {
      "symbol": "MDT",
@@ -377,7 +377,7 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 120.32,
-     "lastPrice": 119.99
+     "lastPrice": 119.9606
     }
    ],
    "lastTrade": null
@@ -813,9 +813,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8571.63,
-   "upDollars": -1428.37,
-   "upPct": -14.3,
+   "equity": 8543.72,
+   "upDollars": -1456.28,
+   "upPct": -14.6,
    "trades": 8,
    "winPct": 25,
    "open": 2,
@@ -824,13 +824,13 @@
      "symbol": "CLRO (short)",
      "shares": -153,
      "entryPrice": 5.605592,
-     "lastPrice": 5.8795
+     "lastPrice": 6.051
     },
     {
      "symbol": "SOFI (short)",
      "shares": -53,
      "entryPrice": 15.980748000000002,
-     "lastPrice": 16.0689
+     "lastPrice": 16.1003
     }
    ],
    "lastTrade": null
