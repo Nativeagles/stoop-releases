@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793137054508,
+ "asOfAt": 1793137957360,
  "sessionStatus": "in-progress",
- "publishedAt": 1793137054508,
+ "publishedAt": 1793137957360,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -578,8 +578,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9930.84,
-   "upDollars": -69.16,
+   "equity": 9929.99,
+   "upDollars": -70.01,
    "upPct": -0.7,
    "trades": 1,
    "winPct": 0,
@@ -595,31 +595,31 @@
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.71,
-     "lastPrice": 50.68
+     "lastPrice": 50.69
     },
     {
      "symbol": "CSCO",
      "shares": 8,
      "entryPrice": 111.41,
-     "lastPrice": 111.8685
+     "lastPrice": 111.92
     },
     {
      "symbol": "MRK",
      "shares": 7,
      "entryPrice": 141.89,
-     "lastPrice": 142.2754
+     "lastPrice": 142.03
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 91.56,
-     "lastPrice": 91.3276
+     "lastPrice": 91.3162
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.9684
+     "lastPrice": 20.9693
     },
     {
      "symbol": "C",
@@ -637,13 +637,13 @@
      "symbol": "TMUS",
      "shares": 6,
      "entryPrice": 146.77,
-     "lastPrice": 146.99
+     "lastPrice": 146.89
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 78.6
+     "lastPrice": 78.6783
     }
    ],
    "lastTrade": null
@@ -930,9 +930,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8111.67,
-   "upDollars": -1888.33,
-   "upPct": -18.9,
+   "equity": 8117.37,
+   "upDollars": -1882.63,
+   "upPct": -18.8,
    "trades": 66,
    "winPct": 21,
    "open": 1,
@@ -941,7 +941,7 @@
      "symbol": "GPUS",
      "shares": 3794,
      "entryPrice": 0.2144,
-     "lastPrice": 0.22
+     "lastPrice": 0.2215
     }
    ],
    "lastTrade": null
@@ -952,18 +952,24 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 8022.11,
-   "upDollars": -1977.89,
-   "upPct": -19.8,
+   "equity": 8008,
+   "upDollars": -1992,
+   "upPct": -19.9,
    "trades": 82,
    "winPct": 20,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "GPUS",
      "shares": 3752,
      "entryPrice": 0.2144,
-     "lastPrice": 0.22
+     "lastPrice": 0.2215
+    },
+    {
+     "symbol": "BRAI",
+     "shares": 219,
+     "entryPrice": 3.69,
+     "lastPrice": 3.5999
     }
    ],
    "lastTrade": null
@@ -974,13 +980,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 7622.53,
-   "upDollars": -2377.47,
-   "upPct": -23.8,
+   "equity": 7605.89,
+   "upDollars": -2394.11,
+   "upPct": -23.9,
    "trades": 18,
    "winPct": 11,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "BRAI",
+     "shares": 208,
+     "entryPrice": 3.69,
+     "lastPrice": 3.61
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -989,13 +1002,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6060.36,
-   "upDollars": -3939.64,
-   "upPct": -39.4,
+   "equity": 6047.08,
+   "upDollars": -3952.92,
+   "upPct": -39.5,
    "trades": 134,
    "winPct": 20,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "BRAI",
+     "shares": 166,
+     "entryPrice": 3.69,
+     "lastPrice": 3.61
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1004,18 +1024,24 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3344.01,
-   "upDollars": -6655.99,
+   "equity": 3338.21,
+   "upDollars": -6661.79,
    "upPct": -66.6,
    "trades": 170,
    "winPct": 14,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "GPUS",
      "shares": 1599,
      "entryPrice": 0.2144,
-     "lastPrice": 0.22
+     "lastPrice": 0.2215
+    },
+    {
+     "symbol": "BRAI",
+     "shares": 91,
+     "entryPrice": 3.69,
+     "lastPrice": 3.5999
     }
    ],
    "lastTrade": null
