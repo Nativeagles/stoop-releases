@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793131634118,
+ "asOfAt": 1793132537439,
  "sessionStatus": "in-progress",
- "publishedAt": 1793131634118,
+ "publishedAt": 1793132537439,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -578,9 +578,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9922.34,
-   "upDollars": -77.66,
-   "upPct": -0.8,
+   "equity": 9933.7,
+   "upDollars": -66.3,
+   "upPct": -0.7,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -595,19 +595,19 @@
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.71,
-     "lastPrice": 50.68
+     "lastPrice": 50.65
     },
     {
      "symbol": "CSCO",
      "shares": 8,
      "entryPrice": 111.41,
-     "lastPrice": 111.3689
+     "lastPrice": 111.9471
     },
     {
      "symbol": "MRK",
      "shares": 7,
      "entryPrice": 141.89,
-     "lastPrice": 141.82
+     "lastPrice": 142.84
     },
     {
      "symbol": "KO",
@@ -619,7 +619,7 @@
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.96
+     "lastPrice": 20.98
     },
     {
      "symbol": "C",
@@ -631,19 +631,19 @@
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 103.35,
-     "lastPrice": 103.1
+     "lastPrice": 103.16
     },
     {
      "symbol": "TMUS",
      "shares": 6,
      "entryPrice": 146.77,
-     "lastPrice": 147
+     "lastPrice": 147.07
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 78.7148
+     "lastPrice": 78.57
     }
    ],
    "lastTrade": null
@@ -975,10 +975,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 6186.29,
-   "upDollars": -3813.71,
-   "upPct": -38.1,
-   "trades": 132,
+   "equity": 6133.13,
+   "upDollars": -3866.87,
+   "upPct": -38.7,
+   "trades": 133,
    "winPct": 20,
    "open": 0,
    "positions": [],
@@ -990,10 +990,10 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3439.91,
-   "upDollars": -6560.09,
-   "upPct": -65.6,
-   "trades": 167,
+   "equity": 3410.36,
+   "upDollars": -6589.64,
+   "upPct": -65.9,
+   "trades": 168,
    "winPct": 14,
    "open": 0,
    "positions": [],
