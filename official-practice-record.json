@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793140667344,
+ "asOfAt": 1793141570202,
  "sessionStatus": "in-progress",
- "publishedAt": 1793140667344,
+ "publishedAt": 1793141570202,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -485,6 +485,82 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9939.28,
+   "upDollars": -60.72,
+   "upPct": -0.6,
+   "trades": 1,
+   "winPct": 0,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 95.58,
+     "lastPrice": 94.281
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.71,
+     "lastPrice": 50.73
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 8,
+     "entryPrice": 111.41,
+     "lastPrice": 111.8256
+    },
+    {
+     "symbol": "MRK",
+     "shares": 7,
+     "entryPrice": 141.89,
+     "lastPrice": 142.04
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 91.56,
+     "lastPrice": 91.29
+    },
+    {
+     "symbol": "T",
+     "shares": 47,
+     "entryPrice": 21.04,
+     "lastPrice": 20.9402
+    },
+    {
+     "symbol": "C",
+     "shares": 8,
+     "entryPrice": 122.81,
+     "lastPrice": 122.8792
+    },
+    {
+     "symbol": "ABT",
+     "shares": 9,
+     "entryPrice": 103.35,
+     "lastPrice": 103.15
+    },
+    {
+     "symbol": "TMUS",
+     "shares": 6,
+     "entryPrice": 146.77,
+     "lastPrice": 146.9
+    },
+    {
+     "symbol": "APH",
+     "shares": 12,
+     "entryPrice": 78.55,
+     "lastPrice": 79.228
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
@@ -568,82 +644,6 @@
      "shares": 14,
      "entryPrice": 35.08,
      "lastPrice": 35.144999999999996
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9933.49,
-   "upDollars": -66.51,
-   "upPct": -0.7,
-   "trades": 1,
-   "winPct": 0,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 95.58,
-     "lastPrice": 94.281
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.71,
-     "lastPrice": 50.73
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 8,
-     "entryPrice": 111.41,
-     "lastPrice": 111.71
-    },
-    {
-     "symbol": "MRK",
-     "shares": 7,
-     "entryPrice": 141.89,
-     "lastPrice": 142.0417
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 91.56,
-     "lastPrice": 91.2522
-    },
-    {
-     "symbol": "T",
-     "shares": 47,
-     "entryPrice": 21.04,
-     "lastPrice": 20.9492
-    },
-    {
-     "symbol": "C",
-     "shares": 8,
-     "entryPrice": 122.81,
-     "lastPrice": 122.8792
-    },
-    {
-     "symbol": "ABT",
-     "shares": 9,
-     "entryPrice": 103.35,
-     "lastPrice": 103.15
-    },
-    {
-     "symbol": "TMUS",
-     "shares": 6,
-     "entryPrice": 146.77,
-     "lastPrice": 146.9942
-    },
-    {
-     "symbol": "APH",
-     "shares": 12,
-     "entryPrice": 78.55,
-     "lastPrice": 78.77
     }
    ],
    "lastTrade": null
@@ -930,9 +930,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8168.96,
-   "upDollars": -1831.04,
-   "upPct": -18.3,
+   "equity": 8191.35,
+   "upDollars": -1808.65,
+   "upPct": -18.1,
    "trades": 66,
    "winPct": 21,
    "open": 1,
@@ -941,7 +941,7 @@
      "symbol": "GPUS",
      "shares": 3794,
      "entryPrice": 0.2144,
-     "lastPrice": 0.2351
+     "lastPrice": 0.241
     }
    ],
    "lastTrade": null
@@ -952,9 +952,9 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 8044.61,
-   "upDollars": -1955.39,
-   "upPct": -19.6,
+   "equity": 8066.75,
+   "upDollars": -1933.25,
+   "upPct": -19.3,
    "trades": 84,
    "winPct": 19,
    "open": 1,
@@ -963,7 +963,7 @@
      "symbol": "GPUS",
      "shares": 3752,
      "entryPrice": 0.2144,
-     "lastPrice": 0.2351
+     "lastPrice": 0.241
     }
    ],
    "lastTrade": null
@@ -1004,9 +1004,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3354.01,
-   "upDollars": -6645.99,
-   "upPct": -66.5,
+   "equity": 3363.44,
+   "upDollars": -6636.56,
+   "upPct": -66.4,
    "trades": 172,
    "winPct": 13,
    "open": 1,
@@ -1015,7 +1015,7 @@
      "symbol": "GPUS",
      "shares": 1599,
      "entryPrice": 0.2144,
-     "lastPrice": 0.2351
+     "lastPrice": 0.241
     }
    ],
    "lastTrade": null
