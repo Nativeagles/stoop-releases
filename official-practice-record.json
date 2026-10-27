@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-27",
- "asOfAt": 1793132537439,
+ "asOfAt": 1793133440426,
  "sessionStatus": "in-progress",
- "publishedAt": 1793132537439,
+ "publishedAt": 1793133440426,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -578,8 +578,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9933.7,
-   "upDollars": -66.3,
+   "equity": 9935,
+   "upDollars": -65,
    "upPct": -0.7,
    "trades": 1,
    "winPct": 0,
@@ -601,49 +601,49 @@
      "symbol": "CSCO",
      "shares": 8,
      "entryPrice": 111.41,
-     "lastPrice": 111.9471
+     "lastPrice": 111.9
     },
     {
      "symbol": "MRK",
      "shares": 7,
      "entryPrice": 141.89,
-     "lastPrice": 142.84
+     "lastPrice": 142.4428
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 91.56,
-     "lastPrice": 91.2
+     "lastPrice": 91.31
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.98
+     "lastPrice": 20.99
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 122.81,
-     "lastPrice": 122.69
+     "lastPrice": 122.78
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 103.35,
-     "lastPrice": 103.16
+     "lastPrice": 103.3
     },
     {
      "symbol": "TMUS",
      "shares": 6,
      "entryPrice": 146.77,
-     "lastPrice": 147.07
+     "lastPrice": 146.9499
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 78.57
+     "lastPrice": 78.7058
     }
    ],
    "lastTrade": null
@@ -930,13 +930,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8090.43,
-   "upDollars": -1909.57,
-   "upPct": -19.1,
+   "equity": 8143.92,
+   "upDollars": -1856.08,
+   "upPct": -18.6,
    "trades": 66,
    "winPct": 21,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GPUS",
+     "shares": 3794,
+     "entryPrice": 0.2144,
+     "lastPrice": 0.2285
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -945,13 +952,20 @@
    "kind": "official",
    "startedOn": "2026-10-21",
    "startingCash": 10000,
-   "equity": 8001.1,
-   "upDollars": -1998.9,
-   "upPct": -20,
+   "equity": 8054,
+   "upDollars": -1946,
+   "upPct": -19.5,
    "trades": 82,
    "winPct": 20,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GPUS",
+     "shares": 3752,
+     "entryPrice": 0.2144,
+     "lastPrice": 0.2285
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -990,13 +1004,20 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 3410.36,
-   "upDollars": -6589.64,
-   "upPct": -65.9,
+   "equity": 3432.9,
+   "upDollars": -6567.1,
+   "upPct": -65.7,
    "trades": 168,
    "winPct": 14,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GPUS",
+     "shares": 1599,
+     "entryPrice": 0.2144,
+     "lastPrice": 0.2285
+    }
+   ],
    "lastTrade": null
   }
  ]
