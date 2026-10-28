@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-28",
- "asOfAt": 1793190239864,
+ "asOfAt": 1793191142957,
  "sessionStatus": "in-progress",
- "publishedAt": 1793190239864,
+ "publishedAt": 1793191142957,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10282.27,
-   "upDollars": 282.27,
+   "equity": 10283.27,
+   "upDollars": 283.27,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.73
+     "lastPrice": 19.75
     },
     {
      "symbol": "BRZE",
@@ -490,9 +490,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9941.51,
-   "upDollars": -58.49,
-   "upPct": -0.6,
+   "equity": 9960.59,
+   "upDollars": -39.41,
+   "upPct": -0.4,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -501,61 +501,61 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 92.6185
+     "lastPrice": 92.75
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.71,
-     "lastPrice": 50.6275
+     "lastPrice": 50.7
     },
     {
      "symbol": "CSCO",
      "shares": 8,
      "entryPrice": 111.41,
-     "lastPrice": 111.45
+     "lastPrice": 112.07
     },
     {
      "symbol": "MRK",
      "shares": 7,
      "entryPrice": 141.89,
-     "lastPrice": 140.88
+     "lastPrice": 140.5527
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 91.56,
-     "lastPrice": 90.75
+     "lastPrice": 90.8588
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.87
+     "lastPrice": 20.8782
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 122.81,
-     "lastPrice": 123.18
+     "lastPrice": 123.65
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 103.35,
-     "lastPrice": 102.3
+     "lastPrice": 102.26
     },
     {
      "symbol": "TMUS",
      "shares": 6,
      "entryPrice": 146.77,
-     "lastPrice": 146.5
+     "lastPrice": 146.475
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 83.25
+     "lastPrice": 84
     }
    ],
    "lastTrade": null
@@ -845,9 +845,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8658.79,
-   "upDollars": -1341.21,
-   "upPct": -13.4,
+   "equity": 8675.32,
+   "upDollars": -1324.68,
+   "upPct": -13.2,
    "trades": 10,
    "winPct": 30,
    "open": 2,
@@ -856,13 +856,13 @@
      "symbol": "WEN (short)",
      "shares": -122,
      "entryPrice": 7.05445695,
-     "lastPrice": 7.04
+     "lastPrice": 7.07
     },
     {
      "symbol": "TDTH (short)",
      "shares": -1374,
      "entryPrice": 0.6277050000000001,
-     "lastPrice": 0.6097
+     "lastPrice": 0.595
     }
    ],
    "lastTrade": null
