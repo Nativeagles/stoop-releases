@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-28",
- "asOfAt": 1793177596705,
+ "asOfAt": 1793178499905,
  "sessionStatus": "in-progress",
- "publishedAt": 1793177596705,
+ "publishedAt": 1793178499905,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -573,6 +573,82 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9918.76,
+   "upDollars": -81.24,
+   "upPct": -0.8,
+   "trades": 1,
+   "winPct": 0,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 95.58,
+     "lastPrice": 94.704
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.71,
+     "lastPrice": 50.63
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 8,
+     "entryPrice": 111.41,
+     "lastPrice": 111.62
+    },
+    {
+     "symbol": "MRK",
+     "shares": 7,
+     "entryPrice": 141.89,
+     "lastPrice": 141.06
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 91.56,
+     "lastPrice": 90.9896
+    },
+    {
+     "symbol": "T",
+     "shares": 47,
+     "entryPrice": 21.04,
+     "lastPrice": 20.8748
+    },
+    {
+     "symbol": "C",
+     "shares": 8,
+     "entryPrice": 122.81,
+     "lastPrice": 122.64
+    },
+    {
+     "symbol": "ABT",
+     "shares": 9,
+     "entryPrice": 103.35,
+     "lastPrice": 102.1542
+    },
+    {
+     "symbol": "TMUS",
+     "shares": 6,
+     "entryPrice": 146.77,
+     "lastPrice": 146.39
+    },
+    {
+     "symbol": "APH",
+     "shares": 12,
+     "entryPrice": 78.55,
+     "lastPrice": 79.7
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
@@ -585,82 +661,6 @@
    "winPct": null,
    "open": 0,
    "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9898.94,
-   "upDollars": -101.06,
-   "upPct": -1,
-   "trades": 1,
-   "winPct": 0,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 95.58,
-     "lastPrice": 93.1
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.71,
-     "lastPrice": 50.55
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 8,
-     "entryPrice": 111.41,
-     "lastPrice": 112
-    },
-    {
-     "symbol": "MRK",
-     "shares": 7,
-     "entryPrice": 141.89,
-     "lastPrice": 140.8497
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 91.56,
-     "lastPrice": 90.92
-    },
-    {
-     "symbol": "T",
-     "shares": 47,
-     "entryPrice": 21.04,
-     "lastPrice": 20.852
-    },
-    {
-     "symbol": "C",
-     "shares": 8,
-     "entryPrice": 122.81,
-     "lastPrice": 122.66
-    },
-    {
-     "symbol": "ABT",
-     "shares": 9,
-     "entryPrice": 103.35,
-     "lastPrice": 102.1542
-    },
-    {
-     "symbol": "TMUS",
-     "shares": 6,
-     "entryPrice": 146.77,
-     "lastPrice": 146.2
-    },
-    {
-     "symbol": "APH",
-     "shares": 12,
-     "entryPrice": 78.55,
-     "lastPrice": 79.61
-    }
-   ],
    "lastTrade": null
   },
   {
