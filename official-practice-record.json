@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "asOfSession": "2026-10-27",
- "asOfAt": 1793145182055,
+ "asOfSession": "2026-10-28",
+ "asOfAt": 1793174887369,
  "sessionStatus": "in-progress",
- "publishedAt": 1793145182055,
+ "publishedAt": 1793174887369,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10271.54,
-   "upDollars": 271.54,
+   "equity": 10269.34,
+   "upDollars": 269.34,
    "upPct": 2.7,
    "trades": 1,
    "winPct": 0,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.78
+     "lastPrice": 45.58
     }
    ],
    "lastTrade": null
@@ -578,9 +578,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9923.41,
-   "upDollars": -76.59,
-   "upPct": -0.8,
+   "equity": 9934.71,
+   "upDollars": -65.29,
+   "upPct": -0.7,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -589,61 +589,61 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 94
+     "lastPrice": 94.693
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.71,
-     "lastPrice": 50.68
+     "lastPrice": 50.66
     },
     {
      "symbol": "CSCO",
      "shares": 8,
      "entryPrice": 111.41,
-     "lastPrice": 111.4
+     "lastPrice": 111.906
     },
     {
      "symbol": "MRK",
      "shares": 7,
      "entryPrice": 141.89,
-     "lastPrice": 141.85
+     "lastPrice": 141.24
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 91.56,
-     "lastPrice": 91.23
+     "lastPrice": 90.64
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.96
+     "lastPrice": 20.97
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 122.81,
-     "lastPrice": 122.8
+     "lastPrice": 122.62
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 103.35,
-     "lastPrice": 103.2
+     "lastPrice": 103.5142
     },
     {
      "symbol": "TMUS",
      "shares": 6,
      "entryPrice": 146.77,
-     "lastPrice": 146.95
+     "lastPrice": 146.05
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 78.5759
+     "lastPrice": 79.777
     }
    ],
    "lastTrade": null
@@ -770,76 +770,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-five-nine-cross-hourly-swing",
-   "name": "Five Nine Cross (hourly swing)",
-   "kind": "official",
-   "startedOn": "2026-10-16",
-   "startingCash": 10000,
-   "equity": 9657.55,
-   "upDollars": -342.45,
-   "upPct": -3.4,
-   "trades": 11,
-   "winPct": 0,
-   "open": 9,
-   "positions": [
-    {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 106.49,
-     "lastPrice": 111.3499984741211
-    },
-    {
-     "symbol": "NOK",
-     "shares": 113,
-     "entryPrice": 8.46,
-     "lastPrice": 8.895000457763672
-    },
-    {
-     "symbol": "AAL",
-     "shares": 78,
-     "entryPrice": 12.25,
-     "lastPrice": 12.604999542236328
-    },
-    {
-     "symbol": "ORCL",
-     "shares": 7,
-     "entryPrice": 130.16,
-     "lastPrice": 130.87
-    },
-    {
-     "symbol": "CRWV",
-     "shares": 16,
-     "entryPrice": 58.06,
-     "lastPrice": 59.555
-    },
-    {
-     "symbol": "SMCI",
-     "shares": 27,
-     "entryPrice": 34.39,
-     "lastPrice": 35.105000000000004
-    },
-    {
-     "symbol": "C",
-     "shares": 7,
-     "entryPrice": 122.57,
-     "lastPrice": 122.86
-    },
-    {
-     "symbol": "SOFI",
-     "shares": 58,
-     "entryPrice": 16.26,
-     "lastPrice": 16.345
-    },
-    {
-     "symbol": "VZ",
-     "shares": 22,
-     "entryPrice": 43.77,
-     "lastPrice": 43.974999999999994
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-patterns-daily",
    "name": "Five Patterns (daily)",
    "kind": "official",
@@ -920,81 +850,6 @@
    "upPct": -13.7,
    "trades": 10,
    "winPct": 30,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-six-degrees-near-line",
-   "name": "Six Degrees (near its line)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 8137.85,
-   "upDollars": -1862.15,
-   "upPct": -18.6,
-   "trades": 67,
-   "winPct": 22,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-10-21",
-   "startingCash": 10000,
-   "equity": 8013.85,
-   "upDollars": -1986.15,
-   "upPct": -19.9,
-   "trades": 85,
-   "winPct": 20,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 7610.05,
-   "upDollars": -2389.95,
-   "upPct": -23.9,
-   "trades": 19,
-   "winPct": 11,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-five-percent-from-buy",
-   "name": "Five Degrees (trail from the buy)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 6028.82,
-   "upDollars": -3971.18,
-   "upPct": -39.7,
-   "trades": 135,
-   "winPct": 20,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-six-degrees",
-   "name": "Six Degrees",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 3340.9,
-   "upDollars": -6659.1,
-   "upPct": -66.6,
-   "trades": 173,
-   "winPct": 14,
    "open": 0,
    "positions": [],
    "lastTrade": null
