@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-28",
- "asOfAt": 1793183918416,
+ "asOfAt": 1793184821475,
  "sessionStatus": "in-progress",
- "publishedAt": 1793183918416,
+ "publishedAt": 1793184821475,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -578,9 +578,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9924.16,
-   "upDollars": -75.84,
-   "upPct": -0.8,
+   "equity": 9925.98,
+   "upDollars": -74.02,
+   "upPct": -0.7,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -595,13 +595,13 @@
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.71,
-     "lastPrice": 50.64
+     "lastPrice": 50.6948
     },
     {
      "symbol": "CSCO",
      "shares": 8,
      "entryPrice": 111.41,
-     "lastPrice": 111.45
+     "lastPrice": 111.3727
     },
     {
      "symbol": "MRK",
@@ -613,37 +613,37 @@
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 91.56,
-     "lastPrice": 91
+     "lastPrice": 90.668
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.91
+     "lastPrice": 20.9
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 122.81,
-     "lastPrice": 122.68
+     "lastPrice": 122.8
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 103.35,
-     "lastPrice": 102.61
+     "lastPrice": 102.62
     },
     {
      "symbol": "TMUS",
      "shares": 6,
      "entryPrice": 146.77,
-     "lastPrice": 145.85
+     "lastPrice": 145.74
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 80.45
+     "lastPrice": 80.85
     }
    ],
    "lastTrade": null
