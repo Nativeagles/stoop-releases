@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-28",
- "asOfAt": 1793188433573,
+ "asOfAt": 1793189336599,
  "sessionStatus": "in-progress",
- "publishedAt": 1793188433573,
+ "publishedAt": 1793189336599,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10283.65,
-   "upDollars": 283.65,
+   "equity": 10283.85,
+   "upDollars": 283.85,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.6503
+     "lastPrice": 45.6689
     }
    ],
    "lastTrade": null
@@ -485,6 +485,82 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9953.02,
+   "upDollars": -46.98,
+   "upPct": -0.5,
+   "trades": 1,
+   "winPct": 0,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 95.58,
+     "lastPrice": 93.61
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.71,
+     "lastPrice": 50.6963
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 8,
+     "entryPrice": 111.41,
+     "lastPrice": 111.9
+    },
+    {
+     "symbol": "MRK",
+     "shares": 7,
+     "entryPrice": 141.89,
+     "lastPrice": 140.5646
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 91.56,
+     "lastPrice": 90.6845
+    },
+    {
+     "symbol": "T",
+     "shares": 47,
+     "entryPrice": 21.04,
+     "lastPrice": 20.86
+    },
+    {
+     "symbol": "C",
+     "shares": 8,
+     "entryPrice": 122.81,
+     "lastPrice": 122.913
+    },
+    {
+     "symbol": "ABT",
+     "shares": 9,
+     "entryPrice": 103.35,
+     "lastPrice": 102.1332
+    },
+    {
+     "symbol": "TMUS",
+     "shares": 6,
+     "entryPrice": 146.77,
+     "lastPrice": 146.07
+    },
+    {
+     "symbol": "APH",
+     "shares": 12,
+     "entryPrice": 78.55,
+     "lastPrice": 83.77
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
@@ -568,82 +644,6 @@
      "shares": 14,
      "entryPrice": 35.08,
      "lastPrice": 35.144999999999996
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9919.47,
-   "upDollars": -80.53,
-   "upPct": -0.8,
-   "trades": 1,
-   "winPct": 0,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 95.58,
-     "lastPrice": 92.93
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.71,
-     "lastPrice": 50.64
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 8,
-     "entryPrice": 111.41,
-     "lastPrice": 112.0415
-    },
-    {
-     "symbol": "MRK",
-     "shares": 7,
-     "entryPrice": 141.89,
-     "lastPrice": 140.36
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 91.56,
-     "lastPrice": 90.7299
-    },
-    {
-     "symbol": "T",
-     "shares": 47,
-     "entryPrice": 21.04,
-     "lastPrice": 20.87
-    },
-    {
-     "symbol": "C",
-     "shares": 8,
-     "entryPrice": 122.81,
-     "lastPrice": 123.1765
-    },
-    {
-     "symbol": "ABT",
-     "shares": 9,
-     "entryPrice": 103.35,
-     "lastPrice": 102.6367
-    },
-    {
-     "symbol": "TMUS",
-     "shares": 6,
-     "entryPrice": 146.77,
-     "lastPrice": 146.8
-    },
-    {
-     "symbol": "APH",
-     "shares": 12,
-     "entryPrice": 78.55,
-     "lastPrice": 80.66
     }
    ],
    "lastTrade": null
@@ -845,13 +845,26 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8632.28,
-   "upDollars": -1367.72,
-   "upPct": -13.7,
+   "equity": 8597.31,
+   "upDollars": -1402.69,
+   "upPct": -14,
    "trades": 10,
    "winPct": 30,
-   "open": 0,
-   "positions": [],
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "WEN (short)",
+     "shares": -122,
+     "entryPrice": 7.05445695,
+     "lastPrice": 7.09
+    },
+    {
+     "symbol": "TDTH (short)",
+     "shares": -1374,
+     "entryPrice": 0.6277050000000001,
+     "lastPrice": 0.65
+    }
+   ],
    "lastTrade": null
   }
  ]
