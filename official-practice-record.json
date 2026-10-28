@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-28",
- "asOfAt": 1793199271617,
+ "asOfAt": 1793200174533,
  "sessionStatus": "in-progress",
- "publishedAt": 1793199271617,
+ "publishedAt": 1793200174533,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10284.23,
-   "upDollars": 284.23,
+   "equity": 10284.18,
+   "upDollars": 284.18,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.82
+     "lastPrice": 45.815
     }
    ],
    "lastTrade": null
@@ -56,9 +56,9 @@
    "kind": "official",
    "startedOn": "2026-10-26",
    "startingCash": 10000,
-   "equity": 10101.78,
-   "upDollars": 101.78,
-   "upPct": 1,
+   "equity": 10107.03,
+   "upDollars": 107.03,
+   "upPct": 1.1,
    "trades": 1,
    "winPct": 0,
    "open": 14,
@@ -67,85 +67,85 @@
      "symbol": "UCO",
      "shares": 15,
      "entryPrice": 64.99,
-     "lastPrice": 67.44999999999999
+     "lastPrice": 67.36
     },
     {
      "symbol": "BTE",
      "shares": 181,
      "entryPrice": 5.39,
-     "lastPrice": 5.525
+     "lastPrice": 5.505
     },
     {
      "symbol": "OXY",
      "shares": 15,
      "entryPrice": 63.5,
-     "lastPrice": 63.33
+     "lastPrice": 63.3
     },
     {
      "symbol": "ADC",
      "shares": 7,
      "entryPrice": 67.2,
-     "lastPrice": 66.36
+     "lastPrice": 66.4
     },
     {
      "symbol": "KRMN",
      "shares": 13,
      "entryPrice": 36.86,
-     "lastPrice": 36.675
+     "lastPrice": 36.790000000000006
     },
     {
      "symbol": "PATK",
      "shares": 7,
      "entryPrice": 69.955,
-     "lastPrice": 70.82
+     "lastPrice": 70.91499999999999
     },
     {
      "symbol": "LCII",
      "shares": 5,
      "entryPrice": 87.28,
-     "lastPrice": 95.405
+     "lastPrice": 95.89
     },
     {
      "symbol": "KARO",
      "shares": 7,
      "entryPrice": 64.65,
-     "lastPrice": 65.16999999999999
+     "lastPrice": 65.13499999999999
     },
     {
      "symbol": "INIO",
      "shares": 30,
      "entryPrice": 16.36,
-     "lastPrice": 17.42
+     "lastPrice": 17.705
     },
     {
      "symbol": "AMRZ",
      "shares": 12,
      "entryPrice": 40.155,
-     "lastPrice": 39.86
+     "lastPrice": 39.760000000000005
     },
     {
      "symbol": "EXE",
      "shares": 5,
      "entryPrice": 94.05,
-     "lastPrice": 93.17
+     "lastPrice": 92.845
     },
     {
      "symbol": "BWXT",
      "shares": 3,
      "entryPrice": 132.9899,
-     "lastPrice": 132.375
+     "lastPrice": 133.025
     },
     {
      "symbol": "CRBG",
      "shares": 14,
      "entryPrice": 35.245,
-     "lastPrice": 35.165
+     "lastPrice": 35.11
     },
     {
      "symbol": "EQH",
      "shares": 9,
      "entryPrice": 54.37,
-     "lastPrice": 54.349999999999994
+     "lastPrice": 54.254999999999995
     }
    ],
    "lastTrade": null
@@ -226,8 +226,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 10010.23,
-   "upDollars": 10.23,
+   "equity": 10008.1,
+   "upDollars": 8.1,
    "upPct": 0.1,
    "trades": 8,
    "winPct": 13,
@@ -237,7 +237,7 @@
      "symbol": "USB",
      "shares": 17,
      "entryPrice": 58.39,
-     "lastPrice": 59.53
+     "lastPrice": 59.405
     },
     {
      "symbol": "JHX",
@@ -396,9 +396,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9957.38,
-   "upDollars": -42.62,
-   "upPct": -0.4,
+   "equity": 9954.98,
+   "upDollars": -45.02,
+   "upPct": -0.5,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -407,83 +407,61 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 95.58,
-     "lastPrice": 95.6816
+     "lastPrice": 95.475
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.71,
-     "lastPrice": 50.64
+     "lastPrice": 50.72
     },
     {
      "symbol": "CSCO",
      "shares": 8,
      "entryPrice": 111.41,
-     "lastPrice": 110.11
+     "lastPrice": 110.02
     },
     {
      "symbol": "MRK",
      "shares": 7,
      "entryPrice": 141.89,
-     "lastPrice": 142.32
+     "lastPrice": 141.64
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 91.56,
-     "lastPrice": 92.1807
+     "lastPrice": 92.115
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.955
+     "lastPrice": 20.985
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 122.81,
-     "lastPrice": 123.035
+     "lastPrice": 123.235
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 103.35,
-     "lastPrice": 103.82
+     "lastPrice": 103.495
     },
     {
      "symbol": "TMUS",
      "shares": 6,
      "entryPrice": 146.77,
-     "lastPrice": 145.49
+     "lastPrice": 145.9101
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 79.99
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 9956.78,
-   "upDollars": -43.22,
-   "upPct": -0.4,
-   "trades": 12,
-   "winPct": 58,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GCTK (short)",
-     "shares": -445,
-     "entryPrice": 2.20717425,
-     "lastPrice": 1.9497
+     "lastPrice": 80.1301
     }
    ],
    "lastTrade": null
@@ -494,8 +472,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9935.83,
-   "upDollars": -64.17,
+   "equity": 9937.63,
+   "upDollars": -62.37,
    "upPct": -0.6,
    "trades": 9,
    "winPct": 0,
@@ -505,7 +483,7 @@
      "symbol": "NEE",
      "shares": 12,
      "entryPrice": 79.17,
-     "lastPrice": 81.945
+     "lastPrice": 82.095
     },
     {
      "symbol": "PSQ",
@@ -571,6 +549,28 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 9925.54,
+   "upDollars": -74.46,
+   "upPct": -0.7,
+   "trades": 12,
+   "winPct": 58,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GCTK (short)",
+     "shares": -445,
+     "entryPrice": 2.20717425,
+     "lastPrice": 2.0199
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
@@ -591,8 +591,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9901.92,
-   "upDollars": -98.08,
+   "equity": 9899.8,
+   "upDollars": -100.2,
    "upPct": -1,
    "trades": 2,
    "winPct": 0,
@@ -602,7 +602,7 @@
      "symbol": "USB",
      "shares": 17,
      "entryPrice": 58.39,
-     "lastPrice": 59.53
+     "lastPrice": 59.405
     },
     {
      "symbol": "DVN",
@@ -715,8 +715,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9713.78,
-   "upDollars": -286.23,
+   "equity": 9713.09,
+   "upDollars": -286.91,
    "upPct": -2.9,
    "trades": 2,
    "winPct": 0,
@@ -726,7 +726,7 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 118.82,
-     "lastPrice": 118.91499999999999
+     "lastPrice": 118.83
     },
     {
      "symbol": "NOW",
@@ -791,9 +791,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9694.73,
-   "upDollars": -305.27,
-   "upPct": -3.1,
+   "equity": 9700.02,
+   "upDollars": -299.98,
+   "upPct": -3,
    "trades": 11,
    "winPct": 18,
    "open": 1,
@@ -802,7 +802,7 @@
      "symbol": "KDK",
      "shares": 725,
      "entryPrice": 1.35,
-     "lastPrice": 1.3177
+     "lastPrice": 1.325
     }
    ],
    "lastTrade": null
@@ -813,8 +813,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9381.73,
-   "upDollars": -618.27,
+   "equity": 9381.05,
+   "upDollars": -618.95,
    "upPct": -6.2,
    "trades": 13,
    "winPct": 0,
@@ -824,7 +824,7 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 118.7,
-     "lastPrice": 118.91499999999999
+     "lastPrice": 118.83
     },
     {
      "symbol": "SBUX",
@@ -889,9 +889,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8691.21,
-   "upDollars": -1308.79,
-   "upPct": -13.1,
+   "equity": 8676.4,
+   "upDollars": -1323.6,
+   "upPct": -13.2,
    "trades": 10,
    "winPct": 30,
    "open": 2,
@@ -900,13 +900,13 @@
      "symbol": "WEN (short)",
      "shares": -122,
      "entryPrice": 7.05445695,
-     "lastPrice": 6.995
+     "lastPrice": 7.015
     },
     {
      "symbol": "TDTH (short)",
      "shares": -1374,
      "entryPrice": 0.6277050000000001,
-     "lastPrice": 0.5901
+     "lastPrice": 0.5991
     }
    ],
    "lastTrade": null
