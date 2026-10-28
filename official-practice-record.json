@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-28",
- "asOfAt": 1793185724514,
+ "asOfAt": 1793186627578,
  "sessionStatus": "in-progress",
- "publishedAt": 1793185724514,
+ "publishedAt": 1793186627578,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10269.34,
-   "upDollars": 269.34,
-   "upPct": 2.7,
+   "equity": 10283.84,
+   "upDollars": 283.84,
+   "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
    "open": 2,
@@ -39,13 +39,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.5
+     "lastPrice": 19.7707
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.58
+     "lastPrice": 45.6677
     }
    ],
    "lastTrade": null
@@ -578,9 +578,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9926.19,
-   "upDollars": -73.81,
-   "upPct": -0.7,
+   "equity": 9918.82,
+   "upDollars": -81.18,
+   "upPct": -0.8,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -607,19 +607,19 @@
      "symbol": "MRK",
      "shares": 7,
      "entryPrice": 141.89,
-     "lastPrice": 140.8
+     "lastPrice": 140.89
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 91.56,
-     "lastPrice": 90.667
+     "lastPrice": 90.64
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 21.04,
-     "lastPrice": 20.89
+     "lastPrice": 20.882
     },
     {
      "symbol": "C",
@@ -631,19 +631,19 @@
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 103.35,
-     "lastPrice": 102.62
+     "lastPrice": 102.51
     },
     {
      "symbol": "TMUS",
      "shares": 6,
      "entryPrice": 146.77,
-     "lastPrice": 146.8
+     "lastPrice": 145.7
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 80.7702
+     "lastPrice": 80.79
     }
    ],
    "lastTrade": null
