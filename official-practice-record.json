@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "asOfSession": "2026-10-28",
- "asOfAt": 1793231807798,
+ "asOfSession": "2026-10-29",
+ "asOfAt": 1793261513498,
  "sessionStatus": "in-progress",
- "publishedAt": 1793231807798,
+ "publishedAt": 1793261513498,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10279.73,
-   "upDollars": 279.73,
+   "equity": 10279.51,
+   "upDollars": 279.51,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.57
+     "lastPrice": 45.55
     }
    ],
    "lastTrade": null
@@ -384,9 +384,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9940.49,
-   "upDollars": -59.51,
-   "upPct": -0.6,
+   "equity": 9948.93,
+   "upDollars": -51.07,
+   "upPct": -0.5,
    "trades": 9,
    "winPct": 44,
    "open": 10,
@@ -395,61 +395,61 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 80.5
+     "lastPrice": 80.49
     },
     {
      "symbol": "WMT",
      "shares": 4,
      "entryPrice": 118.78,
-     "lastPrice": 120.336
+     "lastPrice": 121.24
     },
     {
      "symbol": "NKE",
      "shares": 13,
      "entryPrice": 37.23,
-     "lastPrice": 37.23
+     "lastPrice": 37.56
     },
     {
      "symbol": "SMCI",
      "shares": 14,
      "entryPrice": 35.65,
-     "lastPrice": 34.81
+     "lastPrice": 34.5
     },
     {
      "symbol": "PEP",
      "shares": 3,
      "entryPrice": 132.63,
-     "lastPrice": 134.21
+     "lastPrice": 134.7855
     },
     {
      "symbol": "HPE",
      "shares": 8,
      "entryPrice": 60.25,
-     "lastPrice": 58.8174
+     "lastPrice": 58.84
     },
     {
      "symbol": "VST",
      "shares": 3,
      "entryPrice": 143.46,
-     "lastPrice": 141.35
+     "lastPrice": 141.3
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 138.67,
-     "lastPrice": 139.06
+     "lastPrice": 138.41
     },
     {
      "symbol": "UBER",
      "shares": 7,
      "entryPrice": 65.28,
-     "lastPrice": 65.2292
+     "lastPrice": 65.5
     },
     {
      "symbol": "WFC",
      "shares": 5,
      "entryPrice": 84.04,
-     "lastPrice": 84.73
+     "lastPrice": 85.3888
     }
    ],
    "lastTrade": null
