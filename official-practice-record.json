@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-29",
- "asOfAt": 1793264222689,
+ "asOfAt": 1793265125774,
  "sessionStatus": "in-progress",
- "publishedAt": 1793264222689,
+ "publishedAt": 1793265125774,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -384,9 +384,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9938.83,
-   "upDollars": -61.17,
-   "upPct": -0.6,
+   "equity": 9966.96,
+   "upDollars": -33.04,
+   "upPct": -0.3,
    "trades": 9,
    "winPct": 44,
    "open": 10,
@@ -395,61 +395,61 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 80
+     "lastPrice": 80.2345
     },
     {
      "symbol": "WMT",
      "shares": 4,
      "entryPrice": 118.78,
-     "lastPrice": 121.2
+     "lastPrice": 121.29
     },
     {
      "symbol": "NKE",
      "shares": 13,
      "entryPrice": 37.23,
-     "lastPrice": 37.58
+     "lastPrice": 37.59
     },
     {
      "symbol": "SMCI",
      "shares": 14,
      "entryPrice": 35.65,
-     "lastPrice": 34.4
+     "lastPrice": 34.85
     },
     {
      "symbol": "PEP",
      "shares": 3,
      "entryPrice": 132.63,
-     "lastPrice": 134.85
+     "lastPrice": 135.05
     },
     {
      "symbol": "HPE",
      "shares": 8,
      "entryPrice": 60.25,
-     "lastPrice": 58.5
+     "lastPrice": 58.99
     },
     {
      "symbol": "VST",
      "shares": 3,
      "entryPrice": 143.46,
-     "lastPrice": 141.2927
+     "lastPrice": 141.83
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 138.67,
-     "lastPrice": 138.41
+     "lastPrice": 142.836
     },
     {
      "symbol": "UBER",
      "shares": 7,
      "entryPrice": 65.28,
-     "lastPrice": 65.51
+     "lastPrice": 65.72
     },
     {
      "symbol": "WFC",
      "shares": 5,
      "entryPrice": 84.04,
-     "lastPrice": 85.2994
+     "lastPrice": 84.83
     }
    ],
    "lastTrade": null
