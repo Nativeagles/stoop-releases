@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-29",
- "asOfAt": 1793272350141,
+ "asOfAt": 1793273253090,
  "sessionStatus": "in-progress",
- "publishedAt": 1793272350141,
+ "publishedAt": 1793273253090,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -384,9 +384,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9974.03,
-   "upDollars": -25.97,
-   "upPct": -0.3,
+   "equity": 9982.2,
+   "upDollars": -17.8,
+   "upPct": -0.2,
    "trades": 9,
    "winPct": 44,
    "open": 10,
@@ -395,61 +395,61 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 80.68
+     "lastPrice": 80.96
     },
     {
      "symbol": "WMT",
      "shares": 4,
      "entryPrice": 118.78,
-     "lastPrice": 121.16
+     "lastPrice": 121.17
     },
     {
      "symbol": "NKE",
      "shares": 13,
      "entryPrice": 37.23,
-     "lastPrice": 37.74
+     "lastPrice": 37.8416
     },
     {
      "symbol": "SMCI",
      "shares": 14,
      "entryPrice": 35.65,
-     "lastPrice": 35.0796
+     "lastPrice": 35.16
     },
     {
      "symbol": "PEP",
      "shares": 3,
      "entryPrice": 132.63,
-     "lastPrice": 135.4394
+     "lastPrice": 135.31
     },
     {
      "symbol": "HPE",
      "shares": 8,
      "entryPrice": 60.25,
-     "lastPrice": 59
+     "lastPrice": 59.2483
     },
     {
      "symbol": "VST",
      "shares": 3,
      "entryPrice": 143.46,
-     "lastPrice": 142.24
+     "lastPrice": 142.22
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 138.67,
-     "lastPrice": 140.3295
+     "lastPrice": 140.5
     },
     {
      "symbol": "UBER",
      "shares": 7,
      "entryPrice": 65.28,
-     "lastPrice": 65.68
+     "lastPrice": 65.662
     },
     {
      "symbol": "WFC",
      "shares": 5,
      "entryPrice": 84.04,
-     "lastPrice": 85.31
+     "lastPrice": 85.39
     }
    ],
    "lastTrade": null
@@ -863,13 +863,20 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8578.21,
-   "upDollars": -1421.79,
-   "upPct": -14.2,
+   "equity": 8568.4,
+   "upDollars": -1431.6,
+   "upPct": -14.3,
    "trades": 12,
    "winPct": 25,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "NCLH (short)",
+     "shares": -48,
+     "entryPrice": 17.62575,
+     "lastPrice": 17.83
+    }
+   ],
    "lastTrade": null
   }
  ]
