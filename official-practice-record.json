@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-29",
- "asOfAt": 1793263319667,
+ "asOfAt": 1793264222689,
  "sessionStatus": "in-progress",
- "publishedAt": 1793263319667,
+ "publishedAt": 1793264222689,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -384,9 +384,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9946.18,
-   "upDollars": -53.82,
-   "upPct": -0.5,
+   "equity": 9938.83,
+   "upDollars": -61.17,
+   "upPct": -0.6,
    "trades": 9,
    "winPct": 44,
    "open": 10,
@@ -395,19 +395,19 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 80.2597
+     "lastPrice": 80
     },
     {
      "symbol": "WMT",
      "shares": 4,
      "entryPrice": 118.78,
-     "lastPrice": 121.5
+     "lastPrice": 121.2
     },
     {
      "symbol": "NKE",
      "shares": 13,
      "entryPrice": 37.23,
-     "lastPrice": 37.5979
+     "lastPrice": 37.58
     },
     {
      "symbol": "SMCI",
@@ -419,19 +419,19 @@
      "symbol": "PEP",
      "shares": 3,
      "entryPrice": 132.63,
-     "lastPrice": 134.82
+     "lastPrice": 134.85
     },
     {
      "symbol": "HPE",
      "shares": 8,
      "entryPrice": 60.25,
-     "lastPrice": 58.75
+     "lastPrice": 58.5
     },
     {
      "symbol": "VST",
      "shares": 3,
      "entryPrice": 143.46,
-     "lastPrice": 141.52
+     "lastPrice": 141.2927
     },
     {
      "symbol": "TJX",
@@ -443,7 +443,7 @@
      "symbol": "UBER",
      "shares": 7,
      "entryPrice": 65.28,
-     "lastPrice": 65.54
+     "lastPrice": 65.51
     },
     {
      "symbol": "WFC",
