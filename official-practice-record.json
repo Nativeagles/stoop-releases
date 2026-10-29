@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-29",
- "asOfAt": 1793278670897,
+ "asOfAt": 1793279573961,
  "sessionStatus": "in-progress",
- "publishedAt": 1793278670897,
+ "publishedAt": 1793279573961,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10280.17,
-   "upDollars": 280.17,
+   "equity": 10281.27,
+   "upDollars": 281.27,
    "upPct": 2.8,
    "trades": 1,
    "winPct": 0,
@@ -45,7 +45,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.61
+     "lastPrice": 45.71
     }
    ],
    "lastTrade": null
@@ -379,36 +379,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 9976.91,
-   "upDollars": -23.09,
-   "upPct": -0.2,
-   "trades": 13,
-   "winPct": 62,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "NCPL (short)",
-     "shares": -590,
-     "entryPrice": 1.6816399999999998,
-     "lastPrice": 1.6
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9962.75,
-   "upDollars": -37.25,
-   "upPct": -0.4,
+   "equity": 9966.17,
+   "upDollars": -33.83,
+   "upPct": -0.3,
    "trades": 9,
    "winPct": 44,
    "open": 10,
@@ -417,61 +395,83 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 79.94
+     "lastPrice": 80.32
     },
     {
      "symbol": "WMT",
      "shares": 4,
      "entryPrice": 118.78,
-     "lastPrice": 121.58
+     "lastPrice": 121.4562
     },
     {
      "symbol": "NKE",
      "shares": 13,
      "entryPrice": 37.23,
-     "lastPrice": 37.9223
+     "lastPrice": 37.704
     },
     {
      "symbol": "SMCI",
      "shares": 14,
      "entryPrice": 35.65,
-     "lastPrice": 35.04
+     "lastPrice": 35.1542
     },
     {
      "symbol": "PEP",
      "shares": 3,
      "entryPrice": 132.63,
-     "lastPrice": 135.68
+     "lastPrice": 135.38
     },
     {
      "symbol": "HPE",
      "shares": 8,
      "entryPrice": 60.25,
-     "lastPrice": 58.79
+     "lastPrice": 58.8926
     },
     {
      "symbol": "VST",
      "shares": 3,
      "entryPrice": 143.46,
-     "lastPrice": 140.84
+     "lastPrice": 141.47
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 138.67,
-     "lastPrice": 140.5
+     "lastPrice": 140
     },
     {
      "symbol": "UBER",
      "shares": 7,
      "entryPrice": 65.28,
-     "lastPrice": 65.7442
+     "lastPrice": 65.71
     },
     {
      "symbol": "WFC",
      "shares": 5,
      "entryPrice": 84.04,
-     "lastPrice": 84.9693
+     "lastPrice": 85.0755
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 9960.1,
+   "upDollars": -39.9,
+   "upPct": -0.4,
+   "trades": 13,
+   "winPct": 62,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "NCPL (short)",
+     "shares": -590,
+     "entryPrice": 1.6816399999999998,
+     "lastPrice": 1.6285
     }
    ],
    "lastTrade": null
@@ -688,13 +688,20 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9910.87,
-   "upDollars": -89.14,
+   "equity": 9912.52,
+   "upDollars": -87.49,
    "upPct": -0.9,
    "trades": 0,
    "winPct": null,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "NCLH",
+     "shares": 55,
+     "entryPrice": 17.85,
+     "lastPrice": 17.88
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -870,8 +877,8 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8570.32,
-   "upDollars": -1429.68,
+   "equity": 8568.88,
+   "upDollars": -1431.12,
    "upPct": -14.3,
    "trades": 12,
    "winPct": 25,
@@ -881,7 +888,7 @@
      "symbol": "NCLH (short)",
      "shares": -48,
      "entryPrice": 17.62575,
-     "lastPrice": 17.79
+     "lastPrice": 17.82
     }
    ],
    "lastTrade": null
