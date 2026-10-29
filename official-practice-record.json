@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-29",
- "asOfAt": 1793303964617,
+ "asOfAt": 1793304867487,
  "sessionStatus": "in-progress",
- "publishedAt": 1793303964617,
+ "publishedAt": 1793304867487,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10286.35,
-   "upDollars": 286.35,
+   "equity": 10286.76,
+   "upDollars": 286.76,
    "upPct": 2.9,
    "trades": 1,
    "winPct": 0,
@@ -39,13 +39,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.795
+     "lastPrice": 19.8
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.785
+     "lastPrice": 45.8
     }
    ],
    "lastTrade": null
@@ -427,88 +427,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-full",
-   "name": "Cookie Monster (all readings)",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 10064.64,
-   "upDollars": 64.64,
-   "upPct": 0.6,
-   "trades": 0,
-   "winPct": null,
-   "open": 11,
-   "positions": [
-    {
-     "symbol": "NCLH",
-     "shares": 55,
-     "entryPrice": 17.85,
-     "lastPrice": 18.255
-    },
-    {
-     "symbol": "PURR",
-     "shares": 89,
-     "entryPrice": 11.09,
-     "lastPrice": 12.32
-    },
-    {
-     "symbol": "GEN",
-     "shares": 35,
-     "entryPrice": 27.95,
-     "lastPrice": 28.185
-    },
-    {
-     "symbol": "TXT",
-     "shares": 11,
-     "entryPrice": 87.6,
-     "lastPrice": 88.12
-    },
-    {
-     "symbol": "PHAT",
-     "shares": 157,
-     "entryPrice": 6.31,
-     "lastPrice": 6.245
-    },
-    {
-     "symbol": "TDOC",
-     "shares": 116,
-     "entryPrice": 8.5,
-     "lastPrice": 8.715
-    },
-    {
-     "symbol": "BHC",
-     "shares": 117,
-     "entryPrice": 8.45,
-     "lastPrice": 8.895
-    },
-    {
-     "symbol": "INSM",
-     "shares": 8,
-     "entryPrice": 113.61,
-     "lastPrice": 111.7
-    },
-    {
-     "symbol": "LXU",
-     "shares": 84,
-     "entryPrice": 11.71,
-     "lastPrice": 11.215
-    },
-    {
-     "symbol": "PRCH",
-     "shares": 47,
-     "entryPrice": 20.82,
-     "lastPrice": 20.905
-    },
-    {
-     "symbol": "VNDA",
-     "shares": 39,
-     "entryPrice": 4.19,
-     "lastPrice": 4.04
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-steps-daily",
    "name": "Five Steps (daily)",
    "kind": "official",
@@ -690,72 +608,154 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9981.29,
-   "upDollars": -18.71,
+   "equity": 9976.39,
+   "upDollars": -23.61,
    "upPct": -0.2,
-   "trades": 18,
-   "winPct": 56,
+   "trades": 20,
+   "winPct": 50,
    "open": 10,
    "positions": [
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 82.275
-    },
-    {
-     "symbol": "ORCL",
-     "shares": 7,
-     "entryPrice": 139.28,
-     "lastPrice": 139.6
-    },
-    {
-     "symbol": "NFLX",
-     "shares": 16,
-     "entryPrice": 62.01,
-     "lastPrice": 62.035
+     "lastPrice": 81.51
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 96.8803
+     "lastPrice": 97.46
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 51.21,
-     "lastPrice": 51.235
+     "lastPrice": 51.32
     },
     {
      "symbol": "VZ",
      "shares": 22,
      "entryPrice": 43.67,
-     "lastPrice": 43.665
+     "lastPrice": 43.82
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.87,
-     "lastPrice": 92.905
+     "lastPrice": 93.89
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 20.88,
-     "lastPrice": 20.865
+     "lastPrice": 21.02
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 125.58,
-     "lastPrice": 125.7618
+     "lastPrice": 125.92
     },
     {
      "symbol": "BKNG",
      "shares": 6,
      "entryPrice": 150.19,
-     "lastPrice": 150.17
+     "lastPrice": 150.2365
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 3,
+     "entryPrice": 142.13,
+     "lastPrice": 142.01
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 3,
+     "entryPrice": 109.5,
+     "lastPrice": 109.44
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-full",
+   "name": "Cookie Monster (all readings)",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9983.19,
+   "upDollars": -16.81,
+   "upPct": -0.2,
+   "trades": 0,
+   "winPct": null,
+   "open": 11,
+   "positions": [
+    {
+     "symbol": "NCLH",
+     "shares": 55,
+     "entryPrice": 17.85,
+     "lastPrice": 18.13
+    },
+    {
+     "symbol": "PURR",
+     "shares": 89,
+     "entryPrice": 11.09,
+     "lastPrice": 11.94
+    },
+    {
+     "symbol": "GEN",
+     "shares": 35,
+     "entryPrice": 27.95,
+     "lastPrice": 28.2153
+    },
+    {
+     "symbol": "TXT",
+     "shares": 11,
+     "entryPrice": 87.6,
+     "lastPrice": 87.46
+    },
+    {
+     "symbol": "PHAT",
+     "shares": 157,
+     "entryPrice": 6.31,
+     "lastPrice": 6.22
+    },
+    {
+     "symbol": "TDOC",
+     "shares": 116,
+     "entryPrice": 8.5,
+     "lastPrice": 8.7558
+    },
+    {
+     "symbol": "BHC",
+     "shares": 117,
+     "entryPrice": 8.45,
+     "lastPrice": 8.8112
+    },
+    {
+     "symbol": "INSM",
+     "shares": 8,
+     "entryPrice": 113.61,
+     "lastPrice": 111
+    },
+    {
+     "symbol": "LXU",
+     "shares": 84,
+     "entryPrice": 11.71,
+     "lastPrice": 11.12
+    },
+    {
+     "symbol": "PRCH",
+     "shares": 47,
+     "entryPrice": 20.82,
+     "lastPrice": 20.6418
+    },
+    {
+     "symbol": "VNDA",
+     "shares": 39,
+     "entryPrice": 4.19,
+     "lastPrice": 4.05
     }
    ],
    "lastTrade": null
