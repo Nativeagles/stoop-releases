@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-30",
- "asOfAt": 1793400230895,
+ "asOfAt": 1793401133777,
  "sessionStatus": "in-progress",
- "publishedAt": 1793400230895,
+ "publishedAt": 1793401133777,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -587,8 +587,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9801.54,
-   "upDollars": -198.46,
+   "equity": 9798.74,
+   "upDollars": -201.26,
    "upPct": -2,
    "trades": 35,
    "winPct": 43,
@@ -604,49 +604,49 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.75,
-     "lastPrice": 149.58
+     "lastPrice": 149.57
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.2556
+     "lastPrice": 137.2428
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.55
+     "lastPrice": 38.5253
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 140.53,
-     "lastPrice": 139.96
+     "lastPrice": 140.25
     },
     {
      "symbol": "UBER",
      "shares": 15,
      "entryPrice": 65.13,
-     "lastPrice": 65.32
+     "lastPrice": 65.27
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 83.48,
-     "lastPrice": 83.49
+     "lastPrice": 83.47
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 106.485
+     "lastPrice": 106.15
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 83.85
+     "lastPrice": 83.87
     },
     {
      "symbol": "PFE",
@@ -663,9 +663,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9788.95,
-   "upDollars": -211.05,
-   "upPct": -2.1,
+   "equity": 9777.7,
+   "upDollars": -222.3,
+   "upPct": -2.2,
    "trades": 3,
    "winPct": 33,
    "open": 10,
@@ -674,7 +674,7 @@
      "symbol": "NCLH",
      "shares": 55,
      "entryPrice": 17.85,
-     "lastPrice": 17.58
+     "lastPrice": 17.57
     },
     {
      "symbol": "GEN",
@@ -698,7 +698,7 @@
      "symbol": "TDOC",
      "shares": 116,
      "entryPrice": 8.5,
-     "lastPrice": 8.4764
+     "lastPrice": 8.43
     },
     {
      "symbol": "BHC",
@@ -710,7 +710,7 @@
      "symbol": "PRCH",
      "shares": 47,
      "entryPrice": 20.82,
-     "lastPrice": 19.6
+     "lastPrice": 19.772
     },
     {
      "symbol": "VNDA",
@@ -722,13 +722,13 @@
      "symbol": "GDYN",
      "shares": 84,
      "entryPrice": 11.76,
-     "lastPrice": 13.15
+     "lastPrice": 13.1514
     },
     {
      "symbol": "CPRI",
      "shares": 52,
      "entryPrice": 18.75,
-     "lastPrice": 18.77
+     "lastPrice": 18.51
     }
    ],
    "lastTrade": null
