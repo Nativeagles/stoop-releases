@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-30",
- "asOfAt": 1793403842506,
+ "asOfAt": 1793404745325,
  "sessionStatus": "in-progress",
- "publishedAt": 1793403842506,
+ "publishedAt": 1793404745325,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -582,90 +582,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-full",
-   "name": "Cookie Monster (all readings)",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9808.22,
-   "upDollars": -191.78,
-   "upPct": -1.9,
-   "trades": 3,
-   "winPct": 33,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "NCLH",
-     "shares": 55,
-     "entryPrice": 17.85,
-     "lastPrice": 17.5778
-    },
-    {
-     "symbol": "GEN",
-     "shares": 35,
-     "entryPrice": 27.95,
-     "lastPrice": 29
-    },
-    {
-     "symbol": "TXT",
-     "shares": 11,
-     "entryPrice": 87.6,
-     "lastPrice": 85.7
-    },
-    {
-     "symbol": "PHAT",
-     "shares": 157,
-     "entryPrice": 6.31,
-     "lastPrice": 5.85
-    },
-    {
-     "symbol": "TDOC",
-     "shares": 116,
-     "entryPrice": 8.5,
-     "lastPrice": 8.35
-    },
-    {
-     "symbol": "BHC",
-     "shares": 117,
-     "entryPrice": 8.45,
-     "lastPrice": 8.21
-    },
-    {
-     "symbol": "PRCH",
-     "shares": 47,
-     "entryPrice": 20.82,
-     "lastPrice": 20.02
-    },
-    {
-     "symbol": "VNDA",
-     "shares": 39,
-     "entryPrice": 4.19,
-     "lastPrice": 3.83
-    },
-    {
-     "symbol": "GDYN",
-     "shares": 84,
-     "entryPrice": 11.76,
-     "lastPrice": 13.1543
-    },
-    {
-     "symbol": "CPRI",
-     "shares": 52,
-     "entryPrice": 18.75,
-     "lastPrice": 18.74
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9789.67,
-   "upDollars": -210.33,
-   "upPct": -2.1,
+   "equity": 9798.8,
+   "upDollars": -201.2,
+   "upPct": -2,
    "trades": 35,
    "winPct": 43,
    "open": 10,
@@ -674,31 +598,31 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 95.8
+     "lastPrice": 96.6
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.75,
-     "lastPrice": 149.55
+     "lastPrice": 149.59
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.33
+     "lastPrice": 137.4
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.52
+     "lastPrice": 38.5845
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 140.53,
-     "lastPrice": 139.94
+     "lastPrice": 139.97
     },
     {
      "symbol": "UBER",
@@ -722,13 +646,89 @@
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 83.9
+     "lastPrice": 83.8
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.459
+     "lastPrice": 30.45
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-full",
+   "name": "Cookie Monster (all readings)",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9802.64,
+   "upDollars": -197.36,
+   "upPct": -2,
+   "trades": 3,
+   "winPct": 33,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "NCLH",
+     "shares": 55,
+     "entryPrice": 17.85,
+     "lastPrice": 17.5546
+    },
+    {
+     "symbol": "GEN",
+     "shares": 35,
+     "entryPrice": 27.95,
+     "lastPrice": 29
+    },
+    {
+     "symbol": "TXT",
+     "shares": 11,
+     "entryPrice": 87.6,
+     "lastPrice": 85.7
+    },
+    {
+     "symbol": "PHAT",
+     "shares": 157,
+     "entryPrice": 6.31,
+     "lastPrice": 5.85
+    },
+    {
+     "symbol": "TDOC",
+     "shares": 116,
+     "entryPrice": 8.5,
+     "lastPrice": 8.4045
+    },
+    {
+     "symbol": "BHC",
+     "shares": 117,
+     "entryPrice": 8.45,
+     "lastPrice": 8.18
+    },
+    {
+     "symbol": "PRCH",
+     "shares": 47,
+     "entryPrice": 20.82,
+     "lastPrice": 20.02
+    },
+    {
+     "symbol": "VNDA",
+     "shares": 39,
+     "entryPrice": 4.19,
+     "lastPrice": 3.83
+    },
+    {
+     "symbol": "GDYN",
+     "shares": 84,
+     "entryPrice": 11.76,
+     "lastPrice": 13.15
+    },
+    {
+     "symbol": "CPRI",
+     "shares": 52,
+     "entryPrice": 18.75,
+     "lastPrice": 18.61
     }
    ],
    "lastTrade": null
