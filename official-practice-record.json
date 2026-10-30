@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-30",
- "asOfAt": 1793393006558,
+ "asOfAt": 1793393910691,
  "sessionStatus": "in-progress",
- "publishedAt": 1793393006558,
+ "publishedAt": 1793393910691,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -582,14 +582,90 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9806.45,
+   "upDollars": -193.55,
+   "upPct": -1.9,
+   "trades": 35,
+   "winPct": 43,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 96.88,
+     "lastPrice": 96.5
+    },
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 149.75,
+     "lastPrice": 149.5683
+    },
+    {
+     "symbol": "PEP",
+     "shares": 7,
+     "entryPrice": 137.52,
+     "lastPrice": 137.42
+    },
+    {
+     "symbol": "NKE",
+     "shares": 25,
+     "entryPrice": 38.66,
+     "lastPrice": 38.63
+    },
+    {
+     "symbol": "TJX",
+     "shares": 6,
+     "entryPrice": 140.53,
+     "lastPrice": 140.7577
+    },
+    {
+     "symbol": "UBER",
+     "shares": 15,
+     "entryPrice": 65.13,
+     "lastPrice": 65.3022
+    },
+    {
+     "symbol": "WFC",
+     "shares": 11,
+     "entryPrice": 83.48,
+     "lastPrice": 83.55
+    },
+    {
+     "symbol": "ABT",
+     "shares": 9,
+     "entryPrice": 106.25,
+     "lastPrice": 105.99
+    },
+    {
+     "symbol": "NEE",
+     "shares": 11,
+     "entryPrice": 83.83,
+     "lastPrice": 83.9
+    },
+    {
+     "symbol": "PFE",
+     "shares": 32,
+     "entryPrice": 30.49,
+     "lastPrice": 30.49
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9862.99,
-   "upDollars": -137.01,
-   "upPct": -1.4,
+   "equity": 9807.24,
+   "upDollars": -192.76,
+   "upPct": -1.9,
    "trades": 3,
    "winPct": 33,
    "open": 10,
@@ -598,13 +674,13 @@
      "symbol": "NCLH",
      "shares": 55,
      "entryPrice": 17.85,
-     "lastPrice": 17.59
+     "lastPrice": 17.6
     },
     {
      "symbol": "GEN",
      "shares": 35,
      "entryPrice": 27.95,
-     "lastPrice": 29.25
+     "lastPrice": 29.2
     },
     {
      "symbol": "TXT",
@@ -628,7 +704,7 @@
      "symbol": "BHC",
      "shares": 117,
      "entryPrice": 8.45,
-     "lastPrice": 8.4499
+     "lastPrice": 8.14
     },
     {
      "symbol": "PRCH",
@@ -640,95 +716,19 @@
      "symbol": "VNDA",
      "shares": 39,
      "entryPrice": 4.19,
-     "lastPrice": 3.7707
+     "lastPrice": 3.8003
     },
     {
      "symbol": "GDYN",
      "shares": 84,
      "entryPrice": 11.76,
-     "lastPrice": 13.26
+     "lastPrice": 13.14
     },
     {
      "symbol": "CPRI",
      "shares": 52,
      "entryPrice": 18.75,
-     "lastPrice": 18.6
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9798.25,
-   "upDollars": -201.75,
-   "upPct": -2,
-   "trades": 35,
-   "winPct": 43,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 96.88,
-     "lastPrice": 96.5
-    },
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 149.75,
-     "lastPrice": 149.5
-    },
-    {
-     "symbol": "PEP",
-     "shares": 7,
-     "entryPrice": 137.52,
-     "lastPrice": 138
-    },
-    {
-     "symbol": "NKE",
-     "shares": 25,
-     "entryPrice": 38.66,
-     "lastPrice": 38.64
-    },
-    {
-     "symbol": "TJX",
-     "shares": 6,
-     "entryPrice": 140.53,
-     "lastPrice": 140.7577
-    },
-    {
-     "symbol": "UBER",
-     "shares": 15,
-     "entryPrice": 65.13,
-     "lastPrice": 65.2794
-    },
-    {
-     "symbol": "WFC",
-     "shares": 11,
-     "entryPrice": 83.48,
-     "lastPrice": 83.0884
-    },
-    {
-     "symbol": "ABT",
-     "shares": 9,
-     "entryPrice": 106.25,
-     "lastPrice": 106.3225
-    },
-    {
-     "symbol": "NEE",
-     "shares": 11,
-     "entryPrice": 83.83,
-     "lastPrice": 83.05
-    },
-    {
-     "symbol": "PFE",
-     "shares": 32,
-     "entryPrice": 30.49,
-     "lastPrice": 30.48
+     "lastPrice": 18.42
     }
    ],
    "lastTrade": null
