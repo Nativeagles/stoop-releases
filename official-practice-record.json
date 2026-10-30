@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-30",
- "asOfAt": 1793361662714,
+ "asOfAt": 1793362565509,
  "sessionStatus": "in-progress",
- "publishedAt": 1793361662714,
+ "publishedAt": 1793362565509,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -603,14 +603,90 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9924,
+   "upDollars": -76,
+   "upPct": -0.8,
+   "trades": 26,
+   "winPct": 42,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "APH",
+     "shares": 12,
+     "entryPrice": 78.55,
+     "lastPrice": 77.9
+    },
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 96.88,
+     "lastPrice": 97.85
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 51.21,
+     "lastPrice": 51.41
+    },
+    {
+     "symbol": "VZ",
+     "shares": 22,
+     "entryPrice": 43.67,
+     "lastPrice": 44.42
+    },
+    {
+     "symbol": "KO",
+     "shares": 10,
+     "entryPrice": 92.87,
+     "lastPrice": 94.61
+    },
+    {
+     "symbol": "T",
+     "shares": 47,
+     "entryPrice": 20.88,
+     "lastPrice": 21.28
+    },
+    {
+     "symbol": "C",
+     "shares": 7,
+     "entryPrice": 125.58,
+     "lastPrice": 125.15
+    },
+    {
+     "symbol": "BKNG",
+     "shares": 6,
+     "entryPrice": 150.19,
+     "lastPrice": 152.67
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 3,
+     "entryPrice": 109.5,
+     "lastPrice": 108.91
+    },
+    {
+     "symbol": "INTC",
+     "shares": 14,
+     "entryPrice": 70.2,
+     "lastPrice": 68.83
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9944.21,
-   "upDollars": -55.79,
-   "upPct": -0.6,
+   "equity": 9869.08,
+   "upDollars": -130.92,
+   "upPct": -1.3,
    "trades": 3,
    "winPct": 33,
    "open": 8,
@@ -619,7 +695,7 @@
      "symbol": "NCLH",
      "shares": 55,
      "entryPrice": 17.85,
-     "lastPrice": 17.99
+     "lastPrice": 17.91
     },
     {
      "symbol": "GEN",
@@ -631,13 +707,13 @@
      "symbol": "TXT",
      "shares": 11,
      "entryPrice": 87.6,
-     "lastPrice": 88.02
+     "lastPrice": 88.01
     },
     {
      "symbol": "PHAT",
      "shares": 157,
      "entryPrice": 6.31,
-     "lastPrice": 6.5
+     "lastPrice": 6
     },
     {
      "symbol": "TDOC",
@@ -649,95 +725,19 @@
      "symbol": "BHC",
      "shares": 117,
      "entryPrice": 8.45,
-     "lastPrice": 8.7279
+     "lastPrice": 8.7937
     },
     {
      "symbol": "PRCH",
      "shares": 47,
      "entryPrice": 20.82,
-     "lastPrice": 20.73
+     "lastPrice": 20.9
     },
     {
      "symbol": "VNDA",
      "shares": 39,
      "entryPrice": 4.19,
-     "lastPrice": 4.1
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9928.71,
-   "upDollars": -71.29,
-   "upPct": -0.7,
-   "trades": 26,
-   "winPct": 42,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "APH",
-     "shares": 12,
-     "entryPrice": 78.55,
-     "lastPrice": 77.77
-    },
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 96.88,
-     "lastPrice": 98.0266
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 51.21,
-     "lastPrice": 51.4265
-    },
-    {
-     "symbol": "VZ",
-     "shares": 22,
-     "entryPrice": 43.67,
-     "lastPrice": 44.38
-    },
-    {
-     "symbol": "KO",
-     "shares": 10,
-     "entryPrice": 92.87,
-     "lastPrice": 94.82
-    },
-    {
-     "symbol": "T",
-     "shares": 47,
-     "entryPrice": 20.88,
-     "lastPrice": 21.27
-    },
-    {
-     "symbol": "C",
-     "shares": 7,
-     "entryPrice": 125.58,
-     "lastPrice": 125.5
-    },
-    {
-     "symbol": "BKNG",
-     "shares": 6,
-     "entryPrice": 150.19,
-     "lastPrice": 152.543
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 3,
-     "entryPrice": 109.5,
-     "lastPrice": 108.7
-    },
-    {
-     "symbol": "INTC",
-     "shares": 14,
-     "entryPrice": 70.2,
-     "lastPrice": 69
+     "lastPrice": 3.8999
     }
    ],
    "lastTrade": null
