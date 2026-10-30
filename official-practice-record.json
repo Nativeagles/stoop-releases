@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-30",
- "asOfAt": 1793357148011,
+ "asOfAt": 1793358051100,
  "sessionStatus": "in-progress",
- "publishedAt": 1793357148011,
+ "publishedAt": 1793358051100,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10243.76,
-   "upDollars": 243.76,
-   "upPct": 2.4,
+   "equity": 10230.76,
+   "upDollars": 230.76,
+   "upPct": 2.3,
    "trades": 2,
    "winPct": 0,
    "open": 2,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.99
+     "lastPrice": 19.73
     },
     {
      "symbol": "BRZE",
@@ -608,9 +608,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9931.32,
-   "upDollars": -68.68,
-   "upPct": -0.7,
+   "equity": 9939.7,
+   "upDollars": -60.3,
+   "upPct": -0.6,
    "trades": 3,
    "winPct": 33,
    "open": 8,
@@ -619,7 +619,7 @@
      "symbol": "NCLH",
      "shares": 55,
      "entryPrice": 17.85,
-     "lastPrice": 17.9792
+     "lastPrice": 17.96
     },
     {
      "symbol": "GEN",
@@ -643,13 +643,13 @@
      "symbol": "TDOC",
      "shares": 116,
      "entryPrice": 8.5,
-     "lastPrice": 8.68
+     "lastPrice": 8.64
     },
     {
      "symbol": "BHC",
      "shares": 117,
      "entryPrice": 8.45,
-     "lastPrice": 8.7695
+     "lastPrice": 8.8898
     },
     {
      "symbol": "PRCH",
@@ -672,8 +672,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9920.36,
-   "upDollars": -79.64,
+   "equity": 9920.55,
+   "upDollars": -79.45,
    "upPct": -0.8,
    "trades": 26,
    "winPct": 42,
@@ -683,7 +683,7 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 78.75
+     "lastPrice": 78.8
     },
     {
      "symbol": "MDT",
@@ -695,7 +695,7 @@
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 51.21,
-     "lastPrice": 51.34
+     "lastPrice": 51.3
     },
     {
      "symbol": "VZ",
@@ -707,37 +707,37 @@
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.87,
-     "lastPrice": 94.5099
+     "lastPrice": 94.6853
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 20.88,
-     "lastPrice": 21.2
+     "lastPrice": 21.26
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 125.58,
-     "lastPrice": 126.08
+     "lastPrice": 125.71
     },
     {
      "symbol": "BKNG",
      "shares": 6,
      "entryPrice": 150.19,
-     "lastPrice": 151.7003
+     "lastPrice": 152.01
     },
     {
      "symbol": "CSCO",
      "shares": 3,
      "entryPrice": 109.5,
-     "lastPrice": 108.43
+     "lastPrice": 108.2003
     },
     {
      "symbol": "INTC",
      "shares": 14,
      "entryPrice": 70.2,
-     "lastPrice": 68.56
+     "lastPrice": 68.36
     }
    ],
    "lastTrade": null
