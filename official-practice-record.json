@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-30",
- "asOfAt": 1793365274641,
+ "asOfAt": 1793366812217,
  "sessionStatus": "in-progress",
- "publishedAt": 1793365274641,
+ "publishedAt": 1793366812217,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10232.03,
-   "upDollars": 232.03,
+   "equity": 10232.09,
+   "upDollars": 232.09,
    "upPct": 2.3,
    "trades": 2,
    "winPct": 0,
@@ -39,13 +39,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.731
+     "lastPrice": 19.73
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.72
+     "lastPrice": 45.73
     }
    ],
    "lastTrade": null
@@ -608,9 +608,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9927.32,
-   "upDollars": -72.68,
-   "upPct": -0.7,
+   "equity": 9913.91,
+   "upDollars": -86.09,
+   "upPct": -0.9,
    "trades": 26,
    "winPct": 42,
    "open": 10,
@@ -619,61 +619,61 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 78.55,
-     "lastPrice": 78.9185
+     "lastPrice": 78.65
     },
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 97.524
+     "lastPrice": 98.18
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 51.21,
-     "lastPrice": 51.25
+     "lastPrice": 51.1045
     },
     {
      "symbol": "VZ",
      "shares": 22,
      "entryPrice": 43.67,
-     "lastPrice": 44.34
+     "lastPrice": 44.5
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.87,
-     "lastPrice": 94.75
+     "lastPrice": 94.4
     },
     {
      "symbol": "T",
      "shares": 47,
      "entryPrice": 20.88,
-     "lastPrice": 21.3
+     "lastPrice": 21.22
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 125.58,
-     "lastPrice": 125.36
+     "lastPrice": 125.26
     },
     {
      "symbol": "BKNG",
      "shares": 6,
      "entryPrice": 150.19,
-     "lastPrice": 152.7579
+     "lastPrice": 152.3
     },
     {
      "symbol": "CSCO",
      "shares": 3,
      "entryPrice": 109.5,
-     "lastPrice": 109
+     "lastPrice": 108.74
     },
     {
      "symbol": "INTC",
      "shares": 14,
      "entryPrice": 70.2,
-     "lastPrice": 68.4406
+     "lastPrice": 68.011
     }
    ],
    "lastTrade": null
@@ -684,9 +684,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9843.12,
-   "upDollars": -156.88,
-   "upPct": -1.6,
+   "equity": 9891.5,
+   "upDollars": -108.5,
+   "upPct": -1.1,
    "trades": 3,
    "winPct": 33,
    "open": 8,
@@ -695,19 +695,19 @@
      "symbol": "NCLH",
      "shares": 55,
      "entryPrice": 17.85,
-     "lastPrice": 17.86
+     "lastPrice": 17.91
     },
     {
      "symbol": "GEN",
      "shares": 35,
      "entryPrice": 27.95,
-     "lastPrice": 27.7429
+     "lastPrice": 28.046
     },
     {
      "symbol": "TXT",
      "shares": 11,
      "entryPrice": 87.6,
-     "lastPrice": 88.28
+     "lastPrice": 88.38
     },
     {
      "symbol": "PHAT",
@@ -719,19 +719,19 @@
      "symbol": "TDOC",
      "shares": 116,
      "entryPrice": 8.5,
-     "lastPrice": 8.665
+     "lastPrice": 8.69
     },
     {
      "symbol": "BHC",
      "shares": 117,
      "entryPrice": 8.45,
-     "lastPrice": 8.66
+     "lastPrice": 8.89
     },
     {
      "symbol": "PRCH",
      "shares": 47,
      "entryPrice": 20.82,
-     "lastPrice": 20.6725
+     "lastPrice": 20.76
     },
     {
      "symbol": "VNDA",
