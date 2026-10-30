@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-10-30",
- "asOfAt": 1793390297212,
+ "asOfAt": 1793391200433,
  "sessionStatus": "in-progress",
- "publishedAt": 1793390297212,
+ "publishedAt": 1793391200433,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10413.41,
-   "upDollars": 413.41,
+   "equity": 10413.05,
+   "upDollars": 413.05,
    "upPct": 4.1,
    "trades": 3,
    "winPct": 33,
@@ -39,13 +39,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.755
+     "lastPrice": 19.75
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.76
+     "lastPrice": 45.75
     }
    ],
    "lastTrade": null
@@ -587,8 +587,8 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9846.76,
-   "upDollars": -153.24,
+   "equity": 9849.02,
+   "upDollars": -150.98,
    "upPct": -1.5,
    "trades": 3,
    "winPct": 33,
@@ -598,61 +598,61 @@
      "symbol": "NCLH",
      "shares": 55,
      "entryPrice": 17.85,
-     "lastPrice": 17.585
+     "lastPrice": 17.57
     },
     {
      "symbol": "GEN",
      "shares": 35,
      "entryPrice": 27.95,
-     "lastPrice": 29.115
+     "lastPrice": 29.13
     },
     {
      "symbol": "TXT",
      "shares": 11,
      "entryPrice": 87.6,
-     "lastPrice": 85.55
+     "lastPrice": 85.7
     },
     {
      "symbol": "PHAT",
      "shares": 157,
      "entryPrice": 6.31,
-     "lastPrice": 5.745
+     "lastPrice": 5.74
     },
     {
      "symbol": "TDOC",
      "shares": 116,
      "entryPrice": 8.5,
-     "lastPrice": 8.57
+     "lastPrice": 8.51
     },
     {
      "symbol": "BHC",
      "shares": 117,
      "entryPrice": 8.45,
-     "lastPrice": 8.225
+     "lastPrice": 8.2
     },
     {
      "symbol": "PRCH",
      "shares": 47,
      "entryPrice": 20.82,
-     "lastPrice": 20.54
+     "lastPrice": 20.56
     },
     {
      "symbol": "VNDA",
      "shares": 39,
      "entryPrice": 4.19,
-     "lastPrice": 3.795
+     "lastPrice": 3.79
     },
     {
      "symbol": "GDYN",
      "shares": 84,
      "entryPrice": 11.76,
-     "lastPrice": 13.245
+     "lastPrice": 13.3431
     },
     {
      "symbol": "CPRI",
      "shares": 52,
      "entryPrice": 18.75,
-     "lastPrice": 18.63
+     "lastPrice": 18.68
     }
    ],
    "lastTrade": null
@@ -663,8 +663,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9799.61,
-   "upDollars": -200.39,
+   "equity": 9801.75,
+   "upDollars": -198.25,
    "upPct": -2,
    "trades": 35,
    "winPct": 43,
@@ -674,25 +674,25 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 96.88
+     "lastPrice": 96.64
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.75,
-     "lastPrice": 149.51
+     "lastPrice": 149.7677
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.29
+     "lastPrice": 137.35
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.615
+     "lastPrice": 38.602
     },
     {
      "symbol": "TJX",
@@ -704,31 +704,31 @@
      "symbol": "UBER",
      "shares": 15,
      "entryPrice": 65.13,
-     "lastPrice": 65.12
+     "lastPrice": 65.24
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 83.48,
-     "lastPrice": 83.355
+     "lastPrice": 83.4
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 106.15
+     "lastPrice": 106.2
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 83.74
+     "lastPrice": 83.71
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.455
+     "lastPrice": 30.47
     }
    ],
    "lastTrade": null
