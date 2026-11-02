@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-02",
- "asOfAt": 1793658741191,
+ "asOfAt": 1793659644131,
  "sessionStatus": "in-progress",
- "publishedAt": 1793658741191,
+ "publishedAt": 1793659644131,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -489,9 +489,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9979.64,
-   "upDollars": -20.36,
-   "upPct": -0.2,
+   "equity": 9987.73,
+   "upDollars": -12.27,
+   "upPct": -0.1,
    "trades": 0,
    "winPct": null,
    "open": 10,
@@ -500,61 +500,61 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 99.0232
+     "lastPrice": 99.4
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 140.62
+     "lastPrice": 140.54
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 39.12
+     "lastPrice": 39.17
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 110.09
+     "lastPrice": 110.15
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 85.2
+     "lastPrice": 85.21
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 31.024
+     "lastPrice": 31.03
     },
     {
      "symbol": "WMT",
      "shares": 3,
      "entryPrice": 127.73,
-     "lastPrice": 127.9073
+     "lastPrice": 128.0611
     },
     {
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 45.06
+     "lastPrice": 45.16
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 95.8612
+     "lastPrice": 96.05
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 154.51
+     "lastPrice": 154.85
     }
    ],
    "lastTrade": null
