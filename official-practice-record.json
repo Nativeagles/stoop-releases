@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-02",
- "asOfAt": 1793620801199,
+ "asOfAt": 1793621704364,
  "sessionStatus": "in-progress",
- "publishedAt": 1793620801199,
+ "publishedAt": 1793621704364,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -587,8 +587,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9824.56,
-   "upDollars": -175.44,
+   "equity": 9816.96,
+   "upDollars": -183.04,
    "upPct": -1.8,
    "trades": 0,
    "winPct": null,
@@ -598,61 +598,61 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 96.8
+     "lastPrice": 96.54
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.75,
-     "lastPrice": 149.88
+     "lastPrice": 149
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.19
+     "lastPrice": 137.25
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.8191
+     "lastPrice": 38.77
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 140.53,
-     "lastPrice": 140.31
+     "lastPrice": 140.5
     },
     {
      "symbol": "UBER",
      "shares": 15,
      "entryPrice": 65.13,
-     "lastPrice": 65.772
+     "lastPrice": 65.74
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 83.48,
-     "lastPrice": 84.08
+     "lastPrice": 84.05
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 106.09
+     "lastPrice": 106.2
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 83.87
+     "lastPrice": 83.82
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.47
+     "lastPrice": 30.48
     }
    ],
    "lastTrade": null
