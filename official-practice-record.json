@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-02",
- "asOfAt": 1793624413886,
+ "asOfAt": 1793625317088,
  "sessionStatus": "in-progress",
- "publishedAt": 1793624413886,
+ "publishedAt": 1793625317088,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10408.66,
-   "upDollars": 408.66,
-   "upPct": 4.1,
+   "equity": 10404.13,
+   "upDollars": 404.13,
+   "upPct": 4,
    "trades": 3,
    "winPct": 33,
    "open": 2,
@@ -39,7 +39,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.7412
+     "lastPrice": 19.6505
     },
     {
      "symbol": "BRZE",
@@ -587,9 +587,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9820.65,
-   "upDollars": -179.35,
-   "upPct": -1.8,
+   "equity": 9825.98,
+   "upDollars": -174.02,
+   "upPct": -1.7,
    "trades": 0,
    "winPct": null,
    "open": 10,
@@ -598,61 +598,61 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 96.62
+     "lastPrice": 96.2939
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.75,
-     "lastPrice": 149.4875
+     "lastPrice": 149.6
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.45
+     "lastPrice": 137.85
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.77
+     "lastPrice": 38.84
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 140.53,
-     "lastPrice": 140
+     "lastPrice": 140.31
     },
     {
      "symbol": "UBER",
      "shares": 15,
      "entryPrice": 65.13,
-     "lastPrice": 65.83
+     "lastPrice": 65.88
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 83.48,
-     "lastPrice": 84.18
+     "lastPrice": 84
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 105.9
+     "lastPrice": 106.2
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 83.99
+     "lastPrice": 83.9
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.4679
+     "lastPrice": 30.5
     }
    ],
    "lastTrade": null
