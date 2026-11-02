@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-02",
- "asOfAt": 1793610864698,
+ "asOfAt": 1793611768057,
  "sessionStatus": "in-progress",
- "publishedAt": 1793610864698,
+ "publishedAt": 1793611768057,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -587,9 +587,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9805.68,
-   "upDollars": -194.32,
-   "upPct": -1.9,
+   "equity": 9801.23,
+   "upDollars": -198.77,
+   "upPct": -2,
    "trades": 0,
    "winPct": null,
    "open": 10,
@@ -598,25 +598,25 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 97.9132
+     "lastPrice": 96.8
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.75,
-     "lastPrice": 149.3
+     "lastPrice": 149.29
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.183
+     "lastPrice": 136.99
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.6863
+     "lastPrice": 38.6812
     },
     {
      "symbol": "TJX",
@@ -628,13 +628,13 @@
      "symbol": "UBER",
      "shares": 15,
      "entryPrice": 65.13,
-     "lastPrice": 65.7952
+     "lastPrice": 65.77
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 83.48,
-     "lastPrice": 83.114
+     "lastPrice": 83.66
     },
     {
      "symbol": "ABT",
@@ -646,13 +646,13 @@
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 83.8
+     "lastPrice": 84.1133
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.3869
+     "lastPrice": 30.36
     }
    ],
    "lastTrade": null
@@ -806,20 +806,13 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9229.73,
-   "upDollars": -770.27,
-   "upPct": -7.7,
-   "trades": 12,
-   "winPct": 33,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "PHAT",
-     "shares": 157,
-     "entryPrice": 6.31,
-     "lastPrice": 5.85
-    }
-   ],
+   "equity": 9299.59,
+   "upDollars": -700.41,
+   "upPct": -7,
+   "trades": 13,
+   "winPct": 31,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
