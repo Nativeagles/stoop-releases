@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "asOfSession": "2026-10-30",
- "asOfAt": 1793404745325,
+ "asOfSession": "2026-11-02",
+ "asOfAt": 1793610864698,
  "sessionStatus": "in-progress",
- "publishedAt": 1793404745325,
+ "publishedAt": 1793610864698,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10412.72,
-   "upDollars": 412.72,
+   "equity": 10412.61,
+   "upDollars": 412.61,
    "upPct": 4.1,
    "trades": 3,
    "winPct": 33,
@@ -39,13 +39,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.75
+     "lastPrice": 19.7412
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.72
+     "lastPrice": 45.75
     }
    ],
    "lastTrade": null
@@ -59,8 +59,8 @@
    "equity": 10164.56,
    "upDollars": 164.56,
    "upPct": 1.6,
-   "trades": 9,
-   "winPct": 0,
+   "trades": 0,
+   "winPct": null,
    "open": 14,
    "positions": [
     {
@@ -444,8 +444,8 @@
    "equity": 9975.69,
    "upDollars": -24.31,
    "upPct": -0.2,
-   "trades": 7,
-   "winPct": 57,
+   "trades": 0,
+   "winPct": null,
    "open": 5,
    "positions": [
     {
@@ -490,8 +490,8 @@
    "equity": 9964.36,
    "upDollars": -35.64,
    "upPct": -0.4,
-   "trades": 15,
-   "winPct": 20,
+   "trades": 0,
+   "winPct": null,
    "open": 14,
    "positions": [
     {
@@ -587,60 +587,60 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9798.8,
-   "upDollars": -201.2,
-   "upPct": -2,
-   "trades": 35,
-   "winPct": 43,
+   "equity": 9805.68,
+   "upDollars": -194.32,
+   "upPct": -1.9,
+   "trades": 0,
+   "winPct": null,
    "open": 10,
    "positions": [
     {
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 96.6
+     "lastPrice": 97.9132
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 149.75,
-     "lastPrice": 149.59
+     "lastPrice": 149.3
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.4
+     "lastPrice": 137.183
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.5845
+     "lastPrice": 38.6863
     },
     {
      "symbol": "TJX",
      "shares": 6,
      "entryPrice": 140.53,
-     "lastPrice": 139.97
+     "lastPrice": 139.59
     },
     {
      "symbol": "UBER",
      "shares": 15,
      "entryPrice": 65.13,
-     "lastPrice": 65.3
+     "lastPrice": 65.7952
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 83.48,
-     "lastPrice": 83.3042
+     "lastPrice": 83.114
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 106.25
+     "lastPrice": 105.52
     },
     {
      "symbol": "NEE",
@@ -652,83 +652,7 @@
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.45
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-full",
-   "name": "Cookie Monster (all readings)",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9802.64,
-   "upDollars": -197.36,
-   "upPct": -2,
-   "trades": 3,
-   "winPct": 33,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "NCLH",
-     "shares": 55,
-     "entryPrice": 17.85,
-     "lastPrice": 17.5546
-    },
-    {
-     "symbol": "GEN",
-     "shares": 35,
-     "entryPrice": 27.95,
-     "lastPrice": 29
-    },
-    {
-     "symbol": "TXT",
-     "shares": 11,
-     "entryPrice": 87.6,
-     "lastPrice": 85.7
-    },
-    {
-     "symbol": "PHAT",
-     "shares": 157,
-     "entryPrice": 6.31,
-     "lastPrice": 5.85
-    },
-    {
-     "symbol": "TDOC",
-     "shares": 116,
-     "entryPrice": 8.5,
-     "lastPrice": 8.4045
-    },
-    {
-     "symbol": "BHC",
-     "shares": 117,
-     "entryPrice": 8.45,
-     "lastPrice": 8.18
-    },
-    {
-     "symbol": "PRCH",
-     "shares": 47,
-     "entryPrice": 20.82,
-     "lastPrice": 20.02
-    },
-    {
-     "symbol": "VNDA",
-     "shares": 39,
-     "entryPrice": 4.19,
-     "lastPrice": 3.83
-    },
-    {
-     "symbol": "GDYN",
-     "shares": 84,
-     "entryPrice": 11.76,
-     "lastPrice": 13.15
-    },
-    {
-     "symbol": "CPRI",
-     "shares": 52,
-     "entryPrice": 18.75,
-     "lastPrice": 18.61
+     "lastPrice": 30.3869
     }
    ],
    "lastTrade": null
@@ -872,6 +796,28 @@
      "shares": 11,
      "entryPrice": 85.16,
      "lastPrice": 83.275
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-full",
+   "name": "Cookie Monster (all readings)",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9229.73,
+   "upDollars": -770.27,
+   "upPct": -7.7,
+   "trades": 12,
+   "winPct": 33,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "PHAT",
+     "shares": 157,
+     "entryPrice": 6.31,
+     "lastPrice": 5.85
     }
    ],
    "lastTrade": null
