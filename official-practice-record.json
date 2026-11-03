@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-03",
- "asOfAt": 1793713730361,
+ "asOfAt": 1793714633107,
  "sessionStatus": "in-progress",
- "publishedAt": 1793713730361,
+ "publishedAt": 1793714633107,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -428,9 +428,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 10035.68,
-   "upDollars": 35.68,
-   "upPct": 0.4,
+   "equity": 10032.17,
+   "upDollars": 32.17,
+   "upPct": 0.3,
    "trades": 18,
    "winPct": 61,
    "open": 2,
@@ -439,13 +439,13 @@
      "symbol": "WYHG (short)",
      "shares": -160,
      "entryPrice": 3.1180295,
-     "lastPrice": 2.8991
+     "lastPrice": 2.9698
     },
     {
      "symbol": "SGRX (short)",
      "shares": -513,
      "entryPrice": 0.97995035,
-     "lastPrice": 1.0302
+     "lastPrice": 1.015
     }
    ],
    "lastTrade": null
@@ -666,8 +666,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9932.72,
-   "upDollars": -67.28,
+   "equity": 9934.9,
+   "upDollars": -65.1,
    "upPct": -0.7,
    "trades": 0,
    "winPct": null,
@@ -677,61 +677,61 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 99.29
+     "lastPrice": 98.85
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 139.058
+     "lastPrice": 139.4
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.94
+     "lastPrice": 38.9
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 109.08
+     "lastPrice": 109.99
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 85.02
+     "lastPrice": 84.99
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.5783
+     "lastPrice": 30.53
     },
     {
      "symbol": "WMT",
      "shares": 3,
      "entryPrice": 127.73,
-     "lastPrice": 126.6508
+     "lastPrice": 126.54
     },
     {
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 44.79
+     "lastPrice": 44.82
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 94.98
+     "lastPrice": 94.95
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 154.9625
+     "lastPrice": 154.49
     }
    ],
    "lastTrade": null
