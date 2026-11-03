@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-03",
- "asOfAt": 1793714633107,
+ "asOfAt": 1793715536096,
  "sessionStatus": "in-progress",
- "publishedAt": 1793714633107,
+ "publishedAt": 1793715536096,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,13 +13,20 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 10937.8,
-   "upDollars": 937.8,
-   "upPct": 9.4,
+   "equity": 10925.14,
+   "upDollars": 925.14,
+   "upPct": 9.3,
    "trades": 3,
    "winPct": 67,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "PARA (short)",
+     "shares": -170,
+     "entryPrice": 3.2055439999999997,
+     "lastPrice": 3.28
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -28,8 +35,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10416.45,
-   "upDollars": 416.45,
+   "equity": 10417,
+   "upDollars": 417,
    "upPct": 4.2,
    "trades": 4,
    "winPct": 50,
@@ -45,7 +52,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.65
+     "lastPrice": 45.7
     }
    ],
    "lastTrade": null
@@ -287,6 +294,34 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 10097.3,
+   "upDollars": 97.3,
+   "upPct": 1,
+   "trades": 18,
+   "winPct": 61,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "WYHG (short)",
+     "shares": -160,
+     "entryPrice": 3.1180295,
+     "lastPrice": 2.85
+    },
+    {
+     "symbol": "SGRX (short)",
+     "shares": -513,
+     "entryPrice": 0.97995035,
+     "lastPrice": 0.9254
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-steps-daily",
    "name": "Five Steps (daily)",
    "kind": "official",
@@ -418,34 +453,6 @@
      "shares": 3,
      "entryPrice": 130.2,
      "lastPrice": 129.76999999999998
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 10032.17,
-   "upDollars": 32.17,
-   "upPct": 0.3,
-   "trades": 18,
-   "winPct": 61,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "WYHG (short)",
-     "shares": -160,
-     "entryPrice": 3.1180295,
-     "lastPrice": 2.9698
-    },
-    {
-     "symbol": "SGRX (short)",
-     "shares": -513,
-     "entryPrice": 0.97995035,
-     "lastPrice": 1.015
     }
    ],
    "lastTrade": null
@@ -666,8 +673,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9934.9,
-   "upDollars": -65.1,
+   "equity": 9925.81,
+   "upDollars": -74.19,
    "upPct": -0.7,
    "trades": 0,
    "winPct": null,
@@ -677,19 +684,19 @@
      "symbol": "MDT",
      "shares": 10,
      "entryPrice": 96.88,
-     "lastPrice": 98.85
+     "lastPrice": 99.29
     },
     {
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 139.4
+     "lastPrice": 138.87
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.9
+     "lastPrice": 38.72
     },
     {
      "symbol": "ABT",
@@ -701,37 +708,37 @@
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 84.99
+     "lastPrice": 84.76
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.53
+     "lastPrice": 30.41
     },
     {
      "symbol": "WMT",
      "shares": 3,
      "entryPrice": 127.73,
-     "lastPrice": 126.54
+     "lastPrice": 126.662
     },
     {
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 44.82
+     "lastPrice": 44.9445
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 94.95
+     "lastPrice": 94.7512
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 154.49
+     "lastPrice": 154.69
     }
    ],
    "lastTrade": null
