@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-03",
- "asOfAt": 1793705604476,
+ "asOfAt": 1793706507356,
  "sessionStatus": "in-progress",
- "publishedAt": 1793705604476,
+ "publishedAt": 1793706507356,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -590,82 +590,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9947.59,
-   "upDollars": -52.41,
-   "upPct": -0.5,
-   "trades": 0,
-   "winPct": null,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 96.88,
-     "lastPrice": 99.08
-    },
-    {
-     "symbol": "PEP",
-     "shares": 7,
-     "entryPrice": 137.52,
-     "lastPrice": 139.9
-    },
-    {
-     "symbol": "NKE",
-     "shares": 25,
-     "entryPrice": 38.66,
-     "lastPrice": 38.84
-    },
-    {
-     "symbol": "ABT",
-     "shares": 9,
-     "entryPrice": 106.25,
-     "lastPrice": 109.8982
-    },
-    {
-     "symbol": "NEE",
-     "shares": 11,
-     "entryPrice": 83.83,
-     "lastPrice": 85.015
-    },
-    {
-     "symbol": "PFE",
-     "shares": 32,
-     "entryPrice": 30.49,
-     "lastPrice": 30.74
-    },
-    {
-     "symbol": "WMT",
-     "shares": 3,
-     "entryPrice": 127.73,
-     "lastPrice": 126.95
-    },
-    {
-     "symbol": "VZ",
-     "shares": 9,
-     "entryPrice": 45.19,
-     "lastPrice": 44.91
-    },
-    {
-     "symbol": "KO",
-     "shares": 4,
-     "entryPrice": 95.99,
-     "lastPrice": 95.17
-    },
-    {
-     "symbol": "BKNG",
-     "shares": 2,
-     "entryPrice": 153.59,
-     "lastPrice": 154.14
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-gap-fill",
    "name": "Gap-Down Fill",
    "kind": "official",
@@ -725,6 +649,82 @@
      "shares": 61,
      "entryPrice": 16.19,
      "lastPrice": 16.19
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9931.06,
+   "upDollars": -68.94,
+   "upPct": -0.7,
+   "trades": 0,
+   "winPct": null,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 96.88,
+     "lastPrice": 99.08
+    },
+    {
+     "symbol": "PEP",
+     "shares": 7,
+     "entryPrice": 137.52,
+     "lastPrice": 139.66
+    },
+    {
+     "symbol": "NKE",
+     "shares": 25,
+     "entryPrice": 38.66,
+     "lastPrice": 38.8365
+    },
+    {
+     "symbol": "ABT",
+     "shares": 9,
+     "entryPrice": 106.25,
+     "lastPrice": 109.44
+    },
+    {
+     "symbol": "NEE",
+     "shares": 11,
+     "entryPrice": 83.83,
+     "lastPrice": 85.03
+    },
+    {
+     "symbol": "PFE",
+     "shares": 32,
+     "entryPrice": 30.49,
+     "lastPrice": 30.398
+    },
+    {
+     "symbol": "WMT",
+     "shares": 3,
+     "entryPrice": 127.73,
+     "lastPrice": 126.65
+    },
+    {
+     "symbol": "VZ",
+     "shares": 9,
+     "entryPrice": 45.19,
+     "lastPrice": 44.9988
+    },
+    {
+     "symbol": "KO",
+     "shares": 4,
+     "entryPrice": 95.99,
+     "lastPrice": 95.25
+    },
+    {
+     "symbol": "BKNG",
+     "shares": 2,
+     "entryPrice": 153.59,
+     "lastPrice": 154.1
     }
    ],
    "lastTrade": null
