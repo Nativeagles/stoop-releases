@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-03",
- "asOfAt": 1793711924537,
+ "asOfAt": 1793712827442,
  "sessionStatus": "in-progress",
- "publishedAt": 1793711924537,
+ "publishedAt": 1793712827442,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -428,9 +428,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 10032.82,
-   "upDollars": 32.82,
-   "upPct": 0.3,
+   "equity": 10038.84,
+   "upDollars": 38.84,
+   "upPct": 0.4,
    "trades": 18,
    "winPct": 61,
    "open": 2,
@@ -439,13 +439,13 @@
      "symbol": "WYHG (short)",
      "shares": -160,
      "entryPrice": 3.1180295,
-     "lastPrice": 2.9497
+     "lastPrice": 2.88
     },
     {
      "symbol": "SGRX (short)",
      "shares": -513,
      "entryPrice": 0.97995035,
-     "lastPrice": 1.02
+     "lastPrice": 1.03
     }
    ],
    "lastTrade": null
@@ -597,6 +597,82 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9936.48,
+   "upDollars": -63.52,
+   "upPct": -0.6,
+   "trades": 0,
+   "winPct": null,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MDT",
+     "shares": 10,
+     "entryPrice": 96.88,
+     "lastPrice": 98.94
+    },
+    {
+     "symbol": "PEP",
+     "shares": 7,
+     "entryPrice": 137.52,
+     "lastPrice": 139.32
+    },
+    {
+     "symbol": "NKE",
+     "shares": 25,
+     "entryPrice": 38.66,
+     "lastPrice": 39.06
+    },
+    {
+     "symbol": "ABT",
+     "shares": 9,
+     "entryPrice": 106.25,
+     "lastPrice": 109.28
+    },
+    {
+     "symbol": "NEE",
+     "shares": 11,
+     "entryPrice": 83.83,
+     "lastPrice": 84.6995
+    },
+    {
+     "symbol": "PFE",
+     "shares": 32,
+     "entryPrice": 30.49,
+     "lastPrice": 30.74
+    },
+    {
+     "symbol": "WMT",
+     "shares": 3,
+     "entryPrice": 127.73,
+     "lastPrice": 126.69
+    },
+    {
+     "symbol": "VZ",
+     "shares": 9,
+     "entryPrice": 45.19,
+     "lastPrice": 44.8345
+    },
+    {
+     "symbol": "KO",
+     "shares": 4,
+     "entryPrice": 95.99,
+     "lastPrice": 94.82
+    },
+    {
+     "symbol": "BKNG",
+     "shares": 2,
+     "entryPrice": 153.59,
+     "lastPrice": 154.51
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-gap-fill",
    "name": "Gap-Down Fill",
    "kind": "official",
@@ -656,82 +732,6 @@
      "shares": 61,
      "entryPrice": 16.19,
      "lastPrice": 16.19
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9930.03,
-   "upDollars": -69.97,
-   "upPct": -0.7,
-   "trades": 0,
-   "winPct": null,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "MDT",
-     "shares": 10,
-     "entryPrice": 96.88,
-     "lastPrice": 98.6004
-    },
-    {
-     "symbol": "PEP",
-     "shares": 7,
-     "entryPrice": 137.52,
-     "lastPrice": 139.1895
-    },
-    {
-     "symbol": "NKE",
-     "shares": 25,
-     "entryPrice": 38.66,
-     "lastPrice": 38.7471
-    },
-    {
-     "symbol": "ABT",
-     "shares": 9,
-     "entryPrice": 106.25,
-     "lastPrice": 110
-    },
-    {
-     "symbol": "NEE",
-     "shares": 11,
-     "entryPrice": 83.83,
-     "lastPrice": 85.01
-    },
-    {
-     "symbol": "PFE",
-     "shares": 32,
-     "entryPrice": 30.49,
-     "lastPrice": 30.663
-    },
-    {
-     "symbol": "WMT",
-     "shares": 3,
-     "entryPrice": 127.73,
-     "lastPrice": 126.72
-    },
-    {
-     "symbol": "VZ",
-     "shares": 9,
-     "entryPrice": 45.19,
-     "lastPrice": 44.9
-    },
-    {
-     "symbol": "KO",
-     "shares": 4,
-     "entryPrice": 95.99,
-     "lastPrice": 94.87
-    },
-    {
-     "symbol": "BKNG",
-     "shares": 2,
-     "entryPrice": 153.59,
-     "lastPrice": 153.2
     }
    ],
    "lastTrade": null
