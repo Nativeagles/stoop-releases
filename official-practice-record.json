@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793787870602,
+ "asOfAt": 1793788781264,
  "sessionStatus": "in-progress",
- "publishedAt": 1793787870602,
+ "publishedAt": 1793788781264,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -453,8 +453,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9952.19,
-   "upDollars": -47.81,
+   "equity": 9953.23,
+   "upDollars": -46.77,
    "upPct": -0.5,
    "trades": 1,
    "winPct": 0,
@@ -464,61 +464,61 @@
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.66
+     "lastPrice": 137.78
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.96
+     "lastPrice": 38.91
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 110.06
+     "lastPrice": 110.0542
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 86.3
+     "lastPrice": 86.39
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.14
+     "lastPrice": 30.1479
     },
     {
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 45.38
+     "lastPrice": 45.2147
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 95.18
+     "lastPrice": 95.25
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 155.15
+     "lastPrice": 155.5
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 49.53,
-     "lastPrice": 50.1783
+     "lastPrice": 50.2
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 144.31,
-     "lastPrice": 145.94
+     "lastPrice": 146
     }
    ],
    "lastTrade": null
