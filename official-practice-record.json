@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793829483526,
+ "asOfAt": 1793830386552,
  "sessionStatus": "in-progress",
- "publishedAt": 1793829483526,
+ "publishedAt": 1793830386552,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -277,8 +277,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10189.98,
-   "upDollars": 189.98,
+   "equity": 10187.2,
+   "upDollars": 187.2,
    "upPct": 1.9,
    "trades": 3,
    "winPct": 67,
@@ -288,61 +288,61 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.135
+     "lastPrice": 46.15
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 95.78
+     "lastPrice": 95.84
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 170.3713
+     "lastPrice": 170.72
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 104.27
+     "lastPrice": 103.99
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 103.61,
-     "lastPrice": 103.859
+     "lastPrice": 103.8194
     },
     {
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 21.81
+     "lastPrice": 21.869
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 124.86,
-     "lastPrice": 124.85
+     "lastPrice": 124.0548
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 87.46,
-     "lastPrice": 87.35
+     "lastPrice": 87.4
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 79.2
+     "lastPrice": 79.32
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 109.4344
+     "lastPrice": 109.51
     }
    ],
    "lastTrade": null
