@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793798776862,
+ "asOfAt": 1793799680076,
  "sessionStatus": "in-progress",
- "publishedAt": 1793798776862,
+ "publishedAt": 1793799680076,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,9 +13,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10437.9,
-   "upDollars": 437.9,
-   "upPct": 4.4,
+   "equity": 10483.99,
+   "upDollars": 483.99,
+   "upPct": 4.8,
    "trades": 5,
    "winPct": 60,
    "open": 3,
@@ -30,13 +30,13 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.8
+     "lastPrice": 45.79
     },
     {
      "symbol": "CHSN",
      "shares": 154,
      "entryPrice": 3.83,
-     "lastPrice": 3.59
+     "lastPrice": 3.89
     }
    ],
    "lastTrade": null
@@ -202,82 +202,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10078.37,
-   "upDollars": 78.37,
-   "upPct": 0.8,
-   "trades": 1,
-   "winPct": 0,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "PEP",
-     "shares": 7,
-     "entryPrice": 137.52,
-     "lastPrice": 140.45
-    },
-    {
-     "symbol": "NKE",
-     "shares": 25,
-     "entryPrice": 38.66,
-     "lastPrice": 39.5
-    },
-    {
-     "symbol": "ABT",
-     "shares": 9,
-     "entryPrice": 106.25,
-     "lastPrice": 112.53
-    },
-    {
-     "symbol": "NEE",
-     "shares": 11,
-     "entryPrice": 83.83,
-     "lastPrice": 86.5
-    },
-    {
-     "symbol": "PFE",
-     "shares": 32,
-     "entryPrice": 30.49,
-     "lastPrice": 30.63
-    },
-    {
-     "symbol": "VZ",
-     "shares": 9,
-     "entryPrice": 45.19,
-     "lastPrice": 46.4175
-    },
-    {
-     "symbol": "KO",
-     "shares": 4,
-     "entryPrice": 95.99,
-     "lastPrice": 96.61
-    },
-    {
-     "symbol": "BKNG",
-     "shares": 2,
-     "entryPrice": 153.59,
-     "lastPrice": 162.235
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 49.53,
-     "lastPrice": 50.64
-    },
-    {
-     "symbol": "MRK",
-     "shares": 6,
-     "entryPrice": 144.31,
-     "lastPrice": 148.4475
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
@@ -385,6 +309,82 @@
      "shares": 4,
      "entryPrice": 107.1,
      "lastPrice": 106.965
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10069.29,
+   "upDollars": 69.29,
+   "upPct": 0.7,
+   "trades": 1,
+   "winPct": 0,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "PEP",
+     "shares": 7,
+     "entryPrice": 137.52,
+     "lastPrice": 140.4
+    },
+    {
+     "symbol": "NKE",
+     "shares": 25,
+     "entryPrice": 38.66,
+     "lastPrice": 39.5
+    },
+    {
+     "symbol": "ABT",
+     "shares": 9,
+     "entryPrice": 106.25,
+     "lastPrice": 112.3
+    },
+    {
+     "symbol": "NEE",
+     "shares": 11,
+     "entryPrice": 83.83,
+     "lastPrice": 86.58
+    },
+    {
+     "symbol": "PFE",
+     "shares": 32,
+     "entryPrice": 30.49,
+     "lastPrice": 30.5526
+    },
+    {
+     "symbol": "VZ",
+     "shares": 9,
+     "entryPrice": 45.19,
+     "lastPrice": 46.24
+    },
+    {
+     "symbol": "KO",
+     "shares": 4,
+     "entryPrice": 95.99,
+     "lastPrice": 96.4817
+    },
+    {
+     "symbol": "BKNG",
+     "shares": 2,
+     "entryPrice": 153.59,
+     "lastPrice": 162.8
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 49.53,
+     "lastPrice": 50.5
+    },
+    {
+     "symbol": "MRK",
+     "shares": 6,
+     "entryPrice": 144.31,
+     "lastPrice": 148.2101
     }
    ],
    "lastTrade": null
