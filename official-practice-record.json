@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793796067591,
+ "asOfAt": 1793796970726,
  "sessionStatus": "in-progress",
- "publishedAt": 1793796067591,
+ "publishedAt": 1793796970726,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -313,9 +313,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10024.6,
-   "upDollars": 24.6,
-   "upPct": 0.2,
+   "equity": 10049.08,
+   "upDollars": 49.08,
+   "upPct": 0.5,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -324,61 +324,61 @@
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 139.56
+     "lastPrice": 140.12
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 39.37
+     "lastPrice": 39.4999
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 111.79
+     "lastPrice": 111
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 86.45
+     "lastPrice": 86.3277
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.3674
+     "lastPrice": 30.59
     },
     {
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.1
+     "lastPrice": 46.6
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 95.85
+     "lastPrice": 96.395
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 157.0387
+     "lastPrice": 160.01
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 49.53,
-     "lastPrice": 50.445
+     "lastPrice": 50.5
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 144.31,
-     "lastPrice": 147
+     "lastPrice": 147.83
     }
    ],
    "lastTrade": null
