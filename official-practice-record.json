@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793801486194,
+ "asOfAt": 1793802389226,
  "sessionStatus": "in-progress",
- "publishedAt": 1793801486194,
+ "publishedAt": 1793802389226,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,9 +13,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10504.41,
-   "upDollars": 504.41,
-   "upPct": 5,
+   "equity": 10530.19,
+   "upDollars": 530.19,
+   "upPct": 5.3,
    "trades": 5,
    "winPct": 60,
    "open": 3,
@@ -24,7 +24,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.75
+     "lastPrice": 19.73
     },
     {
      "symbol": "BRZE",
@@ -36,7 +36,7 @@
      "symbol": "CHSN",
      "shares": 154,
      "entryPrice": 3.83,
-     "lastPrice": 4.0092
+     "lastPrice": 4.1831
     }
    ],
    "lastTrade": null
@@ -77,8 +77,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10091.27,
-   "upDollars": 91.27,
+   "equity": 10088.18,
+   "upDollars": 88.18,
    "upPct": 0.9,
    "trades": 1,
    "winPct": 0,
@@ -88,61 +88,61 @@
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 140.3528
+     "lastPrice": 140.23
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 39.6
+     "lastPrice": 39.59
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 112.69
+     "lastPrice": 112.43
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 86.85
+     "lastPrice": 86.98
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.7185
+     "lastPrice": 30.72
     },
     {
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 45.92
+     "lastPrice": 45.7872
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.7616
+     "lastPrice": 96.57
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 162.9218
+     "lastPrice": 162.98
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 49.53,
-     "lastPrice": 50.8
+     "lastPrice": 51.1
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 144.31,
-     "lastPrice": 148.85
+     "lastPrice": 148.02
     }
    ],
    "lastTrade": null
