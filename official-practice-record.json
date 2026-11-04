@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793830386552,
+ "asOfAt": 1793831289625,
  "sessionStatus": "in-progress",
- "publishedAt": 1793830386552,
+ "publishedAt": 1793831289625,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -277,8 +277,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10187.2,
-   "upDollars": 187.2,
+   "equity": 10192.46,
+   "upDollars": 192.46,
    "upPct": 1.9,
    "trades": 3,
    "winPct": 67,
@@ -288,61 +288,61 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.15
+     "lastPrice": 46.14
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 95.84
+     "lastPrice": 95.924
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 170.72
+     "lastPrice": 170.3408
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 103.99
+     "lastPrice": 104.16
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 103.61,
-     "lastPrice": 103.8194
+     "lastPrice": 103.9
     },
     {
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 21.869
+     "lastPrice": 21.8625
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 124.86,
-     "lastPrice": 124.0548
+     "lastPrice": 124.59
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 87.46,
-     "lastPrice": 87.4
+     "lastPrice": 87.38
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 79.32
+     "lastPrice": 79.33
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 109.51
+     "lastPrice": 109.47
     }
    ],
    "lastTrade": null
