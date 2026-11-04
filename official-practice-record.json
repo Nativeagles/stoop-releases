@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "asOfSession": "2026-11-03",
- "asOfAt": 1793753644521,
+ "asOfSession": "2026-11-04",
+ "asOfAt": 1793783349893,
  "sessionStatus": "in-progress",
- "publishedAt": 1793753644521,
+ "publishedAt": 1793783349893,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -583,9 +583,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9880.15,
-   "upDollars": -119.85,
-   "upPct": -1.2,
+   "equity": 9912.74,
+   "upDollars": -87.26,
+   "upPct": -0.9,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -594,61 +594,61 @@
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 136.98
+     "lastPrice": 137.24
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.305
+     "lastPrice": 38.62
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 108.993
+     "lastPrice": 109.66
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 84.9119
+     "lastPrice": 85.59
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.0901
+     "lastPrice": 30.15
     },
     {
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 45.1512
+     "lastPrice": 45.395
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 94.88
+     "lastPrice": 95.06
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 153.15
+     "lastPrice": 155.42
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 49.53,
-     "lastPrice": 49.58
+     "lastPrice": 49.8
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 144.31,
-     "lastPrice": 144.9717
+     "lastPrice": 144.2862
     }
    ],
    "lastTrade": null
