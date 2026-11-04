@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793783349893,
+ "asOfAt": 1793784254008,
  "sessionStatus": "in-progress",
- "publishedAt": 1793783349893,
+ "publishedAt": 1793784254008,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -583,9 +583,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9912.74,
-   "upDollars": -87.26,
-   "upPct": -0.9,
+   "equity": 9929.54,
+   "upDollars": -70.46,
+   "upPct": -0.7,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -594,25 +594,25 @@
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 137.24
+     "lastPrice": 137.5
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 38.62
+     "lastPrice": 38.71
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 109.66
+     "lastPrice": 109.98
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 85.59
+     "lastPrice": 85.99
     },
     {
      "symbol": "PFE",
@@ -624,31 +624,31 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 45.395
+     "lastPrice": 45.24
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 95.06
+     "lastPrice": 94.86
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 155.42
+     "lastPrice": 156.417
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 49.53,
-     "lastPrice": 49.8
+     "lastPrice": 49.91
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 144.31,
-     "lastPrice": 144.2862
+     "lastPrice": 144.88
     }
    ],
    "lastTrade": null
