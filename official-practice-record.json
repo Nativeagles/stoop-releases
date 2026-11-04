@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793835804252,
+ "asOfAt": 1793836707107,
  "sessionStatus": "in-progress",
- "publishedAt": 1793835804252,
+ "publishedAt": 1793836707107,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -149,9 +149,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10402.64,
-   "upDollars": 402.64,
-   "upPct": 4,
+   "equity": 10407.37,
+   "upDollars": 407.37,
+   "upPct": 4.1,
    "trades": 6,
    "winPct": 50,
    "open": 2,
@@ -166,7 +166,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.5
+     "lastPrice": 45.93
     }
    ],
    "lastTrade": null
@@ -277,9 +277,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10193.39,
-   "upDollars": 193.39,
-   "upPct": 1.9,
+   "equity": 10181.82,
+   "upDollars": 181.82,
+   "upPct": 1.8,
    "trades": 3,
    "winPct": 67,
    "open": 10,
@@ -288,61 +288,61 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.13
+     "lastPrice": 46.0412
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.22
+     "lastPrice": 96.0037
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 170.91
+     "lastPrice": 169.7185
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 104.35
+     "lastPrice": 104.12
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 103.61,
-     "lastPrice": 103.8
+     "lastPrice": 103.55
     },
     {
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 21.8741
+     "lastPrice": 21.84
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 124.86,
-     "lastPrice": 124.55
+     "lastPrice": 124.6
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 87.46,
-     "lastPrice": 87.4
+     "lastPrice": 87.33
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 79.29
+     "lastPrice": 79.1776
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 109.24
+     "lastPrice": 109.25
     }
    ],
    "lastTrade": null
