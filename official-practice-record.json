@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793796970726,
+ "asOfAt": 1793797873863,
  "sessionStatus": "in-progress",
- "publishedAt": 1793796970726,
+ "publishedAt": 1793797873863,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -313,9 +313,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10049.08,
-   "upDollars": 49.08,
-   "upPct": 0.5,
+   "equity": 10060.05,
+   "upDollars": 60.05,
+   "upPct": 0.6,
    "trades": 1,
    "winPct": 0,
    "open": 10,
@@ -324,61 +324,61 @@
      "symbol": "PEP",
      "shares": 7,
      "entryPrice": 137.52,
-     "lastPrice": 140.12
+     "lastPrice": 140.27
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 38.66,
-     "lastPrice": 39.4999
+     "lastPrice": 39.48
     },
     {
      "symbol": "ABT",
      "shares": 9,
      "entryPrice": 106.25,
-     "lastPrice": 111
+     "lastPrice": 111.217
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 83.83,
-     "lastPrice": 86.3277
+     "lastPrice": 86.47
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 30.49,
-     "lastPrice": 30.59
+     "lastPrice": 30.65
     },
     {
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.6
+     "lastPrice": 46.47
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.395
+     "lastPrice": 96.6087
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 160.01
+     "lastPrice": 163.47
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 49.53,
-     "lastPrice": 50.5
+     "lastPrice": 50.3541
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 144.31,
-     "lastPrice": 147.83
+     "lastPrice": 148.02
     }
    ],
    "lastTrade": null
