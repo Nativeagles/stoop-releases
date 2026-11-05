@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-04",
- "asOfAt": 1793838513102,
+ "asOfAt": 1793839416139,
  "sessionStatus": "in-progress",
- "publishedAt": 1793838513102,
+ "publishedAt": 1793839416139,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -149,8 +149,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10407.37,
-   "upDollars": 407.37,
+   "equity": 10409.46,
+   "upDollars": 409.46,
    "upPct": 4.1,
    "trades": 6,
    "winPct": 50,
@@ -166,7 +166,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.93
+     "lastPrice": 46.12
     }
    ],
    "lastTrade": null
@@ -277,8 +277,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10189.37,
-   "upDollars": 189.37,
+   "equity": 10190.76,
+   "upDollars": 190.76,
    "upPct": 1.9,
    "trades": 3,
    "winPct": 67,
@@ -288,19 +288,19 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.1363
+     "lastPrice": 46.13
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.09
+     "lastPrice": 96.16
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 169.6366
+     "lastPrice": 170
     },
     {
      "symbol": "MDT",
@@ -312,13 +312,13 @@
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 103.61,
-     "lastPrice": 103.8
+     "lastPrice": 103.75
     },
     {
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 21.88
+     "lastPrice": 21.9
     },
     {
      "symbol": "C",
@@ -336,13 +336,13 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 79.16
+     "lastPrice": 79.15
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 109.4
+     "lastPrice": 109.41
     }
    ],
    "lastTrade": null
