@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793878151385,
+ "asOfAt": 1793879054300,
  "sessionStatus": "in-progress",
- "publishedAt": 1793878151385,
+ "publishedAt": 1793879054300,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -277,9 +277,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10222.75,
-   "upDollars": 222.75,
-   "upPct": 2.2,
+   "equity": 10208.41,
+   "upDollars": 208.41,
+   "upPct": 2.1,
    "trades": 3,
    "winPct": 67,
    "open": 10,
@@ -288,13 +288,13 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.49
+     "lastPrice": 46.492
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.77
+     "lastPrice": 96.4156
     },
     {
      "symbol": "BKNG",
@@ -306,25 +306,25 @@
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 105.23
+     "lastPrice": 104.83
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 103.61,
-     "lastPrice": 101.18
+     "lastPrice": 100.86
     },
     {
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 22.03
+     "lastPrice": 22.01
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 124.86,
-     "lastPrice": 126.95
+     "lastPrice": 126.7
     },
     {
      "symbol": "WFC",
@@ -336,13 +336,13 @@
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 77.98
+     "lastPrice": 78
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 110.41
+     "lastPrice": 109.99
     }
    ],
    "lastTrade": null
@@ -353,9 +353,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 10167.23,
-   "upDollars": 167.23,
-   "upPct": 1.7,
+   "equity": 10158.23,
+   "upDollars": 158.23,
+   "upPct": 1.6,
    "trades": 4,
    "winPct": 50,
    "open": 1,
@@ -364,7 +364,7 @@
      "symbol": "AEHL (short)",
      "shares": -45,
      "entryPrice": 11.219795999999999,
-     "lastPrice": 10.95
+     "lastPrice": 11.15
     }
    ],
    "lastTrade": null
