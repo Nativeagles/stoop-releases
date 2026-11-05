@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793916084418,
+ "asOfAt": 1793917015810,
  "sessionStatus": "in-progress",
- "publishedAt": 1793916084418,
+ "publishedAt": 1793917015810,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,8 +13,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10397.69,
-   "upDollars": 397.69,
+   "equity": 10397.14,
+   "upDollars": 397.14,
    "upPct": 4,
    "trades": 6,
    "winPct": 50,
@@ -30,7 +30,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.55
+     "lastPrice": 45.5
     }
    ],
    "lastTrade": null
@@ -571,42 +571,42 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9877.2,
-   "upDollars": -122.8,
+   "equity": 9881.13,
+   "upDollars": -118.87,
    "upPct": -1.2,
-   "trades": 14,
-   "winPct": 36,
-   "open": 10,
+   "trades": 16,
+   "winPct": 31,
+   "open": 8,
    "positions": [
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 104.2
+     "lastPrice": 104.64
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.09,
-     "lastPrice": 127.3267
+     "lastPrice": 127.29
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.71,
-     "lastPrice": 142.28
+     "lastPrice": 142.25
     },
     {
      "symbol": "UBER",
      "shares": 14,
      "entryPrice": 68.63,
-     "lastPrice": 68.0952
+     "lastPrice": 68.0215
     },
     {
      "symbol": "ABT",
      "shares": 8,
      "entryPrice": 113.75,
-     "lastPrice": 113.35
+     "lastPrice": 113.62
     },
     {
      "symbol": "NKE",
@@ -615,28 +615,16 @@
      "lastPrice": 39.18
     },
     {
-     "symbol": "ORCL",
-     "shares": 8,
-     "entryPrice": 115.18,
-     "lastPrice": 114.57
-    },
-    {
-     "symbol": "MSTR",
-     "shares": 7,
-     "entryPrice": 128.48,
-     "lastPrice": 127.5699
-    },
-    {
      "symbol": "NOW",
      "shares": 5,
      "entryPrice": 101.72,
-     "lastPrice": 100.69
+     "lastPrice": 100.6
     },
     {
      "symbol": "HOOD",
      "shares": 12,
      "entryPrice": 77.89,
-     "lastPrice": 77.65
+     "lastPrice": 77.71
     }
    ],
    "lastTrade": null
@@ -858,14 +846,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble-pmh",
+   "name": "Down Bubble — premarket high",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9405.11,
+   "upDollars": -594.89,
+   "upPct": -5.9,
+   "trades": 21,
+   "winPct": 19,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9419.21,
-   "upDollars": -580.79,
-   "upPct": -5.8,
+   "equity": 9339.46,
+   "upDollars": -660.54,
+   "upPct": -6.6,
    "trades": 14,
    "winPct": 29,
    "open": 9,
@@ -874,7 +877,7 @@
      "symbol": "RUN",
      "shares": 90,
      "entryPrice": 9.99,
-     "lastPrice": 9.6969
+     "lastPrice": 9.72
     },
     {
      "symbol": "RPD",
@@ -886,13 +889,13 @@
      "symbol": "DNUT",
      "shares": 225,
      "entryPrice": 4.13,
-     "lastPrice": 4.4708
+     "lastPrice": 4.47
     },
     {
      "symbol": "MGNI",
      "shares": 34,
      "entryPrice": 26.9,
-     "lastPrice": 27.84
+     "lastPrice": 27.71
     },
     {
      "symbol": "WRBY",
@@ -910,13 +913,13 @@
      "symbol": "PTLO",
      "shares": 144,
      "entryPrice": 6.51,
-     "lastPrice": 6.8882
+     "lastPrice": 6.8001
     },
     {
      "symbol": "LYNX",
      "shares": 86,
      "entryPrice": 10.95,
-     "lastPrice": 11.9005
+     "lastPrice": 11.15
     },
     {
      "symbol": "ARDT",
@@ -925,21 +928,6 @@
      "lastPrice": 16.14
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-down-bubble-pmh",
-   "name": "Down Bubble — premarket high",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9405.11,
-   "upDollars": -594.89,
-   "upPct": -5.9,
-   "trades": 21,
-   "winPct": 19,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
