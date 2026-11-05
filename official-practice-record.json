@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793921529940,
+ "asOfAt": 1793922432821,
  "sessionStatus": "in-progress",
- "publishedAt": 1793921529940,
+ "publishedAt": 1793922432821,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -571,60 +571,54 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9840.1,
-   "upDollars": -159.9,
-   "upPct": -1.6,
-   "trades": 20,
-   "winPct": 25,
-   "open": 8,
+   "equity": 9824.99,
+   "upDollars": -175.01,
+   "upPct": -1.8,
+   "trades": 21,
+   "winPct": 24,
+   "open": 7,
    "positions": [
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 104.7
+     "lastPrice": 104
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.09,
-     "lastPrice": 127.37
+     "lastPrice": 127.35
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.71,
-     "lastPrice": 142.2689
+     "lastPrice": 142.23
     },
     {
      "symbol": "UBER",
      "shares": 14,
      "entryPrice": 68.63,
-     "lastPrice": 67.4352
+     "lastPrice": 67.8
     },
     {
      "symbol": "ABT",
      "shares": 8,
      "entryPrice": 113.75,
-     "lastPrice": 113.35
+     "lastPrice": 113.4817
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 39.5,
-     "lastPrice": 39.06
+     "lastPrice": 38.88
     },
     {
      "symbol": "NOW",
      "shares": 5,
      "entryPrice": 101.72,
-     "lastPrice": 100.19
-    },
-    {
-     "symbol": "RKLB",
-     "shares": 21,
-     "entryPrice": 45.65,
-     "lastPrice": 45.4983
+     "lastPrice": 99.97
     }
    ],
    "lastTrade": null
@@ -866,9 +860,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9314.33,
-   "upDollars": -685.67,
-   "upPct": -6.9,
+   "equity": 9331.91,
+   "upDollars": -668.09,
+   "upPct": -6.7,
    "trades": 15,
    "winPct": 33,
    "open": 9,
@@ -877,7 +871,7 @@
      "symbol": "RUN",
      "shares": 90,
      "entryPrice": 9.99,
-     "lastPrice": 9.56
+     "lastPrice": 9.5207
     },
     {
      "symbol": "RPD",
@@ -889,7 +883,7 @@
      "symbol": "MGNI",
      "shares": 34,
      "entryPrice": 26.9,
-     "lastPrice": 27.6
+     "lastPrice": 27.59
     },
     {
      "symbol": "WRBY",
@@ -901,7 +895,7 @@
      "symbol": "COTY",
      "shares": 233,
      "entryPrice": 4.03,
-     "lastPrice": 3.81
+     "lastPrice": 3.9021
     },
     {
      "symbol": "PTLO",
