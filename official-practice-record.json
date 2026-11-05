@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793912472941,
+ "asOfAt": 1793913375832,
  "sessionStatus": "in-progress",
- "publishedAt": 1793912472941,
+ "publishedAt": 1793913375832,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,9 +13,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10402.16,
-   "upDollars": 402.16,
-   "upPct": 4,
+   "equity": 10393.8,
+   "upDollars": 393.8,
+   "upPct": 3.9,
    "trades": 6,
    "winPct": 50,
    "open": 2,
@@ -24,13 +24,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.72
+     "lastPrice": 19.59
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.82
+     "lastPrice": 45.6512
     }
    ],
    "lastTrade": null
@@ -484,58 +484,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9929.26,
-   "upDollars": -70.74,
-   "upPct": -0.7,
-   "trades": 12,
-   "winPct": 33,
-   "open": 6,
-   "positions": [
-    {
-     "symbol": "MDT",
-     "shares": 9,
-     "entryPrice": 105.09,
-     "lastPrice": 104.93
-    },
-    {
-     "symbol": "WMT",
-     "shares": 7,
-     "entryPrice": 128.09,
-     "lastPrice": 127.4305
-    },
-    {
-     "symbol": "PEP",
-     "shares": 6,
-     "entryPrice": 142.71,
-     "lastPrice": 142.62
-    },
-    {
-     "symbol": "UBER",
-     "shares": 14,
-     "entryPrice": 68.63,
-     "lastPrice": 68.78
-    },
-    {
-     "symbol": "ABT",
-     "shares": 8,
-     "entryPrice": 113.75,
-     "lastPrice": 113.52
-    },
-    {
-     "symbol": "NKE",
-     "shares": 25,
-     "entryPrice": 39.5,
-     "lastPrice": 39.54
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -613,6 +561,82 @@
      "shares": 4,
      "entryPrice": 106.19,
      "lastPrice": 106.435
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9906.08,
+   "upDollars": -93.92,
+   "upPct": -0.9,
+   "trades": 12,
+   "winPct": 33,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "MDT",
+     "shares": 9,
+     "entryPrice": 105.09,
+     "lastPrice": 104.74
+    },
+    {
+     "symbol": "WMT",
+     "shares": 7,
+     "entryPrice": 128.09,
+     "lastPrice": 127.3
+    },
+    {
+     "symbol": "PEP",
+     "shares": 6,
+     "entryPrice": 142.71,
+     "lastPrice": 142.36
+    },
+    {
+     "symbol": "UBER",
+     "shares": 14,
+     "entryPrice": 68.63,
+     "lastPrice": 68.346
+    },
+    {
+     "symbol": "ABT",
+     "shares": 8,
+     "entryPrice": 113.75,
+     "lastPrice": 113.6
+    },
+    {
+     "symbol": "NKE",
+     "shares": 25,
+     "entryPrice": 39.5,
+     "lastPrice": 39.31
+    },
+    {
+     "symbol": "ORCL",
+     "shares": 8,
+     "entryPrice": 115.18,
+     "lastPrice": 114.97
+    },
+    {
+     "symbol": "BABA",
+     "shares": 9,
+     "entryPrice": 107.77,
+     "lastPrice": 107.5
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 8,
+     "entryPrice": 123.33,
+     "lastPrice": 123.2
+    },
+    {
+     "symbol": "MSTR",
+     "shares": 7,
+     "entryPrice": 128.48,
+     "lastPrice": 128.1
     }
    ],
    "lastTrade": null
@@ -839,8 +863,8 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9437.09,
-   "upDollars": -562.91,
+   "equity": 9437.01,
+   "upDollars": -562.99,
    "upPct": -5.6,
    "trades": 13,
    "winPct": 31,
@@ -856,43 +880,43 @@
      "symbol": "RPD",
      "shares": 58,
      "entryPrice": 15.37,
-     "lastPrice": 15.44
+     "lastPrice": 15.36
     },
     {
      "symbol": "DNUT",
      "shares": 225,
      "entryPrice": 4.13,
-     "lastPrice": 4.6
+     "lastPrice": 4.59
     },
     {
      "symbol": "MGNI",
      "shares": 34,
      "entryPrice": 26.9,
-     "lastPrice": 27.4905
+     "lastPrice": 27.75
     },
     {
      "symbol": "WRBY",
      "shares": 36,
      "entryPrice": 25.48,
-     "lastPrice": 26.1
+     "lastPrice": 25.97
     },
     {
      "symbol": "COTY",
      "shares": 233,
      "entryPrice": 4.03,
-     "lastPrice": 3.91
+     "lastPrice": 3.84
     },
     {
      "symbol": "PTLO",
      "shares": 144,
      "entryPrice": 6.51,
-     "lastPrice": 6.88
+     "lastPrice": 6.84
     },
     {
      "symbol": "LYNX",
      "shares": 86,
      "entryPrice": 10.95,
-     "lastPrice": 11.57
+     "lastPrice": 11.34
     },
     {
      "symbol": "ARDT",
@@ -904,7 +928,7 @@
      "symbol": "AMTX",
      "shares": 493,
      "entryPrice": 1.93,
-     "lastPrice": 1.7297
+     "lastPrice": 1.82
     }
    ],
    "lastTrade": null
