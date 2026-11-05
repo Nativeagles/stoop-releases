@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793870927680,
+ "asOfAt": 1793871830677,
  "sessionStatus": "in-progress",
- "publishedAt": 1793870927680,
+ "publishedAt": 1793871830677,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -277,9 +277,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10183.58,
-   "upDollars": 183.58,
-   "upPct": 1.8,
+   "equity": 10191.5,
+   "upDollars": 191.5,
+   "upPct": 1.9,
    "trades": 3,
    "winPct": 67,
    "open": 10,
@@ -288,61 +288,61 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.23
+     "lastPrice": 46.39
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.87
+     "lastPrice": 96.64
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 170.3
+     "lastPrice": 171.48
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 104.5307
+     "lastPrice": 104.9
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 103.61,
-     "lastPrice": 100.7925
+     "lastPrice": 100.62
     },
     {
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 22
+     "lastPrice": 22.04
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 124.86,
-     "lastPrice": 126.35
+     "lastPrice": 125.86
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 87.46,
-     "lastPrice": 88.415
+     "lastPrice": 88.61
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 77.5567
+     "lastPrice": 77.532
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 109.55
+     "lastPrice": 109.94
     }
    ],
    "lastTrade": null
