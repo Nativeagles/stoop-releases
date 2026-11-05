@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793874539771,
+ "asOfAt": 1793875442794,
  "sessionStatus": "in-progress",
- "publishedAt": 1793874539771,
+ "publishedAt": 1793875442794,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -277,9 +277,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10202.38,
-   "upDollars": 202.38,
-   "upPct": 2,
+   "equity": 10210.46,
+   "upDollars": 210.46,
+   "upPct": 2.1,
    "trades": 3,
    "winPct": 67,
    "open": 10,
@@ -288,25 +288,25 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.49
+     "lastPrice": 46.18
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.49
+     "lastPrice": 96.3367
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 171.99
+     "lastPrice": 172.32
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 104.95
+     "lastPrice": 105
     },
     {
      "symbol": "CSCO",
@@ -318,7 +318,7 @@
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 22.02
+     "lastPrice": 21.99
     },
     {
      "symbol": "C",
@@ -330,19 +330,19 @@
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 87.46,
-     "lastPrice": 88.63
+     "lastPrice": 88.9
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 77.76
+     "lastPrice": 78.3
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 110.15
+     "lastPrice": 110.4055
     }
    ],
    "lastTrade": null
