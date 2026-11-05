@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793917015810,
+ "asOfAt": 1793917918706,
  "sessionStatus": "in-progress",
- "publishedAt": 1793917015810,
+ "publishedAt": 1793917918706,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -571,12 +571,12 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9881.13,
-   "upDollars": -118.87,
+   "equity": 9879.52,
+   "upDollars": -120.48,
    "upPct": -1.2,
-   "trades": 16,
-   "winPct": 31,
-   "open": 8,
+   "trades": 17,
+   "winPct": 29,
+   "open": 10,
    "positions": [
     {
      "symbol": "MDT",
@@ -588,43 +588,55 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.09,
-     "lastPrice": 127.29
+     "lastPrice": 127.4773
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.71,
-     "lastPrice": 142.25
+     "lastPrice": 142.3
     },
     {
      "symbol": "UBER",
      "shares": 14,
      "entryPrice": 68.63,
-     "lastPrice": 68.0215
+     "lastPrice": 67.96
     },
     {
      "symbol": "ABT",
      "shares": 8,
      "entryPrice": 113.75,
-     "lastPrice": 113.62
+     "lastPrice": 113.6
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 39.5,
-     "lastPrice": 39.18
+     "lastPrice": 39.22
     },
     {
      "symbol": "NOW",
      "shares": 5,
      "entryPrice": 101.72,
-     "lastPrice": 100.6
+     "lastPrice": 100.54
     },
     {
-     "symbol": "HOOD",
-     "shares": 12,
-     "entryPrice": 77.89,
-     "lastPrice": 77.71
+     "symbol": "INTC",
+     "shares": 18,
+     "entryPrice": 52.1,
+     "lastPrice": 51.85
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 8,
+     "entryPrice": 123.4,
+     "lastPrice": 123.15
+    },
+    {
+     "symbol": "SMCI",
+     "shares": 36,
+     "entryPrice": 26.87,
+     "lastPrice": 26.94
     }
    ],
    "lastTrade": null
@@ -866,42 +878,36 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9339.46,
-   "upDollars": -660.54,
-   "upPct": -6.6,
-   "trades": 14,
-   "winPct": 29,
+   "equity": 9369.84,
+   "upDollars": -630.16,
+   "upPct": -6.3,
+   "trades": 15,
+   "winPct": 33,
    "open": 9,
    "positions": [
     {
      "symbol": "RUN",
      "shares": 90,
      "entryPrice": 9.99,
-     "lastPrice": 9.72
+     "lastPrice": 9.66
     },
     {
      "symbol": "RPD",
      "shares": 58,
      "entryPrice": 15.37,
-     "lastPrice": 15.66
-    },
-    {
-     "symbol": "DNUT",
-     "shares": 225,
-     "entryPrice": 4.13,
-     "lastPrice": 4.47
+     "lastPrice": 15.74
     },
     {
      "symbol": "MGNI",
      "shares": 34,
      "entryPrice": 26.9,
-     "lastPrice": 27.71
+     "lastPrice": 27.65
     },
     {
      "symbol": "WRBY",
      "shares": 36,
      "entryPrice": 25.48,
-     "lastPrice": 26.15
+     "lastPrice": 25.9
     },
     {
      "symbol": "COTY",
@@ -913,19 +919,25 @@
      "symbol": "PTLO",
      "shares": 144,
      "entryPrice": 6.51,
-     "lastPrice": 6.8001
+     "lastPrice": 6.7862
     },
     {
      "symbol": "LYNX",
      "shares": 86,
      "entryPrice": 10.95,
-     "lastPrice": 11.15
+     "lastPrice": 11.64
     },
     {
      "symbol": "ARDT",
      "shares": 60,
      "entryPrice": 15.63,
      "lastPrice": 16.14
+    },
+    {
+     "symbol": "XERS",
+     "shares": 70,
+     "entryPrice": 13.280000000000001,
+     "lastPrice": 13.280000000000001
     }
    ],
    "lastTrade": null
