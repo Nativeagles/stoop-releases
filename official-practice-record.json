@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793888083045,
+ "asOfAt": 1793888985998,
  "sessionStatus": "in-progress",
- "publishedAt": 1793888083045,
+ "publishedAt": 1793888985998,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -149,9 +149,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10413.6,
-   "upDollars": 413.6,
-   "upPct": 4.1,
+   "equity": 10415.8,
+   "upDollars": 415.8,
+   "upPct": 4.2,
    "trades": 6,
    "winPct": 50,
    "open": 2,
@@ -166,7 +166,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.86
+     "lastPrice": 46.06
     }
    ],
    "lastTrade": null
@@ -277,9 +277,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10208.9,
-   "upDollars": 208.9,
-   "upPct": 2.1,
+   "equity": 10195.39,
+   "upDollars": 195.39,
+   "upPct": 2,
    "trades": 3,
    "winPct": 67,
    "open": 10,
@@ -288,61 +288,61 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.76
+     "lastPrice": 46.7
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.93
+     "lastPrice": 96.6283
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 172.2
+     "lastPrice": 172.42
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 105.6
+     "lastPrice": 105.2648
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 103.61,
-     "lastPrice": 100.5
+     "lastPrice": 100.14
     },
     {
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 22.13
+     "lastPrice": 22.04
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 124.86,
-     "lastPrice": 126.33
+     "lastPrice": 126.86
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 87.46,
-     "lastPrice": 88.606
+     "lastPrice": 88.94
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 76.9837
+     "lastPrice": 76.58
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 110.492
+     "lastPrice": 109.95
     }
    ],
    "lastTrade": null
@@ -489,18 +489,24 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 10134.29,
-   "upDollars": 134.29,
-   "upPct": 1.3,
+   "equity": 10122.97,
+   "upDollars": 122.97,
+   "upPct": 1.2,
    "trades": 21,
    "winPct": 62,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "AEHL (short)",
      "shares": -41,
      "entryPrice": 12.287726999999999,
-     "lastPrice": 12.15
+     "lastPrice": 12.59
+    },
+    {
+     "symbol": "FLYE (short)",
+     "shares": -184,
+     "entryPrice": 2.746322075,
+     "lastPrice": 2.7098
     }
    ],
    "lastTrade": null
@@ -599,9 +605,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 10113.23,
-   "upDollars": 113.23,
-   "upPct": 1.1,
+   "equity": 10093.43,
+   "upDollars": 93.43,
+   "upPct": 0.9,
    "trades": 4,
    "winPct": 50,
    "open": 1,
@@ -610,7 +616,7 @@
      "symbol": "AEHL (short)",
      "shares": -45,
      "entryPrice": 11.219795999999999,
-     "lastPrice": 12.15
+     "lastPrice": 12.59
     }
    ],
    "lastTrade": null
