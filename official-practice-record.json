@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-05",
- "asOfAt": 1793880860096,
+ "asOfAt": 1793881762894,
  "sessionStatus": "in-progress",
- "publishedAt": 1793880860096,
+ "publishedAt": 1793881762894,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -277,9 +277,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10205.43,
-   "upDollars": 205.43,
-   "upPct": 2.1,
+   "equity": 10219.56,
+   "upDollars": 219.56,
+   "upPct": 2.2,
    "trades": 3,
    "winPct": 67,
    "open": 10,
@@ -288,83 +288,61 @@
      "symbol": "VZ",
      "shares": 9,
      "entryPrice": 45.19,
-     "lastPrice": 46.4548
+     "lastPrice": 46.5
     },
     {
      "symbol": "KO",
      "shares": 4,
      "entryPrice": 95.99,
-     "lastPrice": 96.71
+     "lastPrice": 96.902
     },
     {
      "symbol": "BKNG",
      "shares": 2,
      "entryPrice": 153.59,
-     "lastPrice": 172.49
+     "lastPrice": 171.82
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 105
+     "lastPrice": 104.83
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 103.61,
-     "lastPrice": 100.75
+     "lastPrice": 100.9299
     },
     {
      "symbol": "T",
      "shares": 46,
      "entryPrice": 21.93,
-     "lastPrice": 22.03
+     "lastPrice": 22.09
     },
     {
      "symbol": "C",
      "shares": 8,
      "entryPrice": 124.86,
-     "lastPrice": 126.98
+     "lastPrice": 126.75
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 87.46,
-     "lastPrice": 88.94
+     "lastPrice": 88.98
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.1,
-     "lastPrice": 77.5
+     "lastPrice": 77.87
     },
     {
      "symbol": "SBUX",
      "shares": 9,
      "entryPrice": 109.67,
-     "lastPrice": 109.6319
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-spike80",
-   "name": "PRETEND - Short the +80% spiker",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 10168.58,
-   "upDollars": 168.58,
-   "upPct": 1.7,
-   "trades": 4,
-   "winPct": 50,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "AEHL (short)",
-     "shares": -45,
-     "entryPrice": 11.219795999999999,
-     "lastPrice": 10.92
+     "lastPrice": 110.5654
     }
    ],
    "lastTrade": null
@@ -501,6 +479,28 @@
      "shares": 5,
      "entryPrice": 98.9,
      "lastPrice": 98.75
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "short-lane-spike80",
+   "name": "PRETEND - Short the +80% spiker",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 10151.93,
+   "upDollars": 151.93,
+   "upPct": 1.5,
+   "trades": 4,
+   "winPct": 50,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AEHL (short)",
+     "shares": -45,
+     "entryPrice": 11.219795999999999,
+     "lastPrice": 11.29
     }
    ],
    "lastTrade": null
