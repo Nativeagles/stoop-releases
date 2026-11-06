@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-06",
- "asOfAt": 1793999823624,
+ "asOfAt": 1794000726517,
  "sessionStatus": "in-progress",
- "publishedAt": 1793999823624,
+ "publishedAt": 1794000726517,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -42,8 +42,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10254.47,
-   "upDollars": 254.47,
+   "equity": 10255,
+   "upDollars": 255,
    "upPct": 2.5,
    "realised": 267.05,
    "trades": 4,
@@ -54,19 +54,19 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.6982
+     "lastPrice": 21.731
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 21.81
+     "lastPrice": 21.9
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 1.81
+     "lastPrice": 1.8022
     }
    ],
    "lastTrade": null
@@ -580,11 +580,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9780.97,
-   "upDollars": -219.03,
-   "upPct": -2.2,
-   "realised": -187.84,
-   "trades": 351,
+   "equity": 9771.01,
+   "upDollars": -228.99,
+   "upPct": -2.3,
+   "realised": -191.41,
+   "trades": 354,
    "winPct": 45,
    "open": 10,
    "positions": [
@@ -592,61 +592,108 @@
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 101.8
+     "lastPrice": 101.33
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 146.64,
-     "lastPrice": 146.73
+     "lastPrice": 146.4
     },
     {
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 45.69
+     "lastPrice": 45.89
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 95.67
+     "lastPrice": 95.7075
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 29.33,
-     "lastPrice": 29.39
+     "lastPrice": 29.3458
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 84,
-     "lastPrice": 83.94
+     "lastPrice": 84.01
     },
     {
      "symbol": "T",
      "shares": 45,
      "entryPrice": 21.627499999999998,
-     "lastPrice": 21.63
+     "lastPrice": 21.68
     },
     {
-     "symbol": "ORCL",
-     "shares": 8,
-     "entryPrice": 116.6,
-     "lastPrice": 116.2
+     "symbol": "CRWV",
+     "shares": 19,
+     "entryPrice": 46.6,
+     "lastPrice": 46.3533
     },
     {
-     "symbol": "NBIS",
-     "shares": 7,
-     "entryPrice": 129.8,
-     "lastPrice": 130.33
+     "symbol": "NFLX",
+     "shares": 14,
+     "entryPrice": 63.5,
+     "lastPrice": 63.39
     },
     {
-     "symbol": "INTC",
-     "shares": 8,
-     "entryPrice": 56.54,
-     "lastPrice": 56.4999
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 49.424953392803445,
+     "lastPrice": 49.43
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-gap-fill",
+   "name": "Gap-Down Fill",
+   "kind": "official",
+   "startedOn": "2026-10-26",
+   "startingCash": 10000,
+   "equity": 9596.38,
+   "upDollars": -403.62,
+   "upPct": -4,
+   "realised": -403.62,
+   "trades": 18,
+   "winPct": 44,
+   "open": 5,
+   "positions": [
+    {
+     "symbol": "ADEA",
+     "shares": 58,
+     "entryPrice": 16.96,
+     "lastPrice": 16.96
+    },
+    {
+     "symbol": "NRIX",
+     "shares": 58,
+     "entryPrice": 16.8637,
+     "lastPrice": 16.8637
+    },
+    {
+     "symbol": "DOX",
+     "shares": 23,
+     "entryPrice": 42.29,
+     "lastPrice": 42.29
+    },
+    {
+     "symbol": "HUT",
+     "shares": 19,
+     "entryPrice": 52.63,
+     "lastPrice": 52.63
+    },
+    {
+     "symbol": "VCYT",
+     "shares": 34,
+     "entryPrice": 26.77,
+     "lastPrice": 26.77
     }
    ],
    "lastTrade": null
@@ -804,67 +851,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-gap-fill",
-   "name": "Gap-Down Fill",
-   "kind": "official",
-   "startedOn": "2026-10-26",
-   "startingCash": 10000,
-   "equity": 9252.38,
-   "upDollars": -747.62,
-   "upPct": -7.5,
-   "realised": -747.62,
-   "trades": 17,
-   "winPct": 41,
-   "open": 6,
-   "positions": [
-    {
-     "symbol": "ADEA",
-     "shares": 58,
-     "entryPrice": 16.96,
-     "lastPrice": 16.96
-    },
-    {
-     "symbol": "NRIX",
-     "shares": 58,
-     "entryPrice": 16.8637,
-     "lastPrice": 16.8637
-    },
-    {
-     "symbol": "DOX",
-     "shares": 23,
-     "entryPrice": 42.29,
-     "lastPrice": 42.29
-    },
-    {
-     "symbol": "HUT",
-     "shares": 19,
-     "entryPrice": 52.63,
-     "lastPrice": 52.63
-    },
-    {
-     "symbol": "VCYT",
-     "shares": 34,
-     "entryPrice": 26.77,
-     "lastPrice": 26.77
-    },
-    {
-     "symbol": "OMH",
-     "shares": 100,
-     "entryPrice": 9.98,
-     "lastPrice": 9.98
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 8708.35,
-   "upDollars": -1291.65,
-   "upPct": -12.9,
+   "equity": 8702.59,
+   "upDollars": -1297.41,
+   "upPct": -13,
    "realised": -1274.67,
    "trades": 29,
    "winPct": 41,
@@ -880,7 +874,7 @@
      "symbol": "PTLO",
      "shares": 144,
      "entryPrice": 6.51,
-     "lastPrice": 6.67
+     "lastPrice": 6.63
     }
    ],
    "lastTrade": null
