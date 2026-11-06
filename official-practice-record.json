@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-06",
- "asOfAt": 1794007047807,
+ "asOfAt": 1794007950636,
  "sessionStatus": "in-progress",
- "publishedAt": 1794007047807,
+ "publishedAt": 1794007950636,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -42,8 +42,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10252.19,
-   "upDollars": 252.19,
+   "equity": 10253.15,
+   "upDollars": 253.15,
    "upPct": 2.5,
    "realised": 267.05,
    "trades": 4,
@@ -54,7 +54,7 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.7701
+     "lastPrice": 21.75
     },
     {
      "symbol": "SHAZ",
@@ -66,7 +66,7 @@
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 1.8
+     "lastPrice": 1.805
     }
    ],
    "lastTrade": null
@@ -580,8 +580,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9774.12,
-   "upDollars": -225.88,
+   "equity": 9774.79,
+   "upDollars": -225.21,
    "upPct": -2.3,
    "realised": -195.76,
    "trades": 362,
@@ -604,31 +604,31 @@
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 45.73
+     "lastPrice": 45.6914
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 95.67
+     "lastPrice": 95.7
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 84,
-     "lastPrice": 84.02
+     "lastPrice": 84.207
     },
     {
      "symbol": "T",
      "shares": 45,
      "entryPrice": 21.627499999999998,
-     "lastPrice": 21.6452
+     "lastPrice": 21.63
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 125.1759
+     "lastPrice": 125.1482
     },
     {
      "symbol": "PEP",
