@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-06",
- "asOfAt": 1793970926731,
+ "asOfAt": 1793971829684,
  "sessionStatus": "in-progress",
- "publishedAt": 1793970926731,
+ "publishedAt": 1793971829684,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,8 +13,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10398.5,
-   "upDollars": 398.5,
+   "equity": 10399,
+   "upDollars": 399,
    "upPct": 4,
    "trades": 6,
    "winPct": 50,
@@ -24,7 +24,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.66
+     "lastPrice": 19.67
     },
     {
      "symbol": "BRZE",
@@ -272,34 +272,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-loose",
-   "name": "Takeoff - looser",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 10181.6,
-   "upDollars": 181.6,
-   "upPct": 1.8,
-   "trades": 0,
-   "winPct": null,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "VSA",
-     "shares": 510,
-     "entryPrice": 1.98,
-     "lastPrice": 2.13
-    },
-    {
-     "symbol": "CIIT",
-     "shares": 223,
-     "entryPrice": 2.25,
-     "lastPrice": 2.7213
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "short-lane-rebreak3",
    "name": "PRETEND - Short the third breakout",
    "kind": "official",
@@ -451,14 +423,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 10093.68,
+   "upDollars": 93.68,
+   "upPct": 0.9,
+   "trades": 2,
+   "winPct": 100,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "short-lane-spike80",
    "name": "PRETEND - Short the +80% spiker",
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 10061.66,
-   "upDollars": 61.66,
-   "upPct": 0.6,
+   "equity": 10085.16,
+   "upDollars": 85.16,
+   "upPct": 0.9,
    "trades": 5,
    "winPct": 40,
    "open": 1,
@@ -467,7 +454,7 @@
      "symbol": "CIIT (short)",
      "shares": -186,
      "entryPrice": 2.6934413999999998,
-     "lastPrice": 2.7013
+     "lastPrice": 2.575
     }
    ],
    "lastTrade": null
@@ -621,60 +608,72 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9814.97,
-   "upDollars": -185.03,
-   "upPct": -1.9,
-   "trades": 49,
-   "winPct": 37,
-   "open": 8,
+   "equity": 9818.81,
+   "upDollars": -181.19,
+   "upPct": -1.8,
+   "trades": 50,
+   "winPct": 38,
+   "open": 10,
    "positions": [
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 102.78
+     "lastPrice": 102
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.09,
-     "lastPrice": 124.77
+     "lastPrice": 125.36
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.71,
-     "lastPrice": 139.2
+     "lastPrice": 139.59
     },
     {
      "symbol": "UBER",
      "shares": 14,
      "entryPrice": 68.63,
-     "lastPrice": 68.65
+     "lastPrice": 68.8
     },
     {
      "symbol": "ABT",
      "shares": 8,
      "entryPrice": 113.75,
-     "lastPrice": 111.93
+     "lastPrice": 110.79
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 39.5,
-     "lastPrice": 38.61
+     "lastPrice": 38.7469
     },
     {
      "symbol": "NOW",
      "shares": 5,
      "entryPrice": 101.72,
-     "lastPrice": 101.32
+     "lastPrice": 101.7
     },
     {
-     "symbol": "MRVL",
-     "shares": 6,
-     "entryPrice": 145.5,
-     "lastPrice": 144.82
+     "symbol": "SKHY",
+     "shares": 7,
+     "entryPrice": 129.92,
+     "lastPrice": 129.8535
+    },
+    {
+     "symbol": "PFE",
+     "shares": 33,
+     "entryPrice": 29.16,
+     "lastPrice": 29.15
+    },
+    {
+     "symbol": "SMCI",
+     "shares": 34,
+     "entryPrice": 28.69,
+     "lastPrice": 28.7
     }
    ],
    "lastTrade": null
@@ -916,9 +915,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 8716.32,
-   "upDollars": -1283.68,
-   "upPct": -12.8,
+   "equity": 8751.66,
+   "upDollars": -1248.34,
+   "upPct": -12.5,
    "trades": 21,
    "winPct": 38,
    "open": 3,
@@ -927,19 +926,19 @@
      "symbol": "RPD",
      "shares": 58,
      "entryPrice": 15.37,
-     "lastPrice": 15.51
+     "lastPrice": 15.99
     },
     {
      "symbol": "PTLO",
      "shares": 144,
      "entryPrice": 6.51,
-     "lastPrice": 6.8723
+     "lastPrice": 6.9
     },
     {
      "symbol": "XERS",
      "shares": 70,
      "entryPrice": 13.280000000000001,
-     "lastPrice": 13.15
+     "lastPrice": 13.2001
     }
    ],
    "lastTrade": null
@@ -950,9 +949,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8547.29,
-   "upDollars": -1452.71,
-   "upPct": -14.5,
+   "equity": 8533.97,
+   "upDollars": -1466.03,
+   "upPct": -14.7,
    "trades": 13,
    "winPct": 23,
    "open": 1,
@@ -961,7 +960,7 @@
      "symbol": "SOXL (short)",
      "shares": -18,
      "entryPrice": 46.188229400000004,
-     "lastPrice": 47.55
+     "lastPrice": 48.29
     }
    ],
    "lastTrade": null
