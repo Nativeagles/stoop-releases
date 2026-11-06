@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "asOfSession": "2026-11-05",
- "asOfAt": 1793926044398,
+ "asOfSession": "2026-11-06",
+ "asOfAt": 1793956475310,
  "sessionStatus": "in-progress",
- "publishedAt": 1793926044398,
+ "publishedAt": 1793956475310,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,8 +13,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10397.41,
-   "upDollars": 397.41,
+   "equity": 10400.05,
+   "upDollars": 400.05,
    "upPct": 4,
    "trades": 6,
    "winPct": 50,
@@ -30,7 +30,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.57
+     "lastPrice": 45.81
     }
    ],
    "lastTrade": null
@@ -484,6 +484,36 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-05",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-05",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -571,12 +601,12 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9833.33,
-   "upDollars": -166.67,
-   "upPct": -1.7,
-   "trades": 21,
-   "winPct": 24,
-   "open": 9,
+   "equity": 9875.16,
+   "upDollars": -124.84,
+   "upPct": -1.2,
+   "trades": 23,
+   "winPct": 26,
+   "open": 10,
    "positions": [
     {
      "symbol": "MDT",
@@ -588,49 +618,55 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.09,
-     "lastPrice": 127.1
+     "lastPrice": 125.77
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.71,
-     "lastPrice": 142
+     "lastPrice": 140.57
     },
     {
      "symbol": "UBER",
      "shares": 14,
      "entryPrice": 68.63,
-     "lastPrice": 68
+     "lastPrice": 68.35
     },
     {
      "symbol": "ABT",
      "shares": 8,
      "entryPrice": 113.75,
-     "lastPrice": 113.48
+     "lastPrice": 111.68
     },
     {
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 39.5,
-     "lastPrice": 39.12
+     "lastPrice": 38.8
     },
     {
      "symbol": "NOW",
      "shares": 5,
      "entryPrice": 101.72,
-     "lastPrice": 101.7869
+     "lastPrice": 101.6
     },
     {
-     "symbol": "AAOI",
-     "shares": 22,
-     "entryPrice": 44.03,
-     "lastPrice": 43.9
-    },
-    {
-     "symbol": "SPCX",
+     "symbol": "MSTR",
      "shares": 7,
-     "entryPrice": 127.1,
-     "lastPrice": 126.85
+     "entryPrice": 129.54,
+     "lastPrice": 130.9
+    },
+    {
+     "symbol": "SMCI",
+     "shares": 34,
+     "entryPrice": 28.31,
+     "lastPrice": 28.4
+    },
+    {
+     "symbol": "INTC",
+     "shares": 17,
+     "entryPrice": 54.9,
+     "lastPrice": 54.75
     }
    ],
    "lastTrade": null
@@ -872,66 +908,36 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9330.47,
-   "upDollars": -669.53,
-   "upPct": -6.7,
-   "trades": 15,
-   "winPct": 33,
-   "open": 9,
+   "equity": 8733.79,
+   "upDollars": -1266.21,
+   "upPct": -12.7,
+   "trades": 20,
+   "winPct": 35,
+   "open": 4,
    "positions": [
-    {
-     "symbol": "RUN",
-     "shares": 90,
-     "entryPrice": 9.99,
-     "lastPrice": 9.8
-    },
     {
      "symbol": "RPD",
      "shares": 58,
      "entryPrice": 15.37,
-     "lastPrice": 15.4
-    },
-    {
-     "symbol": "MGNI",
-     "shares": 34,
-     "entryPrice": 26.9,
-     "lastPrice": 27.59
-    },
-    {
-     "symbol": "WRBY",
-     "shares": 36,
-     "entryPrice": 25.48,
-     "lastPrice": 25.9
-    },
-    {
-     "symbol": "COTY",
-     "shares": 233,
-     "entryPrice": 4.03,
-     "lastPrice": 3.85
+     "lastPrice": 15.42
     },
     {
      "symbol": "PTLO",
      "shares": 144,
      "entryPrice": 6.51,
-     "lastPrice": 6.7801
-    },
-    {
-     "symbol": "LYNX",
-     "shares": 86,
-     "entryPrice": 10.95,
-     "lastPrice": 11.41
+     "lastPrice": 6.93
     },
     {
      "symbol": "ARDT",
      "shares": 60,
      "entryPrice": 15.63,
-     "lastPrice": 16.35
+     "lastPrice": 16.32
     },
     {
      "symbol": "XERS",
      "shares": 70,
      "entryPrice": 13.280000000000001,
-     "lastPrice": 13.03
+     "lastPrice": 13.29
     }
    ],
    "lastTrade": null
@@ -942,13 +948,20 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8571.8,
-   "upDollars": -1428.2,
-   "upPct": -14.3,
+   "equity": 8557.01,
+   "upDollars": -1442.99,
+   "upPct": -14.4,
    "trades": 13,
    "winPct": 23,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SOXL (short)",
+     "shares": -18,
+     "entryPrice": 46.188229400000004,
+     "lastPrice": 47.01
+    }
+   ],
    "lastTrade": null
   }
  ]
