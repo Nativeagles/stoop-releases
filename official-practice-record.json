@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-06",
- "asOfAt": 1793963699068,
+ "asOfAt": 1793964602049,
  "sessionStatus": "in-progress",
- "publishedAt": 1793963699068,
+ "publishedAt": 1793964602049,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -423,6 +423,34 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 10079.55,
+   "upDollars": 79.55,
+   "upPct": 0.8,
+   "trades": 0,
+   "winPct": null,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "VSA",
+     "shares": 510,
+     "entryPrice": 1.98,
+     "lastPrice": 2.101
+    },
+    {
+     "symbol": "CIIT",
+     "shares": 223,
+     "entryPrice": 2.25,
+     "lastPrice": 2.33
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "short-lane-spike80",
    "name": "PRETEND - Short the +80% spiker",
    "kind": "official",
@@ -435,34 +463,6 @@
    "winPct": 40,
    "open": 0,
    "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-loose",
-   "name": "Takeoff - looser",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 10032.4,
-   "upDollars": 32.4,
-   "upPct": 0.3,
-   "trades": 0,
-   "winPct": null,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "VSA",
-     "shares": 510,
-     "entryPrice": 1.98,
-     "lastPrice": 1.9998
-    },
-    {
-     "symbol": "CIIT",
-     "shares": 223,
-     "entryPrice": 2.25,
-     "lastPrice": 2.35
-    }
-   ],
    "lastTrade": null
   },
   {
@@ -614,36 +614,36 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9873.88,
-   "upDollars": -126.12,
-   "upPct": -1.3,
-   "trades": 34,
-   "winPct": 35,
+   "equity": 9878.15,
+   "upDollars": -121.85,
+   "upPct": -1.2,
+   "trades": 35,
+   "winPct": 37,
    "open": 8,
    "positions": [
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 103.35
+     "lastPrice": 103.24
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.09,
-     "lastPrice": 125.3852
+     "lastPrice": 125.4
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.71,
-     "lastPrice": 140.11
+     "lastPrice": 140.27
     },
     {
      "symbol": "UBER",
      "shares": 14,
      "entryPrice": 68.63,
-     "lastPrice": 68.645
+     "lastPrice": 68.67
     },
     {
      "symbol": "ABT",
@@ -655,19 +655,19 @@
      "symbol": "NKE",
      "shares": 25,
      "entryPrice": 39.5,
-     "lastPrice": 38.66
+     "lastPrice": 38.7
     },
     {
      "symbol": "NOW",
      "shares": 5,
      "entryPrice": 101.72,
-     "lastPrice": 102.18
+     "lastPrice": 102.128
     },
     {
-     "symbol": "IREN",
-     "shares": 47,
-     "entryPrice": 20.73,
-     "lastPrice": 20.76
+     "symbol": "SPCX",
+     "shares": 7,
+     "entryPrice": 128.29,
+     "lastPrice": 128.6
     }
    ],
    "lastTrade": null
@@ -909,9 +909,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 8722.57,
-   "upDollars": -1277.43,
-   "upPct": -12.8,
+   "equity": 8708.57,
+   "upDollars": -1291.43,
+   "upPct": -12.9,
    "trades": 21,
    "winPct": 38,
    "open": 3,
@@ -932,7 +932,7 @@
      "symbol": "XERS",
      "shares": 70,
      "entryPrice": 13.280000000000001,
-     "lastPrice": 13.1
+     "lastPrice": 12.9
     }
    ],
    "lastTrade": null
@@ -943,9 +943,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8547.11,
-   "upDollars": -1452.89,
-   "upPct": -14.5,
+   "equity": 8538.99,
+   "upDollars": -1461.01,
+   "upPct": -14.6,
    "trades": 13,
    "winPct": 23,
    "open": 1,
@@ -954,7 +954,7 @@
      "symbol": "SOXL (short)",
      "shares": -18,
      "entryPrice": 46.188229400000004,
-     "lastPrice": 47.56
+     "lastPrice": 48.011
     }
    ],
    "lastTrade": null
