@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-06",
- "asOfAt": 1794007950636,
+ "asOfAt": 1794008853454,
  "sessionStatus": "in-progress",
- "publishedAt": 1794007950636,
+ "publishedAt": 1794008853454,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -42,8 +42,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10253.15,
-   "upDollars": 253.15,
+   "equity": 10253.87,
+   "upDollars": 253.87,
    "upPct": 2.5,
    "realised": 267.05,
    "trades": 4,
@@ -54,7 +54,7 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.75
+     "lastPrice": 21.72
     },
     {
      "symbol": "SHAZ",
@@ -66,7 +66,7 @@
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 1.805
+     "lastPrice": 1.81
     }
    ],
    "lastTrade": null
@@ -580,8 +580,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9774.79,
-   "upDollars": -225.21,
+   "equity": 9773.98,
+   "upDollars": -226.02,
    "upPct": -2.3,
    "realised": -195.76,
    "trades": 362,
@@ -604,13 +604,13 @@
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 45.6914
+     "lastPrice": 45.714
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 95.7
+     "lastPrice": 95.68
     },
     {
      "symbol": "WFC",
@@ -622,19 +622,19 @@
      "symbol": "T",
      "shares": 45,
      "entryPrice": 21.627499999999998,
-     "lastPrice": 21.63
+     "lastPrice": 21.62
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 125.1482
+     "lastPrice": 125.15
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 141.33,
-     "lastPrice": 141.4
+     "lastPrice": 141.292
     }
    ],
    "lastTrade": null
@@ -844,8 +844,8 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 8705.53,
-   "upDollars": -1294.47,
+   "equity": 8710.17,
+   "upDollars": -1289.83,
    "upPct": -12.9,
    "realised": -1274.67,
    "trades": 29,
@@ -856,7 +856,7 @@
      "symbol": "RPD",
      "shares": 58,
      "entryPrice": 15.37,
-     "lastPrice": 14.64
+     "lastPrice": 14.72
     },
     {
      "symbol": "PTLO",
