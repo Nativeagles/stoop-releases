@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-06",
- "asOfAt": 1794008853454,
+ "asOfAt": 1794009756450,
  "sessionStatus": "in-progress",
- "publishedAt": 1794008853454,
+ "publishedAt": 1794009756450,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,8 +13,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10343.15,
-   "upDollars": 343.15,
+   "equity": 10338.75,
+   "upDollars": 338.75,
    "upPct": 3.4,
    "realised": 328.42,
    "trades": 15,
@@ -31,7 +31,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.9
+     "lastPrice": 45.5003
     }
    ],
    "lastTrade": null
@@ -42,8 +42,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10253.87,
-   "upDollars": 253.87,
+   "equity": 10251.28,
+   "upDollars": 251.28,
    "upPct": 2.5,
    "realised": 267.05,
    "trades": 4,
@@ -54,7 +54,7 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.72
+     "lastPrice": 21.728
     },
     {
      "symbol": "SHAZ",
@@ -66,7 +66,7 @@
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 1.81
+     "lastPrice": 1.8002
     }
    ],
    "lastTrade": null
@@ -580,37 +580,37 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9773.98,
-   "upDollars": -226.02,
+   "equity": 9772.8,
+   "upDollars": -227.2,
    "upPct": -2.3,
    "realised": -195.76,
    "trades": 362,
    "winPct": 44,
-   "open": 8,
+   "open": 10,
    "positions": [
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 101.8
+     "lastPrice": 101.23
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 146.64,
-     "lastPrice": 146.85
+     "lastPrice": 146.71
     },
     {
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 45.714
+     "lastPrice": 45.7169
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 95.68
+     "lastPrice": 95.738
     },
     {
      "symbol": "WFC",
@@ -622,19 +622,31 @@
      "symbol": "T",
      "shares": 45,
      "entryPrice": 21.627499999999998,
-     "lastPrice": 21.62
+     "lastPrice": 21.615
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 125.15
+     "lastPrice": 125.4422
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 141.33,
-     "lastPrice": 141.292
+     "lastPrice": 141.3
+    },
+    {
+     "symbol": "INTC",
+     "shares": 17,
+     "entryPrice": 56.57,
+     "lastPrice": 56.7
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 7,
+     "entryPrice": 135.3,
+     "lastPrice": 135.31
     }
    ],
    "lastTrade": null
