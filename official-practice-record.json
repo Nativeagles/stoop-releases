@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794215888004,
+ "asOfAt": 1794216790889,
  "sessionStatus": "in-progress",
- "publishedAt": 1794215888004,
+ "publishedAt": 1794216790889,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -32,41 +32,6 @@
      "shares": 11,
      "entryPrice": 45.4,
      "lastPrice": 45.7
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-loose",
-   "name": "Takeoff - looser",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 10242.57,
-   "upDollars": 242.57,
-   "upPct": 2.4,
-   "realised": 267.05,
-   "trades": 4,
-   "winPct": 100,
-   "open": 3,
-   "positions": [
-    {
-     "symbol": "IREN",
-     "shares": 23,
-     "entryPrice": 21.67,
-     "lastPrice": 21.03
-    },
-    {
-     "symbol": "SHAZ",
-     "shares": 22,
-     "entryPrice": 22.54,
-     "lastPrice": 21.79
-    },
-    {
-     "symbol": "INDI",
-     "shares": 283,
-     "entryPrice": 1.8,
-     "lastPrice": 1.8238
     }
    ],
    "lastTrade": null
@@ -198,6 +163,47 @@
      "shares": 34,
      "entryPrice": 14.69,
      "lastPrice": 14.675
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 10223.59,
+   "upDollars": 223.59,
+   "upPct": 2.2,
+   "realised": 267.05,
+   "trades": 4,
+   "winPct": 100,
+   "open": 4,
+   "positions": [
+    {
+     "symbol": "IREN",
+     "shares": 23,
+     "entryPrice": 21.67,
+     "lastPrice": 20.8597
+    },
+    {
+     "symbol": "SHAZ",
+     "shares": 22,
+     "entryPrice": 22.54,
+     "lastPrice": 21.6
+    },
+    {
+     "symbol": "INDI",
+     "shares": 283,
+     "entryPrice": 1.8,
+     "lastPrice": 1.82
+    },
+    {
+     "symbol": "OMH",
+     "shares": 35,
+     "entryPrice": 14.5,
+     "lastPrice": 14.22
     }
    ],
    "lastTrade": null
@@ -423,22 +429,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-10-21",
-   "startingCash": 10000,
-   "equity": 10000,
-   "upDollars": 0,
-   "upPct": 0,
-   "realised": 0,
-   "trades": 0,
-   "winPct": null,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-steps-daily",
    "name": "Five Steps (daily)",
    "kind": "official",
@@ -580,6 +570,22 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-six-degrees-spread",
+   "name": "Six Degrees (spread check)",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 9924.82,
+   "upDollars": -75.18,
+   "upPct": -0.8,
+   "realised": -75.18,
+   "trades": 1,
+   "winPct": 0,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -660,11 +666,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9855.03,
-   "upDollars": -144.97,
-   "upPct": -1.4,
-   "realised": -194.28,
-   "trades": 365,
+   "equity": 9832.94,
+   "upDollars": -167.06,
+   "upPct": -1.7,
+   "realised": -198.41,
+   "trades": 367,
    "winPct": 45,
    "open": 10,
    "positions": [
@@ -672,25 +678,25 @@
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 102.8
+     "lastPrice": 102.72
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 146.64,
-     "lastPrice": 149.106
+     "lastPrice": 148.5287
     },
     {
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 46.1088
+     "lastPrice": 46.04
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 96.46
+     "lastPrice": 96.4017
     },
     {
      "symbol": "WFC",
@@ -708,25 +714,25 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 126.95
+     "lastPrice": 126.42
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 141.33,
-     "lastPrice": 143.8295
+     "lastPrice": 142.37
     },
     {
-     "symbol": "INTC",
-     "shares": 17,
-     "entryPrice": 55.67,
-     "lastPrice": 55.5801
+     "symbol": "MRVL",
+     "shares": 7,
+     "entryPrice": 138.03,
+     "lastPrice": 137.8
     },
     {
-     "symbol": "SKHY",
-     "shares": 4,
-     "entryPrice": 124.4,
-     "lastPrice": 124.2
+     "symbol": "IREN",
+     "shares": 46,
+     "entryPrice": 20.85,
+     "lastPrice": 20.85
     }
    ],
    "lastTrade": null
