@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794229432022,
+ "asOfAt": 1794230334940,
  "sessionStatus": "in-progress",
- "publishedAt": 1794229432022,
+ "publishedAt": 1794230334940,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,9 +13,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10271.85,
-   "upDollars": 271.85,
-   "upPct": 2.7,
+   "equity": 10333.35,
+   "upDollars": 333.35,
+   "upPct": 3.3,
    "realised": 328.42,
    "trades": 15,
    "winPct": 60,
@@ -25,7 +25,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 18.4
+     "lastPrice": 19.63
     },
     {
      "symbol": "BRZE",
@@ -42,9 +42,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10240.04,
-   "upDollars": 240.04,
-   "upPct": 2.4,
+   "equity": 10246.78,
+   "upDollars": 246.78,
+   "upPct": 2.5,
    "realised": 143.67,
    "trades": 6,
    "winPct": 67,
@@ -54,13 +54,13 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 20.9119
+     "lastPrice": 20.754
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 22.31
+     "lastPrice": 21.76
     },
     {
      "symbol": "INDI",
@@ -72,13 +72,13 @@
      "symbol": "OMH",
      "shares": 35,
      "entryPrice": 14.5,
-     "lastPrice": 18.2
+     "lastPrice": 18.9427
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.3397
+     "lastPrice": 1.33
     }
    ],
    "lastTrade": null
@@ -640,11 +640,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9779.35,
-   "upDollars": -220.65,
+   "equity": 9779.79,
+   "upDollars": -220.21,
    "upPct": -2.2,
-   "realised": -222.77,
-   "trades": 377,
+   "realised": -224.45,
+   "trades": 379,
    "winPct": 45,
    "open": 10,
    "positions": [
@@ -652,61 +652,61 @@
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 102.97
+     "lastPrice": 103
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 146.64,
-     "lastPrice": 148.04
+     "lastPrice": 148.261
     },
     {
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 45.77
+     "lastPrice": 45.78
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 95.68
+     "lastPrice": 95.7
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 84,
-     "lastPrice": 85.1
+     "lastPrice": 85
     },
     {
      "symbol": "T",
      "shares": 45,
      "entryPrice": 21.627499999999998,
-     "lastPrice": 21.69
+     "lastPrice": 21.6994
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 125.3928
+     "lastPrice": 125.52
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 141.33,
-     "lastPrice": 141.35
+     "lastPrice": 141.29
     },
     {
-     "symbol": "INTC",
-     "shares": 17,
-     "entryPrice": 56.66,
-     "lastPrice": 56.7494
+     "symbol": "NBIS",
+     "shares": 4,
+     "entryPrice": 128.9,
+     "lastPrice": 128.06
     },
     {
-     "symbol": "MSTR",
-     "shares": 7,
-     "entryPrice": 126.49,
-     "lastPrice": 126.06
+     "symbol": "SMCI",
+     "shares": 35,
+     "entryPrice": 27.82,
+     "lastPrice": 27.8808
     }
    ],
    "lastTrade": null
@@ -852,22 +852,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-six-degrees",
-   "name": "Six Degrees",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 9457.31,
-   "upDollars": -542.69,
-   "upPct": -5.4,
-   "realised": -542.69,
-   "trades": 7,
-   "winPct": 14,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-patterns-daily",
    "name": "Five Patterns (daily)",
    "kind": "official",
@@ -924,6 +908,22 @@
      "lastPrice": 27.915
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-six-degrees",
+   "name": "Six Degrees",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 9431.76,
+   "upDollars": -568.24,
+   "upPct": -5.7,
+   "realised": -568.24,
+   "trades": 8,
+   "winPct": 13,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
