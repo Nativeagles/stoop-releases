@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794219499542,
+ "asOfAt": 1794220402673,
  "sessionStatus": "in-progress",
- "publishedAt": 1794219499542,
+ "publishedAt": 1794220402673,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -173,8 +173,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10213.45,
-   "upDollars": 213.45,
+   "equity": 10207.62,
+   "upDollars": 207.62,
    "upPct": 2.1,
    "realised": 204.57,
    "trades": 5,
@@ -185,31 +185,31 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.0958
+     "lastPrice": 21.03
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 21.85
+     "lastPrice": 22.29
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 1.81
+     "lastPrice": 1.82
     },
     {
      "symbol": "OMH",
      "shares": 35,
      "entryPrice": 14.5,
-     "lastPrice": 15.9
+     "lastPrice": 15.52
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.36
+     "lastPrice": 1.3503
     }
    ],
    "lastTrade": null
@@ -356,29 +356,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 10008.19,
-   "upDollars": 8.19,
-   "upPct": 0.1,
-   "realised": 0,
-   "trades": 0,
-   "winPct": null,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "OMH",
-     "shares": 63,
-     "entryPrice": 15.77,
-     "lastPrice": 15.9
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-pattern-follow-tc",
    "name": "Pattern Follow (chart-pattern lists)",
    "kind": "official",
@@ -421,6 +398,29 @@
      "shares": 20,
      "entryPrice": 51.52,
      "lastPrice": 51.52
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 9984.25,
+   "upDollars": -15.75,
+   "upPct": -0.2,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "OMH",
+     "shares": 63,
+     "entryPrice": 15.77,
+     "lastPrice": 15.52
     }
    ],
    "lastTrade": null
@@ -567,29 +567,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 9923.57,
-   "upDollars": -76.43,
-   "upPct": -0.8,
-   "realised": -66.36,
-   "trades": 2,
-   "winPct": 50,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "INO",
-     "shares": 719,
-     "entryPrice": 1.4,
-     "lastPrice": 1.386
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -649,6 +626,22 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-six-degrees-spread",
+   "name": "Six Degrees (spread check)",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 9861.74,
+   "upDollars": -138.26,
+   "upPct": -1.4,
+   "realised": -138.26,
+   "trades": 3,
+   "winPct": 33,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-percent-from-buy",
    "name": "Five Degrees (trail from the buy)",
    "kind": "official",
@@ -670,13 +663,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9839.65,
-   "upDollars": -160.35,
-   "upPct": -1.6,
+   "equity": 9834.59,
+   "upDollars": -165.41,
+   "upPct": -1.7,
    "realised": -196.66,
    "trades": 369,
    "winPct": 45,
-   "open": 8,
+   "open": 10,
    "positions": [
     {
      "symbol": "MDT",
@@ -694,37 +687,49 @@
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 45.98
+     "lastPrice": 45.89
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 96.26
+     "lastPrice": 96.21
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 84,
-     "lastPrice": 84.975
+     "lastPrice": 84.97
     },
     {
      "symbol": "T",
      "shares": 45,
      "entryPrice": 21.627499999999998,
-     "lastPrice": 21.7582
+     "lastPrice": 21.75
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 126.2
+     "lastPrice": 126.46
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 141.33,
-     "lastPrice": 142.28
+     "lastPrice": 142.1
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 7,
+     "entryPrice": 136.17,
+     "lastPrice": 135.67
+    },
+    {
+     "symbol": "INTC",
+     "shares": 17,
+     "entryPrice": 55.94,
+     "lastPrice": 55.97
     }
    ],
    "lastTrade": null
@@ -735,21 +740,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9649.02,
-   "upDollars": -350.98,
-   "upPct": -3.5,
-   "realised": -322.94,
-   "trades": 4,
-   "winPct": 25,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "INO",
-     "shares": 701,
-     "entryPrice": 1.4,
-     "lastPrice": 1.36
-    }
-   ],
+   "equity": 9606.96,
+   "upDollars": -393.04,
+   "upPct": -3.9,
+   "realised": -393.04,
+   "trades": 5,
+   "winPct": 20,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
