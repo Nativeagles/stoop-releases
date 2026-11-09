@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794223111298,
+ "asOfAt": 1794224014173,
  "sessionStatus": "in-progress",
- "publishedAt": 1794223111298,
+ "publishedAt": 1794224014173,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,8 +13,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10339.23,
-   "upDollars": 339.23,
+   "equity": 10339.39,
+   "upDollars": 339.39,
    "upPct": 3.4,
    "realised": 328.42,
    "trades": 15,
@@ -31,7 +31,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 45.7
+     "lastPrice": 45.7147
     }
    ],
    "lastTrade": null
@@ -188,9 +188,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10149.29,
-   "upDollars": 149.29,
-   "upPct": 1.5,
+   "equity": 10155.95,
+   "upDollars": 155.95,
+   "upPct": 1.6,
    "realised": 143.67,
    "trades": 6,
    "winPct": 67,
@@ -200,13 +200,13 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 20.85
+     "lastPrice": 20.7
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 21.74
+     "lastPrice": 22.1656
     },
     {
      "symbol": "INDI",
@@ -218,13 +218,13 @@
      "symbol": "OMH",
      "shares": 35,
      "entryPrice": 14.5,
-     "lastPrice": 15.7
+     "lastPrice": 15.7109
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.379
+     "lastPrice": 1.38
     }
    ],
    "lastTrade": null
@@ -408,19 +408,25 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9987.2,
-   "upDollars": -12.8,
-   "upPct": -0.1,
+   "equity": 9998.31,
+   "upDollars": -1.69,
+   "upPct": 0,
    "realised": 0,
    "trades": 0,
    "winPct": null,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "OMH",
      "shares": 63,
      "entryPrice": 15.77,
-     "lastPrice": 15.5669
+     "lastPrice": 15.7432
+    },
+    {
+     "symbol": "GPUS",
+     "shares": 6449,
+     "entryPrice": 0.1679,
+     "lastPrice": 0.1679
     }
    ],
    "lastTrade": null
@@ -626,22 +632,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-six-degrees-spread",
-   "name": "Six Degrees (spread check)",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 9861.74,
-   "upDollars": -138.26,
-   "upPct": -1.4,
-   "realised": -138.26,
-   "trades": 3,
-   "winPct": 33,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-percent-from-buy",
    "name": "Five Degrees (trail from the buy)",
    "kind": "official",
@@ -663,8 +653,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9818.71,
-   "upDollars": -181.29,
+   "equity": 9824.76,
+   "upDollars": -175.24,
    "upPct": -1.8,
    "realised": -212.39,
    "trades": 372,
@@ -681,25 +671,25 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 146.64,
-     "lastPrice": 148.52
+     "lastPrice": 149
     },
     {
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 45.99
+     "lastPrice": 45.97
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 96.28
+     "lastPrice": 96.27
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 84,
-     "lastPrice": 85
+     "lastPrice": 85.4235
     },
     {
      "symbol": "T",
@@ -711,29 +701,29 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 126.31
+     "lastPrice": 126.4007
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 141.33,
-     "lastPrice": 142.3
+     "lastPrice": 142.0324
     }
    ],
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-six-degrees",
-   "name": "Six Degrees",
+   "styleId": "auto-practice-six-degrees-spread",
+   "name": "Six Degrees (spread check)",
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9606.96,
-   "upDollars": -393.04,
-   "upPct": -3.9,
-   "realised": -393.04,
-   "trades": 5,
-   "winPct": 20,
+   "equity": 9768.22,
+   "upDollars": -231.78,
+   "upPct": -2.3,
+   "realised": -231.78,
+   "trades": 4,
+   "winPct": 25,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -781,6 +771,29 @@
      "shares": 34,
      "entryPrice": 26.77,
      "lastPrice": 26.77
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-six-degrees",
+   "name": "Six Degrees",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 9562.95,
+   "upDollars": -437.05,
+   "upPct": -4.4,
+   "realised": -393.04,
+   "trades": 5,
+   "winPct": 20,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GPUS",
+     "shares": 6198,
+     "entryPrice": 0.175,
+     "lastPrice": 0.1679
     }
    ],
    "lastTrade": null
