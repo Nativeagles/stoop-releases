@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794222208462,
+ "asOfAt": 1794223111298,
  "sessionStatus": "in-progress",
- "publishedAt": 1794222208462,
+ "publishedAt": 1794223111298,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -188,49 +188,43 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10173.07,
-   "upDollars": 173.07,
-   "upPct": 1.7,
-   "realised": 204.57,
-   "trades": 5,
-   "winPct": 80,
-   "open": 6,
+   "equity": 10149.29,
+   "upDollars": 149.29,
+   "upPct": 1.5,
+   "realised": 143.67,
+   "trades": 6,
+   "winPct": 67,
+   "open": 5,
    "positions": [
     {
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 20.57
+     "lastPrice": 20.85
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 21.95
+     "lastPrice": 21.74
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 1.82
+     "lastPrice": 1.8273
     },
     {
      "symbol": "OMH",
      "shares": 35,
      "entryPrice": 14.5,
-     "lastPrice": 15.6988
+     "lastPrice": 15.7
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.36
-    },
-    {
-     "symbol": "NWGL",
-     "shares": 105,
-     "entryPrice": 4.88,
-     "lastPrice": 4.6297
+     "lastPrice": 1.379
     }
    ],
    "lastTrade": null
@@ -414,9 +408,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9999.37,
-   "upDollars": -0.63,
-   "upPct": 0,
+   "equity": 9987.2,
+   "upDollars": -12.8,
+   "upPct": -0.1,
    "realised": 0,
    "trades": 0,
    "winPct": null,
@@ -426,7 +420,7 @@
      "symbol": "OMH",
      "shares": 63,
      "entryPrice": 15.77,
-     "lastPrice": 15.76
+     "lastPrice": 15.5669
     }
    ],
    "lastTrade": null
@@ -669,19 +663,19 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9829.01,
-   "upDollars": -170.99,
-   "upPct": -1.7,
-   "realised": -200.17,
-   "trades": 371,
+   "equity": 9818.71,
+   "upDollars": -181.29,
+   "upPct": -1.8,
+   "realised": -212.39,
+   "trades": 372,
    "winPct": 45,
-   "open": 9,
+   "open": 8,
    "positions": [
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 102.95
+     "lastPrice": 103
     },
     {
      "symbol": "MRK",
@@ -693,13 +687,13 @@
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 46.2
+     "lastPrice": 45.99
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 96.25
+     "lastPrice": 96.28
     },
     {
      "symbol": "WFC",
@@ -717,19 +711,13 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 126.54
+     "lastPrice": 126.31
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 141.33,
-     "lastPrice": 142.12
-    },
-    {
-     "symbol": "IREN",
-     "shares": 47,
-     "entryPrice": 20.77,
-     "lastPrice": 20.64
+     "lastPrice": 142.3
     }
    ],
    "lastTrade": null
