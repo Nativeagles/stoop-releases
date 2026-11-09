@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794260139256,
+ "asOfAt": 1794261042201,
  "sessionStatus": "in-progress",
- "publishedAt": 1794260139256,
+ "publishedAt": 1794261042201,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,8 +13,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10552.25,
-   "upDollars": 552.25,
+   "equity": 10545.32,
+   "upDollars": 545.32,
    "upPct": 5.5,
    "realised": 281.6,
    "trades": 8,
@@ -25,25 +25,25 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.7485
+     "lastPrice": 21.6999
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 24.16
+     "lastPrice": 24.07
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 2.2
+     "lastPrice": 2.1906
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.56
+     "lastPrice": 1.54
     },
     {
      "symbol": "LINC",
@@ -55,19 +55,19 @@
      "symbol": "FJET",
      "shares": 494,
      "entryPrice": 1.05,
-     "lastPrice": 1.1099
+     "lastPrice": 1.1169
     },
     {
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.4138
+     "lastPrice": 3.42
     },
     {
      "symbol": "TTD",
      "shares": 29,
      "entryPrice": 17.9,
-     "lastPrice": 18.0016
+     "lastPrice": 18.06
     }
    ],
    "lastTrade": null
@@ -477,6 +477,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 10029.61,
+   "upDollars": 29.61,
+   "upPct": 0.3,
+   "realised": -40.99,
+   "trades": 2,
+   "winPct": 50,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "MTEK",
+     "shares": 3716,
+     "entryPrice": 0.26,
+     "lastPrice": 0.279
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-pattern-follow-tc",
    "name": "Pattern Follow (chart-pattern lists)",
    "kind": "official",
@@ -519,29 +542,6 @@
      "shares": 20,
      "entryPrice": 51.52,
      "lastPrice": 51.52
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 9988.74,
-   "upDollars": -11.26,
-   "upPct": -0.1,
-   "realised": -40.99,
-   "trades": 2,
-   "winPct": 50,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "MTEK",
-     "shares": 3716,
-     "entryPrice": 0.26,
-     "lastPrice": 0.268
     }
    ],
    "lastTrade": null
@@ -606,6 +606,83 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9787.77,
+   "upDollars": -212.23,
+   "upPct": -2.1,
+   "realised": -200.58,
+   "trades": 418,
+   "winPct": 45,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "NOW",
+     "shares": 9,
+     "entryPrice": 103.52,
+     "lastPrice": 103.1815
+    },
+    {
+     "symbol": "NFLX",
+     "shares": 9,
+     "entryPrice": 64.03,
+     "lastPrice": 63.7895
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 6,
+     "entryPrice": 98.83,
+     "lastPrice": 98.7137
+    },
+    {
+     "symbol": "SHOP",
+     "shares": 3,
+     "entryPrice": 152.34,
+     "lastPrice": 152.4
+    },
+    {
+     "symbol": "COIN",
+     "shares": 4,
+     "entryPrice": 136.61,
+     "lastPrice": 136.13
+    },
+    {
+     "symbol": "C",
+     "shares": 4,
+     "entryPrice": 122.04,
+     "lastPrice": 122
+    },
+    {
+     "symbol": "UBER",
+     "shares": 8,
+     "entryPrice": 71.16,
+     "lastPrice": 70.9694
+    },
+    {
+     "symbol": "NU",
+     "shares": 48,
+     "entryPrice": 12.35,
+     "lastPrice": 12.36
+    },
+    {
+     "symbol": "ABT",
+     "shares": 5,
+     "entryPrice": 110.54,
+     "lastPrice": 110.3075
+    },
+    {
+     "symbol": "PFE",
+     "shares": 33,
+     "entryPrice": 29.28,
+     "lastPrice": 29.2304
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-six-degrees-near-line",
    "name": "Six Degrees (near its line)",
    "kind": "official",
@@ -619,83 +696,6 @@
    "winPct": 20,
    "open": 0,
    "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9782.67,
-   "upDollars": -217.33,
-   "upPct": -2.2,
-   "realised": -200.58,
-   "trades": 418,
-   "winPct": 45,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "NOW",
-     "shares": 9,
-     "entryPrice": 103.52,
-     "lastPrice": 102.9
-    },
-    {
-     "symbol": "NFLX",
-     "shares": 9,
-     "entryPrice": 64.03,
-     "lastPrice": 63.8217
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 6,
-     "entryPrice": 98.83,
-     "lastPrice": 98.66
-    },
-    {
-     "symbol": "SHOP",
-     "shares": 3,
-     "entryPrice": 152.34,
-     "lastPrice": 151.6017
-    },
-    {
-     "symbol": "COIN",
-     "shares": 4,
-     "entryPrice": 136.61,
-     "lastPrice": 136.3
-    },
-    {
-     "symbol": "C",
-     "shares": 4,
-     "entryPrice": 122.04,
-     "lastPrice": 121.975
-    },
-    {
-     "symbol": "UBER",
-     "shares": 8,
-     "entryPrice": 71.16,
-     "lastPrice": 71.0467
-    },
-    {
-     "symbol": "NU",
-     "shares": 48,
-     "entryPrice": 12.35,
-     "lastPrice": 12.36
-    },
-    {
-     "symbol": "ABT",
-     "shares": 5,
-     "entryPrice": 110.54,
-     "lastPrice": 110
-    },
-    {
-     "symbol": "PFE",
-     "shares": 33,
-     "entryPrice": 29.28,
-     "lastPrice": 29.2367
-    }
-   ],
    "lastTrade": null
   },
   {
@@ -911,25 +911,19 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9515.16,
-   "upDollars": -484.84,
-   "upPct": -4.8,
-   "realised": -470.48,
-   "trades": 16,
-   "winPct": 25,
-   "open": 2,
+   "equity": 9369.98,
+   "upDollars": -630.02,
+   "upPct": -6.3,
+   "realised": -560.16,
+   "trades": 17,
+   "winPct": 24,
+   "open": 1,
    "positions": [
     {
      "symbol": "QMCO",
      "shares": 45,
      "entryPrice": 21.49,
-     "lastPrice": 20.48
-    },
-    {
-     "symbol": "SMX",
-     "shares": 76,
-     "entryPrice": 12.51,
-     "lastPrice": 12.9191
+     "lastPrice": 19.9375
     }
    ],
    "lastTrade": null
@@ -956,21 +950,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9161.1,
-   "upDollars": -838.9,
-   "upPct": -8.4,
-   "realised": -834.05,
-   "trades": 25,
-   "winPct": 16,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "NCPL",
-     "shares": 485,
-     "entryPrice": 1.91,
-     "lastPrice": 1.9
-    }
-   ],
+   "equity": 9141.7,
+   "upDollars": -858.3,
+   "upPct": -8.6,
+   "realised": -858.3,
+   "trades": 26,
+   "winPct": 15,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -995,25 +982,19 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8709.81,
-   "upDollars": -1290.19,
-   "upPct": -12.9,
-   "realised": -1287.63,
-   "trades": 29,
+   "equity": 8686.59,
+   "upDollars": -1313.41,
+   "upPct": -13.1,
+   "realised": -1309.23,
+   "trades": 30,
    "winPct": 17,
-   "open": 2,
+   "open": 1,
    "positions": [
-    {
-     "symbol": "EDSA",
-     "shares": 360,
-     "entryPrice": 2.55,
-     "lastPrice": 2.53
-    },
     {
      "symbol": "NCPL",
      "shares": 464,
      "entryPrice": 1.9,
-     "lastPrice": 1.91
+     "lastPrice": 1.891
     }
    ],
    "lastTrade": null
@@ -1039,33 +1020,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8546.39,
-   "upDollars": -1453.61,
-   "upPct": -14.5,
-   "realised": -1437.38,
-   "trades": 35,
-   "winPct": 20,
-   "open": 3,
-   "positions": [
-    {
-     "symbol": "PAYS",
-     "shares": 61,
-     "entryPrice": 14.2,
-     "lastPrice": 14.0429
-    },
-    {
-     "symbol": "HRTX",
-     "shares": 2103,
-     "entryPrice": 0.395,
-     "lastPrice": 0.39
-    },
-    {
-     "symbol": "NCPL",
-     "shares": 455,
-     "entryPrice": 1.9,
-     "lastPrice": 1.9085
-    }
-   ],
+   "equity": 8452.66,
+   "upDollars": -1547.34,
+   "upPct": -15.5,
+   "realised": -1547.34,
+   "trades": 38,
+   "winPct": 18,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
