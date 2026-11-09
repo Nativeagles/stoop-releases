@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794263751163,
+ "asOfAt": 1794264654085,
  "sessionStatus": "in-progress",
- "publishedAt": 1794263751163,
+ "publishedAt": 1794264654085,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -144,8 +144,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10470.99,
-   "upDollars": 470.99,
+   "equity": 10469.78,
+   "upDollars": 469.78,
    "upPct": 4.7,
    "realised": 219.83,
    "trades": 9,
@@ -156,25 +156,25 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.65
+     "lastPrice": 21.63
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 23.96
+     "lastPrice": 24.03
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 2.21
+     "lastPrice": 2.2006
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.5203
+     "lastPrice": 1.52
     },
     {
      "symbol": "LINC",
@@ -192,7 +192,7 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.4569
+     "lastPrice": 3.46
     }
    ],
    "lastTrade": null
@@ -203,8 +203,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10343.67,
-   "upDollars": 343.67,
+   "equity": 10343.4,
+   "upDollars": 343.4,
    "upPct": 3.4,
    "realised": 328.42,
    "trades": 15,
@@ -221,7 +221,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.1045
+     "lastPrice": 46.08
     }
    ],
    "lastTrade": null
@@ -605,8 +605,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9781.7,
-   "upDollars": -218.3,
+   "equity": 9784.97,
+   "upDollars": -215.03,
    "upPct": -2.2,
    "realised": -203.37,
    "trades": 419,
@@ -623,55 +623,55 @@
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 98.83,
-     "lastPrice": 98.9211
+     "lastPrice": 98.98
     },
     {
      "symbol": "SHOP",
      "shares": 3,
      "entryPrice": 152.34,
-     "lastPrice": 152.52
+     "lastPrice": 152.02
     },
     {
      "symbol": "COIN",
      "shares": 4,
      "entryPrice": 136.61,
-     "lastPrice": 136.59
+     "lastPrice": 136.83
     },
     {
      "symbol": "C",
      "shares": 4,
      "entryPrice": 122.04,
-     "lastPrice": 121.6992
+     "lastPrice": 122.2332
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 71.16,
-     "lastPrice": 70.8045
+     "lastPrice": 70.95
     },
     {
      "symbol": "NU",
      "shares": 48,
      "entryPrice": 12.35,
-     "lastPrice": 12.36
+     "lastPrice": 12.35
     },
     {
      "symbol": "ABT",
      "shares": 5,
      "entryPrice": 110.54,
-     "lastPrice": 110.1
+     "lastPrice": 110.02
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 29.28,
-     "lastPrice": 29.2499
+     "lastPrice": 29.22
     },
     {
      "symbol": "INTC",
      "shares": 16,
      "entryPrice": 59.58,
-     "lastPrice": 59.3092
+     "lastPrice": 59.4353
     }
    ],
    "lastTrade": null
@@ -905,8 +905,8 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9370.54,
-   "upDollars": -629.46,
+   "equity": 9371.06,
+   "upDollars": -628.94,
    "upPct": -6.3,
    "realised": -560.16,
    "trades": 17,
@@ -917,7 +917,7 @@
      "symbol": "QMCO",
      "shares": 45,
      "entryPrice": 21.49,
-     "lastPrice": 19.95
+     "lastPrice": 19.9615
     }
    ],
    "lastTrade": null
@@ -976,9 +976,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8595.5,
-   "upDollars": -1404.5,
-   "upPct": -14,
+   "equity": 8609.42,
+   "upDollars": -1390.58,
+   "upPct": -13.9,
    "realised": -1399.86,
    "trades": 31,
    "winPct": 16,
@@ -988,7 +988,7 @@
      "symbol": "NCPL",
      "shares": 464,
      "entryPrice": 1.9,
-     "lastPrice": 1.89
+     "lastPrice": 1.92
     }
    ],
    "lastTrade": null
