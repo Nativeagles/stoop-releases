@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794224014173,
+ "asOfAt": 1794224917355,
  "sessionStatus": "in-progress",
- "publishedAt": 1794224014173,
+ "publishedAt": 1794224917355,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -188,9 +188,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10155.95,
-   "upDollars": 155.95,
-   "upPct": 1.6,
+   "equity": 10143.36,
+   "upDollars": 143.36,
+   "upPct": 1.4,
    "realised": 143.67,
    "trades": 6,
    "winPct": 67,
@@ -200,7 +200,7 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 20.7
+     "lastPrice": 20.65
     },
     {
      "symbol": "SHAZ",
@@ -212,19 +212,19 @@
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 1.8273
+     "lastPrice": 1.82
     },
     {
      "symbol": "OMH",
      "shares": 35,
      "entryPrice": 14.5,
-     "lastPrice": 15.7109
+     "lastPrice": 15.44
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.38
+     "lastPrice": 1.3803
     }
    ],
    "lastTrade": null
@@ -398,35 +398,6 @@
      "shares": 20,
      "entryPrice": 51.52,
      "lastPrice": 51.52
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 9998.31,
-   "upDollars": -1.69,
-   "upPct": 0,
-   "realised": 0,
-   "trades": 0,
-   "winPct": null,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "OMH",
-     "shares": 63,
-     "entryPrice": 15.77,
-     "lastPrice": 15.7432
-    },
-    {
-     "symbol": "GPUS",
-     "shares": 6449,
-     "entryPrice": 0.1679,
-     "lastPrice": 0.1679
     }
    ],
    "lastTrade": null
@@ -648,48 +619,71 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 9823.34,
+   "upDollars": -176.66,
+   "upPct": -1.8,
+   "realised": -161.22,
+   "trades": 1,
+   "winPct": 0,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "OMH",
+     "shares": 63,
+     "entryPrice": 15.77,
+     "lastPrice": 15.525
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9824.76,
-   "upDollars": -175.24,
-   "upPct": -1.8,
+   "equity": 9802.09,
+   "upDollars": -197.91,
+   "upPct": -2,
    "realised": -212.39,
    "trades": 372,
    "winPct": 45,
-   "open": 8,
+   "open": 9,
    "positions": [
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 105.09,
-     "lastPrice": 103
+     "lastPrice": 102.88
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 146.64,
-     "lastPrice": 149
+     "lastPrice": 148.84
     },
     {
      "symbol": "VZ",
      "shares": 21,
      "entryPrice": 45.83,
-     "lastPrice": 45.97
+     "lastPrice": 45.8291
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.75,
-     "lastPrice": 96.27
+     "lastPrice": 96.1552
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 84,
-     "lastPrice": 85.4235
+     "lastPrice": 84.7
     },
     {
      "symbol": "T",
@@ -701,13 +695,19 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.21929080473514,
-     "lastPrice": 126.4007
+     "lastPrice": 126.05
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 141.33,
-     "lastPrice": 142.0324
+     "lastPrice": 141.98
+    },
+    {
+     "symbol": "INTC",
+     "shares": 17,
+     "entryPrice": 56.13,
+     "lastPrice": 55.7894
     }
    ],
    "lastTrade": null
@@ -781,21 +781,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9562.95,
-   "upDollars": -437.05,
-   "upPct": -4.4,
-   "realised": -393.04,
-   "trades": 5,
-   "winPct": 20,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GPUS",
-     "shares": 6198,
-     "entryPrice": 0.175,
-     "lastPrice": 0.1679
-    }
-   ],
+   "equity": 9527,
+   "upDollars": -473,
+   "upPct": -4.7,
+   "realised": -473,
+   "trades": 6,
+   "winPct": 17,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
