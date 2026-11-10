@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-10",
- "asOfAt": 1794318740125,
+ "asOfAt": 1794319643030,
  "sessionStatus": "in-progress",
- "publishedAt": 1794318740125,
+ "publishedAt": 1794319643030,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -173,9 +173,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 10183.18,
-   "upDollars": 183.18,
-   "upPct": 1.8,
+   "equity": 10192.69,
+   "upDollars": 192.69,
+   "upPct": 1.9,
    "trades": 8,
    "winPct": 63,
    "open": 2,
@@ -184,13 +184,72 @@
      "symbol": "SMX (short)",
      "shares": -29,
      "entryPrice": 17.18978688,
-     "lastPrice": 19.43
+     "lastPrice": 19.1285
     },
     {
      "symbol": "PEPG (short)",
      "shares": -105,
      "entryPrice": 4.8648523500000005,
-     "lastPrice": 5.2373
+     "lastPrice": 5.23
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 10150.34,
+   "upDollars": 150.34,
+   "upPct": 1.5,
+   "realised": -30.31,
+   "trades": 15,
+   "winPct": 47,
+   "open": 7,
+   "positions": [
+    {
+     "symbol": "IREN",
+     "shares": 23,
+     "entryPrice": 21.67,
+     "lastPrice": 20.73
+    },
+    {
+     "symbol": "SHAZ",
+     "shares": 22,
+     "entryPrice": 22.54,
+     "lastPrice": 22.5
+    },
+    {
+     "symbol": "INDI",
+     "shares": 283,
+     "entryPrice": 1.8,
+     "lastPrice": 2.12
+    },
+    {
+     "symbol": "LINC",
+     "shares": 24,
+     "entryPrice": 21.32,
+     "lastPrice": 22.2
+    },
+    {
+     "symbol": "FJET",
+     "shares": 494,
+     "entryPrice": 1.05,
+     "lastPrice": 1.116
+    },
+    {
+     "symbol": "UAMY",
+     "shares": 154,
+     "entryPrice": 3.33,
+     "lastPrice": 3.3195
+    },
+    {
+     "symbol": "PXLW",
+     "shares": 79,
+     "entryPrice": 5.89,
+     "lastPrice": 6.6556
     }
    ],
    "lastTrade": null
@@ -280,65 +339,6 @@
      "shares": 4,
      "entryPrice": 106.21,
      "lastPrice": 109.50999999999999
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-loose",
-   "name": "Takeoff - looser",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 10107.51,
-   "upDollars": 107.51,
-   "upPct": 1.1,
-   "realised": -30.31,
-   "trades": 15,
-   "winPct": 47,
-   "open": 7,
-   "positions": [
-    {
-     "symbol": "IREN",
-     "shares": 23,
-     "entryPrice": 21.67,
-     "lastPrice": 20.59
-    },
-    {
-     "symbol": "SHAZ",
-     "shares": 22,
-     "entryPrice": 22.54,
-     "lastPrice": 22.5
-    },
-    {
-     "symbol": "INDI",
-     "shares": 283,
-     "entryPrice": 1.8,
-     "lastPrice": 2.11
-    },
-    {
-     "symbol": "LINC",
-     "shares": 24,
-     "entryPrice": 21.32,
-     "lastPrice": 22.2
-    },
-    {
-     "symbol": "FJET",
-     "shares": 494,
-     "entryPrice": 1.05,
-     "lastPrice": 1.12
-    },
-    {
-     "symbol": "UAMY",
-     "shares": 154,
-     "entryPrice": 3.33,
-     "lastPrice": 3.26
-    },
-    {
-     "symbol": "PXLW",
-     "shares": 79,
-     "entryPrice": 5.89,
-     "lastPrice": 6.281
     }
    ],
    "lastTrade": null
@@ -474,9 +474,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10034.07,
-   "upDollars": 34.07,
-   "upPct": 0.3,
+   "equity": 10039.28,
+   "upDollars": 39.28,
+   "upPct": 0.4,
    "realised": -40.99,
    "trades": 2,
    "winPct": 50,
@@ -486,7 +486,7 @@
      "symbol": "MTEK",
      "shares": 3716,
      "entryPrice": 0.26,
-     "lastPrice": 0.2802
+     "lastPrice": 0.2816
     }
    ],
    "lastTrade": null
@@ -603,9 +603,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 9924.87,
-   "upDollars": -75.13,
-   "upPct": -0.8,
+   "equity": 9937.23,
+   "upDollars": -62.77,
+   "upPct": -0.6,
    "trades": 26,
    "winPct": 58,
    "open": 1,
@@ -614,7 +614,7 @@
      "symbol": "SMX (short)",
      "shares": -41,
      "entryPrice": 12.30749286,
-     "lastPrice": 19.43
+     "lastPrice": 19.1285
     }
    ],
    "lastTrade": null
@@ -625,8 +625,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9750.78,
-   "upDollars": -249.22,
+   "equity": 9745.26,
+   "upDollars": -254.74,
    "upPct": -2.5,
    "realised": -205.13,
    "trades": 420,
@@ -637,43 +637,43 @@
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 103.52,
-     "lastPrice": 102.05
+     "lastPrice": 101.8
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 98.83,
-     "lastPrice": 97.35
+     "lastPrice": 97.55
     },
     {
      "symbol": "SHOP",
      "shares": 3,
      "entryPrice": 152.34,
-     "lastPrice": 148.7832
+     "lastPrice": 150.02
     },
     {
      "symbol": "COIN",
      "shares": 4,
      "entryPrice": 136.61,
-     "lastPrice": 132.95
+     "lastPrice": 132.8666
     },
     {
      "symbol": "C",
      "shares": 4,
      "entryPrice": 122.04,
-     "lastPrice": 122.44
+     "lastPrice": 122.5247
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 71.16,
-     "lastPrice": 70.5499
+     "lastPrice": 70.4
     },
     {
      "symbol": "NU",
      "shares": 48,
      "entryPrice": 12.35,
-     "lastPrice": 12.27
+     "lastPrice": 12.2285
     },
     {
      "symbol": "ABT",
@@ -685,13 +685,13 @@
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 29.28,
-     "lastPrice": 29.33
+     "lastPrice": 29.27
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.95,
-     "lastPrice": 96.82
+     "lastPrice": 96.5192
     }
    ],
    "lastTrade": null
