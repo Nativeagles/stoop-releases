@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-10",
- "asOfAt": 1794307903013,
+ "asOfAt": 1794308805915,
  "sessionStatus": "in-progress",
- "publishedAt": 1794307903013,
+ "publishedAt": 1794308805915,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -183,14 +183,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 10216.89,
+   "upDollars": 216.89,
+   "upPct": 2.2,
+   "trades": 26,
+   "winPct": 58,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-takeoff-loose",
    "name": "Takeoff - looser",
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10216.48,
-   "upDollars": 216.48,
-   "upPct": 2.2,
+   "equity": 10184.91,
+   "upDollars": 184.91,
+   "upPct": 1.8,
    "realised": -19.68,
    "trades": 12,
    "winPct": 42,
@@ -200,25 +215,25 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.24
+     "lastPrice": 21.3
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 23.63
+     "lastPrice": 23.65
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 2.2703
+     "lastPrice": 2.23
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.53
+     "lastPrice": 1.5103
     },
     {
      "symbol": "LINC",
@@ -230,7 +245,7 @@
      "symbol": "FJET",
      "shares": 494,
      "entryPrice": 1.05,
-     "lastPrice": 1.1
+     "lastPrice": 1.07
     },
     {
      "symbol": "UAMY",
@@ -245,21 +260,6 @@
      "lastPrice": 1.31
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 10216.89,
-   "upDollars": 216.89,
-   "upPct": 2.2,
-   "trades": 26,
-   "winPct": 58,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
@@ -611,8 +611,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9780.24,
-   "upDollars": -219.76,
+   "equity": 9781.68,
+   "upDollars": -218.32,
    "upPct": -2.2,
    "realised": -205.13,
    "trades": 420,
@@ -623,43 +623,43 @@
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 103.52,
-     "lastPrice": 102.91
+     "lastPrice": 103
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 98.83,
-     "lastPrice": 98.1
+     "lastPrice": 98.08
     },
     {
      "symbol": "SHOP",
      "shares": 3,
      "entryPrice": 152.34,
-     "lastPrice": 151.03
+     "lastPrice": 150.98
     },
     {
      "symbol": "COIN",
      "shares": 4,
      "entryPrice": 136.61,
-     "lastPrice": 134.9
+     "lastPrice": 134.6683
     },
     {
      "symbol": "C",
      "shares": 4,
      "entryPrice": 122.04,
-     "lastPrice": 123.045
+     "lastPrice": 123.2
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 71.16,
-     "lastPrice": 71
+     "lastPrice": 71.1
     },
     {
      "symbol": "NU",
      "shares": 48,
      "entryPrice": 12.35,
-     "lastPrice": 12.37
+     "lastPrice": 12.4
     },
     {
      "symbol": "ABT",
@@ -671,13 +671,13 @@
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 29.28,
-     "lastPrice": 29.3
+     "lastPrice": 29.2716
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.95,
-     "lastPrice": 96.19
+     "lastPrice": 96.18
     }
    ],
    "lastTrade": null
