@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-09",
- "asOfAt": 1794270974518,
+ "asOfAt": 1794271877623,
  "sessionStatus": "in-progress",
- "publishedAt": 1794270974518,
+ "publishedAt": 1794271877623,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -144,9 +144,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10483.45,
-   "upDollars": 483.45,
-   "upPct": 4.8,
+   "equity": 10473.27,
+   "upDollars": 473.27,
+   "upPct": 4.7,
    "realised": 219.83,
    "trades": 9,
    "winPct": 56,
@@ -156,43 +156,43 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.68
+     "lastPrice": 21.54
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 23.85
+     "lastPrice": 23.73
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 2.21
+     "lastPrice": 2.1905
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.52
+     "lastPrice": 1.5193
     },
     {
      "symbol": "LINC",
      "shares": 24,
      "entryPrice": 21.32,
-     "lastPrice": 22.53
+     "lastPrice": 22.98
     },
     {
      "symbol": "FJET",
      "shares": 494,
      "entryPrice": 1.05,
-     "lastPrice": 1.0991
+     "lastPrice": 1.0818
     },
     {
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.47
+     "lastPrice": 3.4648
     }
    ],
    "lastTrade": null
@@ -605,8 +605,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9789.5,
-   "upDollars": -210.5,
+   "equity": 9787.2,
+   "upDollars": -212.8,
    "upPct": -2.1,
    "realised": -205.13,
    "trades": 420,
@@ -617,25 +617,25 @@
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 103.52,
-     "lastPrice": 103.152
+     "lastPrice": 103
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 98.83,
-     "lastPrice": 98.82
+     "lastPrice": 98.56
     },
     {
      "symbol": "SHOP",
      "shares": 3,
      "entryPrice": 152.34,
-     "lastPrice": 152.1396
+     "lastPrice": 152.12
     },
     {
      "symbol": "COIN",
      "shares": 4,
      "entryPrice": 136.61,
-     "lastPrice": 136.24
+     "lastPrice": 136.4755
     },
     {
      "symbol": "C",
@@ -647,13 +647,13 @@
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 71.16,
-     "lastPrice": 70.9589
+     "lastPrice": 70.94
     },
     {
      "symbol": "NU",
      "shares": 48,
      "entryPrice": 12.35,
-     "lastPrice": 12.3677
+     "lastPrice": 12.3999
     },
     {
      "symbol": "ABT",
@@ -665,13 +665,13 @@
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 29.28,
-     "lastPrice": 29.2992
+     "lastPrice": 29.2499
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.95,
-     "lastPrice": 95.9022
+     "lastPrice": 95.9
     }
    ],
    "lastTrade": null
@@ -905,9 +905,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9371.78,
-   "upDollars": -628.22,
-   "upPct": -6.3,
+   "equity": 9361.78,
+   "upDollars": -638.22,
+   "upPct": -6.4,
    "realised": -560.16,
    "trades": 17,
    "winPct": 24,
@@ -917,7 +917,7 @@
      "symbol": "QMCO",
      "shares": 45,
      "entryPrice": 21.49,
-     "lastPrice": 19.9776
+     "lastPrice": 19.7554
     }
    ],
    "lastTrade": null
@@ -976,9 +976,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8591.55,
-   "upDollars": -1408.45,
-   "upPct": -14.1,
+   "equity": 8595.5,
+   "upDollars": -1404.5,
+   "upPct": -14,
    "realised": -1399.86,
    "trades": 31,
    "winPct": 16,
@@ -988,7 +988,7 @@
      "symbol": "NCPL",
      "shares": 464,
      "entryPrice": 1.9,
-     "lastPrice": 1.8815
+     "lastPrice": 1.89
     }
    ],
    "lastTrade": null
