@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-10",
- "asOfAt": 1794307000219,
+ "asOfAt": 1794307903013,
  "sessionStatus": "in-progress",
- "publishedAt": 1794307000219,
+ "publishedAt": 1794307903013,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -188,9 +188,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10237.45,
-   "upDollars": 237.45,
-   "upPct": 2.4,
+   "equity": 10216.48,
+   "upDollars": 216.48,
+   "upPct": 2.2,
    "realised": -19.68,
    "trades": 12,
    "winPct": 42,
@@ -200,25 +200,25 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.48
+     "lastPrice": 21.24
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 23.9
+     "lastPrice": 23.63
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 2.26
+     "lastPrice": 2.2703
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.52
+     "lastPrice": 1.53
     },
     {
      "symbol": "LINC",
@@ -236,13 +236,13 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.48
+     "lastPrice": 3.4
     },
     {
      "symbol": "WFF",
      "shares": 374,
      "entryPrice": 1.4,
-     "lastPrice": 1.32
+     "lastPrice": 1.31
     }
    ],
    "lastTrade": null
@@ -611,8 +611,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9781.64,
-   "upDollars": -218.36,
+   "equity": 9780.24,
+   "upDollars": -219.76,
    "upPct": -2.2,
    "realised": -205.13,
    "trades": 420,
@@ -623,25 +623,25 @@
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 103.52,
-     "lastPrice": 102.93
+     "lastPrice": 102.91
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 98.83,
-     "lastPrice": 98
+     "lastPrice": 98.1
     },
     {
      "symbol": "SHOP",
      "shares": 3,
      "entryPrice": 152.34,
-     "lastPrice": 151.19
+     "lastPrice": 151.03
     },
     {
      "symbol": "COIN",
      "shares": 4,
      "entryPrice": 136.61,
-     "lastPrice": 135.03
+     "lastPrice": 134.9
     },
     {
      "symbol": "C",
@@ -653,13 +653,13 @@
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 71.16,
-     "lastPrice": 71.24
+     "lastPrice": 71
     },
     {
      "symbol": "NU",
      "shares": 48,
      "entryPrice": 12.35,
-     "lastPrice": 12.3825
+     "lastPrice": 12.37
     },
     {
      "symbol": "ABT",
@@ -677,7 +677,7 @@
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.95,
-     "lastPrice": 96.02
+     "lastPrice": 96.19
     }
    ],
    "lastTrade": null
