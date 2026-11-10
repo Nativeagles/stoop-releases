@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "asOfSession": "2026-11-09",
- "asOfAt": 1794271877623,
+ "asOfSession": "2026-11-10",
+ "asOfAt": 1794301582840,
  "sessionStatus": "in-progress",
- "publishedAt": 1794271877623,
+ "publishedAt": 1794301582840,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -144,9 +144,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10473.27,
-   "upDollars": 473.27,
-   "upPct": 4.7,
+   "equity": 10481.99,
+   "upDollars": 481.99,
+   "upPct": 4.8,
    "realised": 219.83,
    "trades": 9,
    "winPct": 56,
@@ -156,25 +156,25 @@
      "symbol": "IREN",
      "shares": 23,
      "entryPrice": 21.67,
-     "lastPrice": 21.54
+     "lastPrice": 21.25
     },
     {
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 23.73
+     "lastPrice": 23.66
     },
     {
      "symbol": "INDI",
      "shares": 283,
      "entryPrice": 1.8,
-     "lastPrice": 2.1905
+     "lastPrice": 2.2
     },
     {
      "symbol": "INO",
      "shares": 364,
      "entryPrice": 1.4,
-     "lastPrice": 1.5193
+     "lastPrice": 1.54
     },
     {
      "symbol": "LINC",
@@ -186,13 +186,13 @@
      "symbol": "FJET",
      "shares": 494,
      "entryPrice": 1.05,
-     "lastPrice": 1.0818
+     "lastPrice": 1.1
     },
     {
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.4648
+     "lastPrice": 3.45
     }
    ],
    "lastTrade": null
@@ -203,8 +203,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10343.84,
-   "upDollars": 343.84,
+   "equity": 10340.44,
+   "upDollars": 340.43,
    "upPct": 3.4,
    "realised": 328.42,
    "trades": 15,
@@ -221,7 +221,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.12
+     "lastPrice": 45.81
     }
    ],
    "lastTrade": null
@@ -351,9 +351,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10107.65,
-   "upDollars": 107.65,
-   "upPct": 1.1,
+   "equity": 10103.19,
+   "upDollars": 103.19,
+   "upPct": 1,
    "realised": -40.99,
    "trades": 2,
    "winPct": 50,
@@ -363,7 +363,7 @@
      "symbol": "MTEK",
      "shares": 3716,
      "entryPrice": 0.26,
-     "lastPrice": 0.3
+     "lastPrice": 0.2988
     }
    ],
    "lastTrade": null
@@ -605,9 +605,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9787.2,
-   "upDollars": -212.8,
-   "upPct": -2.1,
+   "equity": 9795.78,
+   "upDollars": -204.22,
+   "upPct": -2,
    "realised": -205.13,
    "trades": 420,
    "winPct": 45,
@@ -617,61 +617,61 @@
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 103.52,
-     "lastPrice": 103
+     "lastPrice": 103.17
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 98.83,
-     "lastPrice": 98.56
+     "lastPrice": 98.48
     },
     {
      "symbol": "SHOP",
      "shares": 3,
      "entryPrice": 152.34,
-     "lastPrice": 152.12
+     "lastPrice": 153.1615
     },
     {
      "symbol": "COIN",
      "shares": 4,
      "entryPrice": 136.61,
-     "lastPrice": 136.4755
+     "lastPrice": 134.77
     },
     {
      "symbol": "C",
      "shares": 4,
      "entryPrice": 122.04,
-     "lastPrice": 122.4
+     "lastPrice": 122.5
     },
     {
      "symbol": "UBER",
      "shares": 8,
      "entryPrice": 71.16,
-     "lastPrice": 70.94
+     "lastPrice": 71.12
     },
     {
      "symbol": "NU",
      "shares": 48,
      "entryPrice": 12.35,
-     "lastPrice": 12.3999
+     "lastPrice": 12.38
     },
     {
      "symbol": "ABT",
      "shares": 5,
      "entryPrice": 110.54,
-     "lastPrice": 110.39
+     "lastPrice": 111.13
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 29.28,
-     "lastPrice": 29.2499
+     "lastPrice": 29.33
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 95.95,
-     "lastPrice": 95.9
+     "lastPrice": 96.3
     }
    ],
    "lastTrade": null
@@ -900,29 +900,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 9361.78,
-   "upDollars": -638.22,
-   "upPct": -6.4,
-   "realised": -560.16,
-   "trades": 17,
-   "winPct": 24,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "QMCO",
-     "shares": 45,
-     "entryPrice": 21.49,
-     "lastPrice": 19.7554
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-down-bubble-pmh",
    "name": "Down Bubble — premarket high",
    "kind": "official",
@@ -976,21 +953,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8595.5,
-   "upDollars": -1404.5,
-   "upPct": -14,
-   "realised": -1399.86,
-   "trades": 31,
+   "equity": 8590.86,
+   "upDollars": -1409.14,
+   "upPct": -14.1,
+   "realised": -1409.14,
+   "trades": 32,
    "winPct": 16,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "NCPL",
-     "shares": 464,
-     "entryPrice": 1.9,
-     "lastPrice": 1.89
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1004,6 +974,22 @@
    "upPct": -14.2,
    "trades": 14,
    "winPct": 29,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 8473.69,
+   "upDollars": -1526.31,
+   "upPct": -15.3,
+   "realised": -1526.31,
+   "trades": 18,
+   "winPct": 22,
    "open": 0,
    "positions": [],
    "lastTrade": null
