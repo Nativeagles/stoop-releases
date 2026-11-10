@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-10",
- "asOfAt": 1794350352592,
+ "asOfAt": 1794351256249,
  "sessionStatus": "in-progress",
- "publishedAt": 1794350352592,
+ "publishedAt": 1794351256249,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -197,9 +197,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10102.27,
-   "upDollars": 102.27,
-   "upPct": 1,
+   "equity": 10111.35,
+   "upDollars": 111.35,
+   "upPct": 1.1,
    "realised": -44.76,
    "trades": 19,
    "winPct": 47,
@@ -221,25 +221,25 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.23
+     "lastPrice": 3.215
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.34
+     "lastPrice": 15.37
     },
     {
      "symbol": "BW",
      "shares": 132,
      "entryPrice": 3.85,
-     "lastPrice": 4.48
+     "lastPrice": 4.4841
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1
+     "lastPrice": 1.02
     }
    ],
    "lastTrade": null
@@ -541,9 +541,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9988.74,
-   "upDollars": -11.26,
-   "upPct": -0.1,
+   "equity": 9996.17,
+   "upDollars": -3.83,
+   "upPct": 0,
    "realised": -40.99,
    "trades": 2,
    "winPct": 50,
@@ -553,7 +553,7 @@
      "symbol": "MTEK",
      "shares": 3716,
      "entryPrice": 0.26,
-     "lastPrice": 0.268
+     "lastPrice": 0.27
     }
    ],
    "lastTrade": null
@@ -641,8 +641,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9697.58,
-   "upDollars": -302.42,
+   "equity": 9699.72,
+   "upDollars": -300.28,
    "upPct": -3,
    "realised": -288.03,
    "trades": 431,
@@ -653,31 +653,31 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 63.21,
-     "lastPrice": 63.2314
+     "lastPrice": 63.1911
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.5,
-     "lastPrice": 125.4962
+     "lastPrice": 125.45
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.73,
-     "lastPrice": 50.68
+     "lastPrice": 50.74
     },
     {
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.43,
-     "lastPrice": 80.95
+     "lastPrice": 81.07
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 147.86,
-     "lastPrice": 148.024
+     "lastPrice": 147.8888
     },
     {
      "symbol": "MDT",
@@ -689,7 +689,7 @@
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 112.49,
-     "lastPrice": 112.26
+     "lastPrice": 112.25
     },
     {
      "symbol": "PEP",
@@ -701,13 +701,13 @@
      "symbol": "VZ",
      "shares": 20,
      "entryPrice": 46.32,
-     "lastPrice": 46.232
+     "lastPrice": 46.31
     },
     {
      "symbol": "INTC",
      "shares": 11,
      "entryPrice": 58.4,
-     "lastPrice": 58.0854
+     "lastPrice": 58.08
     }
    ],
    "lastTrade": null
@@ -1001,9 +1001,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8424.78,
-   "upDollars": -1575.22,
-   "upPct": -15.8,
+   "equity": 8484.06,
+   "upDollars": -1515.94,
+   "upPct": -15.2,
    "realised": -1501.12,
    "trades": 30,
    "winPct": 30,
@@ -1013,7 +1013,7 @@
      "symbol": "OMH",
      "shares": 38,
      "entryPrice": 22.07,
-     "lastPrice": 20.12
+     "lastPrice": 21.68
     }
    ],
    "lastTrade": null
