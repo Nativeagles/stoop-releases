@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-10",
- "asOfAt": 1794355094152,
+ "asOfAt": 1794355997547,
  "sessionStatus": "in-progress",
- "publishedAt": 1794355094152,
+ "publishedAt": 1794355997547,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -153,9 +153,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10336.66,
-   "upDollars": 336.66,
-   "upPct": 3.4,
+   "equity": 10347.66,
+   "upDollars": 347.66,
+   "upPct": 3.5,
    "realised": 328.42,
    "trades": 15,
    "winPct": 60,
@@ -165,7 +165,7 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.58
+     "lastPrice": 19.8
     },
     {
      "symbol": "BRZE",
@@ -197,9 +197,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10104.15,
-   "upDollars": 104.15,
-   "upPct": 1,
+   "equity": 10116.72,
+   "upDollars": 116.72,
+   "upPct": 1.2,
    "realised": -44.76,
    "trades": 19,
    "winPct": 47,
@@ -209,7 +209,7 @@
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 24
+     "lastPrice": 23.88
     },
     {
      "symbol": "LINC",
@@ -221,25 +221,25 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.21
+     "lastPrice": 3.2008
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.4
+     "lastPrice": 15.3693
     },
     {
      "symbol": "BW",
      "shares": 132,
      "entryPrice": 3.85,
-     "lastPrice": 4.45
+     "lastPrice": 4.4898
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1
+     "lastPrice": 1.0254
     }
    ],
    "lastTrade": null
@@ -641,9 +641,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9706.9,
-   "upDollars": -293.1,
-   "upPct": -2.9,
+   "equity": 9703.64,
+   "upDollars": -296.36,
+   "upPct": -3,
    "realised": -292.87,
    "trades": 432,
    "winPct": 44,
@@ -653,61 +653,61 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 63.21,
-     "lastPrice": 63.23
+     "lastPrice": 63.14
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.5,
-     "lastPrice": 125.53
+     "lastPrice": 125.22
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.73,
-     "lastPrice": 50.77
+     "lastPrice": 50.68
     },
     {
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.43,
-     "lastPrice": 81.31
+     "lastPrice": 81.56
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 147.86,
-     "lastPrice": 147.5101
+     "lastPrice": 147.8
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 101.57,
-     "lastPrice": 101.5533
+     "lastPrice": 101
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 112.49,
-     "lastPrice": 112.9403
+     "lastPrice": 113.2108
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 143.63,
-     "lastPrice": 143.49
+     "lastPrice": 143.61
     },
     {
      "symbol": "VZ",
      "shares": 20,
      "entryPrice": 46.32,
-     "lastPrice": 46.29
+     "lastPrice": 46.2861
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 96.96,
-     "lastPrice": 96.95
+     "lastPrice": 96.9118
     }
    ],
    "lastTrade": null
@@ -1001,9 +1001,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8509.14,
-   "upDollars": -1490.86,
-   "upPct": -14.9,
+   "equity": 8545.62,
+   "upDollars": -1454.38,
+   "upPct": -14.5,
    "realised": -1501.12,
    "trades": 30,
    "winPct": 30,
@@ -1013,7 +1013,7 @@
      "symbol": "OMH",
      "shares": 38,
      "entryPrice": 22.07,
-     "lastPrice": 22.34
+     "lastPrice": 23.3
     }
    ],
    "lastTrade": null
