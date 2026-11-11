@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-11",
- "asOfAt": 1794436279483,
+ "asOfAt": 1794437182402,
  "sessionStatus": "in-progress",
- "publishedAt": 1794436279483,
+ "publishedAt": 1794437182402,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -399,9 +399,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10167.73,
-   "upDollars": 167.73,
-   "upPct": 1.7,
+   "equity": 10149.05,
+   "upDollars": 149.05,
+   "upPct": 1.5,
    "realised": -98.58,
    "trades": 22,
    "winPct": 45,
@@ -411,7 +411,7 @@
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 26
+     "lastPrice": 25.56
     },
     {
      "symbol": "LINC",
@@ -429,13 +429,13 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.96
+     "lastPrice": 15.8893
     },
     {
      "symbol": "BW",
      "shares": 132,
      "entryPrice": 3.85,
-     "lastPrice": 4.9015
+     "lastPrice": 4.9003
     },
     {
      "symbol": "XCUR",
@@ -447,19 +447,19 @@
      "symbol": "GEVO",
      "shares": 266,
      "entryPrice": 1.93,
-     "lastPrice": 1.78
+     "lastPrice": 1.76
     },
     {
      "symbol": "PEPG",
      "shares": 90,
      "entryPrice": 5.57,
-     "lastPrice": 5.37
+     "lastPrice": 5.32
     },
     {
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 48.5
+     "lastPrice": 48.845
     }
    ],
    "lastTrade": null
@@ -664,11 +664,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9782.99,
-   "upDollars": -217.01,
-   "upPct": -2.2,
-   "realised": -197.13,
-   "trades": 450,
+   "equity": 9745.27,
+   "upDollars": -254.73,
+   "upPct": -2.5,
+   "realised": -204.57,
+   "trades": 451,
    "winPct": 44,
    "open": 10,
    "positions": [
@@ -676,61 +676,61 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 103.01,
-     "lastPrice": 101.4997
+     "lastPrice": 101.5
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 100.95
+     "lastPrice": 100.51
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 149.26
+     "lastPrice": 148
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 70.4
+     "lastPrice": 70.2
     },
     {
      "symbol": "C",
      "shares": 5,
      "entryPrice": 124.29,
-     "lastPrice": 124.22
+     "lastPrice": 124.8123
     },
     {
      "symbol": "MCHP",
      "shares": 10,
      "entryPrice": 62.2,
-     "lastPrice": 61.87
+     "lastPrice": 61.08
     },
     {
      "symbol": "T",
      "shares": 29,
      "entryPrice": 22.22,
-     "lastPrice": 22.1317
+     "lastPrice": 22.21
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 85.92,
-     "lastPrice": 86.1999
+     "lastPrice": 86.13
     },
     {
      "symbol": "INTC",
      "shares": 15,
      "entryPrice": 62.28,
-     "lastPrice": 61.97
+     "lastPrice": 61.03
     },
     {
-     "symbol": "SOXX",
-     "shares": 6,
-     "entryPrice": 154.42,
-     "lastPrice": 154.46
+     "symbol": "NFLX",
+     "shares": 15,
+     "entryPrice": 64.35,
+     "lastPrice": 64.1301
     }
    ],
    "lastTrade": null
