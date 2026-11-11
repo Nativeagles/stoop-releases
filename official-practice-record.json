@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-11",
- "asOfAt": 1794400154046,
+ "asOfAt": 1794401057030,
  "sessionStatus": "in-progress",
- "publishedAt": 1794400154046,
+ "publishedAt": 1794401057030,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -182,9 +182,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10294.42,
-   "upDollars": 294.42,
-   "upPct": 2.9,
+   "equity": 10275.05,
+   "upDollars": 275.05,
+   "upPct": 2.8,
    "realised": 24.78,
    "trades": 20,
    "winPct": 50,
@@ -194,7 +194,7 @@
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 25.42
+     "lastPrice": 25.7
     },
     {
      "symbol": "LINC",
@@ -206,31 +206,31 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.3899
+     "lastPrice": 3.39
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.39
+     "lastPrice": 15.35
     },
     {
      "symbol": "BW",
      "shares": 132,
      "entryPrice": 3.85,
-     "lastPrice": 4.64
+     "lastPrice": 4.7116
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.02
+     "lastPrice": 1
     },
     {
      "symbol": "OMH",
      "shares": 17,
      "entryPrice": 28.74,
-     "lastPrice": 30.3995
+     "lastPrice": 29
     }
    ],
    "lastTrade": null
@@ -624,8 +624,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9905.56,
-   "upDollars": -94.44,
+   "equity": 9908.09,
+   "upDollars": -91.91,
    "upPct": -0.9,
    "realised": -163.28,
    "trades": 4,
@@ -642,7 +642,7 @@
      "symbol": "ARAI",
      "shares": 8426,
      "entryPrice": 0.05,
-     "lastPrice": 0.0501
+     "lastPrice": 0.0504
     }
    ],
    "lastTrade": null
@@ -653,9 +653,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9736.71,
-   "upDollars": -263.29,
-   "upPct": -2.6,
+   "equity": 9730.29,
+   "upDollars": -269.71,
+   "upPct": -2.7,
    "realised": -292.87,
    "trades": 432,
    "winPct": 44,
@@ -665,61 +665,61 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 63.21,
-     "lastPrice": 63
+     "lastPrice": 62.9
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.5,
-     "lastPrice": 123.85
+     "lastPrice": 124
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.73,
-     "lastPrice": 50.85
+     "lastPrice": 50.81
     },
     {
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.43,
-     "lastPrice": 83.14
+     "lastPrice": 83.6
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 147.86,
-     "lastPrice": 147.9637
+     "lastPrice": 146.85
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 101.57,
-     "lastPrice": 100.69
+     "lastPrice": 100.49
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 112.49,
-     "lastPrice": 120.25
+     "lastPrice": 120.32
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 143.63,
-     "lastPrice": 141.61
+     "lastPrice": 141.58
     },
     {
      "symbol": "VZ",
      "shares": 20,
      "entryPrice": 46.32,
-     "lastPrice": 45.9
+     "lastPrice": 45.85
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 96.96,
-     "lastPrice": 95.7294
+     "lastPrice": 95.6
     }
    ],
    "lastTrade": null
@@ -1007,9 +1007,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8466.99,
-   "upDollars": -1533.01,
-   "upPct": -15.3,
+   "equity": 8272.26,
+   "upDollars": -1727.74,
+   "upPct": -17.3,
    "trades": 14,
    "winPct": 29,
    "open": 1,
@@ -1018,7 +1018,7 @@
      "symbol": "INLF (short)",
      "shares": -1293,
      "entryPrice": 0.6636699300000001,
-     "lastPrice": 0.7544
+     "lastPrice": 0.905
     }
    ],
    "lastTrade": null
