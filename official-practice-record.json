@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-11",
- "asOfAt": 1794392024399,
+ "asOfAt": 1794392927246,
  "sessionStatus": "in-progress",
- "publishedAt": 1794392024399,
+ "publishedAt": 1794392927246,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -197,8 +197,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10263.69,
-   "upDollars": 263.69,
+   "equity": 10261.79,
+   "upDollars": 261.79,
    "upPct": 2.6,
    "realised": 24.78,
    "trades": 20,
@@ -221,19 +221,19 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.33
+     "lastPrice": 3.32
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.4269
+     "lastPrice": 15.38
     },
     {
      "symbol": "BW",
      "shares": 132,
      "entryPrice": 3.85,
-     "lastPrice": 4.6
+     "lastPrice": 4.6097
     },
     {
      "symbol": "XCUR",
@@ -489,41 +489,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 10005.57,
-   "upDollars": 5.57,
-   "upPct": 0.1,
-   "realised": -111.75,
-   "trades": 3,
-   "winPct": 33,
-   "open": 3,
-   "positions": [
-    {
-     "symbol": "MTEK",
-     "shares": 3716,
-     "entryPrice": 0.26,
-     "lastPrice": 0.2783
-    },
-    {
-     "symbol": "HUBC",
-     "shares": 5856,
-     "entryPrice": 0.08,
-     "lastPrice": 0.0854
-    },
-    {
-     "symbol": "ARAI",
-     "shares": 8426,
-     "entryPrice": 0.05,
-     "lastPrice": 0.0521
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-pattern-follow-tc",
    "name": "Pattern Follow (chart-pattern lists)",
    "kind": "official",
@@ -566,6 +531,41 @@
      "shares": 20,
      "entryPrice": 51.52,
      "lastPrice": 51.52
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 9962.97,
+   "upDollars": -37.03,
+   "upPct": -0.4,
+   "realised": -111.75,
+   "trades": 3,
+   "winPct": 33,
+   "open": 3,
+   "positions": [
+    {
+     "symbol": "MTEK",
+     "shares": 3716,
+     "entryPrice": 0.26,
+     "lastPrice": 0.2783
+    },
+    {
+     "symbol": "HUBC",
+     "shares": 5856,
+     "entryPrice": 0.08,
+     "lastPrice": 0.0787
+    },
+    {
+     "symbol": "ARAI",
+     "shares": 8426,
+     "entryPrice": 0.05,
+     "lastPrice": 0.0517
     }
    ],
    "lastTrade": null
@@ -653,8 +653,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9715.59,
-   "upDollars": -284.41,
+   "equity": 9723.83,
+   "upDollars": -276.17,
    "upPct": -2.8,
    "realised": -292.87,
    "trades": 432,
@@ -665,13 +665,13 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 63.21,
-     "lastPrice": 62.91
+     "lastPrice": 62.8647
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.5,
-     "lastPrice": 124.01
+     "lastPrice": 123.95
     },
     {
      "symbol": "BAC",
@@ -683,13 +683,13 @@
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.43,
-     "lastPrice": 82.6
+     "lastPrice": 83.09
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 147.86,
-     "lastPrice": 146.9262
+     "lastPrice": 146.75
     },
     {
      "symbol": "MDT",
@@ -701,25 +701,25 @@
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 112.49,
-     "lastPrice": 118.44
+     "lastPrice": 118.79
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 143.63,
-     "lastPrice": 142.06
+     "lastPrice": 141.955
     },
     {
      "symbol": "VZ",
      "shares": 20,
      "entryPrice": 46.32,
-     "lastPrice": 45.91
+     "lastPrice": 46.02
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 96.96,
-     "lastPrice": 95.93
+     "lastPrice": 96
     }
    ],
    "lastTrade": null
