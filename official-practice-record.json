@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-11",
- "asOfAt": 1794430859137,
+ "asOfAt": 1794431763499,
  "sessionStatus": "in-progress",
- "publishedAt": 1794430859137,
+ "publishedAt": 1794431763499,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -20,6 +20,29 @@
    "winPct": 67,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 10370.22,
+   "upDollars": 370.22,
+   "upPct": 3.7,
+   "realised": -129.58,
+   "trades": 5,
+   "winPct": 40,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "MTEK",
+     "shares": 3716,
+     "entryPrice": 0.26,
+     "lastPrice": 0.3945
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -399,9 +422,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10164.42,
-   "upDollars": 164.42,
-   "upPct": 1.6,
+   "equity": 10182.99,
+   "upDollars": 182.99,
+   "upPct": 1.8,
    "realised": -98.58,
    "trades": 22,
    "winPct": 45,
@@ -411,55 +434,55 @@
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 26.45
+     "lastPrice": 26.43
     },
     {
      "symbol": "LINC",
      "shares": 24,
      "entryPrice": 21.32,
-     "lastPrice": 23.58
+     "lastPrice": 23.51
     },
     {
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.125
+     "lastPrice": 3.1316
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 16.01
+     "lastPrice": 15.98
     },
     {
      "symbol": "BW",
      "shares": 132,
      "entryPrice": 3.85,
-     "lastPrice": 4.855
+     "lastPrice": 4.87
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.07
+     "lastPrice": 1.11
     },
     {
      "symbol": "GEVO",
      "shares": 266,
      "entryPrice": 1.93,
-     "lastPrice": 1.805
+     "lastPrice": 1.8
     },
     {
      "symbol": "PEPG",
      "shares": 90,
      "entryPrice": 5.57,
-     "lastPrice": 5.295
+     "lastPrice": 5.3297
     },
     {
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 48.825
+     "lastPrice": 48.56
     }
    ],
    "lastTrade": null
@@ -643,101 +666,78 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 9900.89,
-   "upDollars": -99.11,
-   "upPct": -1,
-   "realised": -129.58,
-   "trades": 5,
-   "winPct": 40,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "MTEK",
-     "shares": 3716,
-     "entryPrice": 0.26,
-     "lastPrice": 0.2682
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9829.44,
-   "upDollars": -170.56,
+   "equity": 9826.97,
+   "upDollars": -173.03,
    "upPct": -1.7,
-   "realised": -168.95,
-   "trades": 442,
+   "realised": -168.91,
+   "trades": 444,
    "winPct": 45,
    "open": 10,
    "positions": [
     {
-     "symbol": "SPCX",
-     "shares": 4,
-     "entryPrice": 140.09,
-     "lastPrice": 139.54
-    },
-    {
-     "symbol": "INTC",
-     "shares": 10,
-     "entryPrice": 62.39,
-     "lastPrice": 62.5
-    },
-    {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 103.01,
-     "lastPrice": 102.91
+     "lastPrice": 102.9
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 100.775
+     "lastPrice": 101.032
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 149.315
+     "lastPrice": 149.01
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 70.7923
+     "lastPrice": 70.6
     },
     {
      "symbol": "C",
      "shares": 5,
      "entryPrice": 124.29,
-     "lastPrice": 124.22
+     "lastPrice": 124
     },
     {
      "symbol": "MCHP",
      "shares": 10,
      "entryPrice": 62.2,
-     "lastPrice": 62.115
+     "lastPrice": 62.05
     },
     {
      "symbol": "T",
      "shares": 29,
      "entryPrice": 22.22,
-     "lastPrice": 22.235
+     "lastPrice": 22.22
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 85.92,
-     "lastPrice": 85.965
+     "lastPrice": 85.99
+    },
+    {
+     "symbol": "SOXX",
+     "shares": 6,
+     "entryPrice": 155.33,
+     "lastPrice": 155.31
+    },
+    {
+     "symbol": "ORCL",
+     "shares": 7,
+     "entryPrice": 128.6,
+     "lastPrice": 128.5981
     }
    ],
    "lastTrade": null
