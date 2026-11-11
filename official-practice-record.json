@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-11",
- "asOfAt": 1794393830285,
+ "asOfAt": 1794394733269,
  "sessionStatus": "in-progress",
- "publishedAt": 1794393830285,
+ "publishedAt": 1794394733269,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -177,59 +177,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-loose",
-   "name": "Takeoff - looser",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 10270.32,
-   "upDollars": 270.32,
-   "upPct": 2.7,
-   "realised": 24.78,
-   "trades": 20,
-   "winPct": 50,
-   "open": 6,
-   "positions": [
-    {
-     "symbol": "SHAZ",
-     "shares": 22,
-     "entryPrice": 22.54,
-     "lastPrice": 25
-    },
-    {
-     "symbol": "LINC",
-     "shares": 24,
-     "entryPrice": 21.32,
-     "lastPrice": 22.96
-    },
-    {
-     "symbol": "UAMY",
-     "shares": 154,
-     "entryPrice": 3.33,
-     "lastPrice": 3.32
-    },
-    {
-     "symbol": "TTD",
-     "shares": 35,
-     "entryPrice": 14.53,
-     "lastPrice": 15.39
-    },
-    {
-     "symbol": "BW",
-     "shares": 132,
-     "entryPrice": 3.85,
-     "lastPrice": 4.6
-    },
-    {
-     "symbol": "XCUR",
-     "shares": 490,
-     "entryPrice": 1.03,
-     "lastPrice": 1.08
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "short-lane-rebreak3",
    "name": "PRETEND - Short the third breakout",
    "kind": "official",
@@ -242,6 +189,65 @@
    "winPct": 58,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 10248.49,
+   "upDollars": 248.49,
+   "upPct": 2.5,
+   "realised": 24.78,
+   "trades": 20,
+   "winPct": 50,
+   "open": 7,
+   "positions": [
+    {
+     "symbol": "SHAZ",
+     "shares": 22,
+     "entryPrice": 22.54,
+     "lastPrice": 24.9
+    },
+    {
+     "symbol": "LINC",
+     "shares": 24,
+     "entryPrice": 21.32,
+     "lastPrice": 22.96
+    },
+    {
+     "symbol": "UAMY",
+     "shares": 154,
+     "entryPrice": 3.33,
+     "lastPrice": 3.33
+    },
+    {
+     "symbol": "TTD",
+     "shares": 35,
+     "entryPrice": 14.53,
+     "lastPrice": 15.31
+    },
+    {
+     "symbol": "BW",
+     "shares": 132,
+     "entryPrice": 3.85,
+     "lastPrice": 4.6013
+    },
+    {
+     "symbol": "XCUR",
+     "shares": 490,
+     "entryPrice": 1.03,
+     "lastPrice": 1.0685
+    },
+    {
+     "symbol": "OMH",
+     "shares": 17,
+     "entryPrice": 28.74,
+     "lastPrice": 27.9808
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -536,41 +542,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 9939.92,
-   "upDollars": -60.08,
-   "upPct": -0.6,
-   "realised": -111.75,
-   "trades": 3,
-   "winPct": 33,
-   "open": 3,
-   "positions": [
-    {
-     "symbol": "MTEK",
-     "shares": 3716,
-     "entryPrice": 0.26,
-     "lastPrice": 0.2783
-    },
-    {
-     "symbol": "HUBC",
-     "shares": 5856,
-     "entryPrice": 0.08,
-     "lastPrice": 0.0798
-    },
-    {
-     "symbol": "ARAI",
-     "shares": 8426,
-     "entryPrice": 0.05,
-     "lastPrice": 0.0482
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -648,14 +619,49 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 9927.58,
+   "upDollars": -72.42,
+   "upPct": -0.7,
+   "realised": -111.75,
+   "trades": 3,
+   "winPct": 33,
+   "open": 3,
+   "positions": [
+    {
+     "symbol": "MTEK",
+     "shares": 3716,
+     "entryPrice": 0.26,
+     "lastPrice": 0.2783
+    },
+    {
+     "symbol": "HUBC",
+     "shares": 5856,
+     "entryPrice": 0.08,
+     "lastPrice": 0.0787
+    },
+    {
+     "symbol": "ARAI",
+     "shares": 8426,
+     "entryPrice": 0.05,
+     "lastPrice": 0.0475
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9718.1,
-   "upDollars": -281.9,
-   "upPct": -2.8,
+   "equity": 9713.83,
+   "upDollars": -286.17,
+   "upPct": -2.9,
    "realised": -292.87,
    "trades": 432,
    "winPct": 44,
@@ -665,61 +671,61 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 63.21,
-     "lastPrice": 62.9974
+     "lastPrice": 62.99
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.5,
-     "lastPrice": 123.86
+     "lastPrice": 123.87
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.73,
-     "lastPrice": 50.72
+     "lastPrice": 50.61
     },
     {
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.43,
-     "lastPrice": 83.18
+     "lastPrice": 83.01
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 147.86,
-     "lastPrice": 146.8
+     "lastPrice": 146.72
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 101.57,
-     "lastPrice": 100.62
+     "lastPrice": 100.8
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 112.49,
-     "lastPrice": 118.75
+     "lastPrice": 119.2225
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 143.63,
-     "lastPrice": 141.82
+     "lastPrice": 141.46
     },
     {
      "symbol": "VZ",
      "shares": 20,
      "entryPrice": 46.32,
-     "lastPrice": 45.96
+     "lastPrice": 45.8263
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 96.96,
-     "lastPrice": 95.79
+     "lastPrice": 95.75
     }
    ],
    "lastTrade": null
