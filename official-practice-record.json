@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-11",
- "asOfAt": 1794432666834,
+ "asOfAt": 1794433569712,
  "sessionStatus": "in-progress",
- "publishedAt": 1794432666834,
+ "publishedAt": 1794433569712,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -399,9 +399,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10163.35,
-   "upDollars": 163.35,
-   "upPct": 1.6,
+   "equity": 10170.46,
+   "upDollars": 170.46,
+   "upPct": 1.7,
    "realised": -98.58,
    "trades": 22,
    "winPct": 45,
@@ -411,7 +411,7 @@
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 26.44
+     "lastPrice": 26.49
     },
     {
      "symbol": "LINC",
@@ -423,43 +423,43 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.14
+     "lastPrice": 3.18
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.98
+     "lastPrice": 15.9546
     },
     {
      "symbol": "BW",
      "shares": 132,
      "entryPrice": 3.85,
-     "lastPrice": 4.94
+     "lastPrice": 4.98
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.05
+     "lastPrice": 1.06
     },
     {
      "symbol": "GEVO",
      "shares": 266,
      "entryPrice": 1.93,
-     "lastPrice": 1.78
+     "lastPrice": 1.79
     },
     {
      "symbol": "PEPG",
      "shares": 90,
      "entryPrice": 5.57,
-     "lastPrice": 5.27
+     "lastPrice": 5.25
     },
     {
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 49.5299
+     "lastPrice": 48.5
     }
    ],
    "lastTrade": null
@@ -664,11 +664,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9828.7,
-   "upDollars": -171.3,
+   "equity": 9828.04,
+   "upDollars": -171.96,
    "upPct": -1.7,
-   "realised": -169.75,
-   "trades": 445,
+   "realised": -171.25,
+   "trades": 446,
    "winPct": 45,
    "open": 10,
    "positions": [
@@ -676,31 +676,31 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 103.01,
-     "lastPrice": 103
+     "lastPrice": 102.89
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 100.8461
+     "lastPrice": 100.98
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 149.4544
+     "lastPrice": 148.95
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 70.572
+     "lastPrice": 70.61
     },
     {
      "symbol": "C",
      "shares": 5,
      "entryPrice": 124.29,
-     "lastPrice": 124.21
+     "lastPrice": 124.23
     },
     {
      "symbol": "MCHP",
@@ -712,25 +712,25 @@
      "symbol": "T",
      "shares": 29,
      "entryPrice": 22.22,
-     "lastPrice": 22.2
+     "lastPrice": 22.26
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 85.92,
-     "lastPrice": 86.02
+     "lastPrice": 85.92
     },
     {
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 128.6,
-     "lastPrice": 128.7
+     "lastPrice": 128.9
     },
     {
-     "symbol": "CRWV",
-     "shares": 15,
-     "entryPrice": 61.59,
-     "lastPrice": 61.54
+     "symbol": "IREN",
+     "shares": 46,
+     "entryPrice": 20.99,
+     "lastPrice": 20.97
     }
    ],
    "lastTrade": null
@@ -970,21 +970,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9186.26,
-   "upDollars": -813.74,
+   "equity": 9186.27,
+   "upDollars": -813.73,
    "upPct": -8.1,
-   "realised": -810.93,
-   "trades": 30,
-   "winPct": 20,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "CRWV",
-     "shares": 14,
-     "entryPrice": 61.72,
-     "lastPrice": 61.5191
-    }
-   ],
+   "realised": -813.73,
+   "trades": 31,
+   "winPct": 19,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1040,19 +1033,19 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8084.39,
-   "upDollars": -1915.61,
-   "upPct": -19.2,
-   "realised": -1913,
-   "trades": 60,
-   "winPct": 22,
+   "equity": 8070.01,
+   "upDollars": -1929.99,
+   "upPct": -19.3,
+   "realised": -1915.6,
+   "trades": 61,
+   "winPct": 21,
    "open": 1,
    "positions": [
     {
-     "symbol": "CRWV",
-     "shares": 13,
-     "entryPrice": 61.72,
-     "lastPrice": 61.5191
+     "symbol": "CURI",
+     "shares": 289,
+     "entryPrice": 2.76,
+     "lastPrice": 2.7102
     }
    ],
    "lastTrade": null
@@ -1063,19 +1056,19 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7363.91,
-   "upDollars": -2636.09,
-   "upPct": -26.4,
-   "realised": -2643.72,
-   "trades": 69,
+   "equity": 7110.8,
+   "upDollars": -2889.2,
+   "upPct": -28.9,
+   "realised": -2870.86,
+   "trades": 72,
    "winPct": 13,
    "open": 1,
    "positions": [
     {
-     "symbol": "SCKT",
-     "shares": 1589,
-     "entryPrice": 0.5062,
-     "lastPrice": 0.511
+     "symbol": "CURI",
+     "shares": 262,
+     "entryPrice": 2.79,
+     "lastPrice": 2.72
     }
    ],
    "lastTrade": null
@@ -1086,33 +1079,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6542.37,
-   "upDollars": -3457.63,
-   "upPct": -34.6,
-   "realised": -3462.33,
-   "trades": 89,
-   "winPct": 16,
-   "open": 3,
-   "positions": [
-    {
-     "symbol": "CRWV",
-     "shares": 11,
-     "entryPrice": 61.72,
-     "lastPrice": 61.54
-    },
-    {
-     "symbol": "SCKT",
-     "shares": 1393,
-     "entryPrice": 0.5062,
-     "lastPrice": 0.511
-    },
-    {
-     "symbol": "PLCE",
-     "shares": 2733,
-     "entryPrice": 0.2493,
-     "lastPrice": 0.2493
-    }
-   ],
+   "equity": 6142.83,
+   "upDollars": -3857.17,
+   "upPct": -38.6,
+   "realised": -3857.17,
+   "trades": 96,
+   "winPct": 15,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
