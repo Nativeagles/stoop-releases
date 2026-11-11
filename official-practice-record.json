@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-10",
- "asOfAt": 1794355997547,
+ "asOfAt": 1794356901025,
  "sessionStatus": "in-progress",
- "publishedAt": 1794355997547,
+ "publishedAt": 1794356901025,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -197,9 +197,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10116.72,
-   "upDollars": 116.72,
-   "upPct": 1.2,
+   "equity": 10111.36,
+   "upDollars": 111.36,
+   "upPct": 1.1,
    "realised": -44.76,
    "trades": 19,
    "winPct": 47,
@@ -209,7 +209,7 @@
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 23.88
+     "lastPrice": 23.82
     },
     {
      "symbol": "LINC",
@@ -221,25 +221,25 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.2008
+     "lastPrice": 3.2
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.3693
+     "lastPrice": 15.37
     },
     {
      "symbol": "BW",
      "shares": 132,
      "entryPrice": 3.85,
-     "lastPrice": 4.4898
+     "lastPrice": 4.48
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.0254
+     "lastPrice": 1.02
     }
    ],
    "lastTrade": null
@@ -641,9 +641,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9703.64,
-   "upDollars": -296.36,
-   "upPct": -3,
+   "equity": 9706.92,
+   "upDollars": -293.08,
+   "upPct": -2.9,
    "realised": -292.87,
    "trades": 432,
    "winPct": 44,
@@ -653,61 +653,61 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 63.21,
-     "lastPrice": 63.14
+     "lastPrice": 63.1202
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 125.5,
-     "lastPrice": 125.22
+     "lastPrice": 125.44
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.73,
-     "lastPrice": 50.68
+     "lastPrice": 50.71
     },
     {
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.43,
-     "lastPrice": 81.56
+     "lastPrice": 81.38
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 147.86,
-     "lastPrice": 147.8
+     "lastPrice": 148.05
     },
     {
      "symbol": "MDT",
      "shares": 9,
      "entryPrice": 101.57,
-     "lastPrice": 101
+     "lastPrice": 101.32
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 112.49,
-     "lastPrice": 113.2108
+     "lastPrice": 113.3391
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 143.63,
-     "lastPrice": 143.61
+     "lastPrice": 143.49
     },
     {
      "symbol": "VZ",
      "shares": 20,
      "entryPrice": 46.32,
-     "lastPrice": 46.2861
+     "lastPrice": 46.2239
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 96.96,
-     "lastPrice": 96.9118
+     "lastPrice": 96.912
     }
    ],
    "lastTrade": null
@@ -963,8 +963,8 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 8667.35,
-   "upDollars": -1332.65,
+   "equity": 8667.29,
+   "upDollars": -1332.71,
    "upPct": -13.3,
    "realised": -1303.95,
    "trades": 32,
@@ -975,7 +975,30 @@
      "symbol": "SENS",
      "shares": 82,
      "entryPrice": 10.55,
-     "lastPrice": 10.2
+     "lastPrice": 10.1993
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 8647.83,
+   "upDollars": -1352.17,
+   "upPct": -13.5,
+   "realised": -1501.12,
+   "trades": 30,
+   "winPct": 30,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "OMH",
+     "shares": 38,
+     "entryPrice": 22.07,
+     "lastPrice": 25.9897
     }
    ],
    "lastTrade": null
@@ -993,29 +1016,6 @@
    "winPct": 29,
    "open": 0,
    "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 8545.62,
-   "upDollars": -1454.38,
-   "upPct": -14.5,
-   "realised": -1501.12,
-   "trades": 30,
-   "winPct": 30,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "OMH",
-     "shares": 38,
-     "entryPrice": 22.07,
-     "lastPrice": 23.3
-    }
-   ],
    "lastTrade": null
   },
   {
