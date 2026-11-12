@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-12",
- "asOfAt": 1794487662866,
+ "asOfAt": 1794488565809,
  "sessionStatus": "in-progress",
- "publishedAt": 1794487662866,
+ "publishedAt": 1794488565809,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10390.14,
-   "upDollars": 390.14,
+   "equity": 10388.49,
+   "upDollars": 388.49,
    "upPct": 3.9,
    "realised": 375.14,
    "trades": 16,
@@ -46,7 +46,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.4
+     "lastPrice": 46.25
     }
    ],
    "lastTrade": null
@@ -593,11 +593,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9753.44,
-   "upDollars": -246.56,
+   "equity": 9749.71,
+   "upDollars": -250.29,
    "upPct": -2.5,
-   "realised": -219.76,
-   "trades": 461,
+   "realised": -226.64,
+   "trades": 462,
    "winPct": 44,
    "open": 10,
    "positions": [
@@ -605,61 +605,61 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 103.01,
-     "lastPrice": 101.3
+     "lastPrice": 100.72
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 100.58
+     "lastPrice": 100.5
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 148.3782
+     "lastPrice": 147.7
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 70.2936
+     "lastPrice": 70.31
     },
     {
      "symbol": "C",
      "shares": 5,
      "entryPrice": 124.29,
-     "lastPrice": 124.77
+     "lastPrice": 124.8
     },
     {
      "symbol": "MCHP",
      "shares": 10,
      "entryPrice": 62.2,
-     "lastPrice": 60.69
+     "lastPrice": 61.35
     },
     {
      "symbol": "T",
      "shares": 29,
      "entryPrice": 22.22,
-     "lastPrice": 22.34
+     "lastPrice": 22.36
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 85.92,
-     "lastPrice": 86.48
+     "lastPrice": 86.39
     },
     {
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 64.35,
-     "lastPrice": 64.48
+     "lastPrice": 64.39
     },
     {
-     "symbol": "INTC",
-     "shares": 16,
-     "entryPrice": 60.88,
-     "lastPrice": 60.61
+     "symbol": "SMCI",
+     "shares": 33,
+     "entryPrice": 28.75,
+     "lastPrice": 28.75
     }
    ],
    "lastTrade": null
@@ -670,9 +670,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9691.41,
-   "upDollars": -308.59,
-   "upPct": -3.1,
+   "equity": 9679.66,
+   "upDollars": -320.34,
+   "upPct": -3.2,
    "realised": -376.53,
    "trades": 28,
    "winPct": 43,
@@ -688,13 +688,13 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.14
+     "lastPrice": 3.1155
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.89
+     "lastPrice": 15.9
     },
     {
      "symbol": "XCUR",
@@ -706,13 +706,13 @@
      "symbol": "GEVO",
      "shares": 266,
      "entryPrice": 1.93,
-     "lastPrice": 1.79
+     "lastPrice": 1.7804
     },
     {
      "symbol": "PEPG",
      "shares": 90,
      "entryPrice": 5.57,
-     "lastPrice": 5.5153
+     "lastPrice": 5.4511
     },
     {
      "symbol": "AZTA",
@@ -958,14 +958,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8970.92,
-   "upDollars": -1029.08,
-   "upPct": -10.3,
+   "equity": 8994.91,
+   "upDollars": -1005.09,
+   "upPct": -10.1,
    "realised": -1029.08,
    "trades": 34,
    "winPct": 21,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "BDMD",
+     "shares": 7269,
+     "entryPrice": 0.1266,
+     "lastPrice": 0.1299
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1053,14 +1060,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5753.12,
-   "upDollars": -4246.88,
-   "upPct": -42.5,
+   "equity": 5769.44,
+   "upDollars": -4230.56,
+   "upPct": -42.3,
    "realised": -4246.88,
    "trades": 105,
    "winPct": 15,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "BDMD",
+     "shares": 4662,
+     "entryPrice": 0.1264,
+     "lastPrice": 0.1299
+    }
+   ],
    "lastTrade": null
   }
  ]
