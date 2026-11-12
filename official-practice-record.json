@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-12",
- "asOfAt": 1794484951584,
+ "asOfAt": 1794485855245,
  "sessionStatus": "in-progress",
- "publishedAt": 1794484951584,
+ "publishedAt": 1794485855245,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -20,6 +20,41 @@
    "winPct": 67,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff",
+   "name": "Takeoff",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 10381.94,
+   "upDollars": 381.93,
+   "upPct": 3.8,
+   "realised": 328.42,
+   "trades": 15,
+   "winPct": 60,
+   "open": 3,
+   "positions": [
+    {
+     "symbol": "SLN",
+     "shares": 50,
+     "entryPrice": 19.6,
+     "lastPrice": 19.68
+    },
+    {
+     "symbol": "BRZE",
+     "shares": 11,
+     "entryPrice": 45.4,
+     "lastPrice": 46.45
+    },
+    {
+     "symbol": "FRMI",
+     "shares": 292,
+     "entryPrice": 1.77,
+     "lastPrice": 1.9
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -149,35 +184,6 @@
      "shares": 4,
      "entryPrice": 124.42,
      "lastPrice": 124.35
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff",
-   "name": "Takeoff",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 10341.33,
-   "upDollars": 341.33,
-   "upPct": 3.4,
-   "realised": 328.42,
-   "trades": 15,
-   "winPct": 60,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "SLN",
-     "shares": 50,
-     "entryPrice": 19.6,
-     "lastPrice": 19.68
-    },
-    {
-     "symbol": "BRZE",
-     "shares": 11,
-     "entryPrice": 45.4,
-     "lastPrice": 46.21
     }
    ],
    "lastTrade": null
@@ -577,83 +583,19 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9900.15,
-   "upDollars": -99.85,
-   "upPct": -1,
+   "equity": 9950.57,
+   "upDollars": -49.43,
+   "upPct": -0.5,
    "realised": -99.85,
    "trades": 6,
    "winPct": 50,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-loose",
-   "name": "Takeoff - looser",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 9899.44,
-   "upDollars": -100.56,
-   "upPct": -1,
-   "realised": -239.01,
-   "trades": 26,
-   "winPct": 42,
-   "open": 9,
+   "open": 1,
    "positions": [
     {
-     "symbol": "SHAZ",
-     "shares": 22,
-     "entryPrice": 22.54,
-     "lastPrice": 25.17
-    },
-    {
-     "symbol": "LINC",
-     "shares": 24,
-     "entryPrice": 21.32,
-     "lastPrice": 23.51
-    },
-    {
-     "symbol": "UAMY",
-     "shares": 154,
-     "entryPrice": 3.33,
-     "lastPrice": 3.13
-    },
-    {
-     "symbol": "TTD",
-     "shares": 35,
-     "entryPrice": 14.53,
-     "lastPrice": 15.88
-    },
-    {
-     "symbol": "XCUR",
-     "shares": 490,
-     "entryPrice": 1.03,
-     "lastPrice": 1.1
-    },
-    {
-     "symbol": "GEVO",
-     "shares": 266,
-     "entryPrice": 1.93,
-     "lastPrice": 1.7991
-    },
-    {
-     "symbol": "PEPG",
-     "shares": 90,
-     "entryPrice": 5.57,
-     "lastPrice": 5.61
-    },
-    {
-     "symbol": "AZTA",
-     "shares": 10,
-     "entryPrice": 48,
-     "lastPrice": 48.85
-    },
-    {
      "symbol": "FRMI",
-     "shares": 469,
-     "entryPrice": 2.08,
-     "lastPrice": 2.08
+     "shares": 559,
+     "entryPrice": 1.77,
+     "lastPrice": 1.8602
     }
    ],
    "lastTrade": null
@@ -664,11 +606,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9745.65,
-   "upDollars": -254.35,
-   "upPct": -2.5,
-   "realised": -222.79,
-   "trades": 459,
+   "equity": 9766.2,
+   "upDollars": -233.8,
+   "upPct": -2.3,
+   "realised": -214.12,
+   "trades": 460,
    "winPct": 44,
    "open": 10,
    "positions": [
@@ -682,55 +624,120 @@
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 100.2
+     "lastPrice": 100.68
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 147.53
+     "lastPrice": 148.25
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 70.29
+     "lastPrice": 70.37
     },
     {
      "symbol": "C",
      "shares": 5,
      "entryPrice": 124.29,
-     "lastPrice": 124.6689
+     "lastPrice": 124.99
     },
     {
      "symbol": "MCHP",
      "shares": 10,
      "entryPrice": 62.2,
-     "lastPrice": 61.32
+     "lastPrice": 61.4
     },
     {
      "symbol": "T",
      "shares": 29,
      "entryPrice": 22.22,
-     "lastPrice": 22.3
+     "lastPrice": 22.36
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 85.92,
-     "lastPrice": 86.39
+     "lastPrice": 86.3
     },
     {
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 64.35,
-     "lastPrice": 64.25
+     "lastPrice": 64.2732
     },
     {
-     "symbol": "CRWV",
-     "shares": 17,
-     "entryPrice": 56.39,
-     "lastPrice": 56.3
+     "symbol": "SPCX",
+     "shares": 6,
+     "entryPrice": 139.95,
+     "lastPrice": 139.95
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 9720.58,
+   "upDollars": -279.42,
+   "upPct": -2.8,
+   "realised": -417.23,
+   "trades": 27,
+   "winPct": 41,
+   "open": 8,
+   "positions": [
+    {
+     "symbol": "SHAZ",
+     "shares": 22,
+     "entryPrice": 22.54,
+     "lastPrice": 25.3
+    },
+    {
+     "symbol": "LINC",
+     "shares": 24,
+     "entryPrice": 21.32,
+     "lastPrice": 23.51
+    },
+    {
+     "symbol": "UAMY",
+     "shares": 154,
+     "entryPrice": 3.33,
+     "lastPrice": 3.2
+    },
+    {
+     "symbol": "TTD",
+     "shares": 35,
+     "entryPrice": 14.53,
+     "lastPrice": 15.9
+    },
+    {
+     "symbol": "XCUR",
+     "shares": 490,
+     "entryPrice": 1.03,
+     "lastPrice": 1.1
+    },
+    {
+     "symbol": "GEVO",
+     "shares": 266,
+     "entryPrice": 1.93,
+     "lastPrice": 1.78
+    },
+    {
+     "symbol": "PEPG",
+     "shares": 90,
+     "entryPrice": 5.57,
+     "lastPrice": 5.5
+    },
+    {
+     "symbol": "AZTA",
+     "shares": 10,
+     "entryPrice": 48,
+     "lastPrice": 48.85
     }
    ],
    "lastTrade": null
@@ -949,29 +956,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-down-bubble",
-   "name": "Down Bubble — box",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 9386.22,
-   "upDollars": -613.78,
-   "upPct": -6.1,
-   "realised": -680.8,
-   "trades": 42,
-   "winPct": 33,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "FRMI",
-     "shares": 448,
-     "entryPrice": 1.96,
-     "lastPrice": 2.1096
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-down-bubble-pmh",
    "name": "Down Bubble — premarket high",
    "kind": "official",
@@ -988,26 +972,35 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-down-bubble",
+   "name": "Down Bubble — box",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 9225.12,
+   "upDollars": -774.88,
+   "upPct": -7.7,
+   "realised": -774.88,
+   "trades": 43,
+   "winPct": 33,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-six-degrees-near-line",
    "name": "Six Degrees (near its line)",
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9205.45,
-   "upDollars": -794.55,
-   "upPct": -7.9,
-   "realised": -812.05,
-   "trades": 32,
-   "winPct": 22,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "FRMI",
-     "shares": 442,
-     "entryPrice": 2.07,
-     "lastPrice": 2.1096
-    }
-   ],
+   "equity": 8970.92,
+   "upDollars": -1029.08,
+   "upPct": -10.3,
+   "realised": -1029.08,
+   "trades": 34,
+   "winPct": 21,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1047,21 +1040,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8153.08,
-   "upDollars": -1846.92,
-   "upPct": -18.5,
-   "realised": -1874.14,
-   "trades": 68,
+   "equity": 8043.72,
+   "upDollars": -1956.28,
+   "upPct": -19.6,
+   "realised": -1956.28,
+   "trades": 70,
    "winPct": 24,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "FRMI",
-     "shares": 391,
-     "entryPrice": 2.04,
-     "lastPrice": 2.1096
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1070,21 +1056,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7090.24,
-   "upDollars": -2909.76,
-   "upPct": -29.1,
-   "realised": -2953.7,
-   "trades": 77,
+   "equity": 6911.68,
+   "upDollars": -3088.32,
+   "upPct": -30.9,
+   "realised": -3088.32,
+   "trades": 79,
    "winPct": 14,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "FRMI",
-     "shares": 339,
-     "entryPrice": 1.98,
-     "lastPrice": 2.1096
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1093,21 +1072,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6201.68,
-   "upDollars": -3798.32,
-   "upPct": -38,
-   "realised": -3810.08,
-   "trades": 101,
+   "equity": 6021.74,
+   "upDollars": -3978.26,
+   "upPct": -39.8,
+   "realised": -3978.26,
+   "trades": 103,
    "winPct": 16,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "FRMI",
-     "shares": 297,
-     "entryPrice": 2.07,
-     "lastPrice": 2.1096
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
