@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-12",
- "asOfAt": 1794489468874,
+ "asOfAt": 1794490372079,
  "sessionStatus": "in-progress",
- "publishedAt": 1794489468874,
+ "publishedAt": 1794490372079,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -596,11 +596,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9727.98,
-   "upDollars": -272.02,
+   "equity": 9732.58,
+   "upDollars": -267.42,
    "upPct": -2.7,
-   "realised": -230.27,
-   "trades": 463,
+   "realised": -233.77,
+   "trades": 464,
    "winPct": 44,
    "open": 10,
    "positions": [
@@ -608,61 +608,61 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 103.01,
-     "lastPrice": 100.6363
+     "lastPrice": 100.8201
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 99.83
+     "lastPrice": 100.19
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 147.98
+     "lastPrice": 147.53
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 69.98
+     "lastPrice": 69.82
     },
     {
      "symbol": "C",
      "shares": 5,
      "entryPrice": 124.29,
-     "lastPrice": 124.32
+     "lastPrice": 124.175
     },
     {
      "symbol": "MCHP",
      "shares": 10,
      "entryPrice": 62.2,
-     "lastPrice": 60.8
+     "lastPrice": 61.02
     },
     {
      "symbol": "T",
      "shares": 29,
      "entryPrice": 22.22,
-     "lastPrice": 22.3704
+     "lastPrice": 22.35
     },
     {
      "symbol": "NEE",
      "shares": 7,
      "entryPrice": 85.92,
-     "lastPrice": 86.4056
+     "lastPrice": 86.39
     },
     {
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 64.35,
-     "lastPrice": 64.42
+     "lastPrice": 64.38
     },
     {
-     "symbol": "SPCX",
+     "symbol": "SKHY",
      "shares": 7,
-     "entryPrice": 138.37,
-     "lastPrice": 137.7
+     "entryPrice": 135.09,
+     "lastPrice": 135.5499
     }
    ],
    "lastTrade": null
