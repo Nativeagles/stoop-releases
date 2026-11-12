@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-12",
- "asOfAt": 1794479532302,
+ "asOfAt": 1794480435836,
  "sessionStatus": "in-progress",
- "publishedAt": 1794479532302,
+ "publishedAt": 1794480435836,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -441,83 +441,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-loose",
-   "name": "Takeoff - looser",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 10000.62,
-   "upDollars": 0.62,
-   "upPct": 0,
-   "realised": -68.22,
-   "trades": 24,
-   "winPct": 46,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "SHAZ",
-     "shares": 22,
-     "entryPrice": 22.54,
-     "lastPrice": 25.3569
-    },
-    {
-     "symbol": "LINC",
-     "shares": 24,
-     "entryPrice": 21.32,
-     "lastPrice": 23.51
-    },
-    {
-     "symbol": "UAMY",
-     "shares": 154,
-     "entryPrice": 3.33,
-     "lastPrice": 3.19
-    },
-    {
-     "symbol": "TTD",
-     "shares": 35,
-     "entryPrice": 14.53,
-     "lastPrice": 15.93
-    },
-    {
-     "symbol": "XCUR",
-     "shares": 490,
-     "entryPrice": 1.03,
-     "lastPrice": 1.11
-    },
-    {
-     "symbol": "GEVO",
-     "shares": 266,
-     "entryPrice": 1.93,
-     "lastPrice": 1.8013
-    },
-    {
-     "symbol": "PEPG",
-     "shares": 90,
-     "entryPrice": 5.57,
-     "lastPrice": 5.3713
-    },
-    {
-     "symbol": "AZTA",
-     "shares": 10,
-     "entryPrice": 48,
-     "lastPrice": 49.2174
-    },
-    {
-     "symbol": "ADXN",
-     "shares": 97,
-     "entryPrice": 5.22,
-     "lastPrice": 4.95
-    },
-    {
-     "symbol": "POAS",
-     "shares": 231,
-     "entryPrice": 2.22,
-     "lastPrice": 2.02
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-steps-daily",
    "name": "Five Steps (daily)",
    "kind": "official",
@@ -649,6 +572,77 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 9936.44,
+   "upDollars": -63.56,
+   "upPct": -0.6,
+   "realised": -183.72,
+   "trades": 25,
+   "winPct": 44,
+   "open": 9,
+   "positions": [
+    {
+     "symbol": "SHAZ",
+     "shares": 22,
+     "entryPrice": 22.54,
+     "lastPrice": 25.3569
+    },
+    {
+     "symbol": "LINC",
+     "shares": 24,
+     "entryPrice": 21.32,
+     "lastPrice": 23.51
+    },
+    {
+     "symbol": "UAMY",
+     "shares": 154,
+     "entryPrice": 3.33,
+     "lastPrice": 3.19
+    },
+    {
+     "symbol": "TTD",
+     "shares": 35,
+     "entryPrice": 14.53,
+     "lastPrice": 15.86
+    },
+    {
+     "symbol": "XCUR",
+     "shares": 490,
+     "entryPrice": 1.03,
+     "lastPrice": 1.11
+    },
+    {
+     "symbol": "GEVO",
+     "shares": 266,
+     "entryPrice": 1.93,
+     "lastPrice": 1.8
+    },
+    {
+     "symbol": "PEPG",
+     "shares": 90,
+     "entryPrice": 5.57,
+     "lastPrice": 5.47
+    },
+    {
+     "symbol": "AZTA",
+     "shares": 10,
+     "entryPrice": 48,
+     "lastPrice": 49.2174
+    },
+    {
+     "symbol": "ADXN",
+     "shares": 97,
+     "entryPrice": 5.22,
+     "lastPrice": 4.94
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-takeoff-any-price",
    "name": "Takeoff - any price",
    "kind": "official",
@@ -670,43 +664,43 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9750.4,
-   "upDollars": -249.6,
+   "equity": 9745.74,
+   "upDollars": -254.26,
    "upPct": -2.5,
    "realised": -222.11,
    "trades": 458,
    "winPct": 44,
-   "open": 9,
+   "open": 10,
    "positions": [
     {
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 103.01,
-     "lastPrice": 101.03
+     "lastPrice": 100.55
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 100.69
+     "lastPrice": 100.3
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 147.78
+     "lastPrice": 147.63
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 70.34
+     "lastPrice": 70.3
     },
     {
      "symbol": "C",
      "shares": 5,
      "entryPrice": 124.29,
-     "lastPrice": 124.5
+     "lastPrice": 124.61
     },
     {
      "symbol": "MCHP",
@@ -730,7 +724,13 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 64.35,
-     "lastPrice": 64.12
+     "lastPrice": 64.1
+    },
+    {
+     "symbol": "CRWV",
+     "shares": 17,
+     "entryPrice": 56.92,
+     "lastPrice": 56.9948
     }
    ],
    "lastTrade": null
@@ -954,12 +954,12 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9456.02,
-   "upDollars": -543.98,
-   "upPct": -5.4,
-   "realised": -543.98,
-   "trades": 41,
-   "winPct": 34,
+   "equity": 9319.2,
+   "upDollars": -680.8,
+   "upPct": -6.8,
+   "realised": -680.8,
+   "trades": 42,
+   "winPct": 33,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -1033,11 +1033,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8161.93,
-   "upDollars": -1838.07,
-   "upPct": -18.4,
-   "realised": -1838.07,
-   "trades": 67,
+   "equity": 8125.86,
+   "upDollars": -1874.14,
+   "upPct": -18.7,
+   "realised": -1874.14,
+   "trades": 68,
    "winPct": 24,
    "open": 0,
    "positions": [],
@@ -1049,11 +1049,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7160.12,
-   "upDollars": -2839.88,
-   "upPct": -28.4,
-   "realised": -2839.88,
-   "trades": 76,
+   "equity": 7046.3,
+   "upDollars": -2953.7,
+   "upPct": -29.5,
+   "realised": -2953.7,
+   "trades": 77,
    "winPct": 14,
    "open": 0,
    "positions": [],
@@ -1065,11 +1065,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6271.94,
-   "upDollars": -3728.06,
-   "upPct": -37.3,
-   "realised": -3728.06,
-   "trades": 100,
+   "equity": 6189.92,
+   "upDollars": -3810.08,
+   "upPct": -38.1,
+   "realised": -3810.08,
+   "trades": 101,
    "winPct": 16,
    "open": 0,
    "positions": [],
