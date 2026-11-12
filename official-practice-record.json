@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-12",
- "asOfAt": 1794475014206,
+ "asOfAt": 1794475917228,
  "sessionStatus": "in-progress",
- "publishedAt": 1794475014206,
+ "publishedAt": 1794475917228,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -399,9 +399,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 10160.56,
-   "upDollars": 160.56,
-   "upPct": 1.6,
+   "equity": 10152.93,
+   "upDollars": 152.93,
+   "upPct": 1.5,
    "realised": 7.68,
    "trades": 23,
    "winPct": 48,
@@ -411,7 +411,7 @@
      "symbol": "SHAZ",
      "shares": 22,
      "entryPrice": 22.54,
-     "lastPrice": 25.16
+     "lastPrice": 25.41
     },
     {
      "symbol": "LINC",
@@ -423,13 +423,13 @@
      "symbol": "UAMY",
      "shares": 154,
      "entryPrice": 3.33,
-     "lastPrice": 3.12
+     "lastPrice": 3.23
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.85
+     "lastPrice": 15.83
     },
     {
      "symbol": "XCUR",
@@ -441,13 +441,13 @@
      "symbol": "GEVO",
      "shares": 266,
      "entryPrice": 1.93,
-     "lastPrice": 1.8
+     "lastPrice": 1.7976
     },
     {
      "symbol": "PEPG",
      "shares": 90,
      "entryPrice": 5.57,
-     "lastPrice": 5.6144
+     "lastPrice": 5.2952
     },
     {
      "symbol": "AZTA",
@@ -658,11 +658,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9726.35,
-   "upDollars": -273.65,
-   "upPct": -2.7,
-   "realised": -237.42,
-   "trades": 455,
+   "equity": 9748.19,
+   "upDollars": -251.81,
+   "upPct": -2.5,
+   "realised": -236.51,
+   "trades": 456,
    "winPct": 44,
    "open": 10,
    "positions": [
@@ -670,25 +670,25 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 103.01,
-     "lastPrice": 101.3368
+     "lastPrice": 101.04
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 99.85
+     "lastPrice": 100.05
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 148.15
+     "lastPrice": 148.3929
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 70.0125
+     "lastPrice": 70.27
     },
     {
      "symbol": "C",
@@ -700,13 +700,13 @@
      "symbol": "MCHP",
      "shares": 10,
      "entryPrice": 62.2,
-     "lastPrice": 60.58
+     "lastPrice": 60.86
     },
     {
      "symbol": "T",
      "shares": 29,
      "entryPrice": 22.22,
-     "lastPrice": 22.31
+     "lastPrice": 22.32
     },
     {
      "symbol": "NEE",
@@ -718,13 +718,13 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 64.35,
-     "lastPrice": 64.31
+     "lastPrice": 64.34
     },
     {
-     "symbol": "SPCX",
-     "shares": 7,
-     "entryPrice": 138.82,
-     "lastPrice": 138.85
+     "symbol": "CRWV",
+     "shares": 17,
+     "entryPrice": 56.59,
+     "lastPrice": 57.4657
     }
    ],
    "lastTrade": null
@@ -980,14 +980,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 9143.55,
-   "upDollars": -856.45,
-   "upPct": -8.6,
-   "realised": -856.45,
-   "trades": 39,
+   "equity": 9070.1,
+   "upDollars": -929.9,
+   "upPct": -9.3,
+   "realised": -971.66,
+   "trades": 40,
    "winPct": 33,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "CRMN",
+     "shares": 144,
+     "entryPrice": 6.42,
+     "lastPrice": 6.71
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1027,12 +1034,12 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8106.35,
-   "upDollars": -1893.65,
-   "upPct": -18.9,
-   "realised": -1893.65,
-   "trades": 63,
-   "winPct": 22,
+   "equity": 8134.83,
+   "upDollars": -1865.17,
+   "upPct": -18.7,
+   "realised": -1865.17,
+   "trades": 65,
+   "winPct": 23,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -1043,14 +1050,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7081.98,
-   "upDollars": -2918.02,
-   "upPct": -29.2,
-   "realised": -2918.02,
-   "trades": 73,
+   "equity": 7058.51,
+   "upDollars": -2941.49,
+   "upPct": -29.4,
+   "realised": -2975.09,
+   "trades": 74,
    "winPct": 12,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "CRMN",
+     "shares": 112,
+     "entryPrice": 6.41,
+     "lastPrice": 6.71
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1059,11 +1073,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6142.83,
-   "upDollars": -3857.17,
-   "upPct": -38.6,
-   "realised": -3857.17,
-   "trades": 96,
+   "equity": 6234.67,
+   "upDollars": -3765.33,
+   "upPct": -37.7,
+   "realised": -3765.33,
+   "trades": 98,
    "winPct": 15,
    "open": 0,
    "positions": [],
