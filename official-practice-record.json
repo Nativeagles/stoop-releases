@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-12",
- "asOfAt": 1794482242576,
+ "asOfAt": 1794483145501,
  "sessionStatus": "in-progress",
- "publishedAt": 1794482242576,
+ "publishedAt": 1794483145501,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -572,14 +572,30 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 9900.15,
+   "upDollars": -99.85,
+   "upPct": -1,
+   "realised": -99.85,
+   "trades": 6,
+   "winPct": 50,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-takeoff-loose",
    "name": "Takeoff - looser",
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9913.23,
-   "upDollars": -86.77,
-   "upPct": -0.9,
+   "equity": 9901.95,
+   "upDollars": -98.05,
+   "upPct": -1,
    "realised": -239.01,
    "trades": 26,
    "winPct": 42,
@@ -607,25 +623,25 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.8231
+     "lastPrice": 15.85
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.1089
+     "lastPrice": 1.1
     },
     {
      "symbol": "GEVO",
      "shares": 266,
      "entryPrice": 1.93,
-     "lastPrice": 1.8076
+     "lastPrice": 1.7816
     },
     {
      "symbol": "PEPG",
      "shares": 90,
      "entryPrice": 5.57,
-     "lastPrice": 5.55
+     "lastPrice": 5.5395
     },
     {
      "symbol": "AZTA",
@@ -637,30 +653,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 9900.15,
-   "upDollars": -99.85,
-   "upPct": -1,
-   "realised": -99.85,
-   "trades": 6,
-   "winPct": 50,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9747.89,
-   "upDollars": -252.11,
-   "upPct": -2.5,
+   "equity": 9741.1,
+   "upDollars": -258.9,
+   "upPct": -2.6,
    "realised": -222.79,
    "trades": 459,
    "winPct": 44,
@@ -670,25 +670,25 @@
      "symbol": "NOW",
      "shares": 6,
      "entryPrice": 103.01,
-     "lastPrice": 100.81
+     "lastPrice": 100.5
     },
     {
      "symbol": "CSCO",
      "shares": 6,
      "entryPrice": 100.72,
-     "lastPrice": 100.12
+     "lastPrice": 100.48
     },
     {
      "symbol": "SHOP",
      "shares": 4,
      "entryPrice": 149.29,
-     "lastPrice": 147.53
+     "lastPrice": 147.54
     },
     {
      "symbol": "UBER",
      "shares": 9,
      "entryPrice": 70.78,
-     "lastPrice": 70.34
+     "lastPrice": 70.33
     },
     {
      "symbol": "C",
@@ -700,13 +700,13 @@
      "symbol": "MCHP",
      "shares": 10,
      "entryPrice": 62.2,
-     "lastPrice": 61.4855
+     "lastPrice": 60.65
     },
     {
      "symbol": "T",
      "shares": 29,
      "entryPrice": 22.22,
-     "lastPrice": 22.26
+     "lastPrice": 22.29
     },
     {
      "symbol": "NEE",
@@ -718,7 +718,7 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 64.35,
-     "lastPrice": 64.2
+     "lastPrice": 64.23
     }
    ],
    "lastTrade": null
