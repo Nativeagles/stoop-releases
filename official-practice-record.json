@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-13",
- "asOfAt": 1794612105571,
+ "asOfAt": 1794613009183,
  "sessionStatus": "in-progress",
- "publishedAt": 1794612105571,
+ "publishedAt": 1794613009183,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10393.28,
-   "upDollars": 393.27,
+   "equity": 10393.72,
+   "upDollars": 393.72,
    "upPct": 3.9,
    "realised": 375.14,
    "trades": 16,
@@ -40,13 +40,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.78
+     "lastPrice": 19.7803
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.23
+     "lastPrice": 46.2691
     }
    ],
    "lastTrade": null
@@ -646,8 +646,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9637.38,
-   "upDollars": -362.62,
+   "equity": 9637.29,
+   "upDollars": -362.71,
    "upPct": -3.6,
    "realised": -315.78,
    "trades": 511,
@@ -658,37 +658,37 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 61.97
+     "lastPrice": 61.9858
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 101.16
+     "lastPrice": 101.15
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 145.61
+     "lastPrice": 145.55
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 69.2001
+     "lastPrice": 69.1239
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123.75
+     "lastPrice": 123.72
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 84.88
+     "lastPrice": 84.92
     },
     {
      "symbol": "MCHP",
@@ -700,13 +700,13 @@
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 50.95,
-     "lastPrice": 50.9208
+     "lastPrice": 50.95
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.3,
-     "lastPrice": 99.3301
+     "lastPrice": 99.37
     },
     {
      "symbol": "WMT",
@@ -934,9 +934,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9174.34,
-   "upDollars": -825.66,
-   "upPct": -8.3,
+   "equity": 9197.4,
+   "upDollars": -802.6,
+   "upPct": -8,
    "realised": -821.6,
    "trades": 37,
    "winPct": 35,
@@ -952,13 +952,13 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.56
+     "lastPrice": 15.54
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.06
+     "lastPrice": 1.1
     },
     {
      "symbol": "AZTA",
@@ -970,13 +970,13 @@
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 106.24
+     "lastPrice": 106.5
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 17.96
+     "lastPrice": 18
     },
     {
      "symbol": "TROO",
@@ -1072,11 +1072,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5362.79,
-   "upDollars": -4637.21,
-   "upPct": -46.4,
-   "realised": -4629.65,
-   "trades": 115,
+   "equity": 5333.31,
+   "upDollars": -4666.69,
+   "upPct": -46.7,
+   "realised": -4667.94,
+   "trades": 116,
    "winPct": 15,
    "open": 1,
    "positions": [
@@ -1084,7 +1084,7 @@
      "symbol": "VTSI",
      "shares": 126,
      "entryPrice": 4.23,
-     "lastPrice": 4.17
+     "lastPrice": 4.2399
     }
    ],
    "lastTrade": null
@@ -1095,14 +1095,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 4316.11,
-   "upDollars": -5683.89,
-   "upPct": -56.8,
+   "equity": 4305.5,
+   "upDollars": -5694.5,
+   "upPct": -56.9,
    "realised": -5683.89,
    "trades": 161,
    "winPct": 14,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "POLA",
+     "shares": 947,
+     "entryPrice": 0.4525,
+     "lastPrice": 0.4413
+    }
+   ],
    "lastTrade": null
   }
  ]
