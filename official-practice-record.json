@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-13",
- "asOfAt": 1794561516491,
+ "asOfAt": 1794562420607,
  "sessionStatus": "in-progress",
- "publishedAt": 1794561516491,
+ "publishedAt": 1794562420607,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -628,9 +628,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9729.89,
-   "upDollars": -270.11,
-   "upPct": -2.7,
+   "equity": 9717.75,
+   "upDollars": -282.25,
+   "upPct": -2.8,
    "realised": -265.98,
    "trades": 496,
    "winPct": 44,
@@ -640,13 +640,13 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 126.23,
-     "lastPrice": 126.5365
+     "lastPrice": 126.37
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.5,
-     "lastPrice": 50.65
+     "lastPrice": 50.7
     },
     {
      "symbol": "HOOD",
@@ -658,25 +658,25 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 146.94,
-     "lastPrice": 147.9044
+     "lastPrice": 146
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 119.3,
-     "lastPrice": 118.46
+     "lastPrice": 118.09
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.37,
-     "lastPrice": 142.43
+     "lastPrice": 142.81
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 97.43,
-     "lastPrice": 97.93
+     "lastPrice": 97.95
     },
     {
      "symbol": "APH",
@@ -940,9 +940,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9225.88,
-   "upDollars": -774.12,
-   "upPct": -7.7,
+   "equity": 9239.27,
+   "upDollars": -760.73,
+   "upPct": -7.6,
    "realised": -755.8,
    "trades": 33,
    "winPct": 36,
@@ -958,7 +958,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.39
+     "lastPrice": 15.48
     },
     {
      "symbol": "XCUR",
@@ -976,7 +976,7 @@
      "symbol": "AVEX",
      "shares": 64,
      "entryPrice": 14.92,
-     "lastPrice": 13.61
+     "lastPrice": 13.77
     }
    ],
    "lastTrade": null
