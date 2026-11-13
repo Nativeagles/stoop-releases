@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-13",
- "asOfAt": 1794603977576,
+ "asOfAt": 1794604880336,
  "sessionStatus": "in-progress",
- "publishedAt": 1794603977576,
+ "publishedAt": 1794604880336,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -646,11 +646,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9664.62,
-   "upDollars": -335.38,
-   "upPct": -3.4,
-   "realised": -290.85,
-   "trades": 506,
+   "equity": 9673.99,
+   "upDollars": -326.01,
+   "upPct": -3.3,
+   "realised": -295.53,
+   "trades": 507,
    "winPct": 44,
    "open": 10,
    "positions": [
@@ -658,61 +658,61 @@
      "symbol": "SPCX",
      "shares": 6,
      "entryPrice": 139.28,
-     "lastPrice": 138.1823
+     "lastPrice": 138.21
     },
     {
      "symbol": "ORCL",
      "shares": 7,
      "entryPrice": 125.39,
-     "lastPrice": 124.37
+     "lastPrice": 124.6
     },
     {
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 62.0492
+     "lastPrice": 62.15
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 101.7091
-    },
-    {
-     "symbol": "SMCI",
-     "shares": 36,
-     "entryPrice": 26.76,
-     "lastPrice": 26.76
+     "lastPrice": 102.24
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 145.57
+     "lastPrice": 146.5
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 69.6755
+     "lastPrice": 69.5856
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123.76
+     "lastPrice": 123.99
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 84.533
+     "lastPrice": 85.15
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 61.83,
-     "lastPrice": 61.432
+     "lastPrice": 61.08
+    },
+    {
+     "symbol": "INTC",
+     "shares": 11,
+     "entryPrice": 59.14,
+     "lastPrice": 59
     }
    ],
    "lastTrade": null
@@ -934,9 +934,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9215.76,
-   "upDollars": -784.24,
-   "upPct": -7.8,
+   "equity": 9206.58,
+   "upDollars": -793.42,
+   "upPct": -7.9,
    "realised": -821.6,
    "trades": 37,
    "winPct": 35,
@@ -964,19 +964,19 @@
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 45.65
+     "lastPrice": 45.6501
     },
     {
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 108.31
+     "lastPrice": 107.6675
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.16
+     "lastPrice": 18.0822
     },
     {
      "symbol": "TROO",
@@ -1009,14 +1009,27 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8606.05,
-   "upDollars": -1393.95,
-   "upPct": -13.9,
+   "equity": 8589.53,
+   "upDollars": -1410.47,
+   "upPct": -14.1,
    "realised": -1393.95,
    "trades": 54,
    "winPct": 22,
-   "open": 0,
-   "positions": [],
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "RAIN",
+     "shares": 1087,
+     "entryPrice": 0.795,
+     "lastPrice": 0.7798
+    },
+    {
+     "symbol": "VTSI",
+     "shares": 202,
+     "entryPrice": 4.23,
+     "lastPrice": 4.23
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1056,14 +1069,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7028.84,
-   "upDollars": -2971.16,
-   "upPct": -29.7,
+   "equity": 7056.91,
+   "upDollars": -2943.09,
+   "upPct": -29.4,
    "realised": -2971.16,
    "trades": 110,
    "winPct": 23,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AKAN",
+     "shares": 401,
+     "entryPrice": 1.72,
+     "lastPrice": 1.79
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1078,8 +1098,15 @@
    "realised": -4629.65,
    "trades": 115,
    "winPct": 15,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "VTSI",
+     "shares": 126,
+     "entryPrice": 4.23,
+     "lastPrice": 4.23
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1088,14 +1115,33 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 4402.5,
-   "upDollars": -5597.5,
-   "upPct": -56,
+   "equity": 4394.05,
+   "upDollars": -5605.95,
+   "upPct": -56.1,
    "realised": -5597.5,
    "trades": 157,
    "winPct": 14,
-   "open": 0,
-   "positions": [],
+   "open": 3,
+   "positions": [
+    {
+     "symbol": "RAIN",
+     "shares": 556,
+     "entryPrice": 0.795,
+     "lastPrice": 0.7798
+    },
+    {
+     "symbol": "AKAN",
+     "shares": 251,
+     "entryPrice": 1.72,
+     "lastPrice": 1.72
+    },
+    {
+     "symbol": "VTSI",
+     "shares": 103,
+     "entryPrice": 4.24,
+     "lastPrice": 4.24
+    }
+   ],
    "lastTrade": null
   }
  ]
