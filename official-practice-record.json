@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-13",
- "asOfAt": 1794606687070,
+ "asOfAt": 1794607589853,
  "sessionStatus": "in-progress",
- "publishedAt": 1794606687070,
+ "publishedAt": 1794607589853,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -646,73 +646,73 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9674.36,
-   "upDollars": -325.64,
-   "upPct": -3.3,
-   "realised": -295.53,
-   "trades": 507,
+   "equity": 9661.96,
+   "upDollars": -338.04,
+   "upPct": -3.4,
+   "realised": -306.76,
+   "trades": 509,
    "winPct": 44,
    "open": 10,
    "positions": [
     {
-     "symbol": "SPCX",
-     "shares": 6,
-     "entryPrice": 139.28,
-     "lastPrice": 138.62
-    },
-    {
-     "symbol": "ORCL",
-     "shares": 7,
-     "entryPrice": 125.39,
-     "lastPrice": 125
-    },
-    {
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 62.04
+     "lastPrice": 62.07
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 101.4643
+     "lastPrice": 101.5175
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 147.09
+     "lastPrice": 146.1448
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 69.45
+     "lastPrice": 69.35
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123.9
+     "lastPrice": 123.8
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 85.17
+     "lastPrice": 85.07
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 61.83,
-     "lastPrice": 61.15
+     "lastPrice": 61.33
     },
     {
      "symbol": "INTC",
      "shares": 11,
      "entryPrice": 59.14,
-     "lastPrice": 59.12
+     "lastPrice": 59.02
+    },
+    {
+     "symbol": "BAC",
+     "shares": 18,
+     "entryPrice": 50.95,
+     "lastPrice": 50.91
+    },
+    {
+     "symbol": "KO",
+     "shares": 9,
+     "entryPrice": 99.3,
+     "lastPrice": 99.2
     }
    ],
    "lastTrade": null
@@ -934,9 +934,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9165.42,
-   "upDollars": -834.58,
-   "upPct": -8.3,
+   "equity": 9161.4,
+   "upDollars": -838.6,
+   "upPct": -8.4,
    "realised": -821.6,
    "trades": 37,
    "winPct": 35,
@@ -952,7 +952,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.5662
+     "lastPrice": 15.6
     },
     {
      "symbol": "XCUR",
@@ -970,7 +970,7 @@
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 107.9
+     "lastPrice": 107.25
     },
     {
      "symbol": "HAWK",
@@ -1004,29 +1004,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-six-degrees-near-line",
-   "name": "Six Degrees (near its line)",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 8555.86,
-   "upDollars": -1444.14,
-   "upPct": -14.4,
-   "realised": -1414.45,
-   "trades": 56,
-   "winPct": 21,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "ZBAO",
-     "shares": 3029,
-     "entryPrice": 0.28,
-     "lastPrice": 0.2702
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "short-lane",
    "name": "PRETEND - Short the premarket spike",
    "kind": "official",
@@ -1037,6 +1014,22 @@
    "upPct": -14.5,
    "trades": 15,
    "winPct": 27,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-six-degrees-near-line",
+   "name": "Six Degrees (near its line)",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 8502.25,
+   "upDollars": -1497.75,
+   "upPct": -15,
+   "realised": -1497.75,
+   "trades": 57,
+   "winPct": 21,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -1063,21 +1056,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6936.6,
-   "upDollars": -3063.4,
-   "upPct": -30.6,
-   "realised": -3039.33,
-   "trades": 111,
-   "winPct": 23,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "ZBAO",
-     "shares": 2456,
-     "entryPrice": 0.28,
-     "lastPrice": 0.2702
-    }
-   ],
+   "equity": 6893.13,
+   "upDollars": -3106.87,
+   "upPct": -31.1,
+   "realised": -3106.87,
+   "trades": 112,
+   "winPct": 22,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1086,9 +1072,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5377.91,
-   "upDollars": -4622.09,
-   "upPct": -46.2,
+   "equity": 5371.64,
+   "upDollars": -4628.36,
+   "upPct": -46.3,
    "realised": -4629.65,
    "trades": 115,
    "winPct": 15,
@@ -1098,7 +1084,7 @@
      "symbol": "VTSI",
      "shares": 126,
      "entryPrice": 4.23,
-     "lastPrice": 4.29
+     "lastPrice": 4.2402
     }
    ],
    "lastTrade": null
