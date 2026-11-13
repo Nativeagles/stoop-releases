@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-13",
- "asOfAt": 1794562420607,
+ "asOfAt": 1794563323429,
  "sessionStatus": "in-progress",
- "publishedAt": 1794562420607,
+ "publishedAt": 1794563323429,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -628,9 +628,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9717.75,
-   "upDollars": -282.25,
-   "upPct": -2.8,
+   "equity": 9727.82,
+   "upDollars": -272.18,
+   "upPct": -2.7,
    "realised": -265.98,
    "trades": 496,
    "winPct": 44,
@@ -640,19 +640,19 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 126.23,
-     "lastPrice": 126.37
+     "lastPrice": 126.46
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.5,
-     "lastPrice": 50.7
+     "lastPrice": 50.7163
     },
     {
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.35,
-     "lastPrice": 79.91
+     "lastPrice": 80.17
     },
     {
      "symbol": "MRK",
@@ -664,25 +664,25 @@
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 119.3,
-     "lastPrice": 118.09
+     "lastPrice": 118.4544
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.37,
-     "lastPrice": 142.81
+     "lastPrice": 142.51
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 97.43,
-     "lastPrice": 97.95
+     "lastPrice": 97.91
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.6,
-     "lastPrice": 79.46
+     "lastPrice": 79.92
     },
     {
      "symbol": "MDT",
@@ -940,13 +940,13 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9239.27,
-   "upDollars": -760.73,
-   "upPct": -7.6,
+   "equity": 9258.93,
+   "upDollars": -741.07,
+   "upPct": -7.4,
    "realised": -755.8,
    "trades": 33,
    "winPct": 36,
-   "open": 5,
+   "open": 6,
    "positions": [
     {
      "symbol": "LINC",
@@ -958,7 +958,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.48
+     "lastPrice": 15.49
     },
     {
      "symbol": "XCUR",
@@ -977,6 +977,12 @@
      "shares": 64,
      "entryPrice": 14.92,
      "lastPrice": 13.77
+    },
+    {
+     "symbol": "SNAL",
+     "shares": 337,
+     "entryPrice": 2.72,
+     "lastPrice": 2.7773
     }
    ],
    "lastTrade": null
