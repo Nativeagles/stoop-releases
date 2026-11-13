@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-13",
- "asOfAt": 1794566935231,
+ "asOfAt": 1794567838303,
  "sessionStatus": "in-progress",
- "publishedAt": 1794566935231,
+ "publishedAt": 1794567838303,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -628,9 +628,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9748.15,
-   "upDollars": -251.85,
-   "upPct": -2.5,
+   "equity": 9737.63,
+   "upDollars": -262.37,
+   "upPct": -2.6,
    "realised": -265.98,
    "trades": 496,
    "winPct": 44,
@@ -646,13 +646,13 @@
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.5,
-     "lastPrice": 50.74
+     "lastPrice": 50.67
     },
     {
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.35,
-     "lastPrice": 79.75
+     "lastPrice": 79.96
     },
     {
      "symbol": "MRK",
@@ -664,25 +664,25 @@
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 119.3,
-     "lastPrice": 118.61
+     "lastPrice": 119.37
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.37,
-     "lastPrice": 142.59
+     "lastPrice": 142.73
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 97.43,
-     "lastPrice": 97.9
+     "lastPrice": 97.69
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.6,
-     "lastPrice": 80.9377
+     "lastPrice": 79.57
     },
     {
      "symbol": "MDT",
@@ -694,7 +694,7 @@
      "symbol": "VZ",
      "shares": 12,
      "entryPrice": 46.56,
-     "lastPrice": 46.74
+     "lastPrice": 46.73
     }
    ],
    "lastTrade": null
@@ -940,8 +940,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9258.27,
-   "upDollars": -741.73,
+   "equity": 9256.91,
+   "upDollars": -743.09,
    "upPct": -7.4,
    "realised": -755.8,
    "trades": 33,
@@ -982,13 +982,13 @@
      "symbol": "SNAL",
      "shares": 337,
      "entryPrice": 2.72,
-     "lastPrice": 2.68
+     "lastPrice": 2.66
     },
     {
      "symbol": "MRLN",
      "shares": 690,
      "entryPrice": 1.34,
-     "lastPrice": 1.331
+     "lastPrice": 1.3388
     }
    ],
    "lastTrade": null
@@ -999,8 +999,8 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8774.11,
-   "upDollars": -1225.89,
+   "equity": 8773.5,
+   "upDollars": -1226.5,
    "upPct": -12.3,
    "realised": -1195.75,
    "trades": 43,
@@ -1011,7 +1011,7 @@
      "symbol": "MRLN",
      "shares": 615,
      "entryPrice": 1.38,
-     "lastPrice": 1.331
+     "lastPrice": 1.33
     }
    ],
    "lastTrade": null
@@ -1069,9 +1069,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7564.89,
-   "upDollars": -2435.11,
-   "upPct": -24.4,
+   "equity": 7569.13,
+   "upDollars": -2430.87,
+   "upPct": -24.3,
    "realised": -2409.14,
    "trades": 86,
    "winPct": 24,
@@ -1081,7 +1081,7 @@
      "symbol": "MRLN",
      "shares": 530,
      "entryPrice": 1.38,
-     "lastPrice": 1.331
+     "lastPrice": 1.339
     }
    ],
    "lastTrade": null
@@ -1108,8 +1108,8 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5120.85,
-   "upDollars": -4879.15,
+   "equity": 5120.53,
+   "upDollars": -4879.47,
    "upPct": -48.8,
    "realised": -4861.56,
    "trades": 126,
@@ -1120,7 +1120,7 @@
      "symbol": "MRLN",
      "shares": 359,
      "entryPrice": 1.38,
-     "lastPrice": 1.331
+     "lastPrice": 1.3301
     }
    ],
    "lastTrade": null
