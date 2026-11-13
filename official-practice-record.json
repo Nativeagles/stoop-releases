@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-13",
- "asOfAt": 1794577770746,
+ "asOfAt": 1794578673859,
  "sessionStatus": "in-progress",
- "publishedAt": 1794577770746,
+ "publishedAt": 1794578673859,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10400.44,
-   "upDollars": 400.44,
-   "upPct": 4,
+   "equity": 10409.06,
+   "upDollars": 409.06,
+   "upPct": 4.1,
    "realised": 375.14,
    "trades": 16,
    "winPct": 63,
@@ -40,13 +40,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.8
+     "lastPrice": 20.01
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.7907
+     "lastPrice": 46.62
     }
    ],
    "lastTrade": null
@@ -628,9 +628,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9776.26,
-   "upDollars": -223.74,
-   "upPct": -2.2,
+   "equity": 9773.11,
+   "upDollars": -226.89,
+   "upPct": -2.3,
    "realised": -265.98,
    "trades": 496,
    "winPct": 44,
@@ -640,49 +640,49 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 126.23,
-     "lastPrice": 126.68
+     "lastPrice": 126.52
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.5,
-     "lastPrice": 50.9527
+     "lastPrice": 50.8964
     },
     {
      "symbol": "HOOD",
      "shares": 11,
      "entryPrice": 81.35,
-     "lastPrice": 80.653
+     "lastPrice": 80.4
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 146.94,
-     "lastPrice": 147.98
+     "lastPrice": 147.97
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 119.3,
-     "lastPrice": 120
+     "lastPrice": 120.25
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 142.37,
-     "lastPrice": 142.63
+     "lastPrice": 142.6
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 97.43,
-     "lastPrice": 97.8275
+     "lastPrice": 97.77
     },
     {
      "symbol": "APH",
      "shares": 12,
      "entryPrice": 79.6,
-     "lastPrice": 80.5
+     "lastPrice": 80.6585
     },
     {
      "symbol": "MDT",
@@ -694,7 +694,7 @@
      "symbol": "VZ",
      "shares": 12,
      "entryPrice": 46.56,
-     "lastPrice": 46.84
+     "lastPrice": 46.73
     }
    ],
    "lastTrade": null
@@ -766,71 +766,6 @@
      "shares": 14,
      "entryPrice": 51.09,
      "lastPrice": 56.260000000000005
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-loose",
-   "name": "Takeoff - looser",
-   "kind": "official",
-   "startedOn": "2026-11-06",
-   "startingCash": 10000,
-   "equity": 9586.49,
-   "upDollars": -413.51,
-   "upPct": -4.1,
-   "realised": -755.8,
-   "trades": 33,
-   "winPct": 36,
-   "open": 8,
-   "positions": [
-    {
-     "symbol": "LINC",
-     "shares": 24,
-     "entryPrice": 21.32,
-     "lastPrice": 23.192
-    },
-    {
-     "symbol": "TTD",
-     "shares": 35,
-     "entryPrice": 14.53,
-     "lastPrice": 15.6
-    },
-    {
-     "symbol": "XCUR",
-     "shares": 490,
-     "entryPrice": 1.03,
-     "lastPrice": 0.9967
-    },
-    {
-     "symbol": "AZTA",
-     "shares": 10,
-     "entryPrice": 48,
-     "lastPrice": 45.4917
-    },
-    {
-     "symbol": "AVEX",
-     "shares": 64,
-     "entryPrice": 14.92,
-     "lastPrice": 13.84
-    },
-    {
-     "symbol": "SNAL",
-     "shares": 337,
-     "entryPrice": 2.72,
-     "lastPrice": 2.7393
-    },
-    {
-     "symbol": "MRLN",
-     "shares": 690,
-     "entryPrice": 1.34,
-     "lastPrice": 1.2813
-    },
-    {
-     "symbol": "FCUV",
-     "shares": 221,
-     "entryPrice": 4.17,
-     "lastPrice": 6
     }
    ],
    "lastTrade": null
@@ -984,6 +919,65 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-loose",
+   "name": "Takeoff - looser",
+   "kind": "official",
+   "startedOn": "2026-11-06",
+   "startingCash": 10000,
+   "equity": 9464.5,
+   "upDollars": -535.5,
+   "upPct": -5.4,
+   "realised": -466.29,
+   "trades": 34,
+   "winPct": 38,
+   "open": 7,
+   "positions": [
+    {
+     "symbol": "LINC",
+     "shares": 24,
+     "entryPrice": 21.32,
+     "lastPrice": 23.192
+    },
+    {
+     "symbol": "TTD",
+     "shares": 35,
+     "entryPrice": 14.53,
+     "lastPrice": 15.5344
+    },
+    {
+     "symbol": "XCUR",
+     "shares": 490,
+     "entryPrice": 1.03,
+     "lastPrice": 0.9967
+    },
+    {
+     "symbol": "AZTA",
+     "shares": 10,
+     "entryPrice": 48,
+     "lastPrice": 44.3705
+    },
+    {
+     "symbol": "AVEX",
+     "shares": 64,
+     "entryPrice": 14.92,
+     "lastPrice": 13.83
+    },
+    {
+     "symbol": "SNAL",
+     "shares": 337,
+     "entryPrice": 2.72,
+     "lastPrice": 2.7603
+    },
+    {
+     "symbol": "MRLN",
+     "shares": 690,
+     "entryPrice": 1.34,
+     "lastPrice": 1.2813
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-down-bubble-pmh",
    "name": "Down Bubble — premarket high",
    "kind": "official",
@@ -1068,11 +1062,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7633.87,
-   "upDollars": -2366.13,
-   "upPct": -23.7,
-   "realised": -2366.13,
-   "trades": 88,
+   "equity": 7615.73,
+   "upDollars": -2384.27,
+   "upPct": -23.8,
+   "realised": -2384.27,
+   "trades": 89,
    "winPct": 25,
    "open": 0,
    "positions": [],
@@ -1100,11 +1094,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5041.38,
-   "upDollars": -4958.62,
-   "upPct": -49.6,
-   "realised": -4958.62,
-   "trades": 128,
+   "equity": 5030.21,
+   "upDollars": -4969.79,
+   "upPct": -49.7,
+   "realised": -4969.79,
+   "trades": 129,
    "winPct": 16,
    "open": 0,
    "positions": [],
