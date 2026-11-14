@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-13",
- "asOfAt": 1794616622318,
+ "asOfAt": 1794617525223,
  "sessionStatus": "in-progress",
- "publishedAt": 1794616622318,
+ "publishedAt": 1794617525223,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -646,8 +646,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9629.13,
-   "upDollars": -370.87,
+   "equity": 9630.83,
+   "upDollars": -369.17,
    "upPct": -3.7,
    "realised": -315.78,
    "trades": 511,
@@ -658,37 +658,37 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 61.97
+     "lastPrice": 61.9731
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 101.38
+     "lastPrice": 101.25
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 145.5
+     "lastPrice": 145.55
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 69.2
+     "lastPrice": 69.24
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123.53
+     "lastPrice": 123.51
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 84.8141
+     "lastPrice": 85
     },
     {
      "symbol": "MCHP",
@@ -700,7 +700,7 @@
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 50.95,
-     "lastPrice": 50.8545
+     "lastPrice": 50.86
     },
     {
      "symbol": "KO",
@@ -934,9 +934,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9197.65,
-   "upDollars": -802.35,
-   "upPct": -8,
+   "equity": 9180.52,
+   "upDollars": -819.48,
+   "upPct": -8.2,
    "realised": -821.6,
    "trades": 37,
    "winPct": 35,
@@ -952,7 +952,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.65
+     "lastPrice": 15.66
     },
     {
      "symbol": "XCUR",
@@ -970,13 +970,13 @@
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 106.31
+     "lastPrice": 106.01
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 17.96
+     "lastPrice": 17.67
     },
     {
      "symbol": "TROO",
@@ -1072,8 +1072,8 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5330.8,
-   "upDollars": -4669.2,
+   "equity": 5328.28,
+   "upDollars": -4671.72,
    "upPct": -46.7,
    "realised": -4667.94,
    "trades": 116,
@@ -1084,7 +1084,7 @@
      "symbol": "VTSI",
      "shares": 126,
      "entryPrice": 4.23,
-     "lastPrice": 4.22
+     "lastPrice": 4.2
     }
    ],
    "lastTrade": null
