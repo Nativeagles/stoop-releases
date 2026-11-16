@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794833598834,
+ "asOfAt": 1794834505609,
  "sessionStatus": "in-progress",
- "publishedAt": 1794833598834,
+ "publishedAt": 1794834505609,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,9 +28,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10377.04,
-   "upDollars": 377.04,
-   "upPct": 3.8,
+   "equity": 10423.44,
+   "upDollars": 423.44,
+   "upPct": 4.2,
    "realised": 333.6,
    "trades": 18,
    "winPct": 61,
@@ -46,13 +46,13 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.14
+     "lastPrice": 46.38
     },
     {
      "symbol": "AKAN",
      "shares": 245,
      "entryPrice": 2.12,
-     "lastPrice": 2.2414
+     "lastPrice": 2.42
     }
    ],
    "lastTrade": null
@@ -63,9 +63,9 @@
    "kind": "official",
    "startedOn": "2026-11-12",
    "startingCash": 10000,
-   "equity": 10104.31,
-   "upDollars": 104.31,
-   "upPct": 1,
+   "equity": 10123.49,
+   "upDollars": 123.49,
+   "upPct": 1.2,
    "realised": 57.13,
    "trades": 7,
    "winPct": 57,
@@ -75,7 +75,7 @@
      "symbol": "AKAN",
      "shares": 237,
      "entryPrice": 2.12,
-     "lastPrice": 2.3191
+     "lastPrice": 2.4
     }
    ],
    "lastTrade": null
@@ -307,6 +307,28 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 10041.97,
+   "upDollars": 41.97,
+   "upPct": 0.4,
+   "trades": 37,
+   "winPct": 54,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "CRDF (short)",
+     "shares": -1091,
+     "entryPrice": 0.91475868,
+     "lastPrice": 0.8607
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-pattern-follow-tc",
    "name": "Pattern Follow (chart-pattern lists)",
    "kind": "official",
@@ -351,21 +373,6 @@
      "lastPrice": 51.52
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 9982.99,
-   "upDollars": -17.01,
-   "upPct": -0.2,
-   "trades": 37,
-   "winPct": 54,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
@@ -582,9 +589,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9662.31,
-   "upDollars": -337.69,
-   "upPct": -3.4,
+   "equity": 9665.12,
+   "upDollars": -334.88,
+   "upPct": -3.3,
    "realised": -315.78,
    "trades": 511,
    "winPct": 44,
@@ -594,43 +601,43 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 62.66
+     "lastPrice": 62.645
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 101.5
+     "lastPrice": 101.7003
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 145.59
+     "lastPrice": 145.45
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 69.56
+     "lastPrice": 69.54
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123.08
+     "lastPrice": 123.41
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 85.49
+     "lastPrice": 85.6
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 61.83,
-     "lastPrice": 60.29
+     "lastPrice": 60.39
     },
     {
      "symbol": "BAC",
@@ -642,13 +649,13 @@
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.3,
-     "lastPrice": 99.92
+     "lastPrice": 99.83
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 127.99,
-     "lastPrice": 129.3974
+     "lastPrice": 129.1295
     }
    ],
    "lastTrade": null
@@ -864,9 +871,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9082.67,
-   "upDollars": -917.33,
-   "upPct": -9.2,
+   "equity": 9056.06,
+   "upDollars": -943.94,
+   "upPct": -9.4,
    "realised": -910.88,
    "trades": 38,
    "winPct": 34,
@@ -882,7 +889,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.6
+     "lastPrice": 15.6115
     },
     {
      "symbol": "XCUR",
@@ -894,19 +901,19 @@
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 44.72
+     "lastPrice": 45
     },
     {
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 103.7726
+     "lastPrice": 104.06
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.1
+     "lastPrice": 17.79
     },
     {
      "symbol": "TROO",
@@ -918,7 +925,7 @@
      "symbol": "HIHO",
      "shares": 796,
      "entryPrice": 1.14,
-     "lastPrice": 1.1399
+     "lastPrice": 1.1198
     }
    ],
    "lastTrade": null
