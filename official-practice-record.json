@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794865193513,
+ "asOfAt": 1794866095459,
  "sessionStatus": "in-progress",
- "publishedAt": 1794865193513,
+ "publishedAt": 1794866095459,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -500,9 +500,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9569.01,
-   "upDollars": -430.99,
-   "upPct": -4.3,
+   "equity": 9549.5,
+   "upDollars": -450.5,
+   "upPct": -4.5,
    "realised": -430.89,
    "trades": 523,
    "winPct": 44,
@@ -512,61 +512,61 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 146.6
+     "lastPrice": 146.45
     },
     {
      "symbol": "CBRS",
      "shares": 5,
      "entryPrice": 101,
-     "lastPrice": 101.2
+     "lastPrice": 100.6
     },
     {
      "symbol": "COIN",
      "shares": 5,
      "entryPrice": 120.13,
-     "lastPrice": 120.03
+     "lastPrice": 120.54
     },
     {
      "symbol": "APH",
      "shares": 8,
      "entryPrice": 75.31,
-     "lastPrice": 75.6764
+     "lastPrice": 75.073
     },
     {
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.3883
+     "lastPrice": 46.5513
     },
     {
      "symbol": "NU",
      "shares": 47,
      "entryPrice": 12.67,
-     "lastPrice": 12.67
+     "lastPrice": 12.66
     },
     {
      "symbol": "T",
      "shares": 26,
      "entryPrice": 22.42,
-     "lastPrice": 22.335
+     "lastPrice": 22.35
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 84.94,
-     "lastPrice": 84.6
+     "lastPrice": 84.25
     },
     {
      "symbol": "ABT",
      "shares": 5,
      "entryPrice": 107.35,
-     "lastPrice": 107.67
+     "lastPrice": 107.45
     },
     {
      "symbol": "INTC",
      "shares": 17,
      "entryPrice": 55.55,
-     "lastPrice": 55.51
+     "lastPrice": 54.7965
     }
    ],
    "lastTrade": null
@@ -800,9 +800,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8895.3,
-   "upDollars": -1104.7,
-   "upPct": -11,
+   "equity": 8880.25,
+   "upDollars": -1119.75,
+   "upPct": -11.2,
    "realised": -1199.68,
    "trades": 41,
    "winPct": 32,
@@ -818,13 +818,13 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.829
+     "lastPrice": 14.79
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.07
+     "lastPrice": 1.0408
     },
     {
      "symbol": "AZTA",
@@ -842,7 +842,7 @@
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.1807
+     "lastPrice": 1.1815
     }
    ],
    "lastTrade": null
@@ -900,25 +900,19 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7577.84,
-   "upDollars": -2422.16,
-   "upPct": -24.2,
-   "realised": -2372.93,
-   "trades": 75,
-   "winPct": 27,
-   "open": 2,
+   "equity": 7662.9,
+   "upDollars": -2337.1,
+   "upPct": -23.4,
+   "realised": -2282.75,
+   "trades": 76,
+   "winPct": 28,
+   "open": 1,
    "positions": [
-    {
-     "symbol": "GP",
-     "shares": 501,
-     "entryPrice": 1.51,
-     "lastPrice": 1.52
-    },
     {
      "symbol": "AKAN",
      "shares": 339,
      "entryPrice": 2.26,
-     "lastPrice": 2.1
+     "lastPrice": 2.0997
     }
    ],
    "lastTrade": null
@@ -960,21 +954,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5110.62,
-   "upDollars": -4889.38,
-   "upPct": -48.9,
-   "realised": -4890.95,
-   "trades": 129,
+   "equity": 5079.35,
+   "upDollars": -4920.65,
+   "upPct": -49.2,
+   "realised": -4920.65,
+   "trades": 130,
    "winPct": 14,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SPAI",
-     "shares": 165,
-     "entryPrice": 3.11,
-     "lastPrice": 3.1195
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
