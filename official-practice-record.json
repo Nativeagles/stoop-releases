@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794863389743,
+ "asOfAt": 1794864291643,
  "sessionStatus": "in-progress",
- "publishedAt": 1794863389743,
+ "publishedAt": 1794864291643,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -500,11 +500,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9563.45,
-   "upDollars": -436.55,
+   "equity": 9558.07,
+   "upDollars": -441.93,
    "upPct": -4.4,
-   "realised": -430.29,
-   "trades": 521,
+   "realised": -430.71,
+   "trades": 522,
    "winPct": 44,
    "open": 10,
    "positions": [
@@ -512,61 +512,61 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 146.57
+     "lastPrice": 146.43
     },
     {
      "symbol": "CBRS",
      "shares": 5,
      "entryPrice": 101,
-     "lastPrice": 100.68
+     "lastPrice": 100.66
     },
     {
      "symbol": "COIN",
      "shares": 5,
      "entryPrice": 120.13,
-     "lastPrice": 119.63
+     "lastPrice": 119.72
     },
     {
      "symbol": "APH",
      "shares": 8,
      "entryPrice": 75.31,
-     "lastPrice": 75.35
+     "lastPrice": 75.6725
     },
     {
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.39
+     "lastPrice": 46.38
     },
     {
      "symbol": "NU",
      "shares": 47,
      "entryPrice": 12.67,
-     "lastPrice": 12.67
+     "lastPrice": 12.65
     },
     {
      "symbol": "T",
      "shares": 26,
      "entryPrice": 22.42,
-     "lastPrice": 22.34
+     "lastPrice": 22.36
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 84.94,
-     "lastPrice": 84.9
-    },
-    {
-     "symbol": "BABA",
-     "shares": 6,
-     "entryPrice": 90.71,
-     "lastPrice": 90.6
+     "lastPrice": 84.06
     },
     {
      "symbol": "ABT",
      "shares": 5,
      "entryPrice": 107.35,
      "lastPrice": 107.45
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 6,
+     "entryPrice": 137.3,
+     "lastPrice": 137.04
     }
    ],
    "lastTrade": null
@@ -800,9 +800,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8919.15,
-   "upDollars": -1080.85,
-   "upPct": -10.8,
+   "equity": 8903.58,
+   "upDollars": -1096.42,
+   "upPct": -11,
    "realised": -1199.68,
    "trades": 41,
    "winPct": 32,
@@ -818,7 +818,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.8
+     "lastPrice": 14.771
     },
     {
      "symbol": "XCUR",
@@ -836,7 +836,7 @@
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.51
+     "lastPrice": 18.23
     },
     {
      "symbol": "MNTK",
@@ -900,14 +900,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7627.07,
-   "upDollars": -2372.93,
-   "upPct": -23.7,
+   "equity": 7622.51,
+   "upDollars": -2377.49,
+   "upPct": -23.8,
    "realised": -2372.93,
    "trades": 75,
    "winPct": 27,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GP",
+     "shares": 501,
+     "entryPrice": 1.51,
+     "lastPrice": 1.5009
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -931,14 +938,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6713.53,
-   "upDollars": -3286.47,
+   "equity": 6709.52,
+   "upDollars": -3290.48,
    "upPct": -32.9,
    "realised": -3286.47,
    "trades": 124,
    "winPct": 22,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GP",
+     "shares": 441,
+     "entryPrice": 1.51,
+     "lastPrice": 1.5009
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -947,14 +961,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5146.56,
-   "upDollars": -4853.44,
-   "upPct": -48.5,
+   "equity": 5143.49,
+   "upDollars": -4856.51,
+   "upPct": -48.6,
    "realised": -4853.44,
    "trades": 127,
    "winPct": 14,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GP",
+     "shares": 338,
+     "entryPrice": 1.51,
+     "lastPrice": 1.5009
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -963,14 +984,27 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 3997.94,
-   "upDollars": -6002.06,
-   "upPct": -60,
+   "equity": 3980.1,
+   "upDollars": -6019.9,
+   "upPct": -60.2,
    "realised": -6002.06,
    "trades": 181,
    "winPct": 14,
-   "open": 0,
-   "positions": [],
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "POLA",
+     "shares": 1056,
+     "entryPrice": 0.378,
+     "lastPrice": 0.3611
+    },
+    {
+     "symbol": "GP",
+     "shares": 261,
+     "entryPrice": 1.51,
+     "lastPrice": 1.51
+    }
+   ],
    "lastTrade": null
   }
  ]
