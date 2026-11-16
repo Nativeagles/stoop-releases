@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794871506022,
+ "asOfAt": 1794872407745,
  "sessionStatus": "in-progress",
- "publishedAt": 1794871506022,
+ "publishedAt": 1794872407745,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -495,83 +495,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9507.63,
-   "upDollars": -492.37,
-   "upPct": -4.9,
-   "realised": -476.75,
-   "trades": 529,
-   "winPct": 43,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 146.43,
-     "lastPrice": 146.97
-    },
-    {
-     "symbol": "APH",
-     "shares": 8,
-     "entryPrice": 75.31,
-     "lastPrice": 75
-    },
-    {
-     "symbol": "VZ",
-     "shares": 13,
-     "entryPrice": 46.43,
-     "lastPrice": 46.3508
-    },
-    {
-     "symbol": "T",
-     "shares": 26,
-     "entryPrice": 22.42,
-     "lastPrice": 22.38
-    },
-    {
-     "symbol": "WFC",
-     "shares": 7,
-     "entryPrice": 84.94,
-     "lastPrice": 84.52
-    },
-    {
-     "symbol": "ABT",
-     "shares": 5,
-     "entryPrice": 107.35,
-     "lastPrice": 107.8
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.12,
-     "lastPrice": 50.12
-    },
-    {
-     "symbol": "IREN",
-     "shares": 57,
-     "entryPrice": 16.48,
-     "lastPrice": 16.34
-    },
-    {
-     "symbol": "INTC",
-     "shares": 17,
-     "entryPrice": 53.58,
-     "lastPrice": 53.32
-    },
-    {
-     "symbol": "WMT",
-     "shares": 7,
-     "entryPrice": 128.5,
-     "lastPrice": 128.48
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-pattern-follow-daily",
    "name": "Pattern Follow (daily)",
    "kind": "official",
@@ -644,6 +567,77 @@
      "shares": 5,
      "entryPrice": 138.89,
      "lastPrice": 146.485
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9492.08,
+   "upDollars": -507.92,
+   "upPct": -5.1,
+   "realised": -488.15,
+   "trades": 530,
+   "winPct": 43,
+   "open": 9,
+   "positions": [
+    {
+     "symbol": "PEP",
+     "shares": 4,
+     "entryPrice": 146.43,
+     "lastPrice": 146.72
+    },
+    {
+     "symbol": "APH",
+     "shares": 8,
+     "entryPrice": 75.31,
+     "lastPrice": 75.0702
+    },
+    {
+     "symbol": "VZ",
+     "shares": 13,
+     "entryPrice": 46.43,
+     "lastPrice": 46.35
+    },
+    {
+     "symbol": "T",
+     "shares": 26,
+     "entryPrice": 22.42,
+     "lastPrice": 22.35
+    },
+    {
+     "symbol": "WFC",
+     "shares": 7,
+     "entryPrice": 84.94,
+     "lastPrice": 84.83
+    },
+    {
+     "symbol": "ABT",
+     "shares": 5,
+     "entryPrice": 107.35,
+     "lastPrice": 107.38
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.12,
+     "lastPrice": 50
+    },
+    {
+     "symbol": "INTC",
+     "shares": 17,
+     "entryPrice": 53.58,
+     "lastPrice": 52.78
+    },
+    {
+     "symbol": "WMT",
+     "shares": 7,
+     "entryPrice": 128.5,
+     "lastPrice": 128.55
     }
    ],
    "lastTrade": null
@@ -800,9 +794,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8881.24,
-   "upDollars": -1118.76,
-   "upPct": -11.2,
+   "equity": 8967.23,
+   "upDollars": -1032.77,
+   "upPct": -10.3,
    "realised": -1199.68,
    "trades": 41,
    "winPct": 32,
@@ -818,13 +812,13 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.78
+     "lastPrice": 14.7708
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.0408
+     "lastPrice": 1.19
     },
     {
      "symbol": "AZTA",
@@ -842,7 +836,7 @@
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.1832
+     "lastPrice": 1.2
     }
    ],
    "lastTrade": null
@@ -900,9 +894,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7670.5,
-   "upDollars": -2329.5,
-   "upPct": -23.3,
+   "equity": 7734.2,
+   "upDollars": -2265.8,
+   "upPct": -22.7,
    "realised": -2282.75,
    "trades": 76,
    "winPct": 28,
@@ -912,7 +906,7 @@
      "symbol": "AKAN",
      "shares": 339,
      "entryPrice": 2.26,
-     "lastPrice": 2.1221
+     "lastPrice": 2.31
     }
    ],
    "lastTrade": null
@@ -954,21 +948,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5054.29,
-   "upDollars": -4945.71,
-   "upPct": -49.5,
-   "realised": -4953.64,
-   "trades": 131,
+   "equity": 5030.22,
+   "upDollars": -4969.78,
+   "upPct": -49.7,
+   "realised": -4969.78,
+   "trades": 132,
    "winPct": 14,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GIPR",
-     "shares": 1441,
-     "entryPrice": 0.355,
-     "lastPrice": 0.3605
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
