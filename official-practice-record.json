@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794829075358,
+ "asOfAt": 1794829985714,
  "sessionStatus": "in-progress",
- "publishedAt": 1794829075358,
+ "publishedAt": 1794829985714,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,8 +28,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10437.23,
-   "upDollars": 437.23,
+   "equity": 10439.82,
+   "upDollars": 439.82,
    "upPct": 4.4,
    "realised": 397.21,
    "trades": 17,
@@ -52,25 +52,9 @@
      "symbol": "FGL",
      "shares": 489,
      "entryPrice": 0.9501,
-     "lastPrice": 0.983
+     "lastPrice": 0.9883
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-12",
-   "startingCash": 10000,
-   "equity": 10137.23,
-   "upDollars": 137.23,
-   "upPct": 1.4,
-   "realised": 137.23,
-   "trades": 6,
-   "winPct": 67,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
@@ -297,6 +281,22 @@
      "lastPrice": 25.095
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-12",
+   "startingCash": 10000,
+   "equity": 10057.13,
+   "upDollars": 57.13,
+   "upPct": 0.6,
+   "realised": 57.13,
+   "trades": 7,
+   "winPct": 57,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -575,8 +575,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9674.14,
-   "upDollars": -325.86,
+   "equity": 9673.82,
+   "upDollars": -326.18,
    "upPct": -3.3,
    "realised": -315.78,
    "trades": 511,
@@ -587,61 +587,61 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 62.61
+     "lastPrice": 62.67
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 102.4
+     "lastPrice": 102.33
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 146.1
+     "lastPrice": 146.14
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 69.62
+     "lastPrice": 69.53
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123.32
+     "lastPrice": 123.79
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 85.5947
+     "lastPrice": 85.25
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 61.83,
-     "lastPrice": 60.42
+     "lastPrice": 60.39
     },
     {
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 50.95,
-     "lastPrice": 50.95
+     "lastPrice": 50.992
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.3,
-     "lastPrice": 99.65
+     "lastPrice": 99.67
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 127.99,
-     "lastPrice": 128.999
+     "lastPrice": 129.05
     }
    ],
    "lastTrade": null
@@ -857,8 +857,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9064.63,
-   "upDollars": -935.37,
+   "equity": 9060.67,
+   "upDollars": -939.33,
    "upPct": -9.4,
    "realised": -910.88,
    "trades": 38,
@@ -875,7 +875,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.56
+     "lastPrice": 15.52
     },
     {
      "symbol": "XCUR",
@@ -893,7 +893,7 @@
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 104.6
+     "lastPrice": 104.28
     },
     {
      "symbol": "HAWK",
@@ -1011,12 +1011,12 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 4236.55,
-   "upDollars": -5763.45,
-   "upPct": -57.6,
-   "realised": -5763.45,
-   "trades": 165,
-   "winPct": 13,
+   "equity": 4251.1,
+   "upDollars": -5748.9,
+   "upPct": -57.5,
+   "realised": -5748.9,
+   "trades": 166,
+   "winPct": 14,
    "open": 0,
    "positions": [],
    "lastTrade": null
