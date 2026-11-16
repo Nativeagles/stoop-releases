@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794869702494,
+ "asOfAt": 1794870604225,
  "sessionStatus": "in-progress",
- "publishedAt": 1794869702494,
+ "publishedAt": 1794870604225,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -500,31 +500,31 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9523.46,
-   "upDollars": -476.54,
+   "equity": 9518.24,
+   "upDollars": -481.76,
    "upPct": -4.8,
-   "realised": -471.51,
-   "trades": 527,
-   "winPct": 44,
+   "realised": -476.75,
+   "trades": 529,
+   "winPct": 43,
    "open": 10,
    "positions": [
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 146.58
+     "lastPrice": 146.9201
     },
     {
      "symbol": "APH",
      "shares": 8,
      "entryPrice": 75.31,
-     "lastPrice": 75.6725
+     "lastPrice": 75.75
     },
     {
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.37
+     "lastPrice": 46.38
     },
     {
      "symbol": "T",
@@ -536,7 +536,7 @@
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 84.94,
-     "lastPrice": 84.84
+     "lastPrice": 84.59
     },
     {
      "symbol": "ABT",
@@ -545,28 +545,28 @@
      "lastPrice": 107.45
     },
     {
-     "symbol": "SOXX",
-     "shares": 6,
-     "entryPrice": 141.32,
-     "lastPrice": 141.21
-    },
-    {
-     "symbol": "SKHY",
-     "shares": 7,
-     "entryPrice": 122.98,
-     "lastPrice": 122.8
-    },
-    {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.12,
-     "lastPrice": 50.01
+     "lastPrice": 50.0499
     },
     {
      "symbol": "IREN",
      "shares": 57,
      "entryPrice": 16.48,
-     "lastPrice": 16.4499
+     "lastPrice": 16.45
+    },
+    {
+     "symbol": "INTC",
+     "shares": 17,
+     "entryPrice": 53.58,
+     "lastPrice": 53.365
+    },
+    {
+     "symbol": "WMT",
+     "shares": 7,
+     "entryPrice": 128.5,
+     "lastPrice": 128.59
     }
    ],
    "lastTrade": null
@@ -800,9 +800,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8906.74,
-   "upDollars": -1093.26,
-   "upPct": -10.9,
+   "equity": 8898.66,
+   "upDollars": -1101.34,
+   "upPct": -11,
    "realised": -1199.68,
    "trades": 41,
    "winPct": 32,
@@ -818,7 +818,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.8062
+     "lastPrice": 14.8
     },
     {
      "symbol": "XCUR",
@@ -842,7 +842,7 @@
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.19
+     "lastPrice": 1.18
     }
    ],
    "lastTrade": null
@@ -900,8 +900,8 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7663.01,
-   "upDollars": -2336.99,
+   "equity": 7656.23,
+   "upDollars": -2343.77,
    "upPct": -23.4,
    "realised": -2282.75,
    "trades": 76,
@@ -912,7 +912,7 @@
      "symbol": "AKAN",
      "shares": 339,
      "entryPrice": 2.26,
-     "lastPrice": 2.1
+     "lastPrice": 2.08
     }
    ],
    "lastTrade": null
