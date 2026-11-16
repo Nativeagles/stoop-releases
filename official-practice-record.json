@@ -1,42 +1,20 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794836311334,
+ "asOfAt": 1794837214429,
  "sessionStatus": "in-progress",
- "publishedAt": 1794836311334,
+ "publishedAt": 1794837214429,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
-  {
-   "styleId": "short-lane-spike80",
-   "name": "PRETEND - Short the +80% spiker",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 10458.86,
-   "upDollars": 458.86,
-   "upPct": 4.6,
-   "trades": 13,
-   "winPct": 62,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GMM (short)",
-     "shares": -220,
-     "entryPrice": 2.3817735499999997,
-     "lastPrice": 2.4995
-    }
-   ],
-   "lastTrade": null
-  },
   {
    "styleId": "auto-practice-takeoff",
    "name": "Takeoff",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10389.24,
-   "upDollars": 389.24,
+   "equity": 10385.94,
+   "upDollars": 385.94,
    "upPct": 3.9,
    "realised": 360.55,
    "trades": 19,
@@ -53,7 +31,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.69
+     "lastPrice": 46.39
     }
    ],
    "lastTrade": null
@@ -64,9 +42,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 10127.83,
-   "upDollars": 127.83,
-   "upPct": 1.3,
+   "equity": 10124.89,
+   "upDollars": 124.89,
+   "upPct": 1.2,
    "trades": 37,
    "winPct": 54,
    "open": 1,
@@ -75,7 +53,7 @@
      "symbol": "CRDF (short)",
      "shares": -1091,
      "entryPrice": 0.91475868,
-     "lastPrice": 0.782
+     "lastPrice": 0.7847
     }
    ],
    "lastTrade": null
@@ -578,14 +556,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-spike80",
+   "name": "PRETEND - Short the +80% spiker",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9847.75,
+   "upDollars": -152.25,
+   "upPct": -1.5,
+   "trades": 14,
+   "winPct": 57,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9664.96,
-   "upDollars": -335.04,
-   "upPct": -3.4,
+   "equity": 9680.33,
+   "upDollars": -319.67,
+   "upPct": -3.2,
    "realised": -315.78,
    "trades": 511,
    "winPct": 44,
@@ -595,61 +588,61 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 62.6
+     "lastPrice": 62.72
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 101.5377
+     "lastPrice": 101.9553
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 144.98
+     "lastPrice": 145.88
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 69.53
+     "lastPrice": 70.17
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123.044
+     "lastPrice": 123
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 86
+     "lastPrice": 85.765
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 61.83,
-     "lastPrice": 60.32
+     "lastPrice": 60.4
     },
     {
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 50.95,
-     "lastPrice": 50.89
+     "lastPrice": 50.85
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.3,
-     "lastPrice": 99.86
+     "lastPrice": 99.96
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 127.99,
-     "lastPrice": 129.682
+     "lastPrice": 129.34
     }
    ],
    "lastTrade": null
@@ -865,9 +858,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8975.94,
-   "upDollars": -1024.06,
-   "upPct": -10.2,
+   "equity": 9036.35,
+   "upDollars": -963.65,
+   "upPct": -9.6,
    "realised": -1006.4,
    "trades": 39,
    "winPct": 33,
@@ -877,13 +870,13 @@
      "symbol": "LINC",
      "shares": 24,
      "entryPrice": 21.32,
-     "lastPrice": 23.58
+     "lastPrice": 22.15
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.5731
+     "lastPrice": 15.67
     },
     {
      "symbol": "XCUR",
@@ -901,19 +894,19 @@
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 103.6411
+     "lastPrice": 103.35
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 17.8
+     "lastPrice": 17.833
     },
     {
      "symbol": "TROO",
      "shares": 613,
      "entryPrice": 1.51,
-     "lastPrice": 1.41
+     "lastPrice": 1.56
     }
    ],
    "lastTrade": null
@@ -951,36 +944,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "short-lane",
-   "name": "PRETEND - Short the premarket spike",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 7965.05,
-   "upDollars": -2034.95,
-   "upPct": -20.3,
-   "trades": 15,
-   "winPct": 27,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GMM (short)",
-     "shares": -576,
-     "entryPrice": 1.48280807,
-     "lastPrice": 2.4995
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-down-bubble",
    "name": "Down Bubble — box",
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7840.09,
-   "upDollars": -2159.91,
-   "upPct": -21.6,
+   "equity": 7821.82,
+   "upDollars": -2178.18,
+   "upPct": -21.8,
    "realised": -2122.8,
    "trades": 68,
    "winPct": 28,
@@ -990,9 +961,24 @@
      "symbol": "HELP",
      "shares": 71,
      "entryPrice": 10.79,
-     "lastPrice": 10.2673
+     "lastPrice": 10.01
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "short-lane",
+   "name": "PRETEND - Short the premarket spike",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 7534.24,
+   "upDollars": -2465.76,
+   "upPct": -24.7,
+   "trades": 16,
+   "winPct": 25,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
