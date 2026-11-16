@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794831792028,
+ "asOfAt": 1794832695962,
  "sessionStatus": "in-progress",
- "publishedAt": 1794831792028,
+ "publishedAt": 1794832695962,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -28,13 +28,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10349.72,
-   "upDollars": 349.72,
-   "upPct": 3.5,
+   "equity": 10366.19,
+   "upDollars": 366.19,
+   "upPct": 3.7,
    "realised": 333.6,
    "trades": 18,
    "winPct": 61,
-   "open": 2,
+   "open": 3,
    "positions": [
     {
      "symbol": "SLN",
@@ -46,7 +46,13 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.36
+     "lastPrice": 46.3
+    },
+    {
+     "symbol": "AKAN",
+     "shares": 245,
+     "entryPrice": 2.12,
+     "lastPrice": 2.1899
     }
    ],
    "lastTrade": null
@@ -283,14 +289,21 @@
    "kind": "official",
    "startedOn": "2026-11-12",
    "startingCash": 10000,
-   "equity": 10057.13,
-   "upDollars": 57.13,
-   "upPct": 0.6,
+   "equity": 10071.35,
+   "upDollars": 71.35,
+   "upPct": 0.7,
    "realised": 57.13,
    "trades": 7,
    "winPct": 57,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AKAN",
+     "shares": 237,
+     "entryPrice": 2.12,
+     "lastPrice": 2.18
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -569,9 +582,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9659.53,
-   "upDollars": -340.47,
-   "upPct": -3.4,
+   "equity": 9643.43,
+   "upDollars": -356.57,
+   "upPct": -3.6,
    "realised": -315.78,
    "trades": 511,
    "winPct": 44,
@@ -581,61 +594,61 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 62.53
+     "lastPrice": 62.5495
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 101.57
+     "lastPrice": 101.2
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 145.5
+     "lastPrice": 145.13
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 69.64
+     "lastPrice": 69.43
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123.71
+     "lastPrice": 123.11
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 85.48
+     "lastPrice": 85.41
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 61.83,
-     "lastPrice": 59.7795
+     "lastPrice": 59.61
     },
     {
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 50.95,
-     "lastPrice": 51
+     "lastPrice": 50.94
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.3,
-     "lastPrice": 99.8922
+     "lastPrice": 99.9042
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 127.99,
-     "lastPrice": 129.35
+     "lastPrice": 129.4041
     }
    ],
    "lastTrade": null
@@ -851,9 +864,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9078.16,
-   "upDollars": -921.84,
-   "upPct": -9.2,
+   "equity": 9066.27,
+   "upDollars": -933.73,
+   "upPct": -9.3,
    "realised": -910.88,
    "trades": 38,
    "winPct": 34,
@@ -869,7 +882,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.54
+     "lastPrice": 15.62
     },
     {
      "symbol": "XCUR",
@@ -881,19 +894,19 @@
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 45.5603
+     "lastPrice": 44.76
     },
     {
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 103.19
+     "lastPrice": 103.2
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 17.98
+     "lastPrice": 17.85
     },
     {
      "symbol": "TROO",
