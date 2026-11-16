@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-16",
- "asOfAt": 1794837214429,
+ "asOfAt": 1794838117395,
  "sessionStatus": "in-progress",
- "publishedAt": 1794837214429,
+ "publishedAt": 1794838117395,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -42,8 +42,8 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 10124.89,
-   "upDollars": 124.89,
+   "equity": 10121.07,
+   "upDollars": 121.07,
    "upPct": 1.2,
    "trades": 37,
    "winPct": 54,
@@ -53,7 +53,7 @@
      "symbol": "CRDF (short)",
      "shares": -1091,
      "entryPrice": 0.91475868,
-     "lastPrice": 0.7847
+     "lastPrice": 0.7882
     }
    ],
    "lastTrade": null
@@ -576,9 +576,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9680.33,
-   "upDollars": -319.67,
-   "upPct": -3.2,
+   "equity": 9674.04,
+   "upDollars": -325.96,
+   "upPct": -3.3,
    "realised": -315.78,
    "trades": 511,
    "winPct": 44,
@@ -588,61 +588,61 @@
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 62.37,
-     "lastPrice": 62.72
+     "lastPrice": 62.5622
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 102.05,
-     "lastPrice": 101.9553
+     "lastPrice": 102.0798
     },
     {
      "symbol": "SHOP",
      "shares": 6,
      "entryPrice": 147.23,
-     "lastPrice": 145.88
+     "lastPrice": 145.52
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.58,
-     "lastPrice": 70.17
+     "lastPrice": 69.9
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 124.03,
-     "lastPrice": 123
+     "lastPrice": 123.0264
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 85.11,
-     "lastPrice": 85.765
+     "lastPrice": 85.75
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 61.83,
-     "lastPrice": 60.4
+     "lastPrice": 60.35
     },
     {
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 50.95,
-     "lastPrice": 50.85
+     "lastPrice": 50.9
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.3,
-     "lastPrice": 99.96
+     "lastPrice": 99.98
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 127.99,
-     "lastPrice": 129.34
+     "lastPrice": 129.3805
     }
    ],
    "lastTrade": null
@@ -858,9 +858,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 9036.35,
-   "upDollars": -963.65,
-   "upPct": -9.6,
+   "equity": 9033.11,
+   "upDollars": -966.89,
+   "upPct": -9.7,
    "realised": -1006.4,
    "trades": 39,
    "winPct": 33,
@@ -870,13 +870,13 @@
      "symbol": "LINC",
      "shares": 24,
      "entryPrice": 21.32,
-     "lastPrice": 22.15
+     "lastPrice": 22.31
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.67
+     "lastPrice": 15.7
     },
     {
      "symbol": "XCUR",
@@ -888,25 +888,25 @@
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 45.35
+     "lastPrice": 45.31
     },
     {
      "symbol": "CBRS",
      "shares": 8,
      "entryPrice": 110.45,
-     "lastPrice": 103.35
+     "lastPrice": 103.3
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 17.833
+     "lastPrice": 17.81
     },
     {
      "symbol": "TROO",
      "shares": 613,
      "entryPrice": 1.51,
-     "lastPrice": 1.56
+     "lastPrice": 1.55
     }
    ],
    "lastTrade": null
@@ -949,21 +949,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7821.82,
-   "upDollars": -2178.18,
-   "upPct": -21.8,
-   "realised": -2122.8,
-   "trades": 68,
+   "equity": 7750.11,
+   "upDollars": -2249.89,
+   "upPct": -22.5,
+   "realised": -2249.89,
+   "trades": 69,
    "winPct": 28,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "HELP",
-     "shares": 71,
-     "entryPrice": 10.79,
-     "lastPrice": 10.01
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
