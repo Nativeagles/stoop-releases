@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794910229978,
+ "asOfAt": 1794911132147,
  "sessionStatus": "in-progress",
- "publishedAt": 1794910229978,
+ "publishedAt": 1794911132147,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -577,8 +577,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9476.78,
-   "upDollars": -523.22,
+   "equity": 9475.57,
+   "upDollars": -524.43,
    "upPct": -5.2,
    "realised": -488.02,
    "trades": 532,
@@ -589,7 +589,7 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 144.3697
+     "lastPrice": 144.03
     },
     {
      "symbol": "APH",
@@ -601,13 +601,13 @@
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.31
+     "lastPrice": 46.3
     },
     {
      "symbol": "T",
      "shares": 26,
      "entryPrice": 22.42,
-     "lastPrice": 22.39
+     "lastPrice": 22.3922
     },
     {
      "symbol": "WFC",
@@ -631,19 +631,19 @@
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.5,
-     "lastPrice": 128.3
+     "lastPrice": 128
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.88,
-     "lastPrice": 99.3252
+     "lastPrice": 99.3
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.92,
-     "lastPrice": 69.65
+     "lastPrice": 69.8464
     }
    ],
    "lastTrade": null
@@ -800,9 +800,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8877.41,
-   "upDollars": -1122.59,
-   "upPct": -11.2,
+   "equity": 8910.61,
+   "upDollars": -1089.39,
+   "upPct": -10.9,
    "realised": -1199.68,
    "trades": 41,
    "winPct": 32,
@@ -818,7 +818,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.6025
+     "lastPrice": 14.6131
     },
     {
      "symbol": "XCUR",
@@ -842,13 +842,13 @@
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.11
+     "lastPrice": 1.12
     },
     {
      "symbol": "GP",
      "shares": 406,
      "entryPrice": 2.18,
-     "lastPrice": 2.1388
+     "lastPrice": 2.2003
     }
    ],
    "lastTrade": null
