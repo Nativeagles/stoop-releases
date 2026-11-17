@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794927580155,
+ "asOfAt": 1794928483358,
  "sessionStatus": "in-progress",
- "publishedAt": 1794927580155,
+ "publishedAt": 1794928483358,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -568,30 +568,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-12",
-   "startingCash": 10000,
-   "equity": 9476.36,
-   "upDollars": -523.64,
-   "upPct": -5.2,
-   "realised": -523.64,
-   "trades": 12,
-   "winPct": 42,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9473.81,
-   "upDollars": -526.19,
-   "upPct": -5.3,
+   "equity": 9483.19,
+   "upDollars": -516.81,
+   "upPct": -5.2,
    "realised": -488.02,
    "trades": 532,
    "winPct": 43,
@@ -607,57 +591,73 @@
      "symbol": "APH",
      "shares": 8,
      "entryPrice": 75.31,
-     "lastPrice": 76.04
+     "lastPrice": 76.085
     },
     {
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.075
+     "lastPrice": 46.4709
     },
     {
      "symbol": "T",
      "shares": 26,
      "entryPrice": 22.42,
-     "lastPrice": 22.315
+     "lastPrice": 22.5451
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 84.94,
-     "lastPrice": 84.54
+     "lastPrice": 84.515
     },
     {
      "symbol": "ABT",
      "shares": 5,
      "entryPrice": 107.35,
-     "lastPrice": 107.685
+     "lastPrice": 107.83
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.12,
-     "lastPrice": 49.91
+     "lastPrice": 50.005
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.5,
-     "lastPrice": 128.325
+     "lastPrice": 128.37
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.88,
-     "lastPrice": 99.06
+     "lastPrice": 99.15
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.92,
-     "lastPrice": 69.18
+     "lastPrice": 68.75
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-12",
+   "startingCash": 10000,
+   "equity": 9476.36,
+   "upDollars": -523.64,
+   "upPct": -5.2,
+   "realised": -523.64,
+   "trades": 12,
+   "winPct": 42,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
