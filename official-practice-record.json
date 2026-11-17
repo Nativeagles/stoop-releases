@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794908426166,
+ "asOfAt": 1794909328050,
  "sessionStatus": "in-progress",
- "publishedAt": 1794908426166,
+ "publishedAt": 1794909328050,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -577,9 +577,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9486.81,
-   "upDollars": -513.19,
-   "upPct": -5.1,
+   "equity": 9479.15,
+   "upDollars": -520.85,
+   "upPct": -5.2,
    "realised": -488.02,
    "trades": 532,
    "winPct": 43,
@@ -589,7 +589,7 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 144.6
+     "lastPrice": 144.7
     },
     {
      "symbol": "APH",
@@ -619,31 +619,31 @@
      "symbol": "ABT",
      "shares": 5,
      "entryPrice": 107.35,
-     "lastPrice": 108.6262
+     "lastPrice": 107.343
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.12,
-     "lastPrice": 49.88
+     "lastPrice": 49.84
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.5,
-     "lastPrice": 128.36
+     "lastPrice": 128.207
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.88,
-     "lastPrice": 99.3847
+     "lastPrice": 99.29
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.92,
-     "lastPrice": 69.64
+     "lastPrice": 69.72
     }
    ],
    "lastTrade": null
