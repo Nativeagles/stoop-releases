@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794914741802,
+ "asOfAt": 1794915644888,
  "sessionStatus": "in-progress",
- "publishedAt": 1794914741802,
+ "publishedAt": 1794915644888,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -572,83 +572,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9485.25,
-   "upDollars": -514.75,
-   "upPct": -5.1,
-   "realised": -488.02,
-   "trades": 532,
-   "winPct": 43,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 146.43,
-     "lastPrice": 143.6
-    },
-    {
-     "symbol": "APH",
-     "shares": 8,
-     "entryPrice": 75.31,
-     "lastPrice": 76.3232
-    },
-    {
-     "symbol": "VZ",
-     "shares": 13,
-     "entryPrice": 46.43,
-     "lastPrice": 46.28
-    },
-    {
-     "symbol": "T",
-     "shares": 26,
-     "entryPrice": 22.42,
-     "lastPrice": 22.3342
-    },
-    {
-     "symbol": "WFC",
-     "shares": 7,
-     "entryPrice": 84.94,
-     "lastPrice": 83.94
-    },
-    {
-     "symbol": "ABT",
-     "shares": 5,
-     "entryPrice": 107.35,
-     "lastPrice": 107.52
-    },
-    {
-     "symbol": "BAC",
-     "shares": 19,
-     "entryPrice": 50.12,
-     "lastPrice": 50.15
-    },
-    {
-     "symbol": "WMT",
-     "shares": 7,
-     "entryPrice": 128.5,
-     "lastPrice": 127.98
-    },
-    {
-     "symbol": "KO",
-     "shares": 9,
-     "entryPrice": 99.88,
-     "lastPrice": 99.19
-    },
-    {
-     "symbol": "UBER",
-     "shares": 13,
-     "entryPrice": 69.92,
-     "lastPrice": 69.62
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-five-patterns-daily",
    "name": "Five Patterns (daily)",
    "kind": "official",
@@ -726,6 +649,83 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9474.9,
+   "upDollars": -525.1,
+   "upPct": -5.3,
+   "realised": -488.02,
+   "trades": 532,
+   "winPct": 43,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "PEP",
+     "shares": 4,
+     "entryPrice": 146.43,
+     "lastPrice": 143.86
+    },
+    {
+     "symbol": "APH",
+     "shares": 8,
+     "entryPrice": 75.31,
+     "lastPrice": 76.02
+    },
+    {
+     "symbol": "VZ",
+     "shares": 13,
+     "entryPrice": 46.43,
+     "lastPrice": 46.22
+    },
+    {
+     "symbol": "T",
+     "shares": 26,
+     "entryPrice": 22.42,
+     "lastPrice": 22.2135
+    },
+    {
+     "symbol": "WFC",
+     "shares": 7,
+     "entryPrice": 84.94,
+     "lastPrice": 83.94
+    },
+    {
+     "symbol": "ABT",
+     "shares": 5,
+     "entryPrice": 107.35,
+     "lastPrice": 107.14
+    },
+    {
+     "symbol": "BAC",
+     "shares": 19,
+     "entryPrice": 50.12,
+     "lastPrice": 50.1
+    },
+    {
+     "symbol": "WMT",
+     "shares": 7,
+     "entryPrice": 128.5,
+     "lastPrice": 127.76
+    },
+    {
+     "symbol": "KO",
+     "shares": 9,
+     "entryPrice": 99.88,
+     "lastPrice": 98.9
+    },
+    {
+     "symbol": "UBER",
+     "shares": 13,
+     "entryPrice": 69.92,
+     "lastPrice": 69.77
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-down-bubble-pmh",
    "name": "Down Bubble — premarket high",
    "kind": "official",
@@ -747,13 +747,13 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8998.89,
-   "upDollars": -1001.11,
-   "upPct": -10,
-   "realised": -1199.68,
-   "trades": 41,
-   "winPct": 32,
-   "open": 7,
+   "equity": 8988.6,
+   "upDollars": -1011.4,
+   "upPct": -10.1,
+   "realised": -1098.18,
+   "trades": 42,
+   "winPct": 33,
+   "open": 6,
    "positions": [
     {
      "symbol": "LINC",
@@ -765,7 +765,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.69
+     "lastPrice": 14.7299
     },
     {
      "symbol": "XCUR",
@@ -790,12 +790,6 @@
      "shares": 786,
      "entryPrice": 1.16,
      "lastPrice": 1.1
-    },
-    {
-     "symbol": "GP",
-     "shares": 406,
-     "entryPrice": 2.18,
-     "lastPrice": 2.4588
     }
    ],
    "lastTrade": null
@@ -875,11 +869,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8444.35,
-   "upDollars": -1555.65,
-   "upPct": -15.6,
-   "realised": -1555.65,
-   "trades": 60,
+   "equity": 8375.23,
+   "upDollars": -1624.77,
+   "upPct": -16.2,
+   "realised": -1624.77,
+   "trades": 61,
    "winPct": 20,
    "open": 0,
    "positions": [],
@@ -937,11 +931,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6605.32,
-   "upDollars": -3394.68,
-   "upPct": -33.9,
-   "realised": -3394.68,
-   "trades": 127,
+   "equity": 6566.62,
+   "upDollars": -3433.38,
+   "upPct": -34.3,
+   "realised": -3433.38,
+   "trades": 128,
    "winPct": 21,
    "open": 0,
    "positions": [],
@@ -953,11 +947,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 5030.22,
-   "upDollars": -4969.78,
-   "upPct": -49.7,
-   "realised": -4969.78,
-   "trades": 132,
+   "equity": 5014.21,
+   "upDollars": -4985.79,
+   "upPct": -49.9,
+   "realised": -4985.79,
+   "trades": 133,
    "winPct": 14,
    "open": 0,
    "positions": [],
@@ -969,21 +963,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 3923.85,
-   "upDollars": -6076.15,
-   "upPct": -60.8,
-   "realised": -6103.07,
-   "trades": 186,
+   "equity": 3862.82,
+   "upDollars": -6137.18,
+   "upPct": -61.4,
+   "realised": -6137.18,
+   "trades": 188,
    "winPct": 14,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "BURU",
-     "shares": 1715,
-     "entryPrice": 0.225,
-     "lastPrice": 0.2407
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
