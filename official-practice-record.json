@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794954674997,
+ "asOfAt": 1794955577984,
  "sessionStatus": "in-progress",
- "publishedAt": 1794954674997,
+ "publishedAt": 1794955577984,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -460,9 +460,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9508.21,
-   "upDollars": -491.79,
-   "upPct": -4.9,
+   "equity": 9537.2,
+   "upDollars": -462.8,
+   "upPct": -4.6,
    "realised": -551.25,
    "trades": 543,
    "winPct": 43,
@@ -472,61 +472,61 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.5099
+     "lastPrice": 140.9
     },
     {
      "symbol": "KLAC",
      "shares": 6,
      "entryPrice": 142.67,
-     "lastPrice": 147.39
+     "lastPrice": 148.53
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.33,
-     "lastPrice": 143
+     "lastPrice": 142.7034
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 111.25
+     "lastPrice": 112.5
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 84.45,
-     "lastPrice": 84.41
+     "lastPrice": 84.47
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 119.82,
-     "lastPrice": 120.5
+     "lastPrice": 120.7597
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 59.21,
-     "lastPrice": 60.09
+     "lastPrice": 60.34
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.45
+     "lastPrice": 28.41
     },
     {
      "symbol": "SOXX",
      "shares": 6,
      "entryPrice": 142.85,
-     "lastPrice": 144.46
+     "lastPrice": 146.22
     },
     {
      "symbol": "NFLX",
      "shares": 15,
      "entryPrice": 59.66,
-     "lastPrice": 59.58
+     "lastPrice": 59.64
     }
    ],
    "lastTrade": null
@@ -786,9 +786,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8476.99,
-   "upDollars": -1523.01,
-   "upPct": -15.2,
+   "equity": 8440.78,
+   "upDollars": -1559.22,
+   "upPct": -15.6,
    "realised": -1541.67,
    "trades": 44,
    "winPct": 32,
@@ -798,7 +798,7 @@
      "symbol": "LINC",
      "shares": 24,
      "entryPrice": 21.32,
-     "lastPrice": 23.47
+     "lastPrice": 23.63
     },
     {
      "symbol": "TTD",
@@ -822,31 +822,31 @@
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18
+     "lastPrice": 18.063
     },
     {
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.08
+     "lastPrice": 1.06
     },
     {
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 3.17
+     "lastPrice": 3.16
     },
     {
      "symbol": "LUCK",
      "shares": 214,
      "entryPrice": 4.38,
-     "lastPrice": 4.18
+     "lastPrice": 4.08
     },
     {
      "symbol": "ACM",
      "shares": 11,
      "entryPrice": 80.48,
-     "lastPrice": 80.8
+     "lastPrice": 80.5
     }
    ],
    "lastTrade": null
@@ -857,21 +857,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 8322.96,
-   "upDollars": -1677.04,
-   "upPct": -16.8,
-   "realised": -1676.7,
-   "trades": 63,
-   "winPct": 21,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "FRTT",
-     "shares": 1124,
-     "entryPrice": 0.73,
-     "lastPrice": 0.7297
-    }
-   ],
+   "equity": 8272.72,
+   "upDollars": -1727.28,
+   "upPct": -17.3,
+   "realised": -1727.28,
+   "trades": 64,
+   "winPct": 20,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -895,25 +888,19 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7662.7,
-   "upDollars": -2337.3,
-   "upPct": -23.4,
-   "realised": -2329.06,
-   "trades": 79,
+   "equity": 7585.86,
+   "upDollars": -2414.14,
+   "upPct": -24.1,
+   "realised": -2418.48,
+   "trades": 80,
    "winPct": 28,
-   "open": 2,
+   "open": 1,
    "positions": [
     {
      "symbol": "SMTK",
      "shares": 2714,
      "entryPrice": 0.27,
-     "lastPrice": 0.2715
-    },
-    {
-     "symbol": "FRTT",
-     "shares": 1035,
-     "entryPrice": 0.7416,
-     "lastPrice": 0.7297
+     "lastPrice": 0.2716
     }
    ],
    "lastTrade": null
@@ -939,21 +926,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6364.6,
-   "upDollars": -3635.4,
-   "upPct": -36.4,
-   "realised": -3618.79,
-   "trades": 133,
+   "equity": 6326.11,
+   "upDollars": -3673.89,
+   "upPct": -36.7,
+   "realised": -3673.89,
+   "trades": 134,
    "winPct": 21,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "FRTT",
-     "shares": 861,
-     "entryPrice": 0.749,
-     "lastPrice": 0.7297
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -978,21 +958,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 3590.85,
-   "upDollars": -6409.15,
-   "upPct": -64.1,
-   "realised": -6403.37,
-   "trades": 196,
+   "equity": 3569.17,
+   "upDollars": -6430.83,
+   "upPct": -64.3,
+   "realised": -6430.83,
+   "trades": 197,
    "winPct": 14,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "FRTT",
-     "shares": 485,
-     "entryPrice": 0.7416,
-     "lastPrice": 0.7297
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
