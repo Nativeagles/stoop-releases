@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794956481155,
+ "asOfAt": 1794957384165,
  "sessionStatus": "in-progress",
- "publishedAt": 1794956481155,
+ "publishedAt": 1794957384165,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -460,37 +460,37 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9554.01,
-   "upDollars": -445.99,
-   "upPct": -4.5,
+   "equity": 9598.25,
+   "upDollars": -401.75,
+   "upPct": -4,
    "realised": -532.68,
    "trades": 545,
    "winPct": 43,
-   "open": 9,
+   "open": 10,
    "positions": [
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.11
+     "lastPrice": 140.5401
     },
     {
      "symbol": "KLAC",
      "shares": 6,
      "entryPrice": 142.67,
-     "lastPrice": 149.7
+     "lastPrice": 151.98
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.33,
-     "lastPrice": 142.8
+     "lastPrice": 142.6
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 112.5431
+     "lastPrice": 113.64
     },
     {
      "symbol": "NEE",
@@ -502,25 +502,31 @@
      "symbol": "C",
      "shares": 7,
      "entryPrice": 119.82,
-     "lastPrice": 120.7985
+     "lastPrice": 121.25
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 59.21,
-     "lastPrice": 60.61
+     "lastPrice": 61.19
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.39
+     "lastPrice": 28.34
     },
     {
      "symbol": "SPCX",
      "shares": 6,
      "entryPrice": 142.65,
-     "lastPrice": 142.6489
+     "lastPrice": 143.5707
+    },
+    {
+     "symbol": "INTC",
+     "shares": 17,
+     "entryPrice": 56.28,
+     "lastPrice": 56.84
     }
    ],
    "lastTrade": null
@@ -780,9 +786,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8434.84,
-   "upDollars": -1565.16,
-   "upPct": -15.7,
+   "equity": 8436.99,
+   "upDollars": -1563.01,
+   "upPct": -15.6,
    "realised": -1541.67,
    "trades": 44,
    "winPct": 32,
@@ -798,7 +804,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.9356
+     "lastPrice": 14.9
     },
     {
      "symbol": "XCUR",
@@ -816,7 +822,7 @@
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.063
+     "lastPrice": 18.52
     },
     {
      "symbol": "MNTK",
@@ -828,7 +834,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 3.13
+     "lastPrice": 3.06
     },
     {
      "symbol": "LUCK",
