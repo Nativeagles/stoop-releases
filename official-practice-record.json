@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794912936064,
+ "asOfAt": 1794913838871,
  "sessionStatus": "in-progress",
- "publishedAt": 1794912936064,
+ "publishedAt": 1794913838871,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -577,8 +577,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9486.56,
-   "upDollars": -513.44,
+   "equity": 9491.69,
+   "upDollars": -508.31,
    "upPct": -5.1,
    "realised": -488.02,
    "trades": 532,
@@ -589,31 +589,31 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 144.42
+     "lastPrice": 144.27
     },
     {
      "symbol": "APH",
      "shares": 8,
      "entryPrice": 75.31,
-     "lastPrice": 75.11
+     "lastPrice": 76.3232
     },
     {
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.28
+     "lastPrice": 46.36
     },
     {
      "symbol": "T",
      "shares": 26,
      "entryPrice": 22.42,
-     "lastPrice": 22.3385
+     "lastPrice": 22.4
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 84.94,
-     "lastPrice": 84.42
+     "lastPrice": 83.94
     },
     {
      "symbol": "ABT",
@@ -625,25 +625,25 @@
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.12,
-     "lastPrice": 49.9957
+     "lastPrice": 50.06
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.5,
-     "lastPrice": 128.65
+     "lastPrice": 128.38
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.88,
-     "lastPrice": 99.4101
+     "lastPrice": 99.31
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.92,
-     "lastPrice": 69.66
+     "lastPrice": 69.53
     }
    ],
    "lastTrade": null
@@ -800,9 +800,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8913.29,
-   "upDollars": -1086.71,
-   "upPct": -10.9,
+   "equity": 8975.34,
+   "upDollars": -1024.66,
+   "upPct": -10.2,
    "realised": -1199.68,
    "trades": 41,
    "winPct": 32,
@@ -818,7 +818,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.68
+     "lastPrice": 14.7
     },
     {
      "symbol": "XCUR",
@@ -848,7 +848,7 @@
      "symbol": "GP",
      "shares": 406,
      "entryPrice": 2.18,
-     "lastPrice": 2.2101
+     "lastPrice": 2.3612
     }
    ],
    "lastTrade": null
