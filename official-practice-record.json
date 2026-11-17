@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794906622315,
+ "asOfAt": 1794907524304,
  "sessionStatus": "in-progress",
- "publishedAt": 1794906622315,
+ "publishedAt": 1794907524304,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -577,8 +577,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9482.84,
-   "upDollars": -517.16,
+   "equity": 9477.21,
+   "upDollars": -522.79,
    "upPct": -5.2,
    "realised": -488.02,
    "trades": 532,
@@ -589,19 +589,19 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 144.52
+     "lastPrice": 144.66
     },
     {
      "symbol": "APH",
      "shares": 8,
      "entryPrice": 75.31,
-     "lastPrice": 75
+     "lastPrice": 74.8
     },
     {
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.2562
+     "lastPrice": 46.29
     },
     {
      "symbol": "T",
@@ -619,31 +619,31 @@
      "symbol": "ABT",
      "shares": 5,
      "entryPrice": 107.35,
-     "lastPrice": 107.48
+     "lastPrice": 107.3437
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.12,
-     "lastPrice": 49.91
+     "lastPrice": 49.6999
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.5,
-     "lastPrice": 128.23
+     "lastPrice": 128.16
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.88,
-     "lastPrice": 99.2465
+     "lastPrice": 99.6433
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.92,
-     "lastPrice": 69.795
+     "lastPrice": 69.53
     }
    ],
    "lastTrade": null
@@ -800,8 +800,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8895.41,
-   "upDollars": -1104.59,
+   "equity": 8895.57,
+   "upDollars": -1104.43,
    "upPct": -11,
    "realised": -1199.68,
    "trades": 41,
@@ -842,7 +842,7 @@
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.1
+     "lastPrice": 1.1002
     }
    ],
    "lastTrade": null
@@ -931,11 +931,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6655.72,
-   "upDollars": -3344.28,
-   "upPct": -33.4,
-   "realised": -3344.28,
-   "trades": 126,
+   "equity": 6605.32,
+   "upDollars": -3394.68,
+   "upPct": -33.9,
+   "realised": -3394.68,
+   "trades": 127,
    "winPct": 21,
    "open": 0,
    "positions": [],
@@ -963,11 +963,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 3921.68,
-   "upDollars": -6078.32,
-   "upPct": -60.8,
-   "realised": -6078.32,
-   "trades": 185,
+   "equity": 3896.93,
+   "upDollars": -6103.07,
+   "upPct": -61,
+   "realised": -6103.07,
+   "trades": 186,
    "winPct": 14,
    "open": 0,
    "positions": [],
