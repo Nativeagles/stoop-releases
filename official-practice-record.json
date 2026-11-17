@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794909328050,
+ "asOfAt": 1794910229978,
  "sessionStatus": "in-progress",
- "publishedAt": 1794909328050,
+ "publishedAt": 1794910229978,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -577,8 +577,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9479.15,
-   "upDollars": -520.85,
+   "equity": 9476.78,
+   "upDollars": -523.22,
    "upPct": -5.2,
    "realised": -488.02,
    "trades": 532,
@@ -589,31 +589,31 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 144.7
+     "lastPrice": 144.3697
     },
     {
      "symbol": "APH",
      "shares": 8,
      "entryPrice": 75.31,
-     "lastPrice": 74.69
+     "lastPrice": 74.5
     },
     {
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.3
+     "lastPrice": 46.31
     },
     {
      "symbol": "T",
      "shares": 26,
      "entryPrice": 22.42,
-     "lastPrice": 22.36
+     "lastPrice": 22.39
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 84.94,
-     "lastPrice": 84.6
+     "lastPrice": 84.42
     },
     {
      "symbol": "ABT",
@@ -625,25 +625,25 @@
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.12,
-     "lastPrice": 49.84
+     "lastPrice": 49.88
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.5,
-     "lastPrice": 128.207
+     "lastPrice": 128.3
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.88,
-     "lastPrice": 99.29
+     "lastPrice": 99.3252
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.92,
-     "lastPrice": 69.72
+     "lastPrice": 69.65
     }
    ],
    "lastTrade": null
@@ -800,13 +800,13 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8887.4,
-   "upDollars": -1112.6,
-   "upPct": -11.1,
+   "equity": 8877.41,
+   "upDollars": -1122.59,
+   "upPct": -11.2,
    "realised": -1199.68,
    "trades": 41,
    "winPct": 32,
-   "open": 6,
+   "open": 7,
    "positions": [
     {
      "symbol": "LINC",
@@ -836,13 +836,19 @@
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.3874
+     "lastPrice": 18.39
     },
     {
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.1016
+     "lastPrice": 1.11
+    },
+    {
+     "symbol": "GP",
+     "shares": 406,
+     "entryPrice": 2.18,
+     "lastPrice": 2.1388
     }
    ],
    "lastTrade": null
