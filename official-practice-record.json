@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794949257125,
+ "asOfAt": 1794950160243,
  "sessionStatus": "in-progress",
- "publishedAt": 1794949257125,
+ "publishedAt": 1794950160243,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,8 +13,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10203.55,
-   "upDollars": 203.55,
+   "equity": 10203.82,
+   "upDollars": 203.82,
    "upPct": 2,
    "realised": 181.94,
    "trades": 20,
@@ -31,7 +31,7 @@
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.455
+     "lastPrice": 46.48
     }
    ],
    "lastTrade": null
@@ -476,9 +476,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9428.68,
-   "upDollars": -571.32,
-   "upPct": -5.7,
+   "equity": 9455.38,
+   "upDollars": -544.62,
+   "upPct": -5.4,
    "realised": -568.31,
    "trades": 541,
    "winPct": 43,
@@ -488,61 +488,61 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 142.02
+     "lastPrice": 142.2
     },
     {
      "symbol": "KLAC",
      "shares": 6,
      "entryPrice": 142.67,
-     "lastPrice": 144.09
+     "lastPrice": 145.81
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.33,
-     "lastPrice": 142.98
+     "lastPrice": 143.37
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 108.3
+     "lastPrice": 108.6
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 84.45,
-     "lastPrice": 84.395
+     "lastPrice": 84.42
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 119.82,
-     "lastPrice": 119.9456
+     "lastPrice": 119.94
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 59.21,
-     "lastPrice": 59.355
+     "lastPrice": 59.71
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.415
+     "lastPrice": 28.46
     },
     {
      "symbol": "SPCX",
      "shares": 6,
      "entryPrice": 141.46,
-     "lastPrice": 141.73
+     "lastPrice": 141.7992
     },
     {
      "symbol": "ORCL",
      "shares": 8,
      "entryPrice": 114.74,
-     "lastPrice": 115
+     "lastPrice": 115.4315
     }
    ],
    "lastTrade": null
@@ -786,9 +786,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8498.56,
-   "upDollars": -1501.44,
-   "upPct": -15,
+   "equity": 8429.32,
+   "upDollars": -1570.68,
+   "upPct": -15.7,
    "realised": -1541.67,
    "trades": 44,
    "winPct": 32,
@@ -798,55 +798,55 @@
      "symbol": "LINC",
      "shares": 24,
      "entryPrice": 21.32,
-     "lastPrice": 23.2
+     "lastPrice": 23.18
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.925
+     "lastPrice": 14.93
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.172
+     "lastPrice": 1.06
     },
     {
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 45.785
+     "lastPrice": 45.81
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.425
+     "lastPrice": 18.1459
     },
     {
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.11
+     "lastPrice": 1.13
     },
     {
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 3.055
+     "lastPrice": 3.03
     },
     {
      "symbol": "LUCK",
      "shares": 214,
      "entryPrice": 4.38,
-     "lastPrice": 4.1124
+     "lastPrice": 4.11
     },
     {
      "symbol": "ACM",
      "shares": 11,
      "entryPrice": 80.48,
-     "lastPrice": 80.895
+     "lastPrice": 80.193
     }
    ],
    "lastTrade": null
