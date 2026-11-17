@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-17",
- "asOfAt": 1794923967815,
+ "asOfAt": 1794924870853,
  "sessionStatus": "in-progress",
- "publishedAt": 1794923967815,
+ "publishedAt": 1794924870853,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,9 +13,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10385.07,
-   "upDollars": 385.07,
-   "upPct": 3.9,
+   "equity": 10470.75,
+   "upDollars": 470.75,
+   "upPct": 4.7,
    "realised": 360.55,
    "trades": 19,
    "winPct": 63,
@@ -37,7 +37,7 @@
      "symbol": "SLS",
      "shares": 21,
      "entryPrice": 24.005,
-     "lastPrice": 23.6
+     "lastPrice": 27.68
     }
    ],
    "lastTrade": null
@@ -295,6 +295,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-12",
+   "startingCash": 10000,
+   "equity": 9963.56,
+   "upDollars": -36.44,
+   "upPct": -0.4,
+   "realised": -183.64,
+   "trades": 11,
+   "winPct": 45,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "SLS",
+     "shares": 40,
+     "entryPrice": 24,
+     "lastPrice": 27.68
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-steps-daily",
    "name": "Five Steps (daily)",
    "kind": "official",
@@ -403,29 +426,6 @@
      "shares": 5,
      "entryPrice": 98.9,
      "lastPrice": 101.17
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-12",
-   "startingCash": 10000,
-   "equity": 9824.76,
-   "upDollars": -175.24,
-   "upPct": -1.8,
-   "realised": -183.64,
-   "trades": 11,
-   "winPct": 45,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SLS",
-     "shares": 40,
-     "entryPrice": 24,
-     "lastPrice": 24.21
     }
    ],
    "lastTrade": null
@@ -667,8 +667,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9462.23,
-   "upDollars": -537.77,
+   "equity": 9455.7,
+   "upDollars": -544.3,
    "upPct": -5.4,
    "realised": -488.02,
    "trades": 532,
@@ -679,61 +679,61 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 143.43
+     "lastPrice": 143.1
     },
     {
      "symbol": "APH",
      "shares": 8,
      "entryPrice": 75.31,
-     "lastPrice": 76.66
+     "lastPrice": 76.75
     },
     {
      "symbol": "VZ",
      "shares": 13,
      "entryPrice": 46.43,
-     "lastPrice": 46.1
+     "lastPrice": 46.19
     },
     {
      "symbol": "T",
      "shares": 26,
      "entryPrice": 22.42,
-     "lastPrice": 22.2001
+     "lastPrice": 22.2073
     },
     {
      "symbol": "WFC",
      "shares": 7,
      "entryPrice": 84.94,
-     "lastPrice": 84.57
+     "lastPrice": 84.44
     },
     {
      "symbol": "ABT",
      "shares": 5,
      "entryPrice": 107.35,
-     "lastPrice": 106.54
+     "lastPrice": 106.1585
     },
     {
      "symbol": "BAC",
      "shares": 19,
      "entryPrice": 50.12,
-     "lastPrice": 49.86
+     "lastPrice": 49.84
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 128.5,
-     "lastPrice": 127.1172
+     "lastPrice": 126.59
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 99.88,
-     "lastPrice": 98.74
+     "lastPrice": 98.84
     },
     {
      "symbol": "UBER",
      "shares": 13,
      "entryPrice": 69.92,
-     "lastPrice": 69.38
+     "lastPrice": 69.28
     }
    ],
    "lastTrade": null
@@ -813,9 +813,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8926.91,
-   "upDollars": -1073.09,
-   "upPct": -10.7,
+   "equity": 8908.13,
+   "upDollars": -1091.87,
+   "upPct": -10.9,
    "realised": -1216.68,
    "trades": 43,
    "winPct": 33,
@@ -831,13 +831,13 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.68
+     "lastPrice": 14.6694
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.19
+     "lastPrice": 1.172
     },
     {
      "symbol": "AZTA",
@@ -855,13 +855,13 @@
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.16
+     "lastPrice": 1.1632
     },
     {
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.9915
+     "lastPrice": 2.9499
     }
    ],
    "lastTrade": null
