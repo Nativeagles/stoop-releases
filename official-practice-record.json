@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1795037677968,
+ "asOfAt": 1795038580762,
  "sessionStatus": "in-progress",
- "publishedAt": 1795037677968,
+ "publishedAt": 1795038580762,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -571,83 +571,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-cookie-monster-liquid",
-   "name": "Cookie Monster (liquid list)",
-   "kind": "official",
-   "startedOn": "2026-10-15",
-   "startingCash": 10000,
-   "equity": 9259.71,
-   "upDollars": -740.29,
-   "upPct": -7.4,
-   "realised": -718.5,
-   "trades": 606,
-   "winPct": 43,
-   "open": 10,
-   "positions": [
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 146.43,
-     "lastPrice": 141.87
-    },
-    {
-     "symbol": "NOW",
-     "shares": 10,
-     "entryPrice": 90.65,
-     "lastPrice": 91.43
-    },
-    {
-     "symbol": "KO",
-     "shares": 9,
-     "entryPrice": 98.11,
-     "lastPrice": 98.15
-    },
-    {
-     "symbol": "UBER",
-     "shares": 12,
-     "entryPrice": 68.96,
-     "lastPrice": 68.78
-    },
-    {
-     "symbol": "VZ",
-     "shares": 19,
-     "entryPrice": 46.22,
-     "lastPrice": 46.13
-    },
-    {
-     "symbol": "WFC",
-     "shares": 10,
-     "entryPrice": 81.21,
-     "lastPrice": 81.0035
-    },
-    {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 97.18,
-     "lastPrice": 97.18
-    },
-    {
-     "symbol": "T",
-     "shares": 42,
-     "entryPrice": 21.99,
-     "lastPrice": 21.95
-    },
-    {
-     "symbol": "INTC",
-     "shares": 15,
-     "entryPrice": 54.66,
-     "lastPrice": 54.6162
-    },
-    {
-     "symbol": "NBIS",
-     "shares": 8,
-     "entryPrice": 107.43,
-     "lastPrice": 107
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-pattern-follow-daily",
    "name": "Pattern Follow (daily)",
    "kind": "official",
@@ -741,6 +664,83 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-cookie-monster-liquid",
+   "name": "Cookie Monster (liquid list)",
+   "kind": "official",
+   "startedOn": "2026-10-15",
+   "startingCash": 10000,
+   "equity": 9231.63,
+   "upDollars": -768.37,
+   "upPct": -7.7,
+   "realised": -721.94,
+   "trades": 607,
+   "winPct": 43,
+   "open": 10,
+   "positions": [
+    {
+     "symbol": "PEP",
+     "shares": 4,
+     "entryPrice": 146.43,
+     "lastPrice": 141.67
+    },
+    {
+     "symbol": "NOW",
+     "shares": 10,
+     "entryPrice": 90.65,
+     "lastPrice": 90.62
+    },
+    {
+     "symbol": "KO",
+     "shares": 9,
+     "entryPrice": 98.11,
+     "lastPrice": 98.09
+    },
+    {
+     "symbol": "UBER",
+     "shares": 12,
+     "entryPrice": 68.96,
+     "lastPrice": 68.74
+    },
+    {
+     "symbol": "VZ",
+     "shares": 19,
+     "entryPrice": 46.22,
+     "lastPrice": 46
+    },
+    {
+     "symbol": "WFC",
+     "shares": 10,
+     "entryPrice": 81.21,
+     "lastPrice": 81.01
+    },
+    {
+     "symbol": "CSCO",
+     "shares": 9,
+     "entryPrice": 97.18,
+     "lastPrice": 97.1
+    },
+    {
+     "symbol": "T",
+     "shares": 42,
+     "entryPrice": 21.99,
+     "lastPrice": 21.95
+    },
+    {
+     "symbol": "INTC",
+     "shares": 15,
+     "entryPrice": 54.66,
+     "lastPrice": 54.35
+    },
+    {
+     "symbol": "CRWV",
+     "shares": 19,
+     "entryPrice": 47.93,
+     "lastPrice": 47.3486
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
@@ -777,9 +777,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8415.53,
-   "upDollars": -1584.47,
-   "upPct": -15.8,
+   "equity": 8396.18,
+   "upDollars": -1603.82,
+   "upPct": -16,
    "realised": -1624.42,
    "trades": 45,
    "winPct": 31,
@@ -795,7 +795,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.54
+     "lastPrice": 15.5215
     },
     {
      "symbol": "XCUR",
@@ -825,13 +825,13 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.9797
+     "lastPrice": 2.9497
     },
     {
      "symbol": "LUCK",
      "shares": 214,
      "entryPrice": 4.38,
-     "lastPrice": 4.02
+     "lastPrice": 3.9734
     },
     {
      "symbol": "ACM",
@@ -848,14 +848,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7954.89,
-   "upDollars": -2045.11,
+   "equity": 7946.13,
+   "upDollars": -2053.87,
    "upPct": -20.5,
    "realised": -2045.11,
    "trades": 71,
    "winPct": 18,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AZI",
+     "shares": 736,
+     "entryPrice": 1.08,
+     "lastPrice": 1.0681
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -895,14 +902,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6199.72,
-   "upDollars": -3800.28,
-   "upPct": -38,
+   "equity": 6187.28,
+   "upDollars": -3812.72,
+   "upPct": -38.1,
    "realised": -3800.28,
    "trades": 147,
    "winPct": 20,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AZI",
+     "shares": 568,
+     "entryPrice": 1.09,
+     "lastPrice": 1.0681
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -911,14 +925,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 4502.76,
-   "upDollars": -5497.24,
+   "equity": 4497.81,
+   "upDollars": -5502.19,
    "upPct": -55,
    "realised": -5497.24,
    "trades": 156,
    "winPct": 14,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AZI",
+     "shares": 416,
+     "entryPrice": 1.08,
+     "lastPrice": 1.0681
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -927,14 +948,21 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 3088.25,
-   "upDollars": -6911.75,
-   "upPct": -69.1,
+   "equity": 3084.86,
+   "upDollars": -6915.14,
+   "upPct": -69.2,
    "realised": -6911.75,
    "trades": 219,
    "winPct": 13,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "AZI",
+     "shares": 285,
+     "entryPrice": 1.08,
+     "lastPrice": 1.0681
+    }
+   ],
    "lastTrade": null
   }
  ]
