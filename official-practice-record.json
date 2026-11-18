@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1795042192110,
+ "asOfAt": 1795043095013,
  "sessionStatus": "in-progress",
- "publishedAt": 1795042192110,
+ "publishedAt": 1795043095013,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -669,13 +669,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9229.58,
-   "upDollars": -770.42,
-   "upPct": -7.7,
+   "equity": 9239.44,
+   "upDollars": -760.56,
+   "upPct": -7.6,
    "realised": -739.94,
    "trades": 611,
    "winPct": 43,
-   "open": 9,
+   "open": 10,
    "positions": [
     {
      "symbol": "PEP",
@@ -687,49 +687,55 @@
      "symbol": "NOW",
      "shares": 10,
      "entryPrice": 90.65,
-     "lastPrice": 90.4999
+     "lastPrice": 90.54
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 98.11,
-     "lastPrice": 98.08
+     "lastPrice": 98.02
     },
     {
      "symbol": "UBER",
      "shares": 12,
      "entryPrice": 68.96,
-     "lastPrice": 68.7499
+     "lastPrice": 68.75
     },
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 46.0732
+     "lastPrice": 46.08
     },
     {
      "symbol": "WFC",
      "shares": 10,
      "entryPrice": 81.21,
-     "lastPrice": 81
+     "lastPrice": 80.99
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 97.18,
-     "lastPrice": 97.1
+     "lastPrice": 97.2
     },
     {
      "symbol": "T",
      "shares": 42,
      "entryPrice": 21.99,
-     "lastPrice": 21.93
+     "lastPrice": 21.9704
     },
     {
      "symbol": "BAC",
      "shares": 17,
      "entryPrice": 49.02,
-     "lastPrice": 49
+     "lastPrice": 49.02
+    },
+    {
+     "symbol": "CRWV",
+     "shares": 19,
+     "entryPrice": 47.12,
+     "lastPrice": 47.4899
     }
    ],
    "lastTrade": null
@@ -751,29 +757,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 8426.61,
-   "upDollars": -1573.39,
-   "upPct": -15.7,
-   "trades": 44,
-   "winPct": 52,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-takeoff-loose",
    "name": "Takeoff - looser",
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8415.62,
-   "upDollars": -1584.38,
-   "upPct": -15.8,
+   "equity": 8429.12,
+   "upDollars": -1570.88,
+   "upPct": -15.7,
    "realised": -1719.65,
    "trades": 46,
    "winPct": 30,
@@ -789,7 +780,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.49
+     "lastPrice": 15.46
     },
     {
      "symbol": "XCUR",
@@ -819,7 +810,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.9
+     "lastPrice": 2.95
     },
     {
      "symbol": "ACM",
@@ -828,6 +819,21 @@
      "lastPrice": 82.6
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 8426.61,
+   "upDollars": -1573.39,
+   "upPct": -15.7,
+   "trades": 44,
+   "winPct": 52,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
