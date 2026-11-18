@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1795005152245,
+ "asOfAt": 1795006055090,
  "sessionStatus": "in-progress",
- "publishedAt": 1795005152245,
+ "publishedAt": 1795006055090,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,9 +13,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10228.73,
-   "upDollars": 228.73,
-   "upPct": 2.3,
+   "equity": 10194.95,
+   "upDollars": 194.95,
+   "upPct": 1.9,
    "realised": 181.94,
    "trades": 20,
    "winPct": 60,
@@ -37,7 +37,7 @@
      "symbol": "NSTR",
      "shares": 288,
      "entryPrice": 1.7308,
-     "lastPrice": 1.8173
+     "lastPrice": 1.7
     }
    ],
    "lastTrade": null
@@ -461,83 +461,54 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-12",
-   "startingCash": 10000,
-   "equity": 9582.41,
-   "upDollars": -417.59,
-   "upPct": -4.2,
-   "realised": -443.09,
-   "trades": 14,
-   "winPct": 43,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "NSTR",
-     "shares": 539,
-     "entryPrice": 1.77,
-     "lastPrice": 1.8173
-    },
-    {
-     "symbol": "SPRC",
-     "shares": 2666,
-     "entryPrice": 0.36,
-     "lastPrice": 0.36
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9509.79,
-   "upDollars": -490.21,
-   "upPct": -4.9,
-   "realised": -549.92,
-   "trades": 559,
+   "equity": 9482,
+   "upDollars": -518,
+   "upPct": -5.2,
+   "realised": -558.2,
+   "trades": 561,
    "winPct": 43,
-   "open": 10,
+   "open": 9,
    "positions": [
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 140.9688
+     "lastPrice": 140.6005
     },
     {
      "symbol": "KLAC",
      "shares": 6,
      "entryPrice": 142.67,
-     "lastPrice": 148.89
+     "lastPrice": 146.99
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.33,
-     "lastPrice": 143.37
+     "lastPrice": 142.55
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 110.8
+     "lastPrice": 110.3062
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 84.45,
-     "lastPrice": 84
+     "lastPrice": 84.48
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 119.82,
-     "lastPrice": 120.6
+     "lastPrice": 120.3
     },
     {
      "symbol": "MCHP",
@@ -549,19 +520,42 @@
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.26
+     "lastPrice": 28.2999
     },
     {
-     "symbol": "SPCX",
+     "symbol": "SOXX",
      "shares": 6,
-     "entryPrice": 142.51,
-     "lastPrice": 142.3932
+     "entryPrice": 143.97,
+     "lastPrice": 143.59
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-12",
+   "startingCash": 10000,
+   "equity": 9453.4,
+   "upDollars": -546.6,
+   "upPct": -5.5,
+   "realised": -443.09,
+   "trades": 14,
+   "winPct": 43,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "NSTR",
+     "shares": 539,
+     "entryPrice": 1.77,
+     "lastPrice": 1.7219
     },
     {
-     "symbol": "INTC",
-     "shares": 17,
-     "entryPrice": 55.49,
-     "lastPrice": 55.53
+     "symbol": "SPRC",
+     "shares": 2666,
+     "entryPrice": 0.36,
+     "lastPrice": 0.3309
     }
    ],
    "lastTrade": null
@@ -784,6 +778,28 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 8692.39,
+   "upDollars": -1307.61,
+   "upPct": -13.1,
+   "trades": 40,
+   "winPct": 53,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "ZNB (short)",
+     "shares": -718,
+     "entryPrice": 1.13682,
+     "lastPrice": 0.403
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
@@ -800,36 +816,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 8614.35,
-   "upDollars": -1385.65,
-   "upPct": -13.9,
-   "trades": 40,
-   "winPct": 53,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "ZNB (short)",
-     "shares": -718,
-     "entryPrice": 1.13682,
-     "lastPrice": 0.5117
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-takeoff-loose",
    "name": "Takeoff - looser",
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8356.58,
-   "upDollars": -1643.42,
-   "upPct": -16.4,
+   "equity": 8335.49,
+   "upDollars": -1664.51,
+   "upPct": -16.6,
    "realised": -1624.42,
    "trades": 45,
    "winPct": 31,
@@ -845,7 +839,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.76
+     "lastPrice": 14.8
     },
     {
      "symbol": "XCUR",
@@ -863,31 +857,31 @@
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.5
+     "lastPrice": 18.49
     },
     {
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.0895
+     "lastPrice": 1.09
     },
     {
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 3.0377
+     "lastPrice": 3.0046
     },
     {
      "symbol": "LUCK",
      "shares": 214,
      "entryPrice": 4.38,
-     "lastPrice": 4.11
+     "lastPrice": 4.05
     },
     {
      "symbol": "ACM",
      "shares": 11,
      "entryPrice": 80.48,
-     "lastPrice": 80.34
+     "lastPrice": 80.35
     }
    ],
    "lastTrade": null
