@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1795002442314,
+ "asOfAt": 1795003346203,
  "sessionStatus": "in-progress",
- "publishedAt": 1795002442314,
+ "publishedAt": 1795003346203,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,13 +13,13 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10203.82,
-   "upDollars": 203.82,
-   "upPct": 2,
+   "equity": 10189.48,
+   "upDollars": 189.48,
+   "upPct": 1.9,
    "realised": 181.94,
    "trades": 20,
    "winPct": 60,
-   "open": 2,
+   "open": 3,
    "positions": [
     {
      "symbol": "SLN",
@@ -32,6 +32,12 @@
      "shares": 11,
      "entryPrice": 45.4,
      "lastPrice": 46.48
+    },
+    {
+     "symbol": "NSTR",
+     "shares": 288,
+     "entryPrice": 1.7308,
+     "lastPrice": 1.681
     }
    ],
    "lastTrade": null
@@ -455,82 +461,95 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-12",
-   "startingCash": 10000,
-   "equity": 9556.91,
-   "upDollars": -443.09,
-   "upPct": -4.4,
-   "realised": -443.09,
-   "trades": 14,
-   "winPct": 43,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9505.76,
-   "upDollars": -494.24,
-   "upPct": -4.9,
+   "equity": 9515.7,
+   "upDollars": -484.3,
+   "upPct": -4.8,
    "realised": -549.38,
    "trades": 557,
    "winPct": 43,
-   "open": 8,
+   "open": 9,
    "positions": [
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.12
+     "lastPrice": 140.9968
     },
     {
      "symbol": "KLAC",
      "shares": 6,
      "entryPrice": 142.67,
-     "lastPrice": 148
+     "lastPrice": 148.17
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.33,
-     "lastPrice": 143.09
+     "lastPrice": 143.4
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 111.17
+     "lastPrice": 111.535
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 84.45,
-     "lastPrice": 84.12
+     "lastPrice": 84.15
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 119.82,
-     "lastPrice": 120.21
+     "lastPrice": 121.25
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 59.21,
-     "lastPrice": 60.89
+     "lastPrice": 60.8
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.3093
+     "lastPrice": 28.26
+    },
+    {
+     "symbol": "IREN",
+     "shares": 57,
+     "entryPrice": 16.46,
+     "lastPrice": 16.46
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-12",
+   "startingCash": 10000,
+   "equity": 9508.94,
+   "upDollars": -491.06,
+   "upPct": -4.9,
+   "realised": -443.09,
+   "trades": 14,
+   "winPct": 43,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "NSTR",
+     "shares": 539,
+     "entryPrice": 1.77,
+     "lastPrice": 1.681
     }
    ],
    "lastTrade": null
@@ -774,9 +793,9 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8527.61,
-   "upDollars": -1472.39,
-   "upPct": -14.7,
+   "equity": 8628.49,
+   "upDollars": -1371.51,
+   "upPct": -13.7,
    "trades": 40,
    "winPct": 53,
    "open": 1,
@@ -785,7 +804,7 @@
      "symbol": "ZNB (short)",
      "shares": -718,
      "entryPrice": 1.13682,
-     "lastPrice": 0.6325
+     "lastPrice": 0.492
     }
    ],
    "lastTrade": null
@@ -796,9 +815,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8410.92,
-   "upDollars": -1589.08,
-   "upPct": -15.9,
+   "equity": 8446.69,
+   "upDollars": -1553.31,
+   "upPct": -15.5,
    "realised": -1541.67,
    "trades": 44,
    "winPct": 32,
@@ -814,7 +833,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.83
+     "lastPrice": 14.815
     },
     {
      "symbol": "XCUR",
@@ -838,13 +857,13 @@
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.08
+     "lastPrice": 1.1
     },
     {
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.96
+     "lastPrice": 2.98
     },
     {
      "symbol": "LUCK",
@@ -856,13 +875,13 @@
      "symbol": "ACM",
      "shares": 11,
      "entryPrice": 80.48,
-     "lastPrice": 80.2331
+     "lastPrice": 80.07
     },
     {
      "symbol": "AKAN",
      "shares": 331,
      "entryPrice": 2.49,
-     "lastPrice": 2.4205
+     "lastPrice": 2.4705
     }
    ],
    "lastTrade": null
@@ -920,21 +939,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6340.3,
-   "upDollars": -3659.7,
-   "upPct": -36.6,
-   "realised": -3673.89,
-   "trades": 134,
+   "equity": 6325.96,
+   "upDollars": -3674.04,
+   "upPct": -36.7,
+   "realised": -3674.04,
+   "trades": 135,
    "winPct": 21,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "BMGL",
-     "shares": 1543,
-     "entryPrice": 0.3046,
-     "lastPrice": 0.3138
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
