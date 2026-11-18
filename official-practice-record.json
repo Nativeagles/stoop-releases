@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1795007860634,
+ "asOfAt": 1795008763597,
  "sessionStatus": "in-progress",
- "publishedAt": 1795007860634,
+ "publishedAt": 1795008763597,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,9 +13,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10189.93,
-   "upDollars": 189.93,
-   "upPct": 1.9,
+   "equity": 10195.69,
+   "upDollars": 195.69,
+   "upPct": 2,
    "realised": 181.94,
    "trades": 20,
    "winPct": 60,
@@ -37,7 +37,7 @@
      "symbol": "NSTR",
      "shares": 288,
      "entryPrice": 1.7308,
-     "lastPrice": 1.72
+     "lastPrice": 1.74
     }
    ],
    "lastTrade": null
@@ -466,25 +466,25 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9465.18,
-   "upDollars": -534.82,
+   "equity": 9466.91,
+   "upDollars": -533.09,
    "upPct": -5.3,
    "realised": -559.88,
    "trades": 563,
    "winPct": 43,
-   "open": 8,
+   "open": 9,
    "positions": [
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.06
+     "lastPrice": 141.498
     },
     {
      "symbol": "KLAC",
      "shares": 6,
      "entryPrice": 142.67,
-     "lastPrice": 147.45
+     "lastPrice": 147.33
     },
     {
      "symbol": "MRK",
@@ -496,31 +496,37 @@
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 110.97
+     "lastPrice": 110.5
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 84.45,
-     "lastPrice": 83.62
+     "lastPrice": 84
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 119.82,
-     "lastPrice": 120.1387
+     "lastPrice": 119.74
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 59.21,
-     "lastPrice": 60.05
+     "lastPrice": 60.2303
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.2425
+     "lastPrice": 28.27
+    },
+    {
+     "symbol": "MSTR",
+     "shares": 9,
+     "entryPrice": 96.42,
+     "lastPrice": 96.36
     }
    ],
    "lastTrade": null
@@ -531,9 +537,9 @@
    "kind": "official",
    "startedOn": "2026-11-12",
    "startingCash": 10000,
-   "equity": 9419.73,
-   "upDollars": -580.27,
-   "upPct": -5.8,
+   "equity": 9430.51,
+   "upDollars": -569.49,
+   "upPct": -5.7,
    "realised": -553.32,
    "trades": 15,
    "winPct": 40,
@@ -543,7 +549,7 @@
      "symbol": "NSTR",
      "shares": 539,
      "entryPrice": 1.77,
-     "lastPrice": 1.72
+     "lastPrice": 1.74
     }
    ],
    "lastTrade": null
@@ -771,8 +777,8 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8687.87,
-   "upDollars": -1312.13,
+   "equity": 8686.79,
+   "upDollars": -1313.21,
    "upPct": -13.1,
    "trades": 40,
    "winPct": 53,
@@ -782,7 +788,7 @@
      "symbol": "ZNB (short)",
      "shares": -718,
      "entryPrice": 1.13682,
-     "lastPrice": 0.4093
+     "lastPrice": 0.4108
     }
    ],
    "lastTrade": null
@@ -809,9 +815,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8376.75,
-   "upDollars": -1623.25,
-   "upPct": -16.2,
+   "equity": 8399.44,
+   "upDollars": -1600.56,
+   "upPct": -16,
    "realised": -1624.42,
    "trades": 45,
    "winPct": 31,
@@ -821,13 +827,13 @@
      "symbol": "LINC",
      "shares": 24,
      "entryPrice": 21.32,
-     "lastPrice": 23.27
+     "lastPrice": 23.2
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.78
+     "lastPrice": 14.77
     },
     {
      "symbol": "XCUR",
@@ -845,7 +851,7 @@
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.3
+     "lastPrice": 18.4131
     },
     {
      "symbol": "MNTK",
@@ -857,13 +863,13 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 3.1
+     "lastPrice": 3.1568
     },
     {
      "symbol": "LUCK",
      "shares": 214,
      "entryPrice": 4.38,
-     "lastPrice": 4.1592
+     "lastPrice": 4.17
     },
     {
      "symbol": "ACM",
