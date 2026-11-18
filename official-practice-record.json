@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1795006055090,
+ "asOfAt": 1795006957874,
  "sessionStatus": "in-progress",
- "publishedAt": 1795006055090,
+ "publishedAt": 1795006957874,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,9 +13,9 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10194.95,
-   "upDollars": 194.95,
-   "upPct": 1.9,
+   "equity": 10201.43,
+   "upDollars": 201.43,
+   "upPct": 2,
    "realised": 181.94,
    "trades": 20,
    "winPct": 60,
@@ -37,7 +37,7 @@
      "symbol": "NSTR",
      "shares": 288,
      "entryPrice": 1.7308,
-     "lastPrice": 1.7
+     "lastPrice": 1.7225
     }
    ],
    "lastTrade": null
@@ -466,11 +466,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9482,
-   "upDollars": -518,
-   "upPct": -5.2,
-   "realised": -558.2,
-   "trades": 561,
+   "equity": 9471.23,
+   "upDollars": -528.77,
+   "upPct": -5.3,
+   "realised": -560.42,
+   "trades": 562,
    "winPct": 43,
    "open": 9,
    "positions": [
@@ -478,7 +478,7 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 140.6005
+     "lastPrice": 140.9396
     },
     {
      "symbol": "KLAC",
@@ -490,43 +490,43 @@
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.33,
-     "lastPrice": 142.55
+     "lastPrice": 142.4
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 110.3062
+     "lastPrice": 110.39
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 84.45,
-     "lastPrice": 84.48
+     "lastPrice": 83.8
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 119.82,
-     "lastPrice": 120.3
+     "lastPrice": 120.56
     },
     {
      "symbol": "MCHP",
      "shares": 15,
      "entryPrice": 59.21,
-     "lastPrice": 60.98
+     "lastPrice": 60.54
     },
     {
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.2999
+     "lastPrice": 28.2
     },
     {
-     "symbol": "SOXX",
-     "shares": 6,
-     "entryPrice": 143.97,
-     "lastPrice": 143.59
+     "symbol": "CRWV",
+     "shares": 18,
+     "entryPrice": 51.52,
+     "lastPrice": 51.72
     }
    ],
    "lastTrade": null
@@ -537,25 +537,19 @@
    "kind": "official",
    "startedOn": "2026-11-12",
    "startingCash": 10000,
-   "equity": 9453.4,
-   "upDollars": -546.6,
-   "upPct": -5.5,
-   "realised": -443.09,
-   "trades": 14,
-   "winPct": 43,
-   "open": 2,
+   "equity": 9419.73,
+   "upDollars": -580.27,
+   "upPct": -5.8,
+   "realised": -553.32,
+   "trades": 15,
+   "winPct": 40,
+   "open": 1,
    "positions": [
     {
      "symbol": "NSTR",
      "shares": 539,
      "entryPrice": 1.77,
-     "lastPrice": 1.7219
-    },
-    {
-     "symbol": "SPRC",
-     "shares": 2666,
-     "entryPrice": 0.36,
-     "lastPrice": 0.3309
+     "lastPrice": 1.72
     }
    ],
    "lastTrade": null
@@ -783,8 +777,8 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8692.39,
-   "upDollars": -1307.61,
+   "equity": 8688.23,
+   "upDollars": -1311.77,
    "upPct": -13.1,
    "trades": 40,
    "winPct": 53,
@@ -794,7 +788,7 @@
      "symbol": "ZNB (short)",
      "shares": -718,
      "entryPrice": 1.13682,
-     "lastPrice": 0.403
+     "lastPrice": 0.4088
     }
    ],
    "lastTrade": null
@@ -821,9 +815,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8335.49,
-   "upDollars": -1664.51,
-   "upPct": -16.6,
+   "equity": 8361.73,
+   "upDollars": -1638.27,
+   "upPct": -16.4,
    "realised": -1624.42,
    "trades": 45,
    "winPct": 31,
@@ -839,7 +833,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.8
+     "lastPrice": 14.81
     },
     {
      "symbol": "XCUR",
@@ -851,13 +845,13 @@
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 45.22
+     "lastPrice": 46.47
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.49
+     "lastPrice": 18.3
     },
     {
      "symbol": "MNTK",
@@ -869,7 +863,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 3.0046
+     "lastPrice": 3.1233
     },
     {
      "symbol": "LUCK",
@@ -881,7 +875,7 @@
      "symbol": "ACM",
      "shares": 11,
      "entryPrice": 80.48,
-     "lastPrice": 80.35
+     "lastPrice": 79.3256
     }
    ],
    "lastTrade": null
