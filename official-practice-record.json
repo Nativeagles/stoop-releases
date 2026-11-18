@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1794998830777,
+ "asOfAt": 1794999733727,
  "sessionStatus": "in-progress",
- "publishedAt": 1794998830777,
+ "publishedAt": 1794999733727,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -476,49 +476,49 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9524.11,
-   "upDollars": -475.89,
-   "upPct": -4.8,
-   "realised": -549.17,
-   "trades": 554,
+   "equity": 9525.81,
+   "upDollars": -474.19,
+   "upPct": -4.7,
+   "realised": -551.48,
+   "trades": 555,
    "winPct": 43,
-   "open": 9,
+   "open": 8,
    "positions": [
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.078
+     "lastPrice": 140.86
     },
     {
      "symbol": "KLAC",
      "shares": 6,
      "entryPrice": 142.67,
-     "lastPrice": 148.98
+     "lastPrice": 148.68
     },
     {
      "symbol": "MRK",
      "shares": 6,
      "entryPrice": 143.33,
-     "lastPrice": 142.88
+     "lastPrice": 143.09
     },
     {
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 111.73
+     "lastPrice": 112.3448
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 84.45,
-     "lastPrice": 84.17
+     "lastPrice": 84.48
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 119.82,
-     "lastPrice": 122.11
+     "lastPrice": 121.294
     },
     {
      "symbol": "MCHP",
@@ -530,13 +530,7 @@
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.31
-    },
-    {
-     "symbol": "SKHY",
-     "shares": 7,
-     "entryPrice": 127.49,
-     "lastPrice": 127.23
+     "lastPrice": 28.34
     }
    ],
    "lastTrade": null
@@ -780,9 +774,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8388.71,
-   "upDollars": -1611.29,
-   "upPct": -16.1,
+   "equity": 8425.47,
+   "upDollars": -1574.53,
+   "upPct": -15.7,
    "realised": -1541.67,
    "trades": 44,
    "winPct": 32,
@@ -798,7 +792,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.87
+     "lastPrice": 14.9
     },
     {
      "symbol": "XCUR",
@@ -828,7 +822,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.9608
+     "lastPrice": 2.9709
     },
     {
      "symbol": "LUCK",
@@ -846,7 +840,7 @@
      "symbol": "AKAN",
      "shares": 331,
      "entryPrice": 2.49,
-     "lastPrice": 2.3505
+     "lastPrice": 2.4495
     }
    ],
    "lastTrade": null
