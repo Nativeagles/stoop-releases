@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1795039483588,
+ "asOfAt": 1795040386391,
  "sessionStatus": "in-progress",
- "publishedAt": 1795039483588,
+ "publishedAt": 1795040386391,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -669,11 +669,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9234.82,
-   "upDollars": -765.18,
+   "equity": 9230.71,
+   "upDollars": -769.29,
    "upPct": -7.7,
-   "realised": -733.91,
-   "trades": 608,
+   "realised": -739.91,
+   "trades": 609,
    "winPct": 43,
    "open": 10,
    "positions": [
@@ -681,37 +681,37 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.6704
+     "lastPrice": 141.3272
     },
     {
      "symbol": "NOW",
      "shares": 10,
      "entryPrice": 90.65,
-     "lastPrice": 90.85
+     "lastPrice": 90.6984
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 98.11,
-     "lastPrice": 98.15
+     "lastPrice": 98.05
     },
     {
      "symbol": "UBER",
      "shares": 12,
      "entryPrice": 68.96,
-     "lastPrice": 68.8
+     "lastPrice": 68.76
     },
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 46.0732
+     "lastPrice": 46.165
     },
     {
      "symbol": "WFC",
      "shares": 10,
      "entryPrice": 81.21,
-     "lastPrice": 80.96
+     "lastPrice": 81.0261
     },
     {
      "symbol": "CSCO",
@@ -723,19 +723,19 @@
      "symbol": "T",
      "shares": 42,
      "entryPrice": 21.99,
-     "lastPrice": 21.98
-    },
-    {
-     "symbol": "INTC",
-     "shares": 15,
-     "entryPrice": 54.66,
-     "lastPrice": 54.36
+     "lastPrice": 21.9697
     },
     {
      "symbol": "BAC",
      "shares": 17,
      "entryPrice": 49.02,
-     "lastPrice": 48.97
+     "lastPrice": 48.94
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 6,
+     "entryPrice": 143.05,
+     "lastPrice": 143.0828
     }
    ],
    "lastTrade": null
@@ -762,8 +762,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8447.22,
-   "upDollars": -1552.78,
+   "equity": 8448.49,
+   "upDollars": -1551.51,
    "upPct": -15.5,
    "realised": -1624.42,
    "trades": 45,
@@ -780,7 +780,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.5169
+     "lastPrice": 15.47
     },
     {
      "symbol": "XCUR",
@@ -810,7 +810,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.9497
+     "lastPrice": 2.9597
     },
     {
      "symbol": "LUCK",
@@ -864,21 +864,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7748.3,
-   "upDollars": -2251.7,
+   "equity": 7748.59,
+   "upDollars": -2251.41,
    "upPct": -22.5,
-   "realised": -2241.59,
-   "trades": 88,
-   "winPct": 31,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GMM",
-     "shares": 491,
-     "entryPrice": 1.58,
-     "lastPrice": 1.5594
-    }
-   ],
+   "realised": -2251.41,
+   "trades": 89,
+   "winPct": 30,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -902,21 +895,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6180.3,
-   "upDollars": -3819.7,
+   "equity": 6184.45,
+   "upDollars": -3815.55,
    "upPct": -38.2,
-   "realised": -3811.64,
-   "trades": 148,
+   "realised": -3815.55,
+   "trades": 149,
    "winPct": 20,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GMM",
-     "shares": 391,
-     "entryPrice": 1.58,
-     "lastPrice": 1.5594
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -925,9 +911,9 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 4501.03,
-   "upDollars": -5498.97,
-   "upPct": -55,
+   "equity": 4533.8,
+   "upDollars": -5466.2,
+   "upPct": -54.7,
    "realised": -5497.24,
    "trades": 156,
    "winPct": 14,
@@ -937,13 +923,13 @@
      "symbol": "AZI",
      "shares": 416,
      "entryPrice": 1.08,
-     "lastPrice": 1.0899
+     "lastPrice": 1.08
     },
     {
      "symbol": "GMM",
      "shares": 284,
      "entryPrice": 1.58,
-     "lastPrice": 1.5594
+     "lastPrice": 1.6893
     }
    ],
    "lastTrade": null
@@ -954,21 +940,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 3078.56,
-   "upDollars": -6921.44,
+   "equity": 3080.61,
+   "upDollars": -6919.39,
    "upPct": -69.2,
-   "realised": -6917.45,
-   "trades": 220,
+   "realised": -6919.39,
+   "trades": 221,
    "winPct": 13,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GMM",
-     "shares": 194,
-     "entryPrice": 1.58,
-     "lastPrice": 1.5594
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
