@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-18",
- "asOfAt": 1794997927921,
+ "asOfAt": 1794998830777,
  "sessionStatus": "in-progress",
- "publishedAt": 1794997927921,
+ "publishedAt": 1794998830777,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -455,16 +455,32 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-12",
+   "startingCash": 10000,
+   "equity": 9556.91,
+   "upDollars": -443.09,
+   "upPct": -4.4,
+   "realised": -443.09,
+   "trades": 14,
+   "winPct": 43,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9522.4,
-   "upDollars": -477.6,
+   "equity": 9524.11,
+   "upDollars": -475.89,
    "upPct": -4.8,
-   "realised": -551.97,
-   "trades": 553,
+   "realised": -549.17,
+   "trades": 554,
    "winPct": 43,
    "open": 9,
    "positions": [
@@ -472,13 +488,13 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141
+     "lastPrice": 141.078
     },
     {
      "symbol": "KLAC",
      "shares": 6,
      "entryPrice": 142.67,
-     "lastPrice": 148.91
+     "lastPrice": 148.98
     },
     {
      "symbol": "MRK",
@@ -490,13 +506,13 @@
      "symbol": "GLW",
      "shares": 8,
      "entryPrice": 107.98,
-     "lastPrice": 111.63
+     "lastPrice": 111.73
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 84.45,
-     "lastPrice": 84.171
+     "lastPrice": 84.17
     },
     {
      "symbol": "C",
@@ -514,36 +530,13 @@
      "symbol": "PFE",
      "shares": 33,
      "entryPrice": 28.43,
-     "lastPrice": 28.3
+     "lastPrice": 28.31
     },
     {
-     "symbol": "IREN",
-     "shares": 56,
-     "entryPrice": 16.79,
-     "lastPrice": 16.81
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-12",
-   "startingCash": 10000,
-   "equity": 9378.41,
-   "upDollars": -621.59,
-   "upPct": -6.2,
-   "realised": -632.05,
-   "trades": 13,
-   "winPct": 38,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "CHSN",
-     "shares": 1901,
-     "entryPrice": 0.4867,
-     "lastPrice": 0.4922
+     "symbol": "SKHY",
+     "shares": 7,
+     "entryPrice": 127.49,
+     "lastPrice": 127.23
     }
    ],
    "lastTrade": null
@@ -787,9 +780,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8348.2,
-   "upDollars": -1651.8,
-   "upPct": -16.5,
+   "equity": 8388.71,
+   "upDollars": -1611.29,
+   "upPct": -16.1,
    "realised": -1541.67,
    "trades": 44,
    "winPct": 32,
@@ -805,13 +798,13 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.937
+     "lastPrice": 14.87
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.0016
+     "lastPrice": 1.13
     },
     {
      "symbol": "AZTA",
@@ -835,13 +828,13 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.96
+     "lastPrice": 2.9608
     },
     {
      "symbol": "LUCK",
      "shares": 214,
      "entryPrice": 4.38,
-     "lastPrice": 4.18
+     "lastPrice": 4.13
     },
     {
      "symbol": "ACM",
@@ -853,7 +846,7 @@
      "symbol": "AKAN",
      "shares": 331,
      "entryPrice": 2.49,
-     "lastPrice": 2.3795
+     "lastPrice": 2.3505
     }
    ],
    "lastTrade": null
