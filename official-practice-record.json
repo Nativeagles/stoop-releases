@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-19",
- "asOfAt": 1795085441592,
+ "asOfAt": 1795086344400,
  "sessionStatus": "in-progress",
- "publishedAt": 1795085441592,
+ "publishedAt": 1795086344400,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -637,8 +637,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9248.02,
-   "upDollars": -751.98,
+   "equity": 9245.98,
+   "upDollars": -754.02,
    "upPct": -7.5,
    "realised": -751.84,
    "trades": 618,
@@ -649,37 +649,37 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 140.87
+     "lastPrice": 140.85
     },
     {
      "symbol": "NOW",
      "shares": 10,
      "entryPrice": 90.65,
-     "lastPrice": 91.47
+     "lastPrice": 91.694
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 98.11,
-     "lastPrice": 97.42
+     "lastPrice": 97.34
     },
     {
      "symbol": "UBER",
      "shares": 12,
      "entryPrice": 68.96,
-     "lastPrice": 69.45
+     "lastPrice": 69.4
     },
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 45.8287
+     "lastPrice": 45.856
     },
     {
      "symbol": "WFC",
      "shares": 10,
      "entryPrice": 81.21,
-     "lastPrice": 81.51
+     "lastPrice": 81.11
     },
     {
      "symbol": "CSCO",
@@ -691,13 +691,13 @@
      "symbol": "T",
      "shares": 42,
      "entryPrice": 21.99,
-     "lastPrice": 21.86
+     "lastPrice": 21.85
     },
     {
      "symbol": "BAC",
      "shares": 17,
      "entryPrice": 49.02,
-     "lastPrice": 49.29
+     "lastPrice": 49.35
     }
    ],
    "lastTrade": null
@@ -756,9 +756,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8446.88,
-   "upDollars": -1553.12,
-   "upPct": -15.5,
+   "equity": 8484.97,
+   "upDollars": -1515.03,
+   "upPct": -15.2,
    "realised": -1719.65,
    "trades": 46,
    "winPct": 30,
@@ -774,7 +774,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 16.1013
+     "lastPrice": 16.1
     },
     {
      "symbol": "XCUR",
@@ -804,7 +804,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.87
+     "lastPrice": 2.9
     },
     {
      "symbol": "ACM",
@@ -816,7 +816,7 @@
      "symbol": "GMM",
      "shares": 428,
      "entryPrice": 1.96,
-     "lastPrice": 1.9713
+     "lastPrice": 2.04
     }
    ],
    "lastTrade": null
