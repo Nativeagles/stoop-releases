@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-19",
- "asOfAt": 1795081829502,
+ "asOfAt": 1795082732636,
  "sessionStatus": "in-progress",
- "publishedAt": 1795081829502,
+ "publishedAt": 1795082732636,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -560,11 +560,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9276.46,
-   "upDollars": -723.54,
-   "upPct": -7.2,
-   "realised": -729.49,
-   "trades": 615,
+   "equity": 9262.37,
+   "upDollars": -737.63,
+   "upPct": -7.4,
+   "realised": -724.45,
+   "trades": 616,
    "winPct": 43,
    "open": 10,
    "positions": [
@@ -572,31 +572,31 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.28
+     "lastPrice": 140.8392
     },
     {
      "symbol": "NOW",
      "shares": 10,
      "entryPrice": 90.65,
-     "lastPrice": 91.75
+     "lastPrice": 91.61
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 98.11,
-     "lastPrice": 97.6654
+     "lastPrice": 97.43
     },
     {
      "symbol": "UBER",
      "shares": 12,
      "entryPrice": 68.96,
-     "lastPrice": 69.35
+     "lastPrice": 69.03
     },
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 45.88
+     "lastPrice": 45.91
     },
     {
      "symbol": "WFC",
@@ -608,25 +608,25 @@
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 97.18,
-     "lastPrice": 98.6
+     "lastPrice": 98.55
     },
     {
      "symbol": "T",
      "shares": 42,
      "entryPrice": 21.99,
-     "lastPrice": 21.97
+     "lastPrice": 21.8844
     },
     {
      "symbol": "BAC",
      "shares": 17,
      "entryPrice": 49.02,
-     "lastPrice": 49.24
+     "lastPrice": 49.271
     },
     {
-     "symbol": "IREN",
-     "shares": 56,
-     "entryPrice": 15.85,
-     "lastPrice": 15.97
+     "symbol": "CRWV",
+     "shares": 17,
+     "entryPrice": 49.71,
+     "lastPrice": 49.69
     }
    ],
    "lastTrade": null
@@ -730,21 +730,14 @@
    "kind": "official",
    "startedOn": "2026-11-12",
    "startingCash": 10000,
-   "equity": 9241.5,
-   "upDollars": -758.5,
-   "upPct": -7.6,
-   "realised": -720.41,
-   "trades": 16,
-   "winPct": 38,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GNLN",
-     "shares": 1137,
-     "entryPrice": 0.81,
-     "lastPrice": 0.7765
-    }
-   ],
+   "equity": 9157.25,
+   "upDollars": -842.75,
+   "upPct": -8.4,
+   "realised": -842.75,
+   "trades": 17,
+   "winPct": 35,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -764,29 +757,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 8426.61,
-   "upDollars": -1573.39,
-   "upPct": -15.7,
-   "trades": 44,
-   "winPct": 52,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-takeoff-loose",
    "name": "Takeoff - looser",
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8409.71,
-   "upDollars": -1590.29,
-   "upPct": -15.9,
+   "equity": 8453.67,
+   "upDollars": -1546.33,
+   "upPct": -15.5,
    "realised": -1719.65,
    "trades": 46,
    "winPct": 30,
@@ -802,7 +780,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.85
+     "lastPrice": 15.96
     },
     {
      "symbol": "XCUR",
@@ -832,7 +810,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.93
+     "lastPrice": 2.86
     },
     {
      "symbol": "ACM",
@@ -844,9 +822,24 @@
      "symbol": "GMM",
      "shares": 428,
      "entryPrice": 1.96,
-     "lastPrice": 1.8487
+     "lastPrice": 1.99
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 8426.61,
+   "upDollars": -1573.39,
+   "upPct": -15.7,
+   "trades": 44,
+   "winPct": 52,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
