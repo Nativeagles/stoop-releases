@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-19",
- "asOfAt": 1795121560164,
+ "asOfAt": 1795122463126,
  "sessionStatus": "in-progress",
- "publishedAt": 1795121560164,
+ "publishedAt": 1795122463126,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -13,8 +13,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 10336.88,
-   "upDollars": 336.88,
+   "equity": 10337.62,
+   "upDollars": 337.62,
    "upPct": 3.4,
    "realised": -271.44,
    "trades": 62,
@@ -25,31 +25,31 @@
      "symbol": "CMG",
      "shares": 16,
      "entryPrice": 31.41,
-     "lastPrice": 36.295
+     "lastPrice": 36.285
     },
     {
      "symbol": "RWM",
      "shares": 34,
      "entryPrice": 14.49,
-     "lastPrice": 30.280000686645508
+     "lastPrice": 30.285
     },
     {
      "symbol": "KHC",
      "shares": 20,
      "entryPrice": 25.09,
-     "lastPrice": 24.915000915527344
+     "lastPrice": 24.975
     },
     {
      "symbol": "AKAM",
      "shares": 10,
      "entryPrice": 91.79,
-     "lastPrice": 91.47000122070312
+     "lastPrice": 91.43
     },
     {
      "symbol": "TJX",
      "shares": 3,
      "entryPrice": 139.93,
-     "lastPrice": 139.93
+     "lastPrice": 139.905
     }
    ],
    "lastTrade": null
@@ -60,20 +60,13 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 10289.09,
-   "upDollars": 289.09,
+   "equity": 10293.66,
+   "upDollars": 293.66,
    "upPct": 2.9,
-   "trades": 15,
-   "winPct": 60,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SEAT (short)",
-     "shares": -195,
-     "entryPrice": 2.608748655,
-     "lastPrice": 2.065
-    }
-   ],
+   "trades": 16,
+   "winPct": 63,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -82,8 +75,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 10130.53,
-   "upDollars": 130.53,
+   "equity": 10129.45,
+   "upDollars": 129.45,
    "upPct": 1.3,
    "realised": 109.71,
    "trades": 21,
@@ -94,13 +87,13 @@
      "symbol": "SLN",
      "shares": 50,
      "entryPrice": 19.6,
-     "lastPrice": 19.815
+     "lastPrice": 19.81
     },
     {
      "symbol": "BRZE",
      "shares": 11,
      "entryPrice": 45.4,
-     "lastPrice": 46.315
+     "lastPrice": 46.24
     }
    ],
    "lastTrade": null
@@ -111,8 +104,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 10091.26,
-   "upDollars": 91.26,
+   "equity": 10091.33,
+   "upDollars": 91.33,
    "upPct": 0.9,
    "realised": -899.77,
    "trades": 33,
@@ -123,37 +116,37 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 118.7,
-     "lastPrice": 126.53999999999999
+     "lastPrice": 126.09
     },
     {
      "symbol": "O",
      "shares": 16,
      "entryPrice": 56.94,
-     "lastPrice": 57.564998626708984
+     "lastPrice": 57.675
     },
     {
      "symbol": "EW",
      "shares": 9,
      "entryPrice": 102.49,
-     "lastPrice": 103.66000366210938
+     "lastPrice": 103.815
     },
     {
      "symbol": "ALLY",
      "shares": 24,
      "entryPrice": 38.46,
-     "lastPrice": 37.19499969482422
+     "lastPrice": 37.235
     },
     {
      "symbol": "RWM",
      "shares": 62,
      "entryPrice": 14.95,
-     "lastPrice": 30.280000686645508
+     "lastPrice": 30.265
     },
     {
      "symbol": "DIS",
      "shares": 7,
      "entryPrice": 122.13,
-     "lastPrice": 120.37000274658203
+     "lastPrice": 120.44
     }
    ],
    "lastTrade": null
@@ -164,8 +157,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 10056.86,
-   "upDollars": 56.86,
+   "equity": 10060.89,
+   "upDollars": 60.89,
    "upPct": 0.6,
    "realised": -893.13,
    "trades": 8,
@@ -176,61 +169,61 @@
      "symbol": "WMT",
      "shares": 8,
      "entryPrice": 118.82,
-     "lastPrice": 126.53999999999999
+     "lastPrice": 126.095
     },
     {
      "symbol": "KO",
      "shares": 10,
      "entryPrice": 92.96,
-     "lastPrice": 96.18000030517578
+     "lastPrice": 96.295
     },
     {
      "symbol": "DAL",
      "shares": 12,
      "entryPrice": 78.54,
-     "lastPrice": 83.63999938964844
+     "lastPrice": 83.65
     },
     {
      "symbol": "PYPL",
      "shares": 17,
      "entryPrice": 57.57,
-     "lastPrice": 56.45000076293945
+     "lastPrice": 56.515
     },
     {
      "symbol": "C",
      "shares": 7,
      "entryPrice": 122.11,
-     "lastPrice": 115.2699966430664
+     "lastPrice": 115.44
     },
     {
      "symbol": "NEE",
      "shares": 11,
      "entryPrice": 82.16,
-     "lastPrice": 83.62000274658203
+     "lastPrice": 83.83500000000001
     },
     {
      "symbol": "WFC",
      "shares": 11,
      "entryPrice": 85.16,
-     "lastPrice": 80.4800033569336
+     "lastPrice": 80.64
     },
     {
      "symbol": "PEP",
      "shares": 5,
      "entryPrice": 138.89,
-     "lastPrice": 138.7100067138672
+     "lastPrice": 139.04500000000002
     },
     {
      "symbol": "RWM",
      "shares": 62,
      "entryPrice": 14.95,
-     "lastPrice": 30.280000686645508
+     "lastPrice": 30.265
     },
     {
      "symbol": "SNAP",
      "shares": 169,
      "entryPrice": 5.5,
-     "lastPrice": 5.190000057220459
+     "lastPrice": 5.1850000000000005
     }
    ],
    "lastTrade": null
@@ -283,13 +276,1229 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-his-peek-around",
+   "name": "His: Peek around",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-peek-around-green",
+   "name": "His: Peek around (big green)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-nine-then-15-break",
+   "name": "His: The 9, then the 15-min break",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-nine-over-twenty",
+   "name": "His: 9 over 20 (5-min)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-the-stack",
+   "name": "His: The Stack (5-min)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-full-bar-9",
+   "name": "His: Full bar over the 9 (5-min)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-stall-bottom",
+   "name": "His: Stall at the bottom",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-doji-turn",
+   "name": "His: Doji turn",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-clean-orb",
+   "name": "His: Clean opening break",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-five-min-break-bar",
+   "name": "His: 5-min break bar",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-thirty-break",
+   "name": "His: 30 MA break (5-min)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-fifty-cross",
+   "name": "His: 50 cross (5-min)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-thin-wake-up",
+   "name": "His: Thin name wakes up",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-quiet-pullback",
+   "name": "His: Quiet pullback",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-daily",
+   "name": "His: Rule 1: cross the 9 (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-weekly",
+   "name": "His: Rule 1: cross the 9 (weekly)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-2h",
+   "name": "His: Rule 1: cross the 9 (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-daily-traj",
+   "name": "His: Rule 1: cross the 9 (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-weekly-traj",
+   "name": "His: Rule 1: cross the 9 (weekly, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-2h-traj",
+   "name": "His: Rule 1: cross the 9 (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-full-bar-9-daily",
+   "name": "His: Rule 2: full bar over the 9 (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-full-bar-9-weekly",
+   "name": "His: Rule 2: full bar over the 9 (weekly)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-full-bar-9-2h",
+   "name": "His: Rule 2: full bar over the 9 (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-full-bar-9-daily-traj",
+   "name": "His: Rule 2: full bar over the 9 (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-full-bar-9-weekly-traj",
+   "name": "His: Rule 2: full bar over the 9 (weekly, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-full-bar-9-2h-traj",
+   "name": "His: Rule 2: full bar over the 9 (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-nine-over-twenty-daily",
+   "name": "His: Rule 3: 9 over 20 (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-nine-over-twenty-weekly",
+   "name": "His: Rule 3: 9 over 20 (weekly)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-nine-over-twenty-2h",
+   "name": "His: Rule 3: 9 over 20 (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-nine-over-twenty-daily-traj",
+   "name": "His: Rule 3: 9 over 20 (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-nine-over-twenty-weekly-traj",
+   "name": "His: Rule 3: 9 over 20 (weekly, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-nine-over-twenty-2h-traj",
+   "name": "His: Rule 3: 9 over 20 (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-the-stack-daily",
+   "name": "His: The Stack (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-the-stack-weekly",
+   "name": "His: The Stack (weekly)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-the-stack-2h",
+   "name": "His: The Stack (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-the-stack-daily-traj",
+   "name": "His: The Stack (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-the-stack-weekly-traj",
+   "name": "His: The Stack (weekly, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-the-stack-2h-traj",
+   "name": "His: The Stack (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-gate-20-daily",
+   "name": "His: Rule 1 + 9-over-20 gate (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-gate-20-2h",
+   "name": "His: Rule 1 + 9-over-20 gate (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-gate-20-daily-traj",
+   "name": "His: Rule 1 + 9-over-20 gate (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-gate-20-2h-traj",
+   "name": "His: Rule 1 + 9-over-20 gate (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-break-even-daily",
+   "name": "His: Rule 1 + break-even stop (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-break-even-2h",
+   "name": "His: Rule 1 + break-even stop (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-break-even-daily-traj",
+   "name": "His: Rule 1 + break-even stop (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-break-even-2h-traj",
+   "name": "His: Rule 1 + break-even stop (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-two-bar-exit-daily",
+   "name": "His: Rule 1 + two-bar exit (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-two-bar-exit-2h",
+   "name": "His: Rule 1 + two-bar exit (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-two-bar-exit-daily-traj",
+   "name": "His: Rule 1 + two-bar exit (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-two-bar-exit-2h-traj",
+   "name": "His: Rule 1 + two-bar exit (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-bravo-daily",
+   "name": "His: Bravo (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-bravo-weekly",
+   "name": "His: Bravo (weekly)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-bravo-2h",
+   "name": "His: Bravo (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-bravo-daily-traj",
+   "name": "His: Bravo (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-bravo-weekly-traj",
+   "name": "His: Bravo (weekly, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-bravo-2h-traj",
+   "name": "His: Bravo (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-two-hundred-cross-daily",
+   "name": "His: The 200 cross (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-two-hundred-cross-2h",
+   "name": "His: The 200 cross (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-two-hundred-cross-daily-traj",
+   "name": "His: The 200 cross (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-two-hundred-cross-2h-traj",
+   "name": "His: The 200 cross (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-twenty-fifty-cross-daily",
+   "name": "His: 20/50 cross (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-twenty-fifty-cross-2h",
+   "name": "His: 20/50 cross (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-twenty-fifty-cross-daily-traj",
+   "name": "His: 20/50 cross (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-twenty-fifty-cross-2h-traj",
+   "name": "His: 20/50 cross (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-exit-20-daily",
+   "name": "His: In on the 9, out on the 20 (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-exit-20-2h",
+   "name": "His: In on the 9, out on the 20 (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-exit-20-daily-traj",
+   "name": "His: In on the 9, out on the 20 (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-exit-20-2h-traj",
+   "name": "His: In on the 9, out on the 20 (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-fifty-not-on-top-daily",
+   "name": "His: The 9 when the 50 is not on top (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-fifty-not-on-top-2h",
+   "name": "His: The 9 when the 50 is not on top (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-fifty-not-on-top-daily-traj",
+   "name": "His: The 9 when the 50 is not on top (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-cross-9-fifty-not-on-top-2h-traj",
+   "name": "His: The 9 when the 50 is not on top (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-inside-bar-break-daily",
+   "name": "His: Inside bar break (daily)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-inside-bar-break-2h",
+   "name": "His: Inside bar break (2-hour)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-inside-bar-break-daily-traj",
+   "name": "His: Inside bar break (daily, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-inside-bar-break-2h-traj",
+   "name": "His: Inside bar break (2-hour, trajectory up)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10000,
+   "upDollars": 0,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-five-pivots-daily",
    "name": "Five Pivots (daily)",
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9806.21,
-   "upDollars": -193.79,
+   "equity": 9805.22,
+   "upDollars": -194.78,
    "upPct": -1.9,
    "realised": -179.03,
    "trades": 42,
@@ -300,43 +1509,43 @@
      "symbol": "MDLZ",
      "shares": 7,
      "entryPrice": 65.56,
-     "lastPrice": 65.595
+     "lastPrice": 65.72
     },
     {
      "symbol": "BOX",
      "shares": 10,
      "entryPrice": 43.36,
-     "lastPrice": 43.08000183105469
+     "lastPrice": 43.115
     },
     {
      "symbol": "VNT",
      "shares": 10,
      "entryPrice": 43.33,
-     "lastPrice": 43.959999084472656
+     "lastPrice": 43.56
     },
     {
      "symbol": "ALC",
      "shares": 6,
      "entryPrice": 73.955,
-     "lastPrice": 74.69000244140625
+     "lastPrice": 74.72
     },
     {
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 47,
-     "lastPrice": 46.94499969482422
+     "lastPrice": 46.975
     },
     {
      "symbol": "PPC",
      "shares": 17,
      "entryPrice": 28.58,
-     "lastPrice": 27.610000610351562
+     "lastPrice": 27.695
     },
     {
      "symbol": "CNNE",
      "shares": 28,
      "entryPrice": 17.35,
-     "lastPrice": 17.139999389648438
+     "lastPrice": 17.134999999999998
     }
    ],
    "lastTrade": null
@@ -347,8 +1556,8 @@
    "kind": "official",
    "startedOn": "2026-10-16",
    "startingCash": 10000,
-   "equity": 9790.85,
-   "upDollars": -209.15,
+   "equity": 9792.44,
+   "upDollars": -207.56,
    "upPct": -2.1,
    "realised": -311.4,
    "trades": 25,
@@ -359,43 +1568,43 @@
      "symbol": "SH",
      "shares": 15,
      "entryPrice": 32.64,
-     "lastPrice": 34.6
+     "lastPrice": 34.605000000000004
     },
     {
      "symbol": "SPXU",
      "shares": 14,
      "entryPrice": 35.36,
-     "lastPrice": 41.5099983215332
+     "lastPrice": 41.445
     },
     {
      "symbol": "WMT",
      "shares": 4,
      "entryPrice": 121.53,
-     "lastPrice": 126.19999694824219
+     "lastPrice": 126.535
     },
     {
      "symbol": "PEP",
      "shares": 3,
      "entryPrice": 140.27,
-     "lastPrice": 138.72999572753906
+     "lastPrice": 139.035
     },
     {
      "symbol": "CL",
      "shares": 5,
      "entryPrice": 98.9,
-     "lastPrice": 97.1500015258789
+     "lastPrice": 97.13
     },
     {
      "symbol": "DIS",
      "shares": 8,
      "entryPrice": 122.69,
-     "lastPrice": 120.37000274658203
+     "lastPrice": 120.42500000000001
     },
     {
      "symbol": "PSQ",
      "shares": 34,
      "entryPrice": 28.31,
-     "lastPrice": 28.31
+     "lastPrice": 28.305
     }
    ],
    "lastTrade": null
@@ -406,8 +1615,8 @@
    "kind": "official",
    "startedOn": "2026-10-26",
    "startingCash": 10000,
-   "equity": 9702.38,
-   "upDollars": -297.62,
+   "equity": 9697.17,
+   "upDollars": -302.83,
    "upPct": -3,
    "realised": -354.68,
    "trades": 32,
@@ -418,49 +1627,49 @@
      "symbol": "ADC",
      "shares": 7,
      "entryPrice": 67.2,
-     "lastPrice": 70.165
+     "lastPrice": 70.145
     },
     {
      "symbol": "LTH",
      "shares": 11,
      "entryPrice": 44.87,
-     "lastPrice": 46.575
+     "lastPrice": 46.59
     },
     {
      "symbol": "SBUX",
      "shares": 4,
      "entryPrice": 106.19,
-     "lastPrice": 105.695
+     "lastPrice": 104.57499999999999
     },
     {
      "symbol": "EXTR",
      "shares": 19,
      "entryPrice": 26.3,
-     "lastPrice": 26.745
+     "lastPrice": 26.740000000000002
     },
     {
      "symbol": "BOX",
      "shares": 11,
      "entryPrice": 43.36,
-     "lastPrice": 43.11
+     "lastPrice": 43.17
     },
     {
      "symbol": "VNT",
      "shares": 11,
      "entryPrice": 43.58,
-     "lastPrice": 43.56
+     "lastPrice": 43.599999999999994
     },
     {
      "symbol": "RDN",
      "shares": 13,
      "entryPrice": 36.95,
-     "lastPrice": 36.535
+     "lastPrice": 36.629999999999995
     },
     {
      "symbol": "RYTM",
      "shares": 8,
      "entryPrice": 115.07,
-     "lastPrice": 117.5
+     "lastPrice": 117.125
     }
    ],
    "lastTrade": null
@@ -546,73 +1755,37 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9045.25,
-   "upDollars": -954.75,
-   "upPct": -9.5,
-   "realised": -802.03,
-   "trades": 641,
-   "winPct": 43,
-   "open": 10,
+   "equity": 9038.61,
+   "upDollars": -961.39,
+   "upPct": -9.6,
+   "realised": -948.2,
+   "trades": 650,
+   "winPct": 42,
+   "open": 4,
    "positions": [
-    {
-     "symbol": "PEP",
-     "shares": 4,
-     "entryPrice": 146.43,
-     "lastPrice": 139.06
-    },
-    {
-     "symbol": "NOW",
-     "shares": 10,
-     "entryPrice": 90.65,
-     "lastPrice": 88.72
-    },
-    {
-     "symbol": "KO",
-     "shares": 9,
-     "entryPrice": 98.11,
-     "lastPrice": 96.32
-    },
-    {
-     "symbol": "UBER",
-     "shares": 12,
-     "entryPrice": 68.96,
-     "lastPrice": 65.64
-    },
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 45.795
+     "lastPrice": 45.71
     },
     {
-     "symbol": "WFC",
+     "symbol": "NEE",
      "shares": 10,
-     "entryPrice": 81.21,
-     "lastPrice": 80.62
+     "entryPrice": 83.87,
+     "lastPrice": 83.52
     },
     {
-     "symbol": "CSCO",
-     "shares": 9,
-     "entryPrice": 97.18,
-     "lastPrice": 94.89
-    },
-    {
-     "symbol": "T",
-     "shares": 42,
-     "entryPrice": 21.99,
-     "lastPrice": 21.775
-    },
-    {
-     "symbol": "BAC",
-     "shares": 17,
-     "entryPrice": 49.02,
-     "lastPrice": 48.565
-    },
-    {
-     "symbol": "WMT",
+     "symbol": "SPCX",
      "shares": 6,
-     "entryPrice": 126,
-     "lastPrice": 126.56
+     "entryPrice": 138.33,
+     "lastPrice": 138.33
+    },
+    {
+     "symbol": "SOXX",
+     "shares": 6,
+     "entryPrice": 137.69,
+     "lastPrice": 137.69
     }
    ],
    "lastTrade": null
@@ -655,20 +1828,13 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8602.24,
-   "upDollars": -1397.76,
-   "upPct": -14,
-   "trades": 44,
-   "winPct": 52,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SEAT (short)",
-     "shares": -323,
-     "entryPrice": 2.608748655,
-     "lastPrice": 2.065
-    }
-   ],
+   "equity": 8609.81,
+   "upDollars": -1390.19,
+   "upPct": -13.9,
+   "trades": 45,
+   "winPct": 53,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -677,9 +1843,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8077.35,
-   "upDollars": -1922.65,
-   "upPct": -19.2,
+   "equity": 8097.65,
+   "upDollars": -1902.35,
+   "upPct": -19,
    "realised": -1991.74,
    "trades": 49,
    "winPct": 29,
@@ -689,55 +1855,55 @@
      "symbol": "LINC",
      "shares": 24,
      "entryPrice": 21.32,
-     "lastPrice": 21.82
+     "lastPrice": 21.8
     },
     {
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.625
+     "lastPrice": 14.56
     },
     {
      "symbol": "XCUR",
      "shares": 490,
      "entryPrice": 1.03,
-     "lastPrice": 1.0325
+     "lastPrice": 1.06
     },
     {
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 47
+     "lastPrice": 47.09
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.05
+     "lastPrice": 17.9
     },
     {
      "symbol": "MNTK",
      "shares": 786,
      "entryPrice": 1.16,
-     "lastPrice": 1.16
+     "lastPrice": 1.15
     },
     {
      "symbol": "ACM",
      "shares": 11,
      "entryPrice": 80.48,
-     "lastPrice": 80.575
+     "lastPrice": 80.31
     },
     {
      "symbol": "TROO",
      "shares": 543,
      "entryPrice": 1.51,
-     "lastPrice": 1.59
+     "lastPrice": 1.54
     },
     {
      "symbol": "PYXS",
      "shares": 501,
      "entryPrice": 1.63,
-     "lastPrice": 1.6214
+     "lastPrice": 1.73
     }
    ],
    "lastTrade": null
@@ -748,12 +1914,12 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7564.07,
-   "upDollars": -2435.93,
-   "upPct": -24.4,
-   "realised": -2435.93,
-   "trades": 82,
-   "winPct": 18,
+   "equity": 7571.03,
+   "upDollars": -2428.97,
+   "upPct": -24.3,
+   "realised": -2428.97,
+   "trades": 83,
+   "winPct": 19,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -779,12 +1945,12 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 7384.38,
-   "upDollars": -2615.62,
-   "upPct": -26.2,
-   "realised": -2615.62,
-   "trades": 95,
-   "winPct": 29,
+   "equity": 7391.17,
+   "upDollars": -2608.83,
+   "upPct": -26.1,
+   "realised": -2608.83,
+   "trades": 96,
+   "winPct": 30,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -795,12 +1961,12 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 6093.98,
-   "upDollars": -3906.02,
-   "upPct": -39.1,
-   "realised": -3906.02,
-   "trades": 159,
-   "winPct": 20,
+   "equity": 6099.59,
+   "upDollars": -3900.41,
+   "upPct": -39,
+   "realised": -3900.41,
+   "trades": 160,
+   "winPct": 21,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -811,12 +1977,12 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 4243.11,
-   "upDollars": -5756.89,
-   "upPct": -57.6,
-   "realised": -5756.89,
-   "trades": 168,
-   "winPct": 14,
+   "equity": 4247.17,
+   "upDollars": -5752.83,
+   "upPct": -57.5,
+   "realised": -5752.83,
+   "trades": 169,
+   "winPct": 15,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -827,11 +1993,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 2817.24,
-   "upDollars": -7182.76,
+   "equity": 2819.83,
+   "upDollars": -7180.17,
    "upPct": -71.8,
-   "realised": -7182.76,
-   "trades": 237,
+   "realised": -7180.17,
+   "trades": 238,
    "winPct": 13,
    "open": 0,
    "positions": [],
