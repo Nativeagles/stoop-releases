@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-19",
- "asOfAt": 1795080023685,
+ "asOfAt": 1795080926607,
  "sessionStatus": "in-progress",
- "publishedAt": 1795080023685,
+ "publishedAt": 1795080926607,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -560,14 +560,21 @@
    "kind": "official",
    "startedOn": "2026-11-12",
    "startingCash": 10000,
-   "equity": 9279.59,
-   "upDollars": -720.41,
+   "equity": 9275.27,
+   "upDollars": -724.73,
    "upPct": -7.2,
    "realised": -720.41,
    "trades": 16,
    "winPct": 38,
-   "open": 0,
-   "positions": [],
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GNLN",
+     "shares": 1137,
+     "entryPrice": 0.81,
+     "lastPrice": 0.8062
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -576,11 +583,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9271.29,
-   "upDollars": -728.71,
-   "upPct": -7.3,
-   "realised": -726.64,
-   "trades": 614,
+   "equity": 9262.85,
+   "upDollars": -737.15,
+   "upPct": -7.4,
+   "realised": -729.49,
+   "trades": 615,
    "winPct": 43,
    "open": 10,
    "positions": [
@@ -588,43 +595,43 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.2755
+     "lastPrice": 141.11
     },
     {
      "symbol": "NOW",
      "shares": 10,
      "entryPrice": 90.65,
-     "lastPrice": 91.9997
+     "lastPrice": 91.8
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 98.11,
-     "lastPrice": 97.36
+     "lastPrice": 97.52
     },
     {
      "symbol": "UBER",
      "shares": 12,
      "entryPrice": 68.96,
-     "lastPrice": 69.2747
+     "lastPrice": 69.21
     },
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 45.98
+     "lastPrice": 45.94
     },
     {
      "symbol": "WFC",
      "shares": 10,
      "entryPrice": 81.21,
-     "lastPrice": 81.06
+     "lastPrice": 81.103
     },
     {
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 97.18,
-     "lastPrice": 98.69
+     "lastPrice": 98.5
     },
     {
      "symbol": "T",
@@ -636,13 +643,13 @@
      "symbol": "BAC",
      "shares": 17,
      "entryPrice": 49.02,
-     "lastPrice": 49.28
+     "lastPrice": 49.18
     },
     {
-     "symbol": "INTC",
-     "shares": 15,
-     "entryPrice": 56.8,
-     "lastPrice": 56.79
+     "symbol": "IREN",
+     "shares": 56,
+     "entryPrice": 15.85,
+     "lastPrice": 15.85
     }
    ],
    "lastTrade": null
@@ -762,13 +769,13 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8436.69,
-   "upDollars": -1563.31,
+   "equity": 8438.23,
+   "upDollars": -1561.77,
    "upPct": -15.6,
    "realised": -1719.65,
    "trades": 46,
    "winPct": 30,
-   "open": 8,
+   "open": 9,
    "positions": [
     {
      "symbol": "LINC",
@@ -780,7 +787,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.86
+     "lastPrice": 15.82
     },
     {
      "symbol": "XCUR",
@@ -792,13 +799,13 @@
      "symbol": "AZTA",
      "shares": 10,
      "entryPrice": 48,
-     "lastPrice": 49.64
+     "lastPrice": 50.09
     },
     {
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 18.45
+     "lastPrice": 18.42
     },
     {
      "symbol": "MNTK",
@@ -817,6 +824,12 @@
      "shares": 11,
      "entryPrice": 80.48,
      "lastPrice": 83.25
+    },
+    {
+     "symbol": "GMM",
+     "shares": 428,
+     "entryPrice": 1.96,
+     "lastPrice": 1.96
     }
    ],
    "lastTrade": null
@@ -921,11 +934,11 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 3080.61,
-   "upDollars": -6919.39,
-   "upPct": -69.2,
-   "realised": -6919.39,
-   "trades": 221,
+   "equity": 3050.77,
+   "upDollars": -6949.23,
+   "upPct": -69.5,
+   "realised": -6949.23,
+   "trades": 222,
    "winPct": 13,
    "open": 0,
    "positions": [],
