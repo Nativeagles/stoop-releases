@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-19",
- "asOfAt": 1795080926607,
+ "asOfAt": 1795081829502,
  "sessionStatus": "in-progress",
- "publishedAt": 1795080926607,
+ "publishedAt": 1795081829502,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -555,37 +555,14 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-takeoff-any-price",
-   "name": "Takeoff - any price",
-   "kind": "official",
-   "startedOn": "2026-11-12",
-   "startingCash": 10000,
-   "equity": 9275.27,
-   "upDollars": -724.73,
-   "upPct": -7.2,
-   "realised": -720.41,
-   "trades": 16,
-   "winPct": 38,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GNLN",
-     "shares": 1137,
-     "entryPrice": 0.81,
-     "lastPrice": 0.8062
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9262.85,
-   "upDollars": -737.15,
-   "upPct": -7.4,
+   "equity": 9276.46,
+   "upDollars": -723.54,
+   "upPct": -7.2,
    "realised": -729.49,
    "trades": 615,
    "winPct": 43,
@@ -595,31 +572,31 @@
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.11
+     "lastPrice": 141.28
     },
     {
      "symbol": "NOW",
      "shares": 10,
      "entryPrice": 90.65,
-     "lastPrice": 91.8
+     "lastPrice": 91.75
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 98.11,
-     "lastPrice": 97.52
+     "lastPrice": 97.6654
     },
     {
      "symbol": "UBER",
      "shares": 12,
      "entryPrice": 68.96,
-     "lastPrice": 69.21
+     "lastPrice": 69.35
     },
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 45.94
+     "lastPrice": 45.88
     },
     {
      "symbol": "WFC",
@@ -631,25 +608,25 @@
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 97.18,
-     "lastPrice": 98.5
+     "lastPrice": 98.6
     },
     {
      "symbol": "T",
      "shares": 42,
      "entryPrice": 21.99,
-     "lastPrice": 21.9
+     "lastPrice": 21.97
     },
     {
      "symbol": "BAC",
      "shares": 17,
      "entryPrice": 49.02,
-     "lastPrice": 49.18
+     "lastPrice": 49.24
     },
     {
      "symbol": "IREN",
      "shares": 56,
      "entryPrice": 15.85,
-     "lastPrice": 15.85
+     "lastPrice": 15.97
     }
    ],
    "lastTrade": null
@@ -748,6 +725,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-takeoff-any-price",
+   "name": "Takeoff - any price",
+   "kind": "official",
+   "startedOn": "2026-11-12",
+   "startingCash": 10000,
+   "equity": 9241.5,
+   "upDollars": -758.5,
+   "upPct": -7.6,
+   "realised": -720.41,
+   "trades": 16,
+   "winPct": 38,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GNLN",
+     "shares": 1137,
+     "entryPrice": 0.81,
+     "lastPrice": 0.7765
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-cookie-monster-full",
    "name": "Cookie Monster (all readings)",
    "kind": "official",
@@ -764,14 +764,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 8426.61,
+   "upDollars": -1573.39,
+   "upPct": -15.7,
+   "trades": 44,
+   "winPct": 52,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-takeoff-loose",
    "name": "Takeoff - looser",
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8438.23,
-   "upDollars": -1561.77,
-   "upPct": -15.6,
+   "equity": 8409.71,
+   "upDollars": -1590.29,
+   "upPct": -15.9,
    "realised": -1719.65,
    "trades": 46,
    "winPct": 30,
@@ -787,7 +802,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 15.82
+     "lastPrice": 15.85
     },
     {
      "symbol": "XCUR",
@@ -817,7 +832,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.8679
+     "lastPrice": 2.93
     },
     {
      "symbol": "ACM",
@@ -829,24 +844,9 @@
      "symbol": "GMM",
      "shares": 428,
      "entryPrice": 1.96,
-     "lastPrice": 1.96
+     "lastPrice": 1.8487
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 8426.61,
-   "upDollars": -1573.39,
-   "upPct": -15.7,
-   "trades": 44,
-   "winPct": 52,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
