@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-19",
- "asOfAt": 1795126978292,
+ "asOfAt": 1795127881798,
  "sessionStatus": "in-progress",
- "publishedAt": 1795126978292,
+ "publishedAt": 1795127881798,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -91,9 +91,9 @@
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 10167.61,
-   "upDollars": 167.61,
-   "upPct": 1.7,
+   "equity": 10211.02,
+   "upDollars": 211.02,
+   "upPct": 2.1,
    "realised": 167.61,
    "trades": 3,
    "winPct": 33,
@@ -103,7 +103,7 @@
      "symbol": "VIVS",
      "shares": 1452,
      "entryPrice": 0.3411,
-     "lastPrice": 0.3411
+     "lastPrice": 0.371
     }
    ],
    "lastTrade": null
@@ -273,37 +273,43 @@
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 10026.65,
-   "upDollars": 26.65,
+   "equity": 10029.24,
+   "upDollars": 29.24,
    "upPct": 0.3,
    "realised": 0,
    "trades": 0,
    "winPct": null,
-   "open": 4,
+   "open": 5,
    "positions": [
     {
      "symbol": "ANT",
      "shares": 10,
      "entryPrice": 96,
-     "lastPrice": 95.723
+     "lastPrice": 96.32
     },
     {
      "symbol": "LVWR",
      "shares": 1608,
      "entryPrice": 0.62,
-     "lastPrice": 0.6449
+     "lastPrice": 0.6643
     },
     {
      "symbol": "INLF",
      "shares": 3791,
      "entryPrice": 0.2615,
-     "lastPrice": 0.2587
+     "lastPrice": 0.2525
     },
     {
      "symbol": "OPEN",
      "shares": 674,
      "entryPrice": 1.48,
-     "lastPrice": 1.48
+     "lastPrice": 1.47
+    },
+    {
+     "symbol": "MEDS",
+     "shares": 447,
+     "entryPrice": 1.12,
+     "lastPrice": 1.1103
     }
    ],
    "lastTrade": null
@@ -314,58 +320,19 @@
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 10017.52,
-   "upDollars": 17.52,
+   "equity": 10019.87,
+   "upDollars": 19.87,
    "upPct": 0.2,
    "realised": 17.52,
    "trades": 3,
    "winPct": 67,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-his-peek-around",
-   "name": "His: Peek around",
-   "kind": "official",
-   "startedOn": "2026-11-19",
-   "startingCash": 10000,
-   "equity": 10012.02,
-   "upDollars": 12.02,
-   "upPct": 0.1,
-   "realised": 0,
-   "trades": 0,
-   "winPct": null,
    "open": 1,
    "positions": [
     {
-     "symbol": "CHSN",
-     "shares": 10020,
-     "entryPrice": 0.0988,
-     "lastPrice": 0.1
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-his-doji-turn",
-   "name": "His: Doji turn",
-   "kind": "official",
-   "startedOn": "2026-11-19",
-   "startingCash": 10000,
-   "equity": 10011.68,
-   "upDollars": 11.68,
-   "upPct": 0.1,
-   "realised": 0,
-   "trades": 0,
-   "winPct": null,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "NCPL",
-     "shares": 292,
-     "entryPrice": 3.41,
-     "lastPrice": 3.45
+     "symbol": "ANT",
+     "shares": 5,
+     "entryPrice": 95.95,
+     "lastPrice": 96.42
     }
    ],
    "lastTrade": null
@@ -431,6 +398,29 @@
    "winPct": null,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-doji-turn",
+   "name": "His: Doji turn",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10002.92,
+   "upDollars": 2.92,
+   "upPct": 0,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "NCPL",
+     "shares": 292,
+     "entryPrice": 3.41,
+     "lastPrice": 3.42
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1490,36 +1480,24 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-his-thirty-break",
-   "name": "His: 30 MA break (5-min)",
+   "styleId": "auto-practice-his-peek-around",
+   "name": "His: Peek around",
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 9985.32,
-   "upDollars": -14.68,
+   "equity": 9992.99,
+   "upDollars": -7.01,
    "upPct": -0.1,
-   "realised": -86.97,
-   "trades": 4,
-   "winPct": 25,
-   "open": 3,
+   "realised": 0,
+   "trades": 0,
+   "winPct": null,
+   "open": 1,
    "positions": [
     {
-     "symbol": "RAYA",
-     "shares": 1906,
-     "entryPrice": 0.5165,
-     "lastPrice": 0.556
-    },
-    {
      "symbol": "CHSN",
-     "shares": 4992,
-     "entryPrice": 0.1006,
-     "lastPrice": 0.1
-    },
-    {
-     "symbol": "ANT",
-     "shares": 5,
-     "entryPrice": 95.82,
-     "lastPrice": 95.82
+     "shares": 10020,
+     "entryPrice": 0.0988,
+     "lastPrice": 0.0981
     }
    ],
    "lastTrade": null
@@ -1530,72 +1508,60 @@
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 9959.85,
-   "upDollars": -40.15,
+   "equity": 9958.86,
+   "upDollars": -41.14,
    "upPct": -0.4,
-   "realised": -91.19,
-   "trades": 7,
-   "winPct": 14,
-   "open": 6,
+   "realised": -107.3,
+   "trades": 10,
+   "winPct": 30,
+   "open": 4,
    "positions": [
-    {
-     "symbol": "RAYA",
-     "shares": 1914,
-     "entryPrice": 0.5165,
-     "lastPrice": 0.556
-    },
     {
      "symbol": "LVWR",
      "shares": 1586,
      "entryPrice": 0.66,
-     "lastPrice": 0.6449
+     "lastPrice": 0.6643
     },
     {
      "symbol": "ANT",
      "shares": 10,
      "entryPrice": 95.19,
-     "lastPrice": 95.723
+     "lastPrice": 96.42
     },
     {
      "symbol": "VIVS",
      "shares": 2848,
      "entryPrice": 0.3411,
-     "lastPrice": 0.3411
-    },
-    {
-     "symbol": "CHSN",
-     "shares": 9909,
-     "entryPrice": 0.1006,
-     "lastPrice": 0.1
+     "lastPrice": 0.3609
     },
     {
      "symbol": "SPRC",
      "shares": 3017,
      "entryPrice": 0.331,
-     "lastPrice": 0.331
+     "lastPrice": 0.3279
     }
    ],
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-his-fifty-cross",
-   "name": "His: 50 cross (5-min)",
+   "styleId": "auto-practice-his-thirty-break",
+   "name": "His: 30 MA break (5-min)",
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 9831.24,
-   "upDollars": -168.76,
-   "upPct": -1.7,
-   "realised": -162.89,
-   "trades": 1,
-   "winPct": 0,
+   "equity": 9904.78,
+   "upDollars": -95.22,
+   "upPct": -1,
+   "realised": -97.72,
+   "trades": 6,
+   "winPct": 33,
    "open": 1,
    "positions": [
     {
-     "symbol": "CHSN",
-     "shares": 9778,
-     "entryPrice": 0.1006,
-     "lastPrice": 0.1
+     "symbol": "ANT",
+     "shares": 5,
+     "entryPrice": 95.82,
+     "lastPrice": 96.32
     }
    ],
    "lastTrade": null
@@ -1657,6 +1623,22 @@
      "lastPrice": 17.134999999999998
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-fifty-cross",
+   "name": "His: 50 cross (5-min)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 9797.02,
+   "upDollars": -202.98,
+   "upPct": -2,
+   "realised": -202.98,
+   "trades": 2,
+   "winPct": 0,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1864,11 +1846,11 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9014.66,
-   "upDollars": -985.34,
-   "upPct": -9.9,
-   "realised": -976.26,
-   "trades": 657,
+   "equity": 9019.9,
+   "upDollars": -980.1,
+   "upPct": -9.8,
+   "realised": -975.16,
+   "trades": 658,
    "winPct": 42,
    "open": 10,
    "positions": [
@@ -1876,61 +1858,61 @@
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 45.67
+     "lastPrice": 45.68
     },
     {
      "symbol": "NEE",
      "shares": 10,
      "entryPrice": 83.87,
-     "lastPrice": 83.62
+     "lastPrice": 83.6
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 126.15,
-     "lastPrice": 126.0755
+     "lastPrice": 126.18
     },
     {
      "symbol": "ORCL",
      "shares": 4,
      "entryPrice": 110.27,
-     "lastPrice": 110.25
+     "lastPrice": 110.4363
     },
     {
      "symbol": "NFLX",
      "shares": 8,
      "entryPrice": 58.355000000000004,
-     "lastPrice": 58.3963
-    },
-    {
-     "symbol": "MSTR",
-     "shares": 10,
-     "entryPrice": 85.9,
-     "lastPrice": 85.99
+     "lastPrice": 58.36
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 96.0051,
-     "lastPrice": 96.17
+     "lastPrice": 96.14
     },
     {
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 48.535000000000004,
-     "lastPrice": 48.46
+     "lastPrice": 48.5
     },
     {
      "symbol": "IREN",
      "shares": 62,
      "entryPrice": 14.4,
-     "lastPrice": 14.45
+     "lastPrice": 14.5
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 27.48,
-     "lastPrice": 27.48
+     "lastPrice": 27.46
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 6,
+     "entryPrice": 137.64,
+     "lastPrice": 137.8
     }
    ],
    "lastTrade": null
@@ -1988,8 +1970,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8074.17,
-   "upDollars": -1925.83,
+   "equity": 8067.8,
+   "upDollars": -1932.2,
    "upPct": -19.3,
    "realised": -1991.74,
    "trades": 49,
@@ -2006,7 +1988,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.49
+     "lastPrice": 14.47
     },
     {
      "symbol": "XCUR",
@@ -2036,7 +2018,7 @@
      "symbol": "ACM",
      "shares": 11,
      "entryPrice": 80.48,
-     "lastPrice": 80.31
+     "lastPrice": 80.25
     },
     {
      "symbol": "TROO",
@@ -2048,30 +2030,7 @@
      "symbol": "PYXS",
      "shares": 501,
      "entryPrice": 1.63,
-     "lastPrice": 1.69
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-six-degrees-near-line",
-   "name": "Six Degrees (near its line)",
-   "kind": "official",
-   "startedOn": "2026-11-09",
-   "startingCash": 10000,
-   "equity": 7571.03,
-   "upDollars": -2428.97,
-   "upPct": -24.3,
-   "realised": -2428.97,
-   "trades": 83,
-   "winPct": 19,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SPRC",
-     "shares": 2287,
-     "entryPrice": 0.331,
-     "lastPrice": 0.331
+     "lastPrice": 1.68
     }
    ],
    "lastTrade": null
@@ -2087,6 +2046,22 @@
    "upPct": -24.7,
    "trades": 16,
    "winPct": 25,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-six-degrees-near-line",
+   "name": "Six Degrees (near its line)",
+   "kind": "official",
+   "startedOn": "2026-11-09",
+   "startingCash": 10000,
+   "equity": 7504.25,
+   "upDollars": -2495.75,
+   "upPct": -25,
+   "realised": -2495.75,
+   "trades": 84,
+   "winPct": 19,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -2129,8 +2104,8 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 4229.45,
-   "upDollars": -5770.55,
+   "equity": 4229.32,
+   "upDollars": -5770.68,
    "upPct": -57.7,
    "realised": -5770.55,
    "trades": 170,
@@ -2141,7 +2116,7 @@
      "symbol": "SPRC",
      "shares": 1277,
      "entryPrice": 0.331,
-     "lastPrice": 0.331
+     "lastPrice": 0.3309
     }
    ],
    "lastTrade": null
@@ -2152,21 +2127,14 @@
    "kind": "official",
    "startedOn": "2026-11-09",
    "startingCash": 10000,
-   "equity": 2745.66,
-   "upDollars": -7254.34,
-   "upPct": -72.5,
-   "realised": -7254.34,
-   "trades": 243,
+   "equity": 2721.45,
+   "upDollars": -7278.55,
+   "upPct": -72.8,
+   "realised": -7278.55,
+   "trades": 244,
    "winPct": 13,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "SPRC",
-     "shares": 829,
-     "entryPrice": 0.331,
-     "lastPrice": 0.331
-    }
-   ],
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   }
  ]
