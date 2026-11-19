@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-19",
- "asOfAt": 1795083635723,
+ "asOfAt": 1795084538650,
  "sessionStatus": "in-progress",
- "publishedAt": 1795083635723,
+ "publishedAt": 1795084538650,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -653,43 +653,43 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9230.67,
-   "upDollars": -769.33,
-   "upPct": -7.7,
-   "realised": -723.94,
-   "trades": 617,
+   "equity": 9243.81,
+   "upDollars": -756.19,
+   "upPct": -7.6,
+   "realised": -751.84,
+   "trades": 618,
    "winPct": 43,
-   "open": 10,
+   "open": 9,
    "positions": [
     {
      "symbol": "PEP",
      "shares": 4,
      "entryPrice": 146.43,
-     "lastPrice": 141.14
+     "lastPrice": 141.13
     },
     {
      "symbol": "NOW",
      "shares": 10,
      "entryPrice": 90.65,
-     "lastPrice": 91.5
+     "lastPrice": 91.47
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 98.11,
-     "lastPrice": 97.4474
+     "lastPrice": 97.4
     },
     {
      "symbol": "UBER",
      "shares": 12,
      "entryPrice": 68.96,
-     "lastPrice": 69.26
+     "lastPrice": 69.2603
     },
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 45.91
+     "lastPrice": 45.98
     },
     {
      "symbol": "WFC",
@@ -701,25 +701,19 @@
      "symbol": "CSCO",
      "shares": 9,
      "entryPrice": 97.18,
-     "lastPrice": 98.85
+     "lastPrice": 99.16
     },
     {
      "symbol": "T",
      "shares": 42,
      "entryPrice": 21.99,
-     "lastPrice": 21.88
+     "lastPrice": 21.86
     },
     {
      "symbol": "BAC",
      "shares": 17,
      "entryPrice": 49.02,
-     "lastPrice": 49.2988
-    },
-    {
-     "symbol": "BABA",
-     "shares": 10,
-     "entryPrice": 86.79,
-     "lastPrice": 82.89
+     "lastPrice": 49.2712
     }
    ],
    "lastTrade": null
@@ -730,21 +724,14 @@
    "kind": "official",
    "startedOn": "2026-11-12",
    "startingCash": 10000,
-   "equity": 9075.28,
-   "upDollars": -924.72,
-   "upPct": -9.2,
-   "realised": -842.75,
-   "trades": 17,
-   "winPct": 35,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "GMEX",
-     "shares": 2594,
-     "entryPrice": 0.35,
-     "lastPrice": 0.3184
-    }
-   ],
+   "equity": 8876.64,
+   "upDollars": -1123.36,
+   "upPct": -11.2,
+   "realised": -1123.36,
+   "trades": 19,
+   "winPct": 32,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -769,9 +756,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8459.76,
-   "upDollars": -1540.24,
-   "upPct": -15.4,
+   "equity": 8488.69,
+   "upDollars": -1511.31,
+   "upPct": -15.1,
    "realised": -1719.65,
    "trades": 46,
    "winPct": 30,
@@ -817,7 +804,7 @@
      "symbol": "SPAI",
      "shares": 291,
      "entryPrice": 3.11,
-     "lastPrice": 2.87
+     "lastPrice": 2.9144
     },
     {
      "symbol": "ACM",
@@ -829,7 +816,7 @@
      "symbol": "GMM",
      "shares": 428,
      "entryPrice": 1.96,
-     "lastPrice": 2.0113
+     "lastPrice": 2.0487
     }
    ],
    "lastTrade": null
