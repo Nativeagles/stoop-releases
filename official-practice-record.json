@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-20",
- "asOfAt": 1795167518719,
+ "asOfAt": 1795168421838,
  "sessionStatus": "in-progress",
- "publishedAt": 1795167518719,
+ "publishedAt": 1795168421838,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -86,29 +86,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-his-peek-around-green",
-   "name": "His: Peek around (big green)",
-   "kind": "official",
-   "startedOn": "2026-11-19",
-   "startingCash": 10000,
-   "equity": 10132.54,
-   "upDollars": 132.54,
-   "upPct": 1.3,
-   "realised": 114.09,
-   "trades": 7,
-   "winPct": 43,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "RAYA",
-     "shares": 561,
-     "entryPrice": 0.9022,
-     "lastPrice": 0.9351
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-takeoff",
    "name": "Takeoff",
    "kind": "official",
@@ -133,6 +110,29 @@
      "shares": 11,
      "entryPrice": 45.4,
      "lastPrice": 46.24
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-peek-around-green",
+   "name": "His: Peek around (big green)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10120.14,
+   "upDollars": 120.14,
+   "upPct": 1.2,
+   "realised": 114.09,
+   "trades": 7,
+   "winPct": 43,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "RAYA",
+     "shares": 561,
+     "entryPrice": 0.9022,
+     "lastPrice": 0.913
     }
    ],
    "lastTrade": null
@@ -1392,8 +1392,8 @@
    "kind": "official",
    "startedOn": "2026-11-20",
    "startingCash": 10000,
-   "equity": 9912.21,
-   "upDollars": -87.79,
+   "equity": 9907.24,
+   "upDollars": -92.76,
    "upPct": -0.9,
    "realised": -99.9,
    "trades": 1,
@@ -1404,30 +1404,7 @@
      "symbol": "VIVS",
      "shares": 3106,
      "entryPrice": 0.3186,
-     "lastPrice": 0.3225
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "auto-practice-his-full-bar-9",
-   "name": "His: Full bar over the 9 (5-min)",
-   "kind": "official",
-   "startedOn": "2026-11-19",
-   "startingCash": 10000,
-   "equity": 9857.67,
-   "upDollars": -142.33,
-   "upPct": -1.4,
-   "realised": -137.59,
-   "trades": 22,
-   "winPct": 41,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "CHSN",
-     "shares": 7889,
-     "entryPrice": 0.1256,
-     "lastPrice": 0.125
+     "lastPrice": 0.3209
     }
    ],
    "lastTrade": null
@@ -1583,6 +1560,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-his-full-bar-9",
+   "name": "His: Full bar over the 9 (5-min)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 9741.53,
+   "upDollars": -258.47,
+   "upPct": -2.6,
+   "realised": -309.57,
+   "trades": 23,
+   "winPct": 39,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "GDHG",
+     "shares": 5807,
+     "entryPrice": 0.1622,
+     "lastPrice": 0.171
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -1664,59 +1664,24 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-his-fifty-cross",
-   "name": "His: 50 cross (5-min)",
-   "kind": "official",
-   "startedOn": "2026-11-19",
-   "startingCash": 10000,
-   "equity": 9468.7,
-   "upDollars": -531.3,
-   "upPct": -5.3,
-   "realised": -505.24,
-   "trades": 7,
-   "winPct": 14,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "TRUG",
-     "shares": 3061,
-     "entryPrice": 0.309,
-     "lastPrice": 0.31
-    },
-    {
-     "symbol": "CYAB",
-     "shares": 11651,
-     "entryPrice": 0.0827,
-     "lastPrice": 0.0802
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-his-thirty-break",
    "name": "His: 30 MA break (5-min)",
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 9451.26,
-   "upDollars": -548.74,
-   "upPct": -5.5,
-   "realised": -551.79,
-   "trades": 17,
-   "winPct": 24,
-   "open": 2,
+   "equity": 9327.67,
+   "upDollars": -672.33,
+   "upPct": -6.7,
+   "realised": -685.12,
+   "trades": 18,
+   "winPct": 22,
+   "open": 1,
    "positions": [
     {
      "symbol": "TRUG",
      "shares": 3046,
      "entryPrice": 0.309,
-     "lastPrice": 0.31
-    },
-    {
-     "symbol": "CYAB",
-     "shares": 11594,
-     "entryPrice": 0.0802,
-     "lastPrice": 0.0802
+     "lastPrice": 0.3132
     }
    ],
    "lastTrade": null
@@ -1735,6 +1700,29 @@
    "winPct": 27,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-fifty-cross",
+   "name": "His: 50 cross (5-min)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 9297.44,
+   "upDollars": -702.56,
+   "upPct": -7,
+   "realised": -715.42,
+   "trades": 9,
+   "winPct": 11,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "TRUG",
+     "shares": 3061,
+     "entryPrice": 0.309,
+     "lastPrice": 0.3132
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1802,67 +1790,67 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9015.38,
-   "upDollars": -984.62,
-   "upPct": -9.8,
-   "realised": -1018.54,
-   "trades": 667,
-   "winPct": 42,
+   "equity": 9000.51,
+   "upDollars": -999.49,
+   "upPct": -10,
+   "realised": -1021.27,
+   "trades": 668,
+   "winPct": 41,
    "open": 9,
    "positions": [
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 46
+     "lastPrice": 46.02
     },
     {
      "symbol": "NEE",
      "shares": 10,
      "entryPrice": 83.87,
-     "lastPrice": 84.38
+     "lastPrice": 83.94
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 126.15,
-     "lastPrice": 128.32
+     "lastPrice": 128.49
     },
     {
      "symbol": "ORCL",
      "shares": 4,
      "entryPrice": 110.27,
-     "lastPrice": 107.3
+     "lastPrice": 107.35
     },
     {
      "symbol": "NFLX",
      "shares": 8,
      "entryPrice": 58.355000000000004,
-     "lastPrice": 58.52
+     "lastPrice": 58.59
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 96.0051,
-     "lastPrice": 97.37
+     "lastPrice": 97.34
     },
     {
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 48.535000000000004,
-     "lastPrice": 48.8187
+     "lastPrice": 48.61
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 27.48,
-     "lastPrice": 27.7803
+     "lastPrice": 27.71
     },
     {
-     "symbol": "CRWV",
-     "shares": 21,
-     "entryPrice": 42.83,
-     "lastPrice": 42.8948
+     "symbol": "NBIS",
+     "shares": 9,
+     "entryPrice": 91.99,
+     "lastPrice": 91.72
     }
    ],
    "lastTrade": null
@@ -1873,12 +1861,12 @@
    "kind": "official",
    "startedOn": "2026-11-12",
    "startingCash": 10000,
-   "equity": 8876.64,
-   "upDollars": -1123.36,
-   "upPct": -11.2,
-   "realised": -1123.36,
-   "trades": 19,
-   "winPct": 32,
+   "equity": 8777.88,
+   "upDollars": -1222.12,
+   "upPct": -12.2,
+   "realised": -1222.12,
+   "trades": 20,
+   "winPct": 30,
    "open": 0,
    "positions": [],
    "lastTrade": null
@@ -1920,8 +1908,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8038.88,
-   "upDollars": -1961.12,
+   "equity": 8038.15,
+   "upDollars": -1961.85,
    "upPct": -19.6,
    "realised": -1991.74,
    "trades": 49,
@@ -1938,7 +1926,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.4107
+     "lastPrice": 14.39
     },
     {
      "symbol": "XCUR",
