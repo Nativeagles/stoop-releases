@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-20",
- "asOfAt": 1795169324870,
+ "asOfAt": 1795170227689,
  "sessionStatus": "in-progress",
- "publishedAt": 1795169324870,
+ "publishedAt": 1795170227689,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -86,29 +86,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-his-peek-around-green",
-   "name": "His: Peek around (big green)",
-   "kind": "official",
-   "startedOn": "2026-11-19",
-   "startingCash": 10000,
-   "equity": 10141.18,
-   "upDollars": 141.18,
-   "upPct": 1.4,
-   "realised": 114.09,
-   "trades": 7,
-   "winPct": 43,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "RAYA",
-     "shares": 561,
-     "entryPrice": 0.9022,
-     "lastPrice": 0.9505
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-takeoff",
    "name": "Takeoff",
    "kind": "official",
@@ -135,6 +112,22 @@
      "lastPrice": 46.24
     }
    ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-peek-around-green",
+   "name": "His: Peek around (big green)",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 10124.07,
+   "upDollars": 124.07,
+   "upPct": 1.2,
+   "realised": 124.07,
+   "trades": 8,
+   "winPct": 50,
+   "open": 0,
+   "positions": [],
    "lastTrade": null
   },
   {
@@ -1392,9 +1385,9 @@
    "kind": "official",
    "startedOn": "2026-11-20",
    "startingCash": 10000,
-   "equity": 9935.82,
-   "upDollars": -64.18,
-   "upPct": -0.6,
+   "equity": 9951.04,
+   "upDollars": -48.96,
+   "upPct": -0.5,
    "realised": -99.9,
    "trades": 1,
    "winPct": 0,
@@ -1404,7 +1397,7 @@
      "symbol": "VIVS",
      "shares": 3106,
      "entryPrice": 0.3186,
-     "lastPrice": 0.3301
+     "lastPrice": 0.335
     }
    ],
    "lastTrade": null
@@ -1544,6 +1537,29 @@
    "lastTrade": null
   },
   {
+   "styleId": "auto-practice-his-stall-bottom",
+   "name": "His: Stall at the bottom",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 9724.38,
+   "upDollars": -275.62,
+   "upPct": -2.8,
+   "realised": -350.4,
+   "trades": 8,
+   "winPct": 25,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "MEDS",
+     "shares": 937,
+     "entryPrice": 1.03,
+     "lastPrice": 1.1098
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-deal-day-pivot-daily",
    "name": "Deal Day Pivot (daily)",
    "kind": "official",
@@ -1609,42 +1625,32 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-his-stall-bottom",
-   "name": "His: Stall at the bottom",
-   "kind": "official",
-   "startedOn": "2026-11-19",
-   "startingCash": 10000,
-   "equity": 9677.71,
-   "upDollars": -322.29,
-   "upPct": -3.2,
-   "realised": -350.4,
-   "trades": 8,
-   "winPct": 25,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "MEDS",
-     "shares": 937,
-     "entryPrice": 1.03,
-     "lastPrice": 1.06
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-his-full-bar-9",
    "name": "His: Full bar over the 9 (5-min)",
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 9497.63,
-   "upDollars": -502.37,
-   "upPct": -5,
+   "equity": 9534.63,
+   "upDollars": -465.37,
+   "upPct": -4.7,
    "realised": -502.37,
    "trades": 24,
    "winPct": 38,
-   "open": 0,
-   "positions": [],
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "MEDS",
+     "shares": 879,
+     "entryPrice": 1.08,
+     "lastPrice": 1.1298
+    },
+    {
+     "symbol": "VIVS",
+     "shares": 2823,
+     "entryPrice": 0.3374,
+     "lastPrice": 0.335
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1685,14 +1691,21 @@
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 9301.78,
-   "upDollars": -698.22,
-   "upPct": -7,
-   "realised": -698.22,
-   "trades": 19,
-   "winPct": 21,
-   "open": 0,
-   "positions": [],
+   "equity": 9226.83,
+   "upDollars": -773.17,
+   "upPct": -7.7,
+   "realised": -789.27,
+   "trades": 21,
+   "winPct": 19,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "MEDS",
+     "shares": 813,
+     "entryPrice": 1.11,
+     "lastPrice": 1.1298
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -1701,25 +1714,25 @@
    "kind": "official",
    "startedOn": "2026-11-19",
    "startingCash": 10000,
-   "equity": 9275.66,
-   "upDollars": -724.34,
-   "upPct": -7.2,
-   "realised": -715.42,
-   "trades": 9,
-   "winPct": 11,
+   "equity": 9214.83,
+   "upDollars": -785.17,
+   "upPct": -7.9,
+   "realised": -788.59,
+   "trades": 11,
+   "winPct": 18,
    "open": 2,
    "positions": [
     {
-     "symbol": "TRUG",
-     "shares": 3061,
-     "entryPrice": 0.309,
-     "lastPrice": 0.307
+     "symbol": "MEDS",
+     "shares": 859,
+     "entryPrice": 1.08,
+     "lastPrice": 1.1098
     },
     {
      "symbol": "VIVS",
-     "shares": 2794,
-     "entryPrice": 0.3321,
-     "lastPrice": 0.3311
+     "shares": 2672,
+     "entryPrice": 0.3433,
+     "lastPrice": 0.335
     }
    ],
    "lastTrade": null
@@ -1789,67 +1802,73 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 9010.02,
-   "upDollars": -989.98,
+   "equity": 9010.4,
+   "upDollars": -989.6,
    "upPct": -9.9,
-   "realised": -1027.03,
-   "trades": 669,
+   "realised": -1023.78,
+   "trades": 670,
    "winPct": 41,
-   "open": 9,
+   "open": 10,
    "positions": [
     {
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 46.12
+     "lastPrice": 46.09
     },
     {
      "symbol": "NEE",
      "shares": 10,
      "entryPrice": 83.87,
-     "lastPrice": 84.33
+     "lastPrice": 84.32
     },
     {
      "symbol": "WMT",
      "shares": 7,
      "entryPrice": 126.15,
-     "lastPrice": 128.6
+     "lastPrice": 128.5
     },
     {
      "symbol": "ORCL",
      "shares": 4,
      "entryPrice": 110.27,
-     "lastPrice": 107.44
+     "lastPrice": 107.4
     },
     {
      "symbol": "NFLX",
      "shares": 8,
      "entryPrice": 58.355000000000004,
-     "lastPrice": 58.66
+     "lastPrice": 58.69
     },
     {
      "symbol": "KO",
      "shares": 9,
      "entryPrice": 96.0051,
-     "lastPrice": 97.46
+     "lastPrice": 97.33
     },
     {
      "symbol": "BAC",
      "shares": 18,
      "entryPrice": 48.535000000000004,
-     "lastPrice": 48.6
+     "lastPrice": 48.75
     },
     {
      "symbol": "PFE",
      "shares": 32,
      "entryPrice": 27.48,
-     "lastPrice": 27.77
+     "lastPrice": 27.75
     },
     {
-     "symbol": "IREN",
-     "shares": 65,
-     "entryPrice": 13.82,
-     "lastPrice": 13.859
+     "symbol": "NVDA",
+     "shares": 6,
+     "entryPrice": 141.99,
+     "lastPrice": 142.03
+    },
+    {
+     "symbol": "SPCX",
+     "shares": 6,
+     "entryPrice": 133.37,
+     "lastPrice": 133.34
     }
    ],
    "lastTrade": null
@@ -1907,9 +1926,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 8036.45,
-   "upDollars": -1963.55,
-   "upPct": -19.6,
+   "equity": 8009.53,
+   "upDollars": -1990.47,
+   "upPct": -19.9,
    "realised": -1991.74,
    "trades": 49,
    "winPct": 29,
@@ -1925,7 +1944,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 14.3015
+     "lastPrice": 14.37
     },
     {
      "symbol": "XCUR",
@@ -1943,7 +1962,7 @@
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 17.9785
+     "lastPrice": 17.3
     },
     {
      "symbol": "MNTK",
@@ -1967,7 +1986,7 @@
      "symbol": "PYXS",
      "shares": 501,
      "entryPrice": 1.63,
-     "lastPrice": 1.7
+     "lastPrice": 1.7119
     }
    ],
    "lastTrade": null
