@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-20",
- "asOfAt": 1795219954445,
+ "asOfAt": 1795220857355,
  "sessionStatus": "in-progress",
- "publishedAt": 1795219954445,
+ "publishedAt": 1795220857355,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -2070,48 +2070,13 @@
    "lastTrade": null
   },
   {
-   "styleId": "auto-practice-his-doji-turn",
-   "name": "His: Doji turn",
-   "kind": "official",
-   "startedOn": "2026-11-19",
-   "startingCash": 10000,
-   "equity": 8826.04,
-   "upDollars": -1173.96,
-   "upPct": -11.7,
-   "realised": -1121.59,
-   "trades": 17,
-   "winPct": 24,
-   "open": 3,
-   "positions": [
-    {
-     "symbol": "AKAN",
-     "shares": 233,
-     "entryPrice": 4.1,
-     "lastPrice": 4
-    },
-    {
-     "symbol": "SVIA",
-     "shares": 432,
-     "entryPrice": 2.16,
-     "lastPrice": 2.14
-    },
-    {
-     "symbol": "VWAV",
-     "shares": 6589,
-     "entryPrice": 0.1385,
-     "lastPrice": 0.1354
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-cookie-monster-liquid",
    "name": "Cookie Monster (liquid list)",
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8801.14,
-   "upDollars": -1198.86,
+   "equity": 8799.14,
+   "upDollars": -1200.86,
    "upPct": -12,
    "realised": -1156.94,
    "trades": 723,
@@ -2122,19 +2087,19 @@
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 46.43
+     "lastPrice": 46.4782
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 140.46,
-     "lastPrice": 140.52
+     "lastPrice": 140.44
     },
     {
      "symbol": "CVS",
      "shares": 10,
      "entryPrice": 80.89,
-     "lastPrice": 79.625
+     "lastPrice": 80.29
     },
     {
      "symbol": "COP",
@@ -2146,31 +2111,66 @@
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 88.96,
-     "lastPrice": 88.8104
+     "lastPrice": 88.75
     },
     {
      "symbol": "WMT",
      "shares": 6,
      "entryPrice": 128.19,
-     "lastPrice": 128
+     "lastPrice": 128.0031
     },
     {
      "symbol": "ORCL",
      "shares": 8,
      "entryPrice": 103.9,
-     "lastPrice": 102.8
+     "lastPrice": 102.6
     },
     {
      "symbol": "SOXX",
      "shares": 6,
      "entryPrice": 127.69,
-     "lastPrice": 126.9
+     "lastPrice": 126.39
     },
     {
      "symbol": "NVDA",
      "shares": 6,
      "entryPrice": 129.78,
-     "lastPrice": 129.7876
+     "lastPrice": 129.1376
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "auto-practice-his-doji-turn",
+   "name": "His: Doji turn",
+   "kind": "official",
+   "startedOn": "2026-11-19",
+   "startingCash": 10000,
+   "equity": 8795.89,
+   "upDollars": -1204.11,
+   "upPct": -12,
+   "realised": -1121.59,
+   "trades": 17,
+   "winPct": 24,
+   "open": 3,
+   "positions": [
+    {
+     "symbol": "AKAN",
+     "shares": 233,
+     "entryPrice": 4.1,
+     "lastPrice": 3.93
+    },
+    {
+     "symbol": "SVIA",
+     "shares": 432,
+     "entryPrice": 2.16,
+     "lastPrice": 2.14
+    },
+    {
+     "symbol": "VWAV",
+     "shares": 6589,
+     "entryPrice": 0.1385,
+     "lastPrice": 0.1333
     }
    ],
    "lastTrade": null
@@ -2181,9 +2181,9 @@
    "kind": "official",
    "startedOn": "2026-11-20",
    "startingCash": 10000,
-   "equity": 8798.49,
-   "upDollars": -1201.51,
-   "upPct": -12,
+   "equity": 8789.66,
+   "upDollars": -1210.34,
+   "upPct": -12.1,
    "realised": -1115.3,
    "trades": 10,
    "winPct": 20,
@@ -2211,7 +2211,7 @@
      "symbol": "LVWR",
      "shares": 883,
      "entryPrice": 0.982,
-     "lastPrice": 0.9
+     "lastPrice": 0.89
     }
    ],
    "lastTrade": null
@@ -2222,9 +2222,9 @@
    "kind": "official",
    "startedOn": "2026-11-20",
    "startingCash": 10000,
-   "equity": 8719.01,
-   "upDollars": -1280.99,
-   "upPct": -12.8,
+   "equity": 8709.96,
+   "upDollars": -1290.04,
+   "upPct": -12.9,
    "realised": -1098.4,
    "trades": 13,
    "winPct": 23,
@@ -2246,7 +2246,7 @@
      "symbol": "LVWR",
      "shares": 905,
      "entryPrice": 0.9734,
-     "lastPrice": 0.9
+     "lastPrice": 0.89
     }
    ],
    "lastTrade": null
@@ -2341,8 +2341,8 @@
    "kind": "official",
    "startedOn": "2026-11-20",
    "startingCash": 10000,
-   "equity": 8496.17,
-   "upDollars": -1503.83,
+   "equity": 8496.02,
+   "upDollars": -1503.98,
    "upPct": -15,
    "realised": -1433.85,
    "trades": 13,
@@ -2353,7 +2353,7 @@
      "symbol": "FLNA",
      "shares": 1463,
      "entryPrice": 0.6499,
-     "lastPrice": 0.6311
+     "lastPrice": 0.631
     },
     {
      "symbol": "EVH",
@@ -2450,8 +2450,8 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 7870.43,
-   "upDollars": -2129.57,
+   "equity": 7872.18,
+   "upDollars": -2127.82,
    "upPct": -21.3,
    "realised": -1994.08,
    "trades": 51,
@@ -2468,7 +2468,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 13.5
+     "lastPrice": 13.55
     },
     {
      "symbol": "AZTA",
