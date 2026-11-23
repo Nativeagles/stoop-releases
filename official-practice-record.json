@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "asOfSession": "2026-11-20",
- "asOfAt": 1795222663150,
+ "asOfSession": "2026-11-23",
+ "asOfAt": 1795453210534,
  "sessionStatus": "in-progress",
- "publishedAt": 1795222663150,
+ "publishedAt": 1795453210534,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -2075,8 +2075,8 @@
    "kind": "official",
    "startedOn": "2026-10-15",
    "startingCash": 10000,
-   "equity": 8822.29,
-   "upDollars": -1177.71,
+   "equity": 8824.76,
+   "upDollars": -1175.24,
    "upPct": -11.8,
    "realised": -1163.78,
    "trades": 724,
@@ -2087,13 +2087,13 @@
      "symbol": "VZ",
      "shares": 19,
      "entryPrice": 46.22,
-     "lastPrice": 46.4
+     "lastPrice": 46.48
     },
     {
      "symbol": "PEP",
      "shares": 6,
      "entryPrice": 140.46,
-     "lastPrice": 140.05
+     "lastPrice": 140.2
     },
     {
      "symbol": "CVS",
@@ -2105,31 +2105,31 @@
      "symbol": "COP",
      "shares": 6,
      "entryPrice": 135.94,
-     "lastPrice": 136.13
+     "lastPrice": 136.17
     },
     {
      "symbol": "NOW",
      "shares": 9,
      "entryPrice": 88.96,
-     "lastPrice": 88.6507
+     "lastPrice": 88.8
     },
     {
      "symbol": "WMT",
      "shares": 6,
      "entryPrice": 128.19,
-     "lastPrice": 128.2
+     "lastPrice": 128.1268
     },
     {
      "symbol": "ORCL",
      "shares": 8,
      "entryPrice": 103.9,
-     "lastPrice": 103.2166
+     "lastPrice": 103.2338
     },
     {
      "symbol": "NVDA",
      "shares": 6,
      "entryPrice": 129.78,
-     "lastPrice": 130.0899
+     "lastPrice": 129.885
     }
    ],
    "lastTrade": null
@@ -2368,9 +2368,9 @@
    "kind": "official",
    "startedOn": "2026-11-06",
    "startingCash": 10000,
-   "equity": 7836.77,
-   "upDollars": -2163.23,
-   "upPct": -21.6,
+   "equity": 7849.45,
+   "upDollars": -2150.55,
+   "upPct": -21.5,
    "realised": -1994.08,
    "trades": 51,
    "winPct": 29,
@@ -2386,7 +2386,7 @@
      "symbol": "TTD",
      "shares": 35,
      "entryPrice": 14.53,
-     "lastPrice": 13.56
+     "lastPrice": 13.5471
     },
     {
      "symbol": "AZTA",
@@ -2398,7 +2398,7 @@
      "symbol": "HAWK",
      "shares": 52,
      "entryPrice": 17.62,
-     "lastPrice": 16.2
+     "lastPrice": 16.4963
     },
     {
      "symbol": "MNTK",
@@ -2422,7 +2422,7 @@
      "symbol": "GAP",
      "shares": 38,
      "entryPrice": 20.86,
-     "lastPrice": 21.06
+     "lastPrice": 21
     }
    ],
    "lastTrade": null
