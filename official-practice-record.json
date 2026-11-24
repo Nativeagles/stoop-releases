@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "asOfSession": "2026-11-23",
- "asOfAt": 1795453210534,
+ "asOfSession": "2026-11-24",
+ "asOfAt": 1795521823817,
  "sessionStatus": "in-progress",
- "publishedAt": 1795453210534,
+ "publishedAt": 1795521823817,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -2054,6 +2054,21 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 8847.66,
+   "upDollars": -1152.34,
+   "upPct": -11.5,
+   "trades": 51,
+   "winPct": 57,
+   "open": 0,
+   "positions": [],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-takeoff-any-price",
    "name": "Takeoff - any price",
    "kind": "official",
@@ -2178,21 +2193,6 @@
    "realised": -1343.72,
    "trades": 33,
    "winPct": 39,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 8635.7,
-   "upDollars": -1364.3,
-   "upPct": -13.6,
-   "trades": 48,
-   "winPct": 54,
    "open": 0,
    "positions": [],
    "lastTrade": null
