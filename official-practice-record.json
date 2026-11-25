@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-25",
- "asOfAt": 1795616290978,
+ "asOfAt": 1795628576053,
  "sessionStatus": "in-progress",
- "publishedAt": 1795616290978,
+ "publishedAt": 1795628576053,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -144,6 +144,28 @@
      "shares": 36,
      "entryPrice": 14.05,
      "lastPrice": 13.765
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "short-lane-spike80",
+   "name": "PRETEND - Short the +80% spiker",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 10084.73,
+   "upDollars": 84.73,
+   "upPct": 0.8,
+   "trades": 18,
+   "winPct": 61,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "BGLC (short)",
+     "shares": -856,
+     "entryPrice": 1.1582725,
+     "lastPrice": 0.9721
     }
    ],
    "lastTrade": null
@@ -1647,21 +1669,6 @@
      "lastPrice": 46.445
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-spike80",
-   "name": "PRETEND - Short the +80% spiker",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9925.37,
-   "upDollars": -74.63,
-   "upPct": -0.7,
-   "trades": 18,
-   "winPct": 61,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
