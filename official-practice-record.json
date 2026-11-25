@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-25",
- "asOfAt": 1795631794735,
+ "asOfAt": 1795632697771,
  "sessionStatus": "in-progress",
- "publishedAt": 1795631794735,
+ "publishedAt": 1795632697771,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -48,9 +48,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 10180.08,
-   "upDollars": 180.08,
-   "upPct": 1.8,
+   "equity": 10245.76,
+   "upDollars": 245.76,
+   "upPct": 2.5,
    "trades": 18,
    "winPct": 61,
    "open": 2,
@@ -59,13 +59,13 @@
      "symbol": "BGLC (short)",
      "shares": -856,
      "entryPrice": 1.1582725,
-     "lastPrice": 1.11
+     "lastPrice": 1.075
     },
     {
      "symbol": "FCUV (short)",
      "shares": -152,
      "entryPrice": 6.543915500000001,
-     "lastPrice": 5.14
+     "lastPrice": 4.905
     }
    ],
    "lastTrade": null
