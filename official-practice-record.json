@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-27",
- "asOfAt": 1795790843822,
+ "asOfAt": 1795791746792,
  "sessionStatus": "in-progress",
- "publishedAt": 1795790843822,
+ "publishedAt": 1795791746792,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -1738,28 +1738,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "short-lane-spike80",
-   "name": "PRETEND - Short the +80% spiker",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9899.2,
-   "upDollars": -100.8,
-   "upPct": -1,
-   "trades": 20,
-   "winPct": 60,
-   "open": 1,
-   "positions": [
-    {
-     "symbol": "UFG (short)",
-     "shares": -347,
-     "entryPrice": 2.855364,
-     "lastPrice": 2.91
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-his-cross-9-two-bar-exit-2h",
    "name": "His: Rule 1 + two-bar exit (2-hour)",
    "kind": "official",
@@ -2029,6 +2007,34 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-spike80",
+   "name": "PRETEND - Short the +80% spiker",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9547.11,
+   "upDollars": -452.89,
+   "upPct": -4.5,
+   "trades": 20,
+   "winPct": 60,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "UFG (short)",
+     "shares": -347,
+     "entryPrice": 2.855364,
+     "lastPrice": 2.91
+    },
+    {
+     "symbol": "DCX (short)",
+     "shares": -979,
+     "entryPrice": 1.0103600000000001,
+     "lastPrice": 1.37
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-down-bubble-pmh",
    "name": "Down Bubble — premarket high",
    "kind": "official",
@@ -2147,8 +2153,8 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8822.92,
-   "upDollars": -1177.08,
+   "equity": 8815.02,
+   "upDollars": -1184.98,
    "upPct": -11.8,
    "trades": 51,
    "winPct": 57,
@@ -2158,7 +2164,7 @@
      "symbol": "BENF (short)",
      "shares": -790,
      "entryPrice": 1.118682,
-     "lastPrice": 1.15
+     "lastPrice": 1.16
     }
    ],
    "lastTrade": null
