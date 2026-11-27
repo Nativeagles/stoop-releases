@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-27",
- "asOfAt": 1795791746792,
+ "asOfAt": 1795792649728,
  "sessionStatus": "in-progress",
- "publishedAt": 1795791746792,
+ "publishedAt": 1795792649728,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -2012,9 +2012,9 @@
    "kind": "official",
    "startedOn": "2026-10-19",
    "startingCash": 10000,
-   "equity": 9547.11,
-   "upDollars": -452.89,
-   "upPct": -4.5,
+   "equity": 9478.58,
+   "upDollars": -521.42,
+   "upPct": -5.2,
    "trades": 20,
    "winPct": 60,
    "open": 2,
@@ -2029,7 +2029,7 @@
      "symbol": "DCX (short)",
      "shares": -979,
      "entryPrice": 1.0103600000000001,
-     "lastPrice": 1.37
+     "lastPrice": 1.44
     }
    ],
    "lastTrade": null
@@ -2153,18 +2153,24 @@
    "kind": "official",
    "startedOn": "2026-10-14",
    "startingCash": 10000,
-   "equity": 8815.02,
-   "upDollars": -1184.98,
-   "upPct": -11.8,
+   "equity": 8761.61,
+   "upDollars": -1238.39,
+   "upPct": -12.4,
    "trades": 51,
    "winPct": 57,
-   "open": 1,
+   "open": 2,
    "positions": [
     {
      "symbol": "BENF (short)",
      "shares": -790,
      "entryPrice": 1.118682,
-     "lastPrice": 1.16
+     "lastPrice": 1.18
+    },
+    {
+     "symbol": "DCX (short)",
+     "shares": -637,
+     "entryPrice": 1.38096,
+     "lastPrice": 1.44
     }
    ],
    "lastTrade": null
