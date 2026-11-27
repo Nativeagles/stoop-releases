@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-27",
- "asOfAt": 1795784098554,
+ "asOfAt": 1795785001483,
  "sessionStatus": "in-progress",
- "publishedAt": 1795784098554,
+ "publishedAt": 1795785001483,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -1314,6 +1314,28 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-spike80",
+   "name": "PRETEND - Short the +80% spiker",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9970.99,
+   "upDollars": -29.01,
+   "upPct": -0.3,
+   "trades": 20,
+   "winPct": 60,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "UFG (short)",
+     "shares": -347,
+     "entryPrice": 2.855364,
+     "lastPrice": 2.7031
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-his-cross-9-gate-20-2h",
    "name": "His: Rule 1 + 9-over-20 gate (2-hour)",
    "kind": "official",
@@ -1694,21 +1716,6 @@
      "lastPrice": 13.754999999999999
     }
    ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-spike80",
-   "name": "PRETEND - Short the +80% spiker",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9918.16,
-   "upDollars": -81.84,
-   "upPct": -0.8,
-   "trades": 20,
-   "winPct": 60,
-   "open": 0,
-   "positions": [],
    "lastTrade": null
   },
   {
