@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-27",
- "asOfAt": 1795792649728,
+ "asOfAt": 1795793552702,
  "sessionStatus": "in-progress",
- "publishedAt": 1795792649728,
+ "publishedAt": 1795793552702,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -1932,6 +1932,34 @@
    "lastTrade": null
   },
   {
+   "styleId": "short-lane-spike80",
+   "name": "PRETEND - Short the +80% spiker",
+   "kind": "official",
+   "startedOn": "2026-10-19",
+   "startingCash": 10000,
+   "equity": 9653.82,
+   "upDollars": -346.18,
+   "upPct": -3.5,
+   "trades": 20,
+   "winPct": 60,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "UFG (short)",
+     "shares": -347,
+     "entryPrice": 2.855364,
+     "lastPrice": 2.91
+    },
+    {
+     "symbol": "DCX (short)",
+     "shares": -979,
+     "entryPrice": 1.0103600000000001,
+     "lastPrice": 1.261
+    }
+   ],
+   "lastTrade": null
+  },
+  {
    "styleId": "auto-practice-his-quiet-pullback",
    "name": "His: Quiet pullback",
    "kind": "official",
@@ -2007,34 +2035,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "short-lane-spike80",
-   "name": "PRETEND - Short the +80% spiker",
-   "kind": "official",
-   "startedOn": "2026-10-19",
-   "startingCash": 10000,
-   "equity": 9478.58,
-   "upDollars": -521.42,
-   "upPct": -5.2,
-   "trades": 20,
-   "winPct": 60,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "UFG (short)",
-     "shares": -347,
-     "entryPrice": 2.855364,
-     "lastPrice": 2.91
-    },
-    {
-     "symbol": "DCX (short)",
-     "shares": -979,
-     "entryPrice": 1.0103600000000001,
-     "lastPrice": 1.44
-    }
-   ],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-down-bubble-pmh",
    "name": "Down Bubble — premarket high",
    "kind": "official",
@@ -2064,6 +2064,34 @@
    "winPct": 15,
    "open": 0,
    "positions": [],
+   "lastTrade": null
+  },
+  {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 8899.25,
+   "upDollars": -1100.75,
+   "upPct": -11,
+   "trades": 51,
+   "winPct": 57,
+   "open": 2,
+   "positions": [
+    {
+     "symbol": "BENF (short)",
+     "shares": -790,
+     "entryPrice": 1.118682,
+     "lastPrice": 1.1501
+    },
+    {
+     "symbol": "DCX (short)",
+     "shares": -637,
+     "entryPrice": 1.38096,
+     "lastPrice": 1.261
+    }
+   ],
    "lastTrade": null
   },
   {
@@ -2143,34 +2171,6 @@
      "shares": 6,
      "entryPrice": 129.78,
      "lastPrice": 129.885
-    }
-   ],
-   "lastTrade": null
-  },
-  {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 8761.61,
-   "upDollars": -1238.39,
-   "upPct": -12.4,
-   "trades": 51,
-   "winPct": 57,
-   "open": 2,
-   "positions": [
-    {
-     "symbol": "BENF (short)",
-     "shares": -790,
-     "entryPrice": 1.118682,
-     "lastPrice": 1.18
-    },
-    {
-     "symbol": "DCX (short)",
-     "shares": -637,
-     "entryPrice": 1.38096,
-     "lastPrice": 1.44
     }
    ],
    "lastTrade": null
