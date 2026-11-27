@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
  "asOfSession": "2026-11-27",
- "asOfAt": 1795789940924,
+ "asOfAt": 1795790843822,
  "sessionStatus": "in-progress",
- "publishedAt": 1795789940924,
+ "publishedAt": 1795790843822,
  "startingCash": 10000,
  "valuationNote": "Live practice books (pretend money), each lane from the date shown. Open positions use the latest saved practice price.",
  "rows": [
@@ -2061,21 +2061,6 @@
    "lastTrade": null
   },
   {
-   "styleId": "short-lane-rebreak3",
-   "name": "PRETEND - Short the third breakout",
-   "kind": "official",
-   "startedOn": "2026-10-14",
-   "startingCash": 10000,
-   "equity": 8847.66,
-   "upDollars": -1152.34,
-   "upPct": -11.5,
-   "trades": 51,
-   "winPct": 57,
-   "open": 0,
-   "positions": [],
-   "lastTrade": null
-  },
-  {
    "styleId": "auto-practice-takeoff-any-price",
    "name": "Takeoff - any price",
    "kind": "official",
@@ -2152,6 +2137,28 @@
      "shares": 6,
      "entryPrice": 129.78,
      "lastPrice": 129.885
+    }
+   ],
+   "lastTrade": null
+  },
+  {
+   "styleId": "short-lane-rebreak3",
+   "name": "PRETEND - Short the third breakout",
+   "kind": "official",
+   "startedOn": "2026-10-14",
+   "startingCash": 10000,
+   "equity": 8822.92,
+   "upDollars": -1177.08,
+   "upPct": -11.8,
+   "trades": 51,
+   "winPct": 57,
+   "open": 1,
+   "positions": [
+    {
+     "symbol": "BENF (short)",
+     "shares": -790,
+     "entryPrice": 1.118682,
+     "lastPrice": 1.15
     }
    ],
    "lastTrade": null
